@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://spain.jdvision.org/sitemap.xml
+Sitemap: https://spain.jdvision.org/image-sitemap.xml
