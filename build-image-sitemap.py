@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """Build image-sitemap.xml from live Spain scene records.
 
-Approved scenes only. ES-01-320 and above stay out (candidate set).
+Approved scenes only, including ES-01-320 and above.
 One <url> per scene: canonical page plus the copy-link fragment.
-One <image:image> per existing approved master (16:9, 4:5, 9:16)
-and per distinct daylight master the gallery serves.
+One <image:image> per existing canonical master (16:9, 4:5, and 9:16
+when that file exists). Daylight day-toggle PNGs are not listed.
 """
 
 from __future__ import annotations
@@ -18,14 +18,6 @@ ROOT = Path(__file__).resolve().parent
 ORIGIN = "https://spain.jdvision.org"
 SITEMAP_NS = "http://www.sitemaps.org/schemas/sitemap/0.9"
 IMAGE_NS = "http://www.google.com/schemas/sitemap-image/1.1"
-CANDIDATE_FROM = 320
-
-
-def entry_number(entry_id: str) -> int | None:
-    match = re.fullmatch(r"ES-01-(\d+)", entry_id)
-    if not match:
-        return None
-    return int(match.group(1))
 
 
 def site_name(caption: str, city: str, region: str) -> str:
@@ -71,24 +63,6 @@ def master_path(full: dict, fmt: str) -> str | None:
     return None
 
 
-def daylight_paths(slim: dict, full: dict) -> list[tuple[str, str]]:
-    """Gallery-served daylight masters. data.json paths match the day toggle."""
-    paths = {
-        "16x9": slim.get("daylight_16x9"),
-        "4x5": slim.get("daylight_4x5"),
-        "9x16": slim.get("daylight_9x16"),
-    }
-    variant = full.get("daylight_variant") or {}
-    masters = variant.get("masters") if isinstance(variant, dict) else None
-    if isinstance(masters, dict):
-        for fmt in ("16x9", "4x5", "9x16"):
-            block = masters.get(fmt)
-            path = block.get("path") if isinstance(block, dict) else None
-            if path and not paths.get(fmt):
-                paths[fmt] = path
-    return [(fmt, paths[fmt]) for fmt in ("16x9", "4x5", "9x16") if paths.get(fmt)]
-
-
 def existing(path: str | None) -> str | None:
     if not path:
         return None
@@ -97,7 +71,7 @@ def existing(path: str | None) -> str | None:
     return None
 
 
-def approved_images(slim: dict, full: dict) -> list[tuple[str, str]]:
+def approved_images(full: dict) -> list[tuple[str, str]]:
     images: list[tuple[str, str]] = []
     seen = set()
 
@@ -110,8 +84,6 @@ def approved_images(slim: dict, full: dict) -> list[tuple[str, str]]:
 
     for fmt in ("16x9", "4x5", "9x16"):
         add(fmt, master_path(full, fmt))
-    for fmt, path in daylight_paths(slim, full):
-        add("daylight-" + fmt, path)
     return images
 
 
@@ -129,9 +101,6 @@ def card_slice(html: str, entry_id: str) -> tuple[int, int]:
 def retarget_stale_masters(html: str, scenes: dict[str, dict], order: list[str]) -> tuple[str, list[str]]:
     notes = []
     for entry_id in order:
-        number = entry_number(entry_id)
-        if number is None or number >= CANDIDATE_FROM:
-            continue
         full = scenes[entry_id]["full"]
         article_start, article_end = card_slice(html, entry_id)
         article = html[article_start:article_end]
@@ -195,31 +164,22 @@ def build_sitemap(scenes: dict[str, dict], order: list[str]) -> tuple[ET.Element
     urlset = ET.Element(f"{{{SITEMAP_NS}}}urlset")
     stats = {
         "scenes": 0,
-        "excluded_candidates": 0,
         "formats": {},
         "missing_masters": [],
         "internal_editorial": [],
-        "daylight_without_variant_record": [],
     }
     for entry_id in order:
-        number = entry_number(entry_id)
         full = scenes[entry_id]["full"]
-        slim = scenes[entry_id]["slim"]
         state = (full.get("approval_state") or "").strip().lower()
-        if number is not None and number >= CANDIDATE_FROM:
-            stats["excluded_candidates"] += 1
-            continue
         if state != "approved":
             stats.setdefault("skipped_not_approved", []).append(entry_id)
             continue
-        images = approved_images(slim, full)
+        images = approved_images(full)
         if not images:
             stats["missing_masters"].append(entry_id)
             continue
         if "internal editorial" in (full.get("status") or "").lower():
             stats["internal_editorial"].append(entry_id)
-        if slim.get("daylight_16x9") and not full.get("daylight_variant"):
-            stats["daylight_without_variant_record"].append(entry_id)
         url = ET.SubElement(urlset, f"{{{SITEMAP_NS}}}url")
         loc = ET.SubElement(url, f"{{{SITEMAP_NS}}}loc")
         loc.text = f"{ORIGIN}/#{entry_id}"
