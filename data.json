@@ -924,7 +924,9 @@
       "approval_basis": "Cosmo five-gate audit 2026-09-23: visual/location inspected; SHA-256 + exact 1920x1080/864x1080 verified; provenance documented; Gate 4 documentation-only; publication readiness passed.",
       "daylight_16x9": "es-01-026-daylight-16x9.png",
       "daylight_4x5": "es-01-026-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "audio": "audio/es-01-026-narration.mp3",
+      "description": "Single tall Gothic tower on viewer right; Low three-bay pointed porch with small upper central traceried window; Flat broad stone plaza and flanking historic buildings."
     },
     {
       "entry_id": "ES-01-027",
@@ -940,7 +942,9 @@
       "approval_basis": "Five-gate audit passed. Gate 1: twin-tower neo-Romanesque façade with pyramid spires, clock faces, pink limestone, and mountain backdrop recognizably depict the Basílica de Santa María la Real de Covadonga from the public esplanade; clean framing, no misconfiguration or artifacts. Gate 2: both masters at exact 1920×1080/864×1080 with packet-matching SHA-256; exact caption, scenario timestamp, disclosure, and 'Jason D’s Vision' signature verified on the master. Gate 3: packet documents built-in text-only generation lineage with no photographic inputs; night lighting disclosed as historical precedent only, not tonight's schedule. Gate 4: no visible people, logos, or recognizable private property — documentation only; final commercial call is Jason's. Gate 5: publication-ready.",
       "daylight_16x9": "es-01-027-daylight-16x9.png",
       "daylight_4x5": "es-01-027-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "audio": "audio/es-01-027-narration.mp3",
+      "description": "Twin square pink-limestone bell towers with pointed pyramid roofs; Lower central Romanesque gable and round arches; Stone esplanade and steep wooded mountain backdrop."
     },
     {
       "entry_id": "ES-01-028",
@@ -956,7 +960,9 @@
       "approval_basis": "Five-gate audit passed. Gate 1: dark night long-exposure interpretation of Lago Enol — rocky/grassy north-shore foreground, compact lake basin flanked by rounded limestone-and-grass ridges with a low saddle, no invented jagged peaks, snow, cabins, or lamps; recognizably the site from a plausible shore viewpoint. Gate 2: both masters at exact 1920×1080/864×1080 with packet-matching SHA-256; exact caption, scenario timestamp, disclosure, and 'Jason D’s Vision' signature verified on the master. Gate 3: packet documents built-in text-only generation lineage with no photographic inputs; restrained ambient light disclosed as artistic interpretation, not measured luminance. Gate 4: no visible people, logos, or recognizable private property — documentation only; final commercial call is Jason's. Gate 5: publication-ready.",
       "daylight_16x9": "es-01-028-daylight-16x9.png",
       "daylight_4x5": "es-01-028-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "audio": "audio/es-01-028-narration.mp3",
+      "description": "Low rocky and grassy lake shore in foreground; Compact lake basin flanked by rounded limestone and grass slopes; Saddle between lower ridges, without jagged high alpine peaks."
     },
     {
       "entry_id": "ES-01-029",
@@ -972,7 +978,9 @@
       "approval_basis": "Five-gate audit passed. Gate 1: San Pedro church with its single square sandy-stone belfry and pointed tile roof stands on the stone seawall at the western beach end, town buildings behind left, Cantabrian surf breaking right; recognizably the real landmark from the El Muro promenade viewpoint. The packet's residual deviations (main window slightly pointed, side-aisle treatment differing from reference) assessed as acceptable ornament-level differences, not misconfiguration. Gate 2: both masters at exact 1920×1080/864×1080 with packet-matching SHA-256; exact caption, scenario timestamp, disclosure, and 'Jason D’s Vision' signature verified on the master. Gate 3: packet documents own text-only r2 source edited to r3, no third-party image pixels; tide depicted is compositional (disclosed) and lighting precedent historical only. Gate 4: no visible people, logos, or recognizable private property — documentation only; final commercial call is Jason's. Gate 5: publication-ready.",
       "daylight_16x9": "es-01-029-daylight-16x9.png",
       "daylight_4x5": "es-01-029-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "audio": "audio/es-01-029-narration.mp3",
+      "description": "San Pedro church with one square belfry and pointed tile roof; Church stands on stone seawall at western beach end, town behind left; Cantabrian water and shallow breaking surf on right with sandy foreground."
     },
     {
       "entry_id": "ES-01-030",
@@ -988,7 +996,9 @@
       "approval_basis": "Gate 1: recognizably La Seu — long Gothic south wall with repeated buttresses and pinnacles, large eastern rose window right, raised city wall, palms, and Parc de la Mar reflecting pool from the documented public promenade viewpoint; clean framing, no artifacts. Gate 2: masters byte-verified at 1920x1080 and 864x1080 with SHA-256 matching the review packet; exact 'Jason Ds Vision' signature bottom-right and exact caption, scenario timestamp, and AI disclosure bottom-left on a gradient scrim, legible. Gate 3: provenance documents text-only original generation with no photographic inputs (image_inputs empty; reference photos inspected for facts only). Gate 4: no visible people, logos, or recognizable private property — documented only, commercial call is Jason's. Gate 5: no blockers. Night illumination noted as precedent-based per the packet's honest limitations disclosure.",
       "daylight_16x9": "es-01-030-daylight-16x9.png",
       "daylight_4x5": "es-01-030-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "audio": "audio/es-01-030-narration.mp3",
+      "description": "Long honey-stone Gothic south wall with repeated tall buttresses and pinnacles; Large eastern rose window and layered flying-buttress geometry toward viewer right; Raised city wall and palms above the Parc de la Mar reflecting pool."
     },
     {
       "entry_id": "ES-01-031",
@@ -1004,7 +1014,9 @@
       "approval_basis": "Gate 1: recognizably Cartoixa de Valldemossa — the monastery mass with its green-spired tower rising above the village rooftops against the Tramuntana mountain backdrop from the documented overlook viewpoint; clean framing, no artifacts. Gate 2: masters byte-verified at 1920x1080 and 864x1080 with SHA-256 matching the review packet; exact 'Jason Ds Vision' signature bottom-right and exact caption, scenario timestamp, and AI disclosure bottom-left on a gradient scrim, legible. Gate 3: provenance documents text-only original generation with no photographic inputs (image_inputs empty; reference photos inspected for facts only). Gate 4: no visible people, logos, or recognizable private property — documented only, commercial call is Jason's. Gate 5: no blockers. Night lighting noted as precedent-based per the packet's honest limitations disclosure.",
       "daylight_16x9": "es-01-031-daylight-16x9.png",
       "daylight_4x5": "es-01-031-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "audio": "audio/es-01-031-narration.mp3",
+      "description": "Dense ochre-grey stone village houses with irregular terracotta roofs stepping uphill; Cartoixa church complex rising above the roofs with a single green-glazed Baroque bell tower; Dark wooded Serra de Tramuntana slopes enclosing the village."
     },
     {
       "entry_id": "ES-01-032",
@@ -1020,7 +1032,9 @@
       "approval_basis": "Gate 1: recognizably Torrent de Pareis at Sa Calobra — the narrow gorge mouth with sheer limestone walls opening onto the public pebble beach, viewed inland from the documented beach viewpoint; restrained night treatment with no invented lights, people, or boats; clean framing, no artifacts. Gate 2: masters byte-verified at 1920x1080 and 864x1080 with SHA-256 matching the review packet; exact 'Jason Ds Vision' signature bottom-right and exact caption, scenario timestamp, and AI disclosure bottom-left on a gradient scrim, legible. Gate 3: provenance documents text-only original generation with no photographic inputs (image_inputs empty; reference photos inspected for facts only). Gate 4: natural landscape — no people, logos, or recognizable private property — documented only, commercial call is Jason's. Gate 5: no blockers. Noted as an artistic long-exposure interpretation per the packet's honest disclosure, not a claim of nighttime access.",
       "daylight_16x9": "es-01-032-daylight-16x9.png",
       "daylight_4x5": "es-01-032-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "audio": "audio/es-01-032-narration.mp3",
+      "description": "Pale rounded pebble-and-gravel beach foreground; Two sheer orange-grey limestone walls narrowing sharply inland; Sparse scrub clinging to fractured rock with a dark channel floor between cliffs."
     },
     {
       "entry_id": "ES-01-033",
@@ -1036,7 +1050,9 @@
       "approval_basis": "Gate 1: recognizably Deià at night — ochre limestone houses stepping up terraced hillside, Sant Joan Baptista church and bell tower crowning the settlement, Serra de Tramuntana rock enclosing it, matching the documented Ma-10 overlook composition. Gate 2: masters byte-verified 1920x1080 + 864x1080, SHA-256 matching review packet; exact caption/scenario/AI-disclosure/signature on gradient scrim, legible. Gate 3: text-prompt-only lineage, built-in generation, Lanczos resampling disclosed, no photographic inputs. Gate 4: no people/logos/artwork as focal subjects — notes only, commercial call is Jason's. Gate 5: no blockers. Night illumination is an artistic long-exposure interpretation per packet disclosure.",
       "daylight_16x9": "es-01-033-daylight-16x9.png",
       "daylight_4x5": "es-01-033-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "audio": "audio/es-01-033-narration.mp3",
+      "description": "Ochre limestone houses stepping up a steep terraced hillside; Sant Joan Baptista church and bell tower crowning the village; Dark Serra de Tramuntana rock and olive terraces enclosing the settlement."
     },
     {
       "entry_id": "ES-01-034",
@@ -1052,7 +1068,9 @@
       "approval_basis": "Gate 1: recognizably Ciutadella's Plaça d'es Born at night — obelisk monument centered before the crenellated town-hall façade with clock, flanking palms, arcaded palaces left/right, wet reflective paving; obelisk is the documented anchor of this square. Gate 2: masters byte-verified 1920x1080 + 864x1080, SHA-256 matching packet; exact caption/scenario/disclosure/signature on gradient scrim, legible. Gate 3: text-prompt-only lineage, built-in generation, Lanczos resampling disclosed, no photographic inputs. Gate 4: no people/logos/artwork as focal subjects — notes only, commercial call is Jason's. Gate 5: no blockers. Night illumination is an artistic long-exposure interpretation per packet disclosure.",
       "daylight_16x9": "es-01-034-daylight-16x9.png",
       "daylight_4x5": "es-01-034-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "audio": "audio/es-01-034-narration.mp3",
+      "description": "Long paved Plaça des Born with its slender nineteenth-century obelisk; Sandstone town hall/former royal fortress closing the western square edge; Warm ochre stately façades and narrow old-town streets beyond."
     },
     {
       "entry_id": "ES-01-035",
@@ -1068,7 +1086,9 @@
       "approval_basis": "Gate 1: recognizably the Naveta des Tudons — correct overturned-boat form, cyclopean dry-stone coursing, small dark doorway on the front face, scrubby Menorcan plain with dry-stone walls behind; boat silhouette and masonry are the definitive anchors. Gate 2: masters byte-verified 1920x1080 + 864x1080, SHA-256 matching packet; exact caption/scenario/disclosure/signature on gradient scrim, legible. Gate 3: text-prompt-only lineage, built-in generation, Lanczos resampling disclosed, no photographic inputs. Gate 4: no people/logos/artwork — notes only, commercial call is Jason's. Gate 5: no blockers. Night illumination is an artistic long-exposure interpretation per packet disclosure.",
       "daylight_16x9": "es-01-035-daylight-16x9.png",
       "daylight_4x5": "es-01-035-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "audio": "audio/es-01-035-narration.mp3",
+      "description": "Single compact inverted-boat funerary monument of massive dry-laid limestone blocks; Small low rectangular entrance in the flat end wall; Open dry Menorcan field with low scrub and a simple visitor path."
     },
     {
       "entry_id": "ES-01-036",
@@ -1084,7 +1104,9 @@
       "approval_basis": "Gate 1: recognizably Dalt Vila, Eivissa from the harbour at night — floodlit Renaissance bastions and walls, whitewashed houses stepping up, cathedral bell tower crowning, yacht masts and palm-lined quay in the foreground, water reflections; wall-to-cathedral arrangement matches the documented harbour-front view. Gate 2: masters byte-verified 1920x1080 + 864x1080, SHA-256 matching packet; exact caption/scenario/disclosure/signature on gradient scrim, legible. Gate 3: text-prompt-only lineage, built-in generation, Lanczos resampling disclosed, no photographic inputs. Gate 4: no people/logos/artwork as focal subjects — notes only, commercial call is Jason's. Gate 5: no blockers. Night illumination is an artistic long-exposure interpretation per packet disclosure.",
       "daylight_16x9": "es-01-036-daylight-16x9.png",
       "daylight_4x5": "es-01-036-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "audio": "audio/es-01-036-narration.mp3",
+      "description": "Massive angular Renaissance bastions climbing the hill above the harbour; Dense whitewashed lower old-town buildings beneath the walls; Cathedral and bell-tower silhouette crowning the ridge."
     },
     {
       "entry_id": "ES-01-037",
@@ -1100,7 +1122,9 @@
       "approval_basis": "Gate 1: recognizably Es Vedrà at night — limestone sea-stack with Es Vedranell to its left, viewed from Ibiza's west coast across calm dark water, rocky foreshore; stack-and-satellite composition matches the iconic viewpoint. Gate 2: masters byte-verified 1920x1080 + 864x1080, SHA-256 matching packet; exact caption/scenario/disclosure/signature on gradient scrim, legible. Gate 3: text-prompt-only lineage, built-in generation, Lanczos resampling disclosed, no photographic inputs. Gate 4: no people/logos/artwork — notes only, commercial call is Jason's. Gate 5: no blockers. Night illumination is an artistic long-exposure interpretation per packet disclosure.",
       "daylight_16x9": "es-01-037-daylight-16x9.png",
       "daylight_4x5": "es-01-037-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "audio": "audio/es-01-037-narration.mp3",
+      "description": "Steep asymmetric pyramidal limestone mass of Es Vedrà rising directly from the sea; Smaller lower Es Vedranell companion islet nearby; Dark pebbly-sandy Cala d'Hort foreground and calm sea channel."
     },
     {
       "entry_id": "ES-01-038",
@@ -1116,7 +1140,9 @@
       "approval_basis": "Gate 1: recognizably Ses Illetes, Formentera — white-sand spit curving into turquoise shallows, dune grass and rope fence, low islets on the horizon toward the Ses Illetes–Espalmador strait. Gate 2: masters byte-verified 1920x1080 + 864x1080, SHA-256 matching packet; exact caption/scenario/disclosure/signature on gradient scrim, legible. Gate 3: text-prompt-only lineage, built-in generation, Lanczos resampling disclosed, no photographic inputs. Gate 4: no people/logos/artwork — notes only, commercial call is Jason's. Gate 5: no blockers. r2 revision removed inaccurate stars — verified: night sky is clean. Night illumination is an artistic long-exposure interpretation per packet disclosure.",
       "daylight_16x9": "es-01-038-daylight-16x9.png",
       "daylight_4x5": "es-01-038-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "audio": "audio/es-01-038-narration.mp3",
+      "description": "Long narrow pale-sand strand with calm shallow turquoise-to-navy water; Low dunes with sparse grasses and a simple protected-access rope/boardwalk edge; Small offshore islets aligned near the northern horizon."
     },
     {
       "entry_id": "ES-01-200",
@@ -3860,7 +3886,9 @@
       "approval_basis": "Five-gate audit passed: Gate 1 visual/location — the walled Hondarribia old town with the castle of Charles V above and Txingudi bay below is recognizably depicted from a plausible waterfront viewpoint, clean framing, no artifacts; Gate 2 technical — both masters at exact 1920x1080 and 864x1080 with SHA-256 matching the review packet, exact 'Jason D's Vision' signature, caption, scenario timestamp and AI disclosure all present and legible; Gate 3 provenance — review packet documents built-in text-only generation with no photographic inputs; Gate 4 IP — no visible people, logos, or recognizable private property, documented only; Gate 5 — no open blockers. Scenario label is a modelled night scenario, not a verified capture.",
       "daylight_16x9": "es-01-039-daylight-16x9.png",
       "daylight_4x5": "es-01-039-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "audio": "audio/es-01-039-narration.mp3",
+      "description": "Hondarribia's walled old town keeps its great Basque houses with carved eaves, the castle of Charles V above, and the Txingudi bay below. A partly cloudy night over the town. France lies just across the Bidasoa."
     },
     {
       "entry_id": "ES-01-040",
@@ -3876,7 +3904,9 @@
       "approval_basis": "Five-gate audit passed: Gate 1 visual/location — the San Miguel castle on the Garachico shoreline, the old-town bell tower, and the lit historic street with the offshore rock islet are recognizably depicted from a plausible tourist viewpoint, clean framing, no artifacts; Gate 2 technical — both masters at exact 1920x1080 and 864x1080 with SHA-256 matching the review packet, exact 'Jason D's Vision' signature, caption, scenario timestamp and AI disclosure all present and legible; Gate 3 provenance — review packet documents built-in text-only generation with no photographic inputs; Gate 4 IP — no visible people, logos, or recognizable private property, documented only; Gate 5 — no open blockers. Scenario label is a modelled night scenario, not a verified capture.",
       "daylight_16x9": "es-01-040-daylight-16x9.png",
       "daylight_4x5": "es-01-040-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "audio": "audio/es-01-040-narration.mp3",
+      "description": "Garachico — the old port buried by the 1706 eruption — keeps its old town, the San Miguel castle, and the lava pools of El Caletón. A partly cloudy night over the town. The Roque de Garachico stands offshore."
     },
     {
       "entry_id": "ES-01-041",
@@ -3892,7 +3922,9 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor E: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/E/ES-01-041.md. r2 rebuild (legible-text defect fixed).",
       "daylight_16x9": "es-01-041-daylight-16x9.png",
       "daylight_4x5": "es-01-041-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "audio": "audio/es-01-041-narration.mp3",
+      "description": "San Cristóbal de La Laguna — the first unfortified colonial city, model for the Americas — keeps its grid of great houses and churches, a UNESCO World Heritage. A partly cloudy night over the town. The cathedral of Los Remedios anchors the old town."
     },
     {
       "entry_id": "ES-01-042",
@@ -3908,7 +3940,9 @@
       "approval_basis": "Five-gate audit passed: Gate 1 visual/location — the Maspalomas lighthouse beside moonlit dune ridges meeting the ocean is recognizably depicted from a plausible elevated tourist viewpoint, clean framing, no artifacts; Gate 2 technical — both masters at exact 1920x1080 and 864x1080 with SHA-256 matching the review packet, exact 'Jason D's Vision' signature, caption, scenario timestamp and AI disclosure all present and legible; Gate 3 provenance — review packet documents built-in text-only generation with no photographic inputs; Gate 4 IP — no visible people, logos, or recognizable private property, documented only; Gate 5 — no open blockers. Scenario label is a modelled night scenario, not a verified capture.",
       "daylight_16x9": "es-01-042-daylight-16x9.png",
       "daylight_4x5": "es-01-042-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "audio": "audio/es-01-042-narration.mp3",
+      "description": "The Maspalomas dunes spread their golden ridges to the sea — a desert by the Atlantic, protected as a natural reserve. A clear night over the town. The old lighthouse stands at the dune field's edge."
     },
     {
       "entry_id": "ES-01-043",
@@ -3924,7 +3958,9 @@
       "approval_basis": "Five-gate audit passed: Gate 1 visual/location — the Teror basilica facade with its stone bell tower, flanked by historic houses with traditional Canarian wooden balconies and a mountain backdrop, is recognizably depicted from a plausible tourist viewpoint, clean framing, no artifacts; Gate 2 technical — both masters at exact 1920x1080 and 864x1080 with SHA-256 matching the review packet, exact 'Jason D's Vision' signature, caption, scenario timestamp and AI disclosure all present and legible; Gate 3 provenance — review packet documents built-in text-only generation with no photographic inputs; Gate 4 IP — no visible people, logos, or recognizable private property, documented only; Gate 5 — no open blockers. Scenario label is a modelled night scenario, not a verified capture.",
       "daylight_16x9": "es-01-043-daylight-16x9.png",
       "daylight_4x5": "es-01-043-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "audio": "audio/es-01-043-narration.mp3",
+      "description": "Teror keeps its old town around the basilica of the Virgen del Pino — Gran Canaria's patron — with famous Canarian balconies. A mostly clear night over the town. The Sunday market fills the historic center."
     },
     {
       "entry_id": "ES-01-044",
@@ -3940,7 +3976,9 @@
       "approval_basis": "Five-gate audit passed: Gate 1 visual/location — the El Golfo green lagoon inside the volcanic crater with black sand and the ocean beyond is recognizably depicted from a plausible clifftop tourist viewpoint, clean framing, no artifacts; Gate 2 technical — both masters at exact 1920x1080 and 864x1080 with SHA-256 matching the review packet, exact 'Jason D's Vision' signature, caption, scenario timestamp and AI disclosure all present and legible; Gate 3 provenance — review packet documents built-in text-only generation with no photographic inputs; Gate 4 IP — no visible people, logos, or recognizable private property, documented only; Gate 5 — no open blockers. Scenario label is a modelled night scenario, not a verified capture.",
       "daylight_16x9": "es-01-044-daylight-16x9.png",
       "daylight_4x5": "es-01-044-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "audio": "audio/es-01-044-narration.mp3",
+      "description": "El Golfo hides its green lagoon in a volcanic crater by the sea — the Charco de los Clicos, green against the black beach. A clear night over the town. The crater walls open to the Atlantic."
     },
     {
       "entry_id": "ES-01-045",
@@ -3956,7 +3994,9 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor E: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/E/ES-01-045.md. r1.",
       "daylight_16x9": "es-01-045-daylight-16x9.png",
       "daylight_4x5": "es-01-045-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "audio": "audio/es-01-045-narration.mp3",
+      "description": "Castro Urdiales keeps its Gothic church of Santa María and castle-lighthouse on the headland over the fishing port — Flavióbriga of the Romans. An overcast night over the town. The old town climbs between church and sea."
     },
     {
       "entry_id": "ES-01-046",
@@ -3972,7 +4012,9 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor E: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/E/ES-01-046.md. r1.",
       "daylight_16x9": "es-01-046-daylight-16x9.png",
       "daylight_4x5": "es-01-046-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "audio": "audio/es-01-046-narration.mp3",
+      "description": "In the lanes of Santillana del Mar, honey-colored stone houses with wooden balconies line the cobbled street, the Collegiate Church of Santa Juliana rising above the rooftops. An overcast night over the town. The town keeps its medieval silhouette whole, and the plaza feels untouched by haste."
     },
     {
       "entry_id": "ES-01-047",
@@ -3988,7 +4030,9 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor E: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/E/ES-01-047.md. r1.",
       "daylight_16x9": "es-01-047-daylight-16x9.png",
       "daylight_4x5": "es-01-047-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "audio": "audio/es-01-047-narration.mp3",
+      "description": "The Museo de Altamira sits low against the green hillside near Santillana del Mar, its stone-and-glass frontage marking the entrance to the celebrated replica cave. An overcast night over the town. Behind it rises the hill that holds the original Paleolithic cave, closed to protect its paintings."
     },
     {
       "entry_id": "ES-01-048",
@@ -4004,7 +4048,9 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor E: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/E/ES-01-048.md. r1.",
       "daylight_16x9": "es-01-048-daylight-16x9.png",
       "daylight_4x5": "es-01-048-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "audio": "audio/es-01-048-narration.mp3",
+      "description": "From the clifftop path, Playa de Langre curves below between green headlands, its sand split by a rocky outcrop into two coves. An overcast night over the town. Cantabrian surf rolls in steadily, and the cliffs frame the beach like a natural amphitheatre."
     },
     {
       "entry_id": "ES-01-049",
@@ -4020,7 +4066,9 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor E: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/E/ES-01-049.md. r1.",
       "daylight_16x9": "es-01-049-daylight-16x9.png",
       "daylight_4x5": "es-01-049-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "audio": "audio/es-01-049-narration.mp3",
+      "description": "In Castro Urdiales, the Gothic church of Santa María de la Asunción rises directly over the fishing harbor, its stone mass anchoring the waterfront. An overcast night over the town. Colorful boats crowd the quay below, and the old town climbs the hillside behind."
     },
     {
       "entry_id": "ES-01-050",
@@ -4036,7 +4084,9 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor E: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/E/ES-01-050.md. r1.",
       "daylight_16x9": "es-01-050-daylight-16x9.png",
       "daylight_4x5": "es-01-050-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "audio": "audio/es-01-050-narration.mp3",
+      "description": "Inside El Soplao, the visitor walkway threads between extraordinary geological formations — eccentric stalactites glowing under the cave's guided lighting. A clear night over the town. The cavern feels otherworldly, a forest of stone grown over millennia."
     },
     {
       "entry_id": "ES-01-051",
