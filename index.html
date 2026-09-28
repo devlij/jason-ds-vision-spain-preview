@@ -797,7 +797,7 @@
   var narrEl=null, curNarrSrc=''; /* Section 21: studio narration — current card audio src */
   var NARR_MAP=null;
   function narrMap(){ if(!NARR_MAP){ try{ var el=document.getElementById('narr-manifest'); NARR_MAP=el?JSON.parse(el.textContent):{}; }catch(e){ NARR_MAP={}; } } return NARR_MAP; } /* lightbox-session day/night: seeded from the opening card's active day tab; persists across prev/next and slideshow navigation */ /* lightbox-session format: seeded from the opening card's active tab; persists across prev/next + slideshow, never reset to 16:9 */
-  var SLIDE_MS=6000; /* slideshow advance interval */
+  var SLIDE_MS=4000; /* slideshow advance interval */
   function visibleCards(){
     return Array.prototype.filter.call(document.querySelectorAll('article.card'), function(a){
       return !a.hidden && a.style.display !== 'none' && a.offsetParent !== null;
