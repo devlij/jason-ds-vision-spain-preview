@@ -34,13 +34,13 @@
   "dimensions": {
     "16x9": {
       "width": 1920,
-      "height": 1080,
-      "sha256": "0a4d417d955bcdfb3a0c458000e7e409f5d76bd5c3750d7b42b6851cf246a0a9"
+      "height": 1270,
+      "sha256": "d754c3b834545a4a137f95eff24b0c8a6d8c9ad84d8b8f94a34c342994c5b2f5"
     },
     "4x5": {
       "width": 864,
-      "height": 1080,
-      "sha256": "f303a550233bfdee239fe6ba7d8c4b4e79d6f5839184be5941e4e68e2799904c"
+      "height": 1270,
+      "sha256": "e7dbe0296d01e348a167db3f8f980f000f609c10e384add7c0616fdf9172cf0c"
     }
   },
   "masters": {
@@ -48,10 +48,10 @@
       "file": "es-01-287-r2-16x9.png",
       "dimensions": [
         1920,
-        1080
+        1270
       ],
-      "byte_length": 2498226,
-      "sha256": "0a4d417d955bcdfb3a0c458000e7e409f5d76bd5c3750d7b42b6851cf246a0a9",
+      "byte_length": 2502993,
+      "sha256": "d754c3b834545a4a137f95eff24b0c8a6d8c9ad84d8b8f94a34c342994c5b2f5",
       "source_file": "media-generation-src-es-01-287b-0-15b4e9c4-968c-4ca9-94da-40054c7a297a.png",
       "source_dimensions": [
         1920,
@@ -75,10 +75,10 @@
       "file": "es-01-287-r2-4x5.png",
       "dimensions": [
         864,
-        1080
+        1270
       ],
-      "byte_length": 1294936,
-      "sha256": "f303a550233bfdee239fe6ba7d8c4b4e79d6f5839184be5941e4e68e2799904c",
+      "byte_length": 1301704,
+      "sha256": "e7dbe0296d01e348a167db3f8f980f000f609c10e384add7c0616fdf9172cf0c",
       "source_file": "media-generation-src-es-01-287b-0-15b4e9c4-968c-4ca9-94da-40054c7a297a.png",
       "source_dimensions": [
         1920,
@@ -150,32 +150,31 @@
   "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
   "reference_evidence": [],
   "approval_basis": "Night Timanfaya (r2): rust-red cinder cones rising over a black lava field, volcanic slopes fading under a starry sky; on-image text verified: caption 'Timanfaya, Lanzarote', scenario '24 September 2026 · 01:14 Europe/Madrid', disclosure 'AI-generated artistic interpretation · Not a photograph.', exact 'Jason D's Vision' signature bottom-right; SHA-256 + 1920×1080/864×1080 match packet; Open-Meteo weather retrieved 2026-09-24T01:00+02:00 consistent with scenario hour; packet documents text-only generation, no photographic inputs; no people or logos; Timanfaya closes at dusk so the scene is acknowledged in the packet as an artistic interpretation of restricted-access terrain, not a claim of presence (documented only).",
-  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals)."
-,
+  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals).",
   "daylight_variant": {
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
         "path": "es-01-287-r2-16x9.png",
-        "sha256": "0a4d417d955bcdfb3a0c458000e7e409f5d76bd5c3750d7b42b6851cf246a0a9"
+        "sha256": "d754c3b834545a4a137f95eff24b0c8a6d8c9ad84d8b8f94a34c342994c5b2f5"
       },
       "4x5": {
         "path": "es-01-287-r2-4x5.png",
-        "sha256": "f303a550233bfdee239fe6ba7d8c4b4e79d6f5839184be5941e4e68e2799904c"
+        "sha256": "e7dbe0296d01e348a167db3f8f980f000f609c10e384add7c0616fdf9172cf0c"
       }
     },
     "masters": {
       "16x9": {
         "path": "es-01-287-daylight-16x9.png",
         "width": 1920,
-        "height": 1080,
-        "sha256": "726461ce48de692e9970cabbce310e62393a659a20b616d6f4eff0cb1facad09"
+        "height": 1270,
+        "sha256": "f804c4772a38ae7b90c46cf8abd53260e0f824c63ac3cc3b2346b7198d49aac4"
       },
       "4x5": {
         "path": "es-01-287-daylight-4x5.png",
         "width": 864,
-        "height": 1080,
-        "sha256": "9ab07abb897a96dc27cb436e371661b20996eedae4c08c6287a28520ca7e1c5c"
+        "height": 1270,
+        "sha256": "04eddd961f2612f39cbcee45cfc504a2e9b4f750c5e539c02ca24b8dd87c29d1"
       }
     },
     "on_image_text": [

@@ -34,13 +34,13 @@
   "dimensions": {
     "16x9": {
       "width": 1920,
-      "height": 1080,
-      "sha256": "3c87a41706d8737ada67dac73e61bb2c56e46a9a7b7ba7440ebd762e0540687b"
+      "height": 1270,
+      "sha256": "01626c6f01988dd5a5293ca813e59cd024c607ad68db26759e44d3e2906bd2eb"
     },
     "4x5": {
       "width": 864,
-      "height": 1080,
-      "sha256": "4501bb18b55230ea585eb05914f5b3ef1971613a1c25fc295501da8179205550"
+      "height": 1270,
+      "sha256": "d9b5df2d9072cb9c603f97c5d6ea19d3f8daddb5d53a1701b9e904c23bd83aa5"
     }
   },
   "masters": {
@@ -48,10 +48,10 @@
       "file": "es-01-276-r1-16x9.png",
       "dimensions": [
         1920,
-        1080
+        1270
       ],
-      "byte_length": 2207634,
-      "sha256": "3c87a41706d8737ada67dac73e61bb2c56e46a9a7b7ba7440ebd762e0540687b",
+      "byte_length": 2207481,
+      "sha256": "01626c6f01988dd5a5293ca813e59cd024c607ad68db26759e44d3e2906bd2eb",
       "source_file": "source-276.png",
       "source_dimensions": [
         1408,
@@ -75,10 +75,10 @@
       "file": "es-01-276-r1-4x5.png",
       "dimensions": [
         864,
-        1080
+        1270
       ],
-      "byte_length": 1160440,
-      "sha256": "4501bb18b55230ea585eb05914f5b3ef1971613a1c25fc295501da8179205550",
+      "byte_length": 1168791,
+      "sha256": "d9b5df2d9072cb9c603f97c5d6ea19d3f8daddb5d53a1701b9e904c23bd83aa5",
       "source_file": "source-276.png",
       "source_dimensions": [
         1408,
@@ -155,32 +155,31 @@
   "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
   "reference_evidence": [],
   "approval_basis": "Gate 1: the 16:9 master shows Altea's old town climbing the hill at night with the iconic blue-and-white tiled dome of the Iglesia de Nuestra Señora del Consuelo floodlit above the whitewashed houses — instantly recognizable as Altea. Gate 2: masters 1920×1080/864×1080 with SHA-256 matching the packet; on-image caption 'Old town, Altea', scenario '24 September 2026 · 01:33 Europe/Madrid', and 'AI-generated artistic interpretation · Not a photograph.' disclosure legible bottom-left; 'Jason D's Vision' with curly apostrophe bottom-right; Open-Meteo weather retrieved 2026-09-24T01:12:51+02:00, valid 01:30, consistent with the 01:33 scenario. Gate 3: provenance documents text-only original generation, image_inputs empty, no photographic inputs. Gate 4: no visible people, logos, or recognizable private property. Gate 5: no open blockers.",
-  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals)."
-,
+  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals).",
   "daylight_variant": {
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
         "path": "es-01-276-r1-16x9.png",
-        "sha256": "3c87a41706d8737ada67dac73e61bb2c56e46a9a7b7ba7440ebd762e0540687b"
+        "sha256": "01626c6f01988dd5a5293ca813e59cd024c607ad68db26759e44d3e2906bd2eb"
       },
       "4x5": {
         "path": "es-01-276-r1-4x5.png",
-        "sha256": "4501bb18b55230ea585eb05914f5b3ef1971613a1c25fc295501da8179205550"
+        "sha256": "d9b5df2d9072cb9c603f97c5d6ea19d3f8daddb5d53a1701b9e904c23bd83aa5"
       }
     },
     "masters": {
       "16x9": {
         "path": "es-01-276-daylight-16x9.png",
         "width": 1920,
-        "height": 1080,
-        "sha256": "419579ebdbb7f89402c190ff29cd2d2665cefb48e61421f87b70351f6b3e318f"
+        "height": 1270,
+        "sha256": "037a5d9efe185c0790558664a9572733357da639430d05c76a28eb3f594cecc6"
       },
       "4x5": {
         "path": "es-01-276-daylight-4x5.png",
         "width": 864,
-        "height": 1080,
-        "sha256": "6049f78bf23477469dd6414e35e798cbb6e976d52776d56ab11fa6142aee1395"
+        "height": 1270,
+        "sha256": "c7c94073910be31f1b7bea29fd76dd649439b1360396afffe5df9a180dc4206c"
       }
     },
     "on_image_text": [

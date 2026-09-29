@@ -34,13 +34,13 @@
   "dimensions": {
     "16x9": {
       "width": 1920,
-      "height": 1080,
-      "sha256": "6e8ff59b902d95e3984fe9635a08dd87806ba6d9455b9ccc4cf8b8a7020ddd61"
+      "height": 1270,
+      "sha256": "9f1669671d4588ad0fb05716cfeddbc5234d6e4e84bf4d1df68c9dd4222392c0"
     },
     "4x5": {
       "width": 864,
-      "height": 1080,
-      "sha256": "068e9e2c5e091a4f42268655526cbff41732768dc88a40ccf0a3bcb453a03d3d"
+      "height": 1270,
+      "sha256": "782b053813a8fe595e6392706b185afabc2c91e0e25318405eee176589730326"
     }
   },
   "masters": {
@@ -48,10 +48,10 @@
       "file": "es-01-288-r1-16x9.png",
       "dimensions": [
         1920,
-        1080
+        1270
       ],
-      "byte_length": 3494273,
-      "sha256": "6e8ff59b902d95e3984fe9635a08dd87806ba6d9455b9ccc4cf8b8a7020ddd61",
+      "byte_length": 3493913,
+      "sha256": "9f1669671d4588ad0fb05716cfeddbc5234d6e4e84bf4d1df68c9dd4222392c0",
       "source_file": "media-generation-src-es-01-288-0-5a1c9910-07fe-44df-a891-32564cd6ccbf.png",
       "source_dimensions": [
         1920,
@@ -75,10 +75,10 @@
       "file": "es-01-288-r1-4x5.png",
       "dimensions": [
         864,
-        1080
+        1270
       ],
-      "byte_length": 1561084,
-      "sha256": "068e9e2c5e091a4f42268655526cbff41732768dc88a40ccf0a3bcb453a03d3d",
+      "byte_length": 1566606,
+      "sha256": "782b053813a8fe595e6392706b185afabc2c91e0e25318405eee176589730326",
       "source_file": "media-generation-src-es-01-288-0-5a1c9910-07fe-44df-a891-32564cd6ccbf.png",
       "source_dimensions": [
         1920,
@@ -150,32 +150,31 @@
   "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
   "reference_evidence": [],
   "approval_basis": "G1 visual: the 16:9 master recognizably renders Jameos del Agua's subterranean lake chamber — a perfectly still turquoise lake centered under the collapsed roof opening showing a starry night sky, hanging green vegetation and agave along the white lava-rock walls, Manrique's art-nature space; clean framing, no artifacts. G2 technical: both masters verified 1920x1080 and 864x1080 with SHA-256 matching the packet; on-image text exact — caption 'Jameos del Agua, Lanzarote', scenario '24 September 2026 · 01:21 Europe/Madrid', 'AI-generated artistic interpretation · Not a photograph.' on a bottom-left gradient scrim, 'Jason D’s Vision' signature bottom-right, legible and non-intrusive; Open-Meteo weather retrieved 2026-09-24T01:15+02:00, valid 01:15 — fresh against the 01:21 scenario, no reuse. G3 originality: packet documents built-in text-only generation, zero photographic inputs, Lanczos resampling lineage. G4 IP: no people, no logos, no private property focal subject. G5: no open blockers; interior lighting disclosed as approximate and night access disclosed as assumed from the known night program, not verified.",
-  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals)."
-,
+  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals).",
   "daylight_variant": {
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
         "path": "es-01-288-r1-16x9.png",
-        "sha256": "6e8ff59b902d95e3984fe9635a08dd87806ba6d9455b9ccc4cf8b8a7020ddd61"
+        "sha256": "9f1669671d4588ad0fb05716cfeddbc5234d6e4e84bf4d1df68c9dd4222392c0"
       },
       "4x5": {
         "path": "es-01-288-r1-4x5.png",
-        "sha256": "068e9e2c5e091a4f42268655526cbff41732768dc88a40ccf0a3bcb453a03d3d"
+        "sha256": "782b053813a8fe595e6392706b185afabc2c91e0e25318405eee176589730326"
       }
     },
     "masters": {
       "16x9": {
         "path": "es-01-288-daylight-16x9.png",
         "width": 1920,
-        "height": 1080,
-        "sha256": "326989529d55d0401af2f20fb40280b44e851f73f686c54e8b5243f15375db1b"
+        "height": 1270,
+        "sha256": "0e178005d3853f8755be22eeebc425a0964c32f5fd1034531db01bba3acb2e33"
       },
       "4x5": {
         "path": "es-01-288-daylight-4x5.png",
         "width": 864,
-        "height": 1080,
-        "sha256": "5707fb058495a351f3db307e32c0425ffe1f628943552b16056b1ceee4b59d6c"
+        "height": 1270,
+        "sha256": "0f67855034e2acad06e37ac7f368c8418e54ed36e456eef206353c9b949e2c93"
       }
     },
     "on_image_text": [

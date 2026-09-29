@@ -34,13 +34,13 @@
   "dimensions": {
     "16x9": {
       "width": 1920,
-      "height": 1080,
-      "sha256": "49d8fe02718a334d3e7ae23a1f483543cac6539c039142fc294e03ecb504aa7e"
+      "height": 1270,
+      "sha256": "3953fc50e8bfe6743f73a05e35757a525e676dfb21f819ecb64c96d694d55f51"
     },
     "4x5": {
       "width": 864,
-      "height": 1080,
-      "sha256": "f08d1a065dcc933afda8ad6c7f2c5449a05db9d49e17f2c7210b74622abc8132"
+      "height": 1270,
+      "sha256": "cf52c976e808111074524accafb1d49cb90280b62f889696deb81f90661bce4a"
     }
   },
   "masters": {
@@ -48,10 +48,10 @@
       "file": "es-01-296-r1-16x9.png",
       "dimensions": [
         1920,
-        1080
+        1270
       ],
-      "byte_length": 3318944,
-      "sha256": "49d8fe02718a334d3e7ae23a1f483543cac6539c039142fc294e03ecb504aa7e",
+      "byte_length": 3320973,
+      "sha256": "3953fc50e8bfe6743f73a05e35757a525e676dfb21f819ecb64c96d694d55f51",
       "source_file": "media-generation-src-es-01-296-0-339df0c4-5aeb-4b52-bf6d-4a1433bfcfcb.png",
       "source_dimensions": [
         1920,
@@ -75,10 +75,10 @@
       "file": "es-01-296-r1-4x5.png",
       "dimensions": [
         864,
-        1080
+        1270
       ],
-      "byte_length": 1619743,
-      "sha256": "f08d1a065dcc933afda8ad6c7f2c5449a05db9d49e17f2c7210b74622abc8132",
+      "byte_length": 1627444,
+      "sha256": "cf52c976e808111074524accafb1d49cb90280b62f889696deb81f90661bce4a",
       "source_file": "media-generation-src-es-01-296-0-339df0c4-5aeb-4b52-bf6d-4a1433bfcfcb.png",
       "source_dimensions": [
         1920,
@@ -150,32 +150,31 @@
   "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
   "reference_evidence": [],
   "approval_basis": "G1: Risco Caido is recognizable as a towering dark cliff face with the site's signature cave openings rendered as dark slits and horizontal bands in the rock, a moonlit ravine falling away below, volcanic slopes with pine scrub flanking the view, crescent moon and stars above; clean framing, no artifacts. G2: mechanical sweep PASS on exact 1920×1080 + 864×1080 with packet-matching SHA-256; exact caption 'Risco Caido, Gran Canaria', scenario '24 September 2026 · 01:29 Europe/Madrid', AI disclosure on legible scrim; exact 'Jason D's Vision' signature bottom-right; weather retrieved 01:15, valid 01:15 — pulled for this build 14 minutes before the scenario, not reused metadata. G3: text-only generation, image_inputs empty, no photographic input. G4: no people, logos, or private property — natural UNESCO landscape. G5: no open blockers.",
-  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals)."
-,
+  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals).",
   "daylight_variant": {
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
         "path": "es-01-296-r1-16x9.png",
-        "sha256": "49d8fe02718a334d3e7ae23a1f483543cac6539c039142fc294e03ecb504aa7e"
+        "sha256": "3953fc50e8bfe6743f73a05e35757a525e676dfb21f819ecb64c96d694d55f51"
       },
       "4x5": {
         "path": "es-01-296-r1-4x5.png",
-        "sha256": "f08d1a065dcc933afda8ad6c7f2c5449a05db9d49e17f2c7210b74622abc8132"
+        "sha256": "cf52c976e808111074524accafb1d49cb90280b62f889696deb81f90661bce4a"
       }
     },
     "masters": {
       "16x9": {
         "path": "es-01-296-daylight-16x9.png",
         "width": 1920,
-        "height": 1080,
-        "sha256": "24b0a5c690c539a19104c7da0ed118284f623ed8077189707451d94311c334a3"
+        "height": 1270,
+        "sha256": "fe2580a2da65e46114e772e38ac5f54c3854c0ea2a639984c181857cdf66355b"
       },
       "4x5": {
         "path": "es-01-296-daylight-4x5.png",
         "width": 864,
-        "height": 1080,
-        "sha256": "2554eb2bc4b5da3563f6c6917ee1db9b01133bb10deba002237f96088be7c5e6"
+        "height": 1270,
+        "sha256": "109e89f583cbb46bac8b2173aa74b1aa3d6579be6118cb3edc1018f3af0a49d8"
       }
     },
     "on_image_text": [

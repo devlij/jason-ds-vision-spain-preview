@@ -34,13 +34,13 @@
   "dimensions": {
     "16x9": {
       "width": 1920,
-      "height": 1080,
-      "sha256": "b65eb3055f35396083219c5087d75f89536847e720171b3ef7c19bd07f4d4faf"
+      "height": 1270,
+      "sha256": "3f7adc490d12dc0fcd8fef489afe4d129c2ce4dc1b41e5c1975cfc94839bf14e"
     },
     "4x5": {
       "width": 864,
-      "height": 1080,
-      "sha256": "27359c01f770b1bb3c3dee8cfb7fd38f5e945303060830d3db66576e93d53660"
+      "height": 1270,
+      "sha256": "a6b9e8968162deefd2d712bdc53d9179e4afa3fba4d78bed8f2d3606820c68d2"
     }
   },
   "masters": {
@@ -48,10 +48,10 @@
       "file": "es-01-295-r1-16x9.png",
       "dimensions": [
         1920,
-        1080
+        1270
       ],
-      "byte_length": 2330929,
-      "sha256": "b65eb3055f35396083219c5087d75f89536847e720171b3ef7c19bd07f4d4faf",
+      "byte_length": 2334053,
+      "sha256": "3f7adc490d12dc0fcd8fef489afe4d129c2ce4dc1b41e5c1975cfc94839bf14e",
       "source_file": "media-generation-src-es-01-295-0-54ac6cb0-3a62-4cbf-a902-0add2e23b70b.png",
       "source_dimensions": [
         1920,
@@ -75,10 +75,10 @@
       "file": "es-01-295-r1-4x5.png",
       "dimensions": [
         864,
-        1080
+        1270
       ],
-      "byte_length": 1192404,
-      "sha256": "27359c01f770b1bb3c3dee8cfb7fd38f5e945303060830d3db66576e93d53660",
+      "byte_length": 1198907,
+      "sha256": "a6b9e8968162deefd2d712bdc53d9179e4afa3fba4d78bed8f2d3606820c68d2",
       "source_file": "media-generation-src-es-01-295-0-54ac6cb0-3a62-4cbf-a902-0add2e23b70b.png",
       "source_dimensions": [
         1920,
@@ -150,32 +150,31 @@
   "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
   "reference_evidence": [],
   "approval_basis": "G1 visual: the 16:9 master recognizably renders the Puerto de la Cruz waterfront at night — the stone promenade curving along the shore with lit lamps leading the eye, rows of buildings whose warm lights climb the dark hillside above, the moonlit sea carrying a trembling moonlight path; clean waterfront composition, no artifacts. G2 technical: both masters verified 1920x1080 and 864x1080 with SHA-256 matching the packet; on-image text exact — caption 'Puerto de la Cruz, Tenerife', scenario '24 September 2026 · 01:24 Europe/Madrid', 'AI-generated artistic interpretation · Not a photograph.' on a bottom-left gradient scrim, 'Jason D’s Vision' signature bottom-right, legible and non-intrusive; Open-Meteo weather retrieved 2026-09-24T01:15+02:00, valid 01:15 — fresh against the 01:24 scenario, no reuse. G3 originality: packet documents built-in text-only generation, zero photographic inputs, Lanczos resampling lineage. G4 IP: no people, no logos, no recognizable private property. G5: no open blockers; lighting honestly generic town/street lighting with no floodlighting claimed.",
-  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals)."
-,
+  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals).",
   "daylight_variant": {
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
         "path": "es-01-295-r1-16x9.png",
-        "sha256": "b65eb3055f35396083219c5087d75f89536847e720171b3ef7c19bd07f4d4faf"
+        "sha256": "3f7adc490d12dc0fcd8fef489afe4d129c2ce4dc1b41e5c1975cfc94839bf14e"
       },
       "4x5": {
         "path": "es-01-295-r1-4x5.png",
-        "sha256": "27359c01f770b1bb3c3dee8cfb7fd38f5e945303060830d3db66576e93d53660"
+        "sha256": "a6b9e8968162deefd2d712bdc53d9179e4afa3fba4d78bed8f2d3606820c68d2"
       }
     },
     "masters": {
       "16x9": {
         "path": "es-01-295-daylight-16x9.png",
         "width": 1920,
-        "height": 1080,
-        "sha256": "7956e04f351174bbad335aa4538ab6576d2d11f1e93fdd2018f233b1031a683e"
+        "height": 1270,
+        "sha256": "762898208178b0dc12590f9dff32bb2dd5d2139c355db825c1156f0607ba3932"
       },
       "4x5": {
         "path": "es-01-295-daylight-4x5.png",
         "width": 864,
-        "height": 1080,
-        "sha256": "409acf31580adc070c76ffc053fa828d96c4811f27fc8c97147f45413102a91c"
+        "height": 1270,
+        "sha256": "a0aedfb1e7dc311fa31353c41c150d4210ca4718bd9baa093e37fadb5035fa70"
       }
     },
     "on_image_text": [

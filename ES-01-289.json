@@ -34,13 +34,13 @@
   "dimensions": {
     "16x9": {
       "width": 1920,
-      "height": 1080,
-      "sha256": "797e2b686dd36266827b97a5d17cdb3735182b0206c14ab0ac6f3d5a595c568e"
+      "height": 1270,
+      "sha256": "9cae31bc1d9aeb566760d6906d7e89aee9fe3d6064eb5ca8e0c458367bcd552a"
     },
     "4x5": {
       "width": 864,
-      "height": 1080,
-      "sha256": "2e4b4c562b8734d5f5e87122fefce74293e1cfed151464155a950ca6d7c6775d"
+      "height": 1270,
+      "sha256": "4f9adb57c689f21e1ba1c73179034f627659b24b9d6f1a4e16986684cf254166"
     }
   },
   "masters": {
@@ -48,10 +48,10 @@
       "file": "es-01-289-r1-16x9.png",
       "dimensions": [
         1920,
-        1080
+        1270
       ],
-      "byte_length": 2420976,
-      "sha256": "797e2b686dd36266827b97a5d17cdb3735182b0206c14ab0ac6f3d5a595c568e",
+      "byte_length": 2422015,
+      "sha256": "9cae31bc1d9aeb566760d6906d7e89aee9fe3d6064eb5ca8e0c458367bcd552a",
       "source_file": "media-generation-src-es-01-289-0-001d9d4b-d1f3-475d-9277-118bb40cbe90.png",
       "source_dimensions": [
         1920,
@@ -75,10 +75,10 @@
       "file": "es-01-289-r1-4x5.png",
       "dimensions": [
         864,
-        1080
+        1270
       ],
-      "byte_length": 1118472,
-      "sha256": "2e4b4c562b8734d5f5e87122fefce74293e1cfed151464155a950ca6d7c6775d",
+      "byte_length": 1126175,
+      "sha256": "4f9adb57c689f21e1ba1c73179034f627659b24b9d6f1a4e16986684cf254166",
       "source_file": "media-generation-src-es-01-289-0-001d9d4b-d1f3-475d-9277-118bb40cbe90.png",
       "source_dimensions": [
         1920,
@@ -150,32 +150,31 @@
   "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
   "reference_evidence": [],
   "approval_basis": "G1 visual: the 16:9 master recognizably renders a La Laguna old-town street — cobbled roadway under warm street lamps, pastel colonial facades with dark wooden balconies lining both sides, the cathedral's twin towers silhouetted at the street's vanishing point; clean one-point perspective, no artifacts. G2 technical: both masters verified 1920x1080 and 864x1080 with SHA-256 matching the packet; on-image text exact — caption 'San Cristóbal de La Laguna, Tenerife', scenario '24 September 2026 · 01:21 Europe/Madrid', 'AI-generated artistic interpretation · Not a photograph.' on a bottom-left gradient scrim, 'Jason D’s Vision' signature bottom-right, legible and non-intrusive; Open-Meteo weather retrieved 2026-09-24T01:15+02:00, valid 01:15 — fresh against the 01:21 scenario, no reuse. G3 originality: packet documents built-in text-only generation, zero photographic inputs, Lanczos resampling lineage. G4 IP: no people, no logos; no floodlighting claimed, only ordinary street lamps. G5: no open blockers.",
-  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals)."
-,
+  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals).",
   "daylight_variant": {
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
         "path": "es-01-289-r1-16x9.png",
-        "sha256": "797e2b686dd36266827b97a5d17cdb3735182b0206c14ab0ac6f3d5a595c568e"
+        "sha256": "9cae31bc1d9aeb566760d6906d7e89aee9fe3d6064eb5ca8e0c458367bcd552a"
       },
       "4x5": {
         "path": "es-01-289-r1-4x5.png",
-        "sha256": "2e4b4c562b8734d5f5e87122fefce74293e1cfed151464155a950ca6d7c6775d"
+        "sha256": "4f9adb57c689f21e1ba1c73179034f627659b24b9d6f1a4e16986684cf254166"
       }
     },
     "masters": {
       "16x9": {
         "path": "es-01-289-daylight-16x9.png",
         "width": 1920,
-        "height": 1080,
-        "sha256": "8756acc3c3726a8d1f4d1a4dbca7e8c2f9389690780880d9a6360192459d97bd"
+        "height": 1270,
+        "sha256": "9dc600d789d63d8ac90f1ff185bfe575d65c64ee25cb5122496eaa2949c14f69"
       },
       "4x5": {
         "path": "es-01-289-daylight-4x5.png",
         "width": 864,
-        "height": 1080,
-        "sha256": "edb491c99534500de7764997e054d20ce3cc25404cf022b42f371088a4d8d17b"
+        "height": 1270,
+        "sha256": "997ce1fc3691f142f965e882314a36d19edbab5f92dc59688093023e9f5564bc"
       }
     },
     "on_image_text": [

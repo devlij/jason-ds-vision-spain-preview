@@ -34,13 +34,13 @@
   "dimensions": {
     "16x9": {
       "width": 1920,
-      "height": 1080,
-      "sha256": "25ec9b44044607621e34ea4fc1e7b1ca1b41ef3ff1e3db402605e2544d64ac20"
+      "height": 1270,
+      "sha256": "001b2372d8c1a7c8148f2b362dbd91b9c2297bf95fffcda51e287f20be38191a"
     },
     "4x5": {
       "width": 864,
-      "height": 1080,
-      "sha256": "253c715a9313eec22932604b74260f2e68ca76e3333210fc7040cf6c54affc0b"
+      "height": 1270,
+      "sha256": "9f4f4699e3e325cc444e01aa63f912eb2442fad997abb737d31a20c94fdfa60a"
     }
   },
   "masters": {
@@ -48,10 +48,10 @@
       "file": "es-01-346-r1-16x9.png",
       "dimensions": [
         1920,
-        1080
+        1270
       ],
-      "byte_length": 1787097,
-      "sha256": "25ec9b44044607621e34ea4fc1e7b1ca1b41ef3ff1e3db402605e2544d64ac20",
+      "byte_length": 1787165,
+      "sha256": "001b2372d8c1a7c8148f2b362dbd91b9c2297bf95fffcda51e287f20be38191a",
       "source_file": "media-generation-es-01-346-source-0-c04aba31-016d-4ea8-9726-743306a078ef.png",
       "source_dimensions": [
         1408,
@@ -75,10 +75,10 @@
       "file": "es-01-346-r1-4x5.png",
       "dimensions": [
         864,
-        1080
+        1270
       ],
-      "byte_length": 1093386,
-      "sha256": "253c715a9313eec22932604b74260f2e68ca76e3333210fc7040cf6c54affc0b",
+      "byte_length": 1101199,
+      "sha256": "9f4f4699e3e325cc444e01aa63f912eb2442fad997abb737d31a20c94fdfa60a",
       "source_file": "media-generation-es-01-346-source-0-c04aba31-016d-4ea8-9726-743306a078ef.png",
       "source_dimensions": [
         1408,

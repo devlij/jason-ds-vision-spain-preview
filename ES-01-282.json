@@ -34,13 +34,13 @@
   "dimensions": {
     "16x9": {
       "width": 1920,
-      "height": 1080,
-      "sha256": "4199bfe77ded94938b1c5d7e09d225d176c28a964633acdd21b8ca2f793cc0af"
+      "height": 1270,
+      "sha256": "de62a4a957b70119eef32d5d56d84d64a01fe75c0fa470694309f8647b57b247"
     },
     "4x5": {
       "width": 864,
-      "height": 1080,
-      "sha256": "c011cfbcec5196537a1305cd6cdc1f78abe482f0bb6777faad8f7877ea9be0e0"
+      "height": 1270,
+      "sha256": "ebdacc19d73ad97963e361e48c48a11580eea00fd78080dfa5451672073c9d49"
     }
   },
   "masters": {
@@ -48,10 +48,10 @@
       "file": "es-01-282-r1-16x9.png",
       "dimensions": [
         1920,
-        1080
+        1270
       ],
-      "byte_length": 2919871,
-      "sha256": "4199bfe77ded94938b1c5d7e09d225d176c28a964633acdd21b8ca2f793cc0af",
+      "byte_length": 2919305,
+      "sha256": "de62a4a957b70119eef32d5d56d84d64a01fe75c0fa470694309f8647b57b247",
       "source_file": "source-282.png",
       "source_dimensions": [
         1408,
@@ -75,10 +75,10 @@
       "file": "es-01-282-r1-4x5.png",
       "dimensions": [
         864,
-        1080
+        1270
       ],
-      "byte_length": 1341466,
-      "sha256": "c011cfbcec5196537a1305cd6cdc1f78abe482f0bb6777faad8f7877ea9be0e0",
+      "byte_length": 1352034,
+      "sha256": "ebdacc19d73ad97963e361e48c48a11580eea00fd78080dfa5451672073c9d49",
       "source_file": "source-282.png",
       "source_dimensions": [
         1408,
@@ -155,32 +155,31 @@
   "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
   "reference_evidence": [],
   "approval_basis": "Gate 1 PASS: underground cave chamber with dense stalactites and warm-lit stalagmites reflected in the still underground river, wooden tour boat centered mid-frame; recognizably Coves de Sant Josep (underground river boat tour) from a plausible boat-level viewpoint, clean framing, no artifacts. Gate 2 PASS: both masters mechanically verified (1920x1080 + 864x1080, SHA-256 match); baked caption 'Coves de Sant Josep, la Vall d'Uixó' exact; scenario '24 September 2026 · 01:36 Europe/Madrid' matches packet; weather retrieved 01:12:51+02:00 valid 01:30 covers the scenario hour — fresh; signature 'Jason D's Vision' with curly apostrophe bottom-right, AI disclosure bottom-left, legible on the scrim. Gate 3 PASS: packet documents text-only generation, image_inputs empty, no photographic inputs. Gate 4: no people, logos, or private property visible — lit show-cave interior. Gate 5: no open blockers. Modelled scenario; cave's installed lighting depicted, tour access at 01:36 unverified (documented limitation).",
-  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals)."
-,
+  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals).",
   "daylight_variant": {
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
         "path": "es-01-282-r1-16x9.png",
-        "sha256": "4199bfe77ded94938b1c5d7e09d225d176c28a964633acdd21b8ca2f793cc0af"
+        "sha256": "de62a4a957b70119eef32d5d56d84d64a01fe75c0fa470694309f8647b57b247"
       },
       "4x5": {
         "path": "es-01-282-r1-4x5.png",
-        "sha256": "c011cfbcec5196537a1305cd6cdc1f78abe482f0bb6777faad8f7877ea9be0e0"
+        "sha256": "ebdacc19d73ad97963e361e48c48a11580eea00fd78080dfa5451672073c9d49"
       }
     },
     "masters": {
       "16x9": {
         "path": "es-01-282-daylight-16x9.png",
         "width": 1920,
-        "height": 1080,
-        "sha256": "22759708abfcdf410332b5f0e5fa26c6d7bdc00267318db4b3cd61e73bb2efa2"
+        "height": 1270,
+        "sha256": "3bc40b3a0c6d50a040fee1971f2e6b5530987cc8625da47b278b91bfd177d092"
       },
       "4x5": {
         "path": "es-01-282-daylight-4x5.png",
         "width": 864,
-        "height": 1080,
-        "sha256": "4d85b166fd73195f95929932ac04260f182a343a5ec82ea8b54d8d889a4ed71d"
+        "height": 1270,
+        "sha256": "17b25233f9f5674d7d65361f0bed561357198999aed655ad6df5015a8259da7e"
       }
     },
     "on_image_text": [

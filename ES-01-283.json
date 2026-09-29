@@ -34,13 +34,13 @@
   "dimensions": {
     "16x9": {
       "width": 1920,
-      "height": 1080,
-      "sha256": "ed24c098e5466c60ac7dcd707e92ae3c37efded15d4db084d52c20b4c67819f2"
+      "height": 1270,
+      "sha256": "a1b70bd1c3936ebff5d8f785b8e76d6dfa09c7059d285eac73e5cc7d512cad6a"
     },
     "4x5": {
       "width": 864,
-      "height": 1080,
-      "sha256": "78be57d5ed68fdee93d894a64ff455ed892987a1bd2483d4924799aa219c5c74"
+      "height": 1270,
+      "sha256": "6ac122700d108c59f04d51bc64106fbd8650a32122b4ebd42a57bf81d22a622c"
     }
   },
   "masters": {
@@ -48,10 +48,10 @@
       "file": "es-01-283-r1-16x9.png",
       "dimensions": [
         1920,
-        1080
+        1270
       ],
-      "byte_length": 1376073,
-      "sha256": "ed24c098e5466c60ac7dcd707e92ae3c37efded15d4db084d52c20b4c67819f2",
+      "byte_length": 1372780,
+      "sha256": "a1b70bd1c3936ebff5d8f785b8e76d6dfa09c7059d285eac73e5cc7d512cad6a",
       "source_file": "source-283.png",
       "source_dimensions": [
         1408,
@@ -75,10 +75,10 @@
       "file": "es-01-283-r1-4x5.png",
       "dimensions": [
         864,
-        1080
+        1270
       ],
-      "byte_length": 892231,
-      "sha256": "78be57d5ed68fdee93d894a64ff455ed892987a1bd2483d4924799aa219c5c74",
+      "byte_length": 901808,
+      "sha256": "6ac122700d108c59f04d51bc64106fbd8650a32122b4ebd42a57bf81d22a622c",
       "source_file": "source-283.png",
       "source_dimensions": [
         1408,
@@ -155,32 +155,31 @@
   "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
   "reference_evidence": [],
   "approval_basis": "Gate 1 PASS: pink salt lagoon at night under mist — salt-harvester conveyor silhouettes mid-frame, town lights glowing through fog on the horizon, white salt crusts in the foreground shallows; recognizably Laguna Salada de Torrevieja from a plausible shoreline viewpoint, clean framing, no artifacts. Gate 2 PASS: both masters mechanically verified (1920x1080 + 864x1080, SHA-256 match); baked caption 'Laguna Salada de Torrevieja, Torrevieja' exact; scenario '24 September 2026 · 01:36 Europe/Madrid' matches packet; weather retrieved 01:12:51+02:00 valid 01:30 covers the scenario hour — fresh, and the packet's fog (weather_code 45) is honestly depicted as night mist; signature 'Jason D's Vision' with curly apostrophe bottom-right, AI disclosure bottom-left, legible. Gate 3 PASS: packet documents text-only generation, image_inputs empty, no photographic inputs. Gate 4: no people or logos visible; industrial salt works in the distance. Gate 5: no open blockers. Modelled night scenario, not a verified capture.",
-  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals)."
-,
+  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals).",
   "daylight_variant": {
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
         "path": "es-01-283-r1-16x9.png",
-        "sha256": "ed24c098e5466c60ac7dcd707e92ae3c37efded15d4db084d52c20b4c67819f2"
+        "sha256": "a1b70bd1c3936ebff5d8f785b8e76d6dfa09c7059d285eac73e5cc7d512cad6a"
       },
       "4x5": {
         "path": "es-01-283-r1-4x5.png",
-        "sha256": "78be57d5ed68fdee93d894a64ff455ed892987a1bd2483d4924799aa219c5c74"
+        "sha256": "6ac122700d108c59f04d51bc64106fbd8650a32122b4ebd42a57bf81d22a622c"
       }
     },
     "masters": {
       "16x9": {
         "path": "es-01-283-daylight-16x9.png",
         "width": 1920,
-        "height": 1080,
-        "sha256": "b645132c914feaa0f8326fa1f190e4726b70e279ccaa7bc6a2e6e97404f45615"
+        "height": 1270,
+        "sha256": "b60e218291ddda298305048e07e301b91d2ad268329b9adf89a31afe53246880"
       },
       "4x5": {
         "path": "es-01-283-daylight-4x5.png",
         "width": 864,
-        "height": 1080,
-        "sha256": "e6f871b5b8c69d8dbdb22ae89469671aacce123c614e12448aeb14877401a2b0"
+        "height": 1270,
+        "sha256": "808bacb3a117e22fb21736a2893fba1a8d7c67628433b49d7f9de7f8f0f86d17"
       }
     },
     "on_image_text": [

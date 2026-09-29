@@ -44,13 +44,13 @@
       "dimensions": {
         "16x9": {
           "width": 1920,
-          "height": 1080,
-          "sha256": "b3645b915fa7124ef122196ebcf7fae62aa272da799dc3f419a68d0a2c77ba97"
+          "height": 1270,
+          "sha256": "bc9f0972a563a4e1f1fdf97291d5c701e26710f1ba08a2cc9fb6796d8e1cea67"
         },
         "4x5": {
           "width": 864,
-          "height": 1080,
-          "sha256": "f527f8f248cae5df5ac8895091a005461e87c4d2230131a1fb23ea17a97dab2f"
+          "height": 1270,
+          "sha256": "4c97ccf9bc2ca331d4149da420567ff9d7a207159c480c665a57dd853fa7176a"
         }
       },
       "file_naming_note": "Canonical ES-01 filenames are byte-identical copies. ES-AN filenames are retained only as compatibility aliases for historical links.",
@@ -103,13 +103,13 @@
       "dimensions": {
         "16x9": {
           "width": 1920,
-          "height": 1080,
-          "sha256": "fbcc34933ea542422dac8e5638fd7233844dab7758fada215e529e15d8de5f78"
+          "height": 1270,
+          "sha256": "411691ccbce5b442109a09811c594d59dc7c81a0a3c5827e43ff856abde3a8a5"
         },
         "4x5": {
           "width": 864,
-          "height": 1080,
-          "sha256": "39ccce6bcfff601271f0fe74a8b1a8c6c191d72471be71e48183a4a8af6f08e6"
+          "height": 1270,
+          "sha256": "c6215c00c8be6f90bff6677ea7c5b8080062b5b5a7784678691d6e981192c00a"
         }
       },
       "file_naming_note": "Canonical ES-01 filenames are byte-identical copies. ES-AN filenames are retained only as compatibility aliases for historical links.",
@@ -203,13 +203,13 @@
       "dimensions": {
         "16x9": {
           "width": 1920,
-          "height": 1080,
-          "sha256": "9609e9be23671d39e86ed1aeadccc7ae192cfe9e5c01793fa62251a17a424e62"
+          "height": 1270,
+          "sha256": "9b498101028c283e21ff1f6126f8cb60eee7ece4557c62c7edbea0b835e32edc"
         },
         "4x5": {
           "width": 864,
-          "height": 1080,
-          "sha256": "0e40ffc31ae43d4f86c1cdfb3634b1a12ac88af9b59a53e9819d653a87619ce5"
+          "height": 1270,
+          "sha256": "e0ecb1da0489543a942641798c0080df6c2fe9e9ebdb6b5e81f9a7a60ce36a6f"
         }
       },
       "audio": "audio/es-01-001-narration.mp3"
@@ -260,13 +260,13 @@
       "dimensions": {
         "16x9": {
           "width": 1920,
-          "height": 1080,
-          "sha256": "6006aff5b757eabaae71ebc38d008904b63ccaaedafc387d45b401fdd89c4ec7"
+          "height": 1270,
+          "sha256": "3ecaf5c41455e66f969b80d39e7fe63f6e1b2cf5858b42629f2482ae82a87311"
         },
         "4x5": {
           "width": 864,
-          "height": 1080,
-          "sha256": "f59f7fe649e9a86ce649bea338ebea43044f15346100b1953b7cbd5d4cf99604"
+          "height": 1270,
+          "sha256": "5e82301250a2b90ac4cf356322f132a4a9f18a3d23826b47439a4ce3872ab2c7"
         }
       },
       "audio": "audio/es-01-002-narration.mp3"
@@ -330,13 +330,13 @@
       "dimensions": {
         "16x9": {
           "width": 1920,
-          "height": 1080,
-          "sha256": "8f383ccc7b0af082f249cfadb8c7fe49fd811209ef484f515afda3021417d98f"
+          "height": 1270,
+          "sha256": "b8f1786f3eb09710f620bc9785425163e49f76075dbd1c9f71c6442f9238015d"
         },
         "4x5": {
           "width": 864,
-          "height": 1080,
-          "sha256": "41e80243416f74914346925d607adc851faccea65f53726fa7139f0ef3e4ecf4"
+          "height": 1270,
+          "sha256": "aeda8d5d56a046c40652e3e148b3cdb5be4837abcfbdf676ea8c3c1ab3134473"
         }
       },
       "audio": "audio/es-01-003-narration.mp3"
@@ -403,13 +403,13 @@
       "dimensions": {
         "16x9": {
           "width": 1920,
-          "height": 1080,
-          "sha256": "0bcf51eb79096aeb0aeb796345d4343458a71f20dc608799adbe7b0cd9d12771"
+          "height": 1270,
+          "sha256": "5d49c2b4591651a0911af9a85542677e5ad8ff621a840660380beaa8ec5d15d7"
         },
         "4x5": {
           "width": 864,
-          "height": 1080,
-          "sha256": "82abb21c92340d79498ac51807bd9b4acf3b93b18c4f903fc6e1d920bf09f31a"
+          "height": 1270,
+          "sha256": "feb9c8f8eb6bacf4a4e75bd406d018fdcf10252e09dd651ef3081947e275ba78"
         }
       },
       "audio": "audio/es-01-004-narration.mp3"
@@ -463,15 +463,15 @@
       "dimensions": {
         "16x9": {
           "width": 1920,
-          "height": 1080,
-          "sha256": "d000d63062f8e9d88446e64330a2c8a674f7cd9378ef7d46faa1497a6bdadc4f",
-          "bytes": 3052439
+          "height": 1270,
+          "sha256": "1b0c60ef27ac02a68236a18c77a5981e30538be65f6384edc0b876d64f06b42e",
+          "bytes": 3055350
         },
         "4x5": {
           "width": 864,
-          "height": 1080,
-          "sha256": "20267f13ac16f3746c8085984308fc02ba94d1364611c53afd58a999345d2bf7",
-          "bytes": 1236714
+          "height": 1270,
+          "sha256": "1b2cce15a32fbec0d778d57a440fd22335c88516a8369e8f99572d7d3a3f0a15",
+          "bytes": 1240432
         }
       },
       "audio": "audio/es-01-005-narration.mp3"
@@ -504,18 +504,18 @@
       "dimensions": {
         "16x9": {
           "width": 1920,
-          "height": 1080,
-          "bytes": 3058001,
-          "sha256": "e78ec18ae12f8414da3c57a07f504cc347d382c27beee992343abd459bd58e8a",
+          "height": 1270,
+          "bytes": 3057352,
+          "sha256": "378339a92fb6a9aa8758528599e1c92769a420faf34fe556582df38400964528",
           "source_width": 1672,
           "source_height": 941,
           "resampled": true
         },
         "4x5": {
           "width": 864,
-          "height": 1080,
-          "bytes": 1293511,
-          "sha256": "ba9371f2b6baa448463027d21971f832f5583e7d8c44dcd5f51ae2263d3ae652",
+          "height": 1270,
+          "bytes": 1301283,
+          "sha256": "0f2df7e688b6ab90e0d88030fec193384459288c997f97232e8bfe3a6cc16a77",
           "source_width": 1672,
           "source_height": 941,
           "resampled": true
@@ -564,18 +564,18 @@
       "dimensions": {
         "16x9": {
           "width": 1920,
-          "height": 1080,
-          "sha256": "a60de91e4a1cea787eb1b94b9b8d10c2fad08433dababcb7ee75b9b171dbe104",
-          "bytes": 3371161,
+          "height": 1270,
+          "sha256": "7d4494ef9ca5faa3bed7163fe17cb345d7e5bad7cf2d325f44deaf97cfccfbd6",
+          "bytes": 3372333,
           "source_width": 1672,
           "source_height": 941,
           "resampled": true
         },
         "4x5": {
           "width": 864,
-          "height": 1080,
-          "sha256": "a2a1f2a5a6a33a42c3039088845b796cd6641856340390c093c9e01564b5f8a9",
-          "bytes": 1446169,
+          "height": 1270,
+          "sha256": "72a8f6cbc499a32a4952b52a8a69133d5b811db8955a1b44bbdf330b5091f6dd",
+          "bytes": 1454075,
           "source_width": 1672,
           "source_height": 941,
           "resampled": true
@@ -619,18 +619,18 @@
       "dimensions": {
         "16x9": {
           "width": 1920,
-          "height": 1080,
-          "sha256": "a2d3ce11208380e95aceccc3ed86b3c63512870c2f4c30d61e817dc338461fa9",
-          "bytes": 2734865,
+          "height": 1270,
+          "sha256": "2165067ced61bff35d43ac60ef7e381224ec36bc93ca9924ad5439cd86fbda1b",
+          "bytes": 2734882,
           "source_width": 1672,
           "source_height": 941,
           "resampled": true
         },
         "4x5": {
           "width": 864,
-          "height": 1080,
-          "sha256": "46052454b41bb88742315e92f9d4ca157442b87d7596da3ff69470e4a06c5c3c",
-          "bytes": 1221986,
+          "height": 1270,
+          "sha256": "3d3e2f6d819f14cb35dd59d25c02b0cd6d7893458438fda9d6ae732eb161bf29",
+          "bytes": 1227946,
           "source_width": 1672,
           "source_height": 941,
           "resampled": true

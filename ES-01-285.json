@@ -34,13 +34,13 @@
   "dimensions": {
     "16x9": {
       "width": 1920,
-      "height": 1080,
-      "sha256": "62f738c69de1c8bc1fe05a7e166ce7ae7a91ce2e6bc397beb22e64b0c09e8f7a"
+      "height": 1270,
+      "sha256": "bf73d3c83bd886766aa9a1edaed34d12d5d89dbe67981c4101f58afc5572c031"
     },
     "4x5": {
       "width": 864,
-      "height": 1080,
-      "sha256": "e19c67847e209cd43a0cd12d4a75a92471dca02f2d7be5a2eae1e724742bbf58"
+      "height": 1270,
+      "sha256": "d9d011df9cc05fcaff48c679f1e82ac1f448fce104527a9ebe9647d4d6678e18"
     }
   },
   "masters": {
@@ -48,10 +48,10 @@
       "file": "es-01-285-r1-16x9.png",
       "dimensions": [
         1920,
-        1080
+        1270
       ],
-      "byte_length": 2464890,
-      "sha256": "62f738c69de1c8bc1fe05a7e166ce7ae7a91ce2e6bc397beb22e64b0c09e8f7a",
+      "byte_length": 2471542,
+      "sha256": "bf73d3c83bd886766aa9a1edaed34d12d5d89dbe67981c4101f58afc5572c031",
       "source_file": "media-generation-src-es-01-285-0-b757e3bf-bc03-4b02-a552-83a5873abd4b.png",
       "source_dimensions": [
         1920,
@@ -75,10 +75,10 @@
       "file": "es-01-285-r1-4x5.png",
       "dimensions": [
         864,
-        1080
+        1270
       ],
-      "byte_length": 1253063,
-      "sha256": "e19c67847e209cd43a0cd12d4a75a92471dca02f2d7be5a2eae1e724742bbf58",
+      "byte_length": 1264496,
+      "sha256": "d9d011df9cc05fcaff48c679f1e82ac1f448fce104527a9ebe9647d4d6678e18",
       "source_file": "media-generation-src-es-01-285-0-b757e3bf-bc03-4b02-a552-83a5873abd4b.png",
       "source_dimensions": [
         1920,
@@ -150,32 +150,31 @@
   "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
   "reference_evidence": [],
   "approval_basis": "Night Roque de los Muchachos: jagged basalt pinnacles along the ridge with two white observatory domes silhouetted beneath a vivid Milky Way, dark Canarian pine forest in the foreground; on-image text verified: caption 'Roque de los Muchachos, La Palma', scenario '24 September 2026 · 01:14 Europe/Madrid', disclosure 'AI-generated artistic interpretation · Not a photograph.', exact 'Jason D's Vision' signature bottom-right; SHA-256 + 1920×1080/864×1080 match packet; Open-Meteo weather retrieved 2026-09-24T01:00+02:00 consistent with scenario hour; packet documents text-only generation, no photographic inputs; no people or logos; dome arrangement approximate and stars artistic per packet limitations (documented only).",
-  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals)."
-,
+  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals).",
   "daylight_variant": {
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
         "path": "es-01-285-r1-16x9.png",
-        "sha256": "62f738c69de1c8bc1fe05a7e166ce7ae7a91ce2e6bc397beb22e64b0c09e8f7a"
+        "sha256": "bf73d3c83bd886766aa9a1edaed34d12d5d89dbe67981c4101f58afc5572c031"
       },
       "4x5": {
         "path": "es-01-285-r1-4x5.png",
-        "sha256": "e19c67847e209cd43a0cd12d4a75a92471dca02f2d7be5a2eae1e724742bbf58"
+        "sha256": "d9d011df9cc05fcaff48c679f1e82ac1f448fce104527a9ebe9647d4d6678e18"
       }
     },
     "masters": {
       "16x9": {
         "path": "es-01-285-daylight-16x9.png",
         "width": 1920,
-        "height": 1080,
-        "sha256": "dd6bb16890adb81d2a2fc11159c97fd0565a5e683dc538948eb6cfb8523ec901"
+        "height": 1270,
+        "sha256": "cbcffe4f70e8c12dea93bada774b25136ec272b584ae6dea55833c574c975a11"
       },
       "4x5": {
         "path": "es-01-285-daylight-4x5.png",
         "width": 864,
-        "height": 1080,
-        "sha256": "62bc3fdf1f8ec8aba1f22a9a78393323edea98c4d548dfe7b8a338fd8d0accfb"
+        "height": 1270,
+        "sha256": "a939b60b8d6f387cb1abafdf96b9891be889f0f781323a4a6caf55368ec94ca9"
       }
     },
     "on_image_text": [

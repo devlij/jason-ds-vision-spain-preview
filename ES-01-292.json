@@ -34,13 +34,13 @@
   "dimensions": {
     "16x9": {
       "width": 1920,
-      "height": 1080,
-      "sha256": "4233eef10068f055efdca11967ebc1e2af6ac22de66143edc2164c0ac2092260"
+      "height": 1270,
+      "sha256": "1442df91f05fee58270b3e9836b88c15404dc36a0f0480a272c650b64ca08449"
     },
     "4x5": {
       "width": 864,
-      "height": 1080,
-      "sha256": "0f34e9dbfe3555daf64e76f47a206dce06672d851dade4157541c869898df758"
+      "height": 1270,
+      "sha256": "a73bca97d90312704cb043e780e32aad73a5f3a90293d02f875fceb11ca6d5e4"
     }
   },
   "masters": {
@@ -48,10 +48,10 @@
       "file": "es-01-292-r1-16x9.png",
       "dimensions": [
         1920,
-        1080
+        1270
       ],
-      "byte_length": 1582977,
-      "sha256": "4233eef10068f055efdca11967ebc1e2af6ac22de66143edc2164c0ac2092260",
+      "byte_length": 1587482,
+      "sha256": "1442df91f05fee58270b3e9836b88c15404dc36a0f0480a272c650b64ca08449",
       "source_file": "media-generation-src-es-01-292-0-2874247d-90e4-4858-aec4-5c59cb096d9c.png",
       "source_dimensions": [
         1920,
@@ -75,10 +75,10 @@
       "file": "es-01-292-r1-4x5.png",
       "dimensions": [
         864,
-        1080
+        1270
       ],
-      "byte_length": 704174,
-      "sha256": "0f34e9dbfe3555daf64e76f47a206dce06672d851dade4157541c869898df758",
+      "byte_length": 712405,
+      "sha256": "a73bca97d90312704cb043e780e32aad73a5f3a90293d02f875fceb11ca6d5e4",
       "source_file": "media-generation-src-es-01-292-0-2874247d-90e4-4858-aec4-5c59cb096d9c.png",
       "source_dimensions": [
         1920,
@@ -150,32 +150,31 @@
   "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
   "reference_evidence": [],
   "approval_basis": "G1 visual: the 16:9 master recognizably renders the view from the Mirador de la Peña — the mirador's dark volcanic-stone side walls and crenellated terrace framing the great amphitheatre of the El Golfo valley dropping away under heavy overcast cloud at night, a faint scatter of valley lights below and the Atlantic a barely-there line beyond the cliff edge; clean framing, no artifacts. G2 technical: both masters verified 1920x1080 and 864x1080 with SHA-256 matching the packet; on-image text exact — caption 'Mirador de la Peña, El Hierro', scenario '24 September 2026 · 01:24 Europe/Madrid', 'AI-generated artistic interpretation · Not a photograph.' on a bottom-left gradient scrim, 'Jason D’s Vision' signature bottom-right, legible and non-intrusive; Open-Meteo weather retrieved 2026-09-24T01:15+02:00, valid 01:15 — fresh against the 01:24 scenario, no reuse; overcast model sky matches the packet's 97% cloud. G3 originality: packet documents built-in text-only generation, zero photographic inputs, Lanczos resampling lineage. G4 IP: no people, no logos, no recognizable private property. G5: no open blockers; illumination claims honestly kept minimal.",
-  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals)."
-,
+  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals).",
   "daylight_variant": {
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
         "path": "es-01-292-r1-16x9.png",
-        "sha256": "4233eef10068f055efdca11967ebc1e2af6ac22de66143edc2164c0ac2092260"
+        "sha256": "1442df91f05fee58270b3e9836b88c15404dc36a0f0480a272c650b64ca08449"
       },
       "4x5": {
         "path": "es-01-292-r1-4x5.png",
-        "sha256": "0f34e9dbfe3555daf64e76f47a206dce06672d851dade4157541c869898df758"
+        "sha256": "a73bca97d90312704cb043e780e32aad73a5f3a90293d02f875fceb11ca6d5e4"
       }
     },
     "masters": {
       "16x9": {
         "path": "es-01-292-daylight-16x9.png",
         "width": 1920,
-        "height": 1080,
-        "sha256": "023dbd020e327cb6824a6362bfe655c8d6bf6bd679fa13e7b3810af8a1f10bee"
+        "height": 1270,
+        "sha256": "ab7a8bc7aa8dc7261ee3597bf57a021150316328e1f9fc3fcc4b9c6dadc79b9a"
       },
       "4x5": {
         "path": "es-01-292-daylight-4x5.png",
         "width": 864,
-        "height": 1080,
-        "sha256": "10bcebb4558c073a29f4f616bfb76a03bec5deaf59eca2e1d75e49113aa1bdb0"
+        "height": 1270,
+        "sha256": "e3d042ebf8e349b652502e9075df07649e09dd5a613a0f78ea0b85bbdd8a7b28"
       }
     },
     "on_image_text": [

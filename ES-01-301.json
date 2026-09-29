@@ -34,13 +34,13 @@
   "dimensions": {
     "16x9": {
       "width": 1920,
-      "height": 1080,
-      "sha256": "9bd90a4da996b8b6568587c8f8cb7b961eb0fe028d9a154f5dba8964a40525d6"
+      "height": 1270,
+      "sha256": "0ea9ce3d190e1a364d9b1b2e66c69c2be2bebb650579dcf1f3eca0735ca208cf"
     },
     "4x5": {
       "width": 864,
-      "height": 1080,
-      "sha256": "58f4be90b54445ea94bef9e524ea1746c8f8cd36e9b3871003563c3eb779675f"
+      "height": 1270,
+      "sha256": "d67e4f0a593b5fab5046a304c47a08e9c92c16be906f52d96e888cdecf7712d3"
     }
   },
   "masters": {
@@ -48,10 +48,10 @@
       "file": "es-01-301-r1-16x9.png",
       "dimensions": [
         1920,
-        1080
+        1270
       ],
-      "byte_length": 2422446,
-      "sha256": "9bd90a4da996b8b6568587c8f8cb7b961eb0fe028d9a154f5dba8964a40525d6",
+      "byte_length": 2425519,
+      "sha256": "0ea9ce3d190e1a364d9b1b2e66c69c2be2bebb650579dcf1f3eca0735ca208cf",
       "source_file": "media-generation-src-es-01-301-0-cc521204-7402-4859-9b66-1bdc4df63d03.png",
       "source_dimensions": [
         1920,
@@ -75,10 +75,10 @@
       "file": "es-01-301-r1-4x5.png",
       "dimensions": [
         864,
-        1080
+        1270
       ],
-      "byte_length": 1147621,
-      "sha256": "58f4be90b54445ea94bef9e524ea1746c8f8cd36e9b3871003563c3eb779675f",
+      "byte_length": 1154436,
+      "sha256": "d67e4f0a593b5fab5046a304c47a08e9c92c16be906f52d96e888cdecf7712d3",
       "source_file": "media-generation-src-es-01-301-0-cc521204-7402-4859-9b66-1bdc4df63d03.png",
       "source_dimensions": [
         1920,
@@ -150,32 +150,31 @@
   "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
   "reference_evidence": [],
   "approval_basis": "G1: Vegueta's Plaza de Santa Ana is instantly recognizable — Las Palmas Cathedral facade with twin towers, rose window and three portals, the famous bronze dog statues guarding the plaza in the foreground, warm plaza lamps leading into historic streets, starry sky; no floodlighting claimed or depicted, clean framing. G2: mechanical sweep PASS on exact 1920×1080 + 864×1080 with packet-matching SHA-256; exact caption 'Vegueta, Las Palmas de Gran Canaria', scenario '24 September 2026 · 01:33 Europe/Madrid', AI disclosure on scrim; exact 'Jason D's Vision' signature; weather retrieved 01:30, valid 01:30 — fresh. G3: text-only generation, image_inputs empty. G4: no people or logos; the bronze dogs are public sculptures, documented not certified. G5: no open blockers.",
-  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals)."
-,
+  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals).",
   "daylight_variant": {
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
         "path": "es-01-301-r1-16x9.png",
-        "sha256": "9bd90a4da996b8b6568587c8f8cb7b961eb0fe028d9a154f5dba8964a40525d6"
+        "sha256": "0ea9ce3d190e1a364d9b1b2e66c69c2be2bebb650579dcf1f3eca0735ca208cf"
       },
       "4x5": {
         "path": "es-01-301-r1-4x5.png",
-        "sha256": "58f4be90b54445ea94bef9e524ea1746c8f8cd36e9b3871003563c3eb779675f"
+        "sha256": "d67e4f0a593b5fab5046a304c47a08e9c92c16be906f52d96e888cdecf7712d3"
       }
     },
     "masters": {
       "16x9": {
         "path": "es-01-301-daylight-16x9.png",
         "width": 1920,
-        "height": 1080,
-        "sha256": "27764c46d922a4e4bf0964cde4578dff1e9ff888176f74ed64b19b59020a421d"
+        "height": 1270,
+        "sha256": "f3d299585cf7c0728ea44762b8c6cf8768c7d7665a4adf7b82500806155b8ad9"
       },
       "4x5": {
         "path": "es-01-301-daylight-4x5.png",
         "width": 864,
-        "height": 1080,
-        "sha256": "af3358407f4e44bc3b1cbc7b40491d61f936376c3174cc9d46f990e2cedc4abb"
+        "height": 1270,
+        "sha256": "d72179ae0a4bfaa7c6db27dc3f3d9620f0826016e0da40675f505f23901c2262"
       }
     },
     "on_image_text": [

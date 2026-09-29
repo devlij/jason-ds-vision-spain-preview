@@ -34,13 +34,13 @@
   "dimensions": {
     "16x9": {
       "width": 1920,
-      "height": 1080,
-      "sha256": "23b3c8da39f98666902b413a9ac96292159c74aff09b51e09a2c8cab20907571"
+      "height": 1270,
+      "sha256": "e63afe618f5b460139c680feddcd8791b2b1da506d631147d1da1ea7ac53bf42"
     },
     "4x5": {
       "width": 864,
-      "height": 1080,
-      "sha256": "eaf6085be5db9494ac0972bf4a0f8c9d2a880bdb16466eb3e955f54b205c5180"
+      "height": 1270,
+      "sha256": "0dbe7a17cfde26342d04752dc29c7324f63b0649c1104972bb64bd62eb6c4085"
     }
   },
   "masters": {
@@ -48,10 +48,10 @@
       "file": "es-01-294-r1-16x9.png",
       "dimensions": [
         1920,
-        1080
+        1270
       ],
-      "byte_length": 2038662,
-      "sha256": "23b3c8da39f98666902b413a9ac96292159c74aff09b51e09a2c8cab20907571",
+      "byte_length": 2040545,
+      "sha256": "e63afe618f5b460139c680feddcd8791b2b1da506d631147d1da1ea7ac53bf42",
       "source_file": "media-generation-src-es-01-294-0-c699f7ca-5138-41f3-94c0-e7e1fe0cf1e5.png",
       "source_dimensions": [
         1920,
@@ -75,10 +75,10 @@
       "file": "es-01-294-r1-4x5.png",
       "dimensions": [
         864,
-        1080
+        1270
       ],
-      "byte_length": 1091953,
-      "sha256": "eaf6085be5db9494ac0972bf4a0f8c9d2a880bdb16466eb3e955f54b205c5180",
+      "byte_length": 1098968,
+      "sha256": "0dbe7a17cfde26342d04752dc29c7324f63b0649c1104972bb64bd62eb6c4085",
       "source_file": "media-generation-src-es-01-294-0-c699f7ca-5138-41f3-94c0-e7e1fe0cf1e5.png",
       "source_dimensions": [
         1920,
@@ -150,32 +150,31 @@
   "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
   "reference_evidence": [],
   "approval_basis": "G1 visual: the 16:9 master recognizably renders Las Teresitas at night — the golden-sand beach curving under moonlight with a bright moonlit path on the calm Atlantic beyond the offshore breakwater, rows of palm trees along the back of the beach, the dark mass of the Anaga mountains rising behind, generic village lights on the slope; clean composition, no artifacts. G2 technical: both masters verified 1920x1080 and 864x1080 with SHA-256 matching the packet; on-image text exact — caption 'Las Teresitas, Tenerife', scenario '24 September 2026 · 01:24 Europe/Madrid', 'AI-generated artistic interpretation · Not a photograph.' on a bottom-left gradient scrim, 'Jason D’s Vision' signature bottom-right, legible and non-intrusive; Open-Meteo weather retrieved 2026-09-24T01:15+02:00, valid 01:15 — fresh against the 01:24 scenario, no reuse. G3 originality: packet documents built-in text-only generation, zero photographic inputs, Lanczos resampling lineage. G4 IP: no people, no logos, no recognizable private property. G5: no open blockers; village lights honestly generic, no specific fixtures claimed.",
-  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals)."
-,
+  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals).",
   "daylight_variant": {
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
         "path": "es-01-294-r1-16x9.png",
-        "sha256": "23b3c8da39f98666902b413a9ac96292159c74aff09b51e09a2c8cab20907571"
+        "sha256": "e63afe618f5b460139c680feddcd8791b2b1da506d631147d1da1ea7ac53bf42"
       },
       "4x5": {
         "path": "es-01-294-r1-4x5.png",
-        "sha256": "eaf6085be5db9494ac0972bf4a0f8c9d2a880bdb16466eb3e955f54b205c5180"
+        "sha256": "0dbe7a17cfde26342d04752dc29c7324f63b0649c1104972bb64bd62eb6c4085"
       }
     },
     "masters": {
       "16x9": {
         "path": "es-01-294-daylight-16x9.png",
         "width": 1920,
-        "height": 1080,
-        "sha256": "7dc00a6f2772028c21b97a2fdd12f10ea464be3eac89df95a554d975342213d1"
+        "height": 1270,
+        "sha256": "1395cd37c79d6e1333d4ff0bb1267d48eb889f8867494818e5cb5ad5c01357d4"
       },
       "4x5": {
         "path": "es-01-294-daylight-4x5.png",
         "width": 864,
-        "height": 1080,
-        "sha256": "25d79349e32132d3acfcc0a11c648be7aafcd55d108559383e4a17b279134186"
+        "height": 1270,
+        "sha256": "eb88ab110be39e3283a4530159f1f0428235ae94104167a2c335e89bd82a5485"
       }
     },
     "on_image_text": [

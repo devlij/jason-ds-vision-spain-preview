@@ -1,61 +1,61 @@
 {
- "entry_id": "ES-01-008",
- "country": "Spain",
- "region": "Madrid",
- "city": "Madrid",
- "caption": "Royal Palace, Madrid",
- "scenario_label": "23 September 2026 · 18:03 Europe/Madrid",
- "composition": "Daylight · South façade and Plaza de la Armería forecourt · AI-generated artistic interpretation",
- "alt_text": "AI-generated artistic interpretation of the Royal Palace of Madrid south façade and courtyard, with a modest central clock, in partly cloudy afternoon daylight.",
- "description": "The principal south façade faces the Plaza de la Armería. Pale limestone and granite, repeated giant-order columns and a small central clock define the palace frontage. The open forecourt and part of its right-side arcade are in frame.",
- "viewpoint": "Public Plaza de la Armería at approximately 40.416583, -3.714444, looking toward the south façade at eye level. Coordinates are reported for a historical reference photo; generated camera correspondence is approximate, not surveyed.",
- "weather": "Model data from Open-Meteo, retrieved 23 September 2026 18:03:25 Europe/Madrid, valid 18:00 Europe/Madrid — not a verified on-site observation. 33.0°C, WMO 2 partly cloudy, cloud 62%, precipitation 0 mm, wind 6.5 km/h. Sunrise 08:03, sunset 20:10. Approximate solar elevation 23.17°, azimuth 248.91°.",
- "status": "Approved · Cosmo QC 5/5 · Daylight",
- "approval_state": "approved",
- "approval_basis": "Cosmo APPROVED 5/5 for ES-01-008 r2, relayed by Jason on 23 September 2026 after review of the exact packet. The review confirms the restrained central clock, facade proportions, right-side arcade and late-afternoon light direction. This is not a Jason review or publishing-agent verdict.",
- "time_of_day": "Daylight",
- "license_badge": "Free · no credit needed",
- "license_anchor": "#license",
- "limitations": "Cosmo APPROVED 5/5 relayed by Jason for this exact r2 pair. Palace bay spacing, balcony/roof statuary and solar shadows remain generated interpretations. The portrait crops the outer wings while retaining the central entrance and clock. Exact-size exports are upscaled from a 1672x941 generated source; dimensions do not imply native detail. Model weather is not an on-site observation. Third-party rights and uniqueness are not legally certified.",
- "revision_lineage": "Built-in text-only image generation, then a targeted own-image edit to reduce an exaggerated clock structure. No photographic pixels supplied. Both final masters derive from the corrected 1672×941 source via uniform Lanczos resampling/crop and deterministic gradient/text. Initial source retained privately. Model version not exposed.",
- "historical_editions": [
-  "r1 source rejected for an exaggerated clock structure above the roofline; preserved privately"
- ],
- "editions": [],
- "dimensions": {
-  "16x9": {
-   "width": 1920,
-   "height": 1080,
-   "sha256": "a2d3ce11208380e95aceccc3ed86b3c63512870c2f4c30d61e817dc338461fa9",
-   "bytes": 2734865,
-   "source_width": 1672,
-   "source_height": 941,
-   "resampled": true
+  "entry_id": "ES-01-008",
+  "country": "Spain",
+  "region": "Madrid",
+  "city": "Madrid",
+  "caption": "Royal Palace, Madrid",
+  "scenario_label": "23 September 2026 · 18:03 Europe/Madrid",
+  "composition": "Daylight · South façade and Plaza de la Armería forecourt · AI-generated artistic interpretation",
+  "alt_text": "AI-generated artistic interpretation of the Royal Palace of Madrid south façade and courtyard, with a modest central clock, in partly cloudy afternoon daylight.",
+  "description": "The principal south façade faces the Plaza de la Armería. Pale limestone and granite, repeated giant-order columns and a small central clock define the palace frontage. The open forecourt and part of its right-side arcade are in frame.",
+  "viewpoint": "Public Plaza de la Armería at approximately 40.416583, -3.714444, looking toward the south façade at eye level. Coordinates are reported for a historical reference photo; generated camera correspondence is approximate, not surveyed.",
+  "weather": "Model data from Open-Meteo, retrieved 23 September 2026 18:03:25 Europe/Madrid, valid 18:00 Europe/Madrid — not a verified on-site observation. 33.0°C, WMO 2 partly cloudy, cloud 62%, precipitation 0 mm, wind 6.5 km/h. Sunrise 08:03, sunset 20:10. Approximate solar elevation 23.17°, azimuth 248.91°.",
+  "status": "Approved · Cosmo QC 5/5 · Daylight",
+  "approval_state": "approved",
+  "approval_basis": "Cosmo APPROVED 5/5 for ES-01-008 r2, relayed by Jason on 23 September 2026 after review of the exact packet. The review confirms the restrained central clock, facade proportions, right-side arcade and late-afternoon light direction. This is not a Jason review or publishing-agent verdict.",
+  "time_of_day": "Daylight",
+  "license_badge": "Free · no credit needed",
+  "license_anchor": "#license",
+  "limitations": "Cosmo APPROVED 5/5 relayed by Jason for this exact r2 pair. Palace bay spacing, balcony/roof statuary and solar shadows remain generated interpretations. The portrait crops the outer wings while retaining the central entrance and clock. Exact-size exports are upscaled from a 1672x941 generated source; dimensions do not imply native detail. Model weather is not an on-site observation. Third-party rights and uniqueness are not legally certified.",
+  "revision_lineage": "Built-in text-only image generation, then a targeted own-image edit to reduce an exaggerated clock structure. No photographic pixels supplied. Both final masters derive from the corrected 1672×941 source via uniform Lanczos resampling/crop and deterministic gradient/text. Initial source retained privately. Model version not exposed.",
+  "historical_editions": [
+    "r1 source rejected for an exaggerated clock structure above the roofline; preserved privately"
+  ],
+  "editions": [],
+  "dimensions": {
+    "16x9": {
+      "width": 1920,
+      "height": 1270,
+      "sha256": "2165067ced61bff35d43ac60ef7e381224ec36bc93ca9924ad5439cd86fbda1b",
+      "bytes": 2734882,
+      "source_width": 1672,
+      "source_height": 941,
+      "resampled": true
+    },
+    "4x5": {
+      "width": 864,
+      "height": 1270,
+      "sha256": "3d3e2f6d819f14cb35dd59d25c02b0cd6d7893458438fda9d6ae732eb161bf29",
+      "bytes": 1227946,
+      "source_width": 1672,
+      "source_height": 941,
+      "resampled": true
+    }
   },
-  "4x5": {
-   "width": 864,
-   "height": 1080,
-   "sha256": "46052454b41bb88742315e92f9d4ca157442b87d7596da3ff69470e4a06c5c3c",
-   "bytes": 1221986,
-   "source_width": 1672,
-   "source_height": 941,
-   "resampled": true
-  }
- },
- "gates": {
-  "visual": "Cosmo QC APPROVED 5/5, relayed by Jason; no new agent review",
-  "technical": "Local PNGs fully decoded and visually opened; dimensions and SHA-256 recorded; same-source crop and overlays checked",
-  "provenance": "Built-in text-only generation and one own-image correction recorded; uniqueness unverified",
-  "commercial_ip": "Unverified; internal review is not legal certification",
-  "publication": "Approved gallery authorized by relayed Cosmo verdict; live status requires successful deployment"
- },
- "file_16x9": "es-01-008-r2-16x9.png",
- "file_4x5": "es-01-008-r2-4x5.png",
- "review_history": [
-  {
-   "date": "2026-09-23",
-   "previous_status": "Awaiting Cosmo QC · Daylight",
-   "resolution": "Cosmo APPROVED 5/5 for ES-01-008 r2, relayed by Jason on 23 September 2026 after review of the exact packet. The review confirms the restrained central clock, facade proportions, right-side arcade and late-afternoon light direction. This is not a Jason review or publishing-agent verdict."
-  }
- ]
+  "gates": {
+    "visual": "Cosmo QC APPROVED 5/5, relayed by Jason; no new agent review",
+    "technical": "Local PNGs fully decoded and visually opened; dimensions and SHA-256 recorded; same-source crop and overlays checked",
+    "provenance": "Built-in text-only generation and one own-image correction recorded; uniqueness unverified",
+    "commercial_ip": "Unverified; internal review is not legal certification",
+    "publication": "Approved gallery authorized by relayed Cosmo verdict; live status requires successful deployment"
+  },
+  "file_16x9": "es-01-008-r2-16x9.png",
+  "file_4x5": "es-01-008-r2-4x5.png",
+  "review_history": [
+    {
+      "date": "2026-09-23",
+      "previous_status": "Awaiting Cosmo QC · Daylight",
+      "resolution": "Cosmo APPROVED 5/5 for ES-01-008 r2, relayed by Jason on 23 September 2026 after review of the exact packet. The review confirms the restrained central clock, facade proportions, right-side arcade and late-afternoon light direction. This is not a Jason review or publishing-agent verdict."
+    }
+  ]
 }

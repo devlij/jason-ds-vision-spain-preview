@@ -34,13 +34,13 @@
   "dimensions": {
     "16x9": {
       "width": 1920,
-      "height": 1080,
-      "sha256": "0ea9f14393ce647bf03d5c7e89cb71fc49ea47248bd01dca7f42cae72344e295"
+      "height": 1270,
+      "sha256": "8cf67f5a2d2c64929034ac81cbc390cc827ec8bf05e31b724244d171e67dd846"
     },
     "4x5": {
       "width": 864,
-      "height": 1080,
-      "sha256": "490a4c9017781873d0e20b0d2581afc40dc6053607ddc20f712e58d0765730fe"
+      "height": 1270,
+      "sha256": "c9468900b5da236c7d6ebc782975cf33979d017d8a8a88597d2702c091842a93"
     }
   },
   "masters": {
@@ -48,10 +48,10 @@
       "file": "es-01-284-r1-16x9.png",
       "dimensions": [
         1920,
-        1080
+        1270
       ],
-      "byte_length": 2961637,
-      "sha256": "0ea9f14393ce647bf03d5c7e89cb71fc49ea47248bd01dca7f42cae72344e295",
+      "byte_length": 2964012,
+      "sha256": "8cf67f5a2d2c64929034ac81cbc390cc827ec8bf05e31b724244d171e67dd846",
       "source_file": "media-generation-src-es-01-284-0-bb077d7a-3da8-4b56-8f30-50941de95bf7.png",
       "source_dimensions": [
         1920,
@@ -75,10 +75,10 @@
       "file": "es-01-284-r1-4x5.png",
       "dimensions": [
         864,
-        1080
+        1270
       ],
-      "byte_length": 1434789,
-      "sha256": "490a4c9017781873d0e20b0d2581afc40dc6053607ddc20f712e58d0765730fe",
+      "byte_length": 1443821,
+      "sha256": "c9468900b5da236c7d6ebc782975cf33979d017d8a8a88597d2702c091842a93",
       "source_file": "media-generation-src-es-01-284-0-bb077d7a-3da8-4b56-8f30-50941de95bf7.png",
       "source_dimensions": [
         1920,
@@ -150,32 +150,31 @@
   "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
   "reference_evidence": [],
   "approval_basis": "Night Mount Teide: the great volcanic cone under a Milky Way star field, flanked by a Roques-de-García-type basalt pillar left and spire rocks right, clouds wisping at the summit; on-image text verified: caption 'Mount Teide, Tenerife', scenario '24 September 2026 · 01:14 Europe/Madrid', disclosure 'AI-generated artistic interpretation · Not a photograph.', exact 'Jason D's Vision' signature bottom-right; SHA-256 + 1920×1080/864×1080 match packet; Open-Meteo weather retrieved 2026-09-24T01:00+02:00 consistent with scenario hour; packet documents text-only generation, no photographic inputs; no people or logos; star positions explicitly artistic, moon phase not claimed per packet (documented only).",
-  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals)."
-,
+  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals).",
   "daylight_variant": {
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
         "path": "es-01-284-r1-16x9.png",
-        "sha256": "0ea9f14393ce647bf03d5c7e89cb71fc49ea47248bd01dca7f42cae72344e295"
+        "sha256": "8cf67f5a2d2c64929034ac81cbc390cc827ec8bf05e31b724244d171e67dd846"
       },
       "4x5": {
         "path": "es-01-284-r1-4x5.png",
-        "sha256": "490a4c9017781873d0e20b0d2581afc40dc6053607ddc20f712e58d0765730fe"
+        "sha256": "c9468900b5da236c7d6ebc782975cf33979d017d8a8a88597d2702c091842a93"
       }
     },
     "masters": {
       "16x9": {
         "path": "es-01-284-daylight-16x9.png",
         "width": 1920,
-        "height": 1080,
-        "sha256": "b3a91a853d51f64f95c115392e71b049b775523819dca466d383ad65991beeb3"
+        "height": 1270,
+        "sha256": "89cb738ace79411ac291c1b1da4e6c0ae64e6fbfd5025a8cdde8bdb3ea45faec"
       },
       "4x5": {
         "path": "es-01-284-daylight-4x5.png",
         "width": 864,
-        "height": 1080,
-        "sha256": "8704787a40cee8843820adc45e74b1c5785d27d5878c0e231277184a8573ff19"
+        "height": 1270,
+        "sha256": "e706ec5d66bd55e5586ffa3f1ff0d536cd631645f1ac0576eaaf20cbf6619a40"
       }
     },
     "on_image_text": [

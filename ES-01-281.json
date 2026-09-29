@@ -34,13 +34,13 @@
   "dimensions": {
     "16x9": {
       "width": 1920,
-      "height": 1080,
-      "sha256": "a92598a3891bee13e9cee8d7931b37bd15b37c8a9797fa8c068085d1fab15833"
+      "height": 1270,
+      "sha256": "d1af7770b6366696dbcae2e255d6713045bf48b91c0e8138d5c6f6bfe2658543"
     },
     "4x5": {
       "width": 864,
-      "height": 1080,
-      "sha256": "1bb736173c738e26ceee4e3d42f786d59cb889324977583b964cabcdc05be21b"
+      "height": 1270,
+      "sha256": "d58b6d858af0beb70bd4453e35ec0e5b8e327dfde7c71c208ef97fd1a2c81535"
     }
   },
   "masters": {
@@ -48,10 +48,10 @@
       "file": "es-01-281-r1-16x9.png",
       "dimensions": [
         1920,
-        1080
+        1270
       ],
-      "byte_length": 2146344,
-      "sha256": "a92598a3891bee13e9cee8d7931b37bd15b37c8a9797fa8c068085d1fab15833",
+      "byte_length": 2152916,
+      "sha256": "d1af7770b6366696dbcae2e255d6713045bf48b91c0e8138d5c6f6bfe2658543",
       "source_file": "source-281.png",
       "source_dimensions": [
         1408,
@@ -75,10 +75,10 @@
       "file": "es-01-281-r1-4x5.png",
       "dimensions": [
         864,
-        1080
+        1270
       ],
-      "byte_length": 1163356,
-      "sha256": "1bb736173c738e26ceee4e3d42f786d59cb889324977583b964cabcdc05be21b",
+      "byte_length": 1173401,
+      "sha256": "d58b6d858af0beb70bd4453e35ec0e5b8e327dfde7c71c208ef97fd1a2c81535",
       "source_file": "source-281.png",
       "source_dimensions": [
         1408,
@@ -155,32 +155,31 @@
   "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
   "reference_evidence": [],
   "approval_basis": "Gate 1 PASS: fortified Cistercian complex at night — crenellated perimeter walls, gatehouse with twin lit lamps, church with rose window and octagonal lantern tower, cypress trees and mountains behind; recognizably Poblet Monastery from a plausible elevated tourist viewpoint, clean framing, no artifacts. Gate 2 PASS: both masters mechanically verified (1920x1080 + 864x1080, SHA-256 match); baked caption 'Poblet Monastery, Vimbodí' exact; scenario '24 September 2026 · 01:35 Europe/Madrid' matches packet; weather retrieved 01:12:51+02:00 valid 01:30 covers the scenario hour — fresh; signature 'Jason D's Vision' with curly apostrophe bottom-right and AI disclosure bottom-left, legible on the gradient scrim. Gate 3 PASS: packet documents text-only generation, image_inputs empty, no photographic inputs. Gate 4: no people or logos visible; monastery shown with window and lamp light only, no illumination claim beyond that. Gate 5: no open blockers. Modelled night scenario, not a verified capture.",
-  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals)."
-,
+  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals).",
   "daylight_variant": {
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
         "path": "es-01-281-r1-16x9.png",
-        "sha256": "a92598a3891bee13e9cee8d7931b37bd15b37c8a9797fa8c068085d1fab15833"
+        "sha256": "d1af7770b6366696dbcae2e255d6713045bf48b91c0e8138d5c6f6bfe2658543"
       },
       "4x5": {
         "path": "es-01-281-r1-4x5.png",
-        "sha256": "1bb736173c738e26ceee4e3d42f786d59cb889324977583b964cabcdc05be21b"
+        "sha256": "d58b6d858af0beb70bd4453e35ec0e5b8e327dfde7c71c208ef97fd1a2c81535"
       }
     },
     "masters": {
       "16x9": {
         "path": "es-01-281-daylight-16x9.png",
         "width": 1920,
-        "height": 1080,
-        "sha256": "9812ca6e8f496337523fcda54a0d614b89ea1a9cee2bce083b294cf916c9bd5c"
+        "height": 1270,
+        "sha256": "7e23d28bc4192041bf3f20f7e2ae872e366975ec7ddb3b4e5e543b68645aeb95"
       },
       "4x5": {
         "path": "es-01-281-daylight-4x5.png",
         "width": 864,
-        "height": 1080,
-        "sha256": "12eff82d76f44b9c86d9a95d5c3674766b89a948bff4238323e8d790e1f4ae2c"
+        "height": 1270,
+        "sha256": "6cbb0d853ee5896665cebc361540aae971d7029563a50089414781d70556159c"
       }
     },
     "on_image_text": [

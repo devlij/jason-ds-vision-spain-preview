@@ -42,13 +42,13 @@
   "dimensions": {
     "16x9": {
       "width": 1920,
-      "height": 1080,
-      "sha256": "fbcc34933ea542422dac8e5638fd7233844dab7758fada215e529e15d8de5f78"
+      "height": 1270,
+      "sha256": "411691ccbce5b442109a09811c594d59dc7c81a0a3c5827e43ff856abde3a8a5"
     },
     "4x5": {
       "width": 864,
-      "height": 1080,
-      "sha256": "39ccce6bcfff601271f0fe74a8b1a8c6c191d72471be71e48183a4a8af6f08e6"
+      "height": 1270,
+      "sha256": "c6215c00c8be6f90bff6677ea7c5b8080062b5b5a7784678691d6e981192c00a"
     }
   },
   "file_naming_note": "Canonical ES-01 filenames are byte-identical copies. ES-AN filenames are retained only as compatibility aliases for historical links.",
@@ -57,25 +57,25 @@
     "source_night": {
       "16x9": {
         "path": "es-01-018-16x9.png",
-        "sha256": "fbcc34933ea542422dac8e5638fd7233844dab7758fada215e529e15d8de5f78"
+        "sha256": "411691ccbce5b442109a09811c594d59dc7c81a0a3c5827e43ff856abde3a8a5"
       },
       "4x5": {
         "path": "es-01-018-4x5.png",
-        "sha256": "39ccce6bcfff601271f0fe74a8b1a8c6c191d72471be71e48183a4a8af6f08e6"
+        "sha256": "c6215c00c8be6f90bff6677ea7c5b8080062b5b5a7784678691d6e981192c00a"
       }
     },
     "masters": {
       "16x9": {
         "path": "es-01-018-daylight-16x9.png",
         "width": 1920,
-        "height": 1080,
-        "sha256": "f5271c039b14d6e1d333227502cf676ee54de87a7cce7874828d0d53b527c286"
+        "height": 1270,
+        "sha256": "65fab0f79286d7e6505af282e73a26e7b99ceac648013d44e43e41c8396410b9"
       },
       "4x5": {
         "path": "es-01-018-daylight-4x5.png",
         "width": 864,
-        "height": 1080,
-        "sha256": "1ea2365b36ede0ba74c0384e7d7339ce82deee3c148bfbb733f111530dd66334"
+        "height": 1270,
+        "sha256": "ee6fcd892a7675823292dfb67d8a0e596daa59be590fd094193934c35a3f8502"
       }
     },
     "on_image_text": [

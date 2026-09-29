@@ -34,13 +34,13 @@
   "dimensions": {
     "16x9": {
       "width": 1920,
-      "height": 1080,
-      "sha256": "e9cbbb39b0a27c50288d8ec2db3e547cbce9ddc9ce3d8a34ff42b81e4edce8ec"
+      "height": 1270,
+      "sha256": "a9f65cbb392c0c7529af7b17a9533cf539da23d417995b7c410b7a97d6979435"
     },
     "4x5": {
       "width": 864,
-      "height": 1080,
-      "sha256": "1e47cae530c788d9696e61c1253efc407c4cd114022469b75fa6cbd0bae32520"
+      "height": 1270,
+      "sha256": "5f46897ea6ee9568b5d9d2e8aea8c429099faf2fc73811bfd0e017a06ce28ccf"
     }
   },
   "masters": {
@@ -48,10 +48,10 @@
       "file": "es-01-286-r1-16x9.png",
       "dimensions": [
         1920,
-        1080
+        1270
       ],
-      "byte_length": 1837710,
-      "sha256": "e9cbbb39b0a27c50288d8ec2db3e547cbce9ddc9ce3d8a34ff42b81e4edce8ec",
+      "byte_length": 1836312,
+      "sha256": "a9f65cbb392c0c7529af7b17a9533cf539da23d417995b7c410b7a97d6979435",
       "source_file": "media-generation-src-es-01-286-0-35941676-afe1-4284-9057-f2511bd5b34f.png",
       "source_dimensions": [
         1920,
@@ -75,10 +75,10 @@
       "file": "es-01-286-r1-4x5.png",
       "dimensions": [
         864,
-        1080
+        1270
       ],
-      "byte_length": 1005709,
-      "sha256": "1e47cae530c788d9696e61c1253efc407c4cd114022469b75fa6cbd0bae32520",
+      "byte_length": 1012013,
+      "sha256": "5f46897ea6ee9568b5d9d2e8aea8c429099faf2fc73811bfd0e017a06ce28ccf",
       "source_file": "media-generation-src-es-01-286-0-35941676-afe1-4284-9057-f2511bd5b34f.png",
       "source_dimensions": [
         1920,
@@ -150,32 +150,31 @@
   "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
   "reference_evidence": [],
   "approval_basis": "Night Dunas de Maspalomas: wind-rippled crescent dunes in the foreground, a palm oasis silhouette left, the sea catching a crescent-moon path on the horizon right under a star field; on-image text verified: caption 'Dunas de Maspalomas, Gran Canaria', scenario '24 September 2026 · 01:14 Europe/Madrid', disclosure 'AI-generated artistic interpretation · Not a photograph.', exact 'Jason D's Vision' signature bottom-right; SHA-256 + 1920×1080/864×1080 match packet; Open-Meteo weather retrieved 2026-09-24T01:00+02:00 consistent with scenario hour; packet documents text-only generation, no photographic inputs; no people or logos; moon position and phase artistic per packet limitations (documented only).",
-  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals)."
-,
+  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals).",
   "daylight_variant": {
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
         "path": "es-01-286-r1-16x9.png",
-        "sha256": "e9cbbb39b0a27c50288d8ec2db3e547cbce9ddc9ce3d8a34ff42b81e4edce8ec"
+        "sha256": "a9f65cbb392c0c7529af7b17a9533cf539da23d417995b7c410b7a97d6979435"
       },
       "4x5": {
         "path": "es-01-286-r1-4x5.png",
-        "sha256": "1e47cae530c788d9696e61c1253efc407c4cd114022469b75fa6cbd0bae32520"
+        "sha256": "5f46897ea6ee9568b5d9d2e8aea8c429099faf2fc73811bfd0e017a06ce28ccf"
       }
     },
     "masters": {
       "16x9": {
         "path": "es-01-286-daylight-16x9.png",
         "width": 1920,
-        "height": 1080,
-        "sha256": "e2cedd277b91de79702f06d1d53495d4b966be861662c5fcd3b5fde50e52c30d"
+        "height": 1270,
+        "sha256": "e29fd07707211d745157a7c9bd4c0d9587592aecff62bcc0fd1e57e5c2ebba77"
       },
       "4x5": {
         "path": "es-01-286-daylight-4x5.png",
         "width": 864,
-        "height": 1080,
-        "sha256": "0399e0f54172d20ed321b9982cab926cf9f018e173cea1082f9702ae061f76f2"
+        "height": 1270,
+        "sha256": "52214377dc563282e3d1b3354a6804b027e13505fa7404a02397f487008000aa"
       }
     },
     "on_image_text": [

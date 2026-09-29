@@ -34,13 +34,13 @@
   "dimensions": {
     "16x9": {
       "width": 1920,
-      "height": 1080,
-      "sha256": "e26fcfc9797ce2fa2649ee4019daf1399371d5784835fc098d1a35d3570812c6"
+      "height": 1270,
+      "sha256": "3c52e5ec408875855052aa8c062d0fa302568a8002a2166ed06513ed183b1401"
     },
     "4x5": {
       "width": 864,
-      "height": 1080,
-      "sha256": "33e60224e1237821d665b159c23561635e92ce60467d4fa30389076cbb9efa12"
+      "height": 1270,
+      "sha256": "00275a1ee4b26da85637763eb013ab87455723f9b6aad4e402b3ca8fcaf24549"
     }
   },
   "masters": {
@@ -48,10 +48,10 @@
       "file": "es-01-293-r1-16x9.png",
       "dimensions": [
         1920,
-        1080
+        1270
       ],
-      "byte_length": 3159561,
-      "sha256": "e26fcfc9797ce2fa2649ee4019daf1399371d5784835fc098d1a35d3570812c6",
+      "byte_length": 3158253,
+      "sha256": "3c52e5ec408875855052aa8c062d0fa302568a8002a2166ed06513ed183b1401",
       "source_file": "media-generation-src-es-01-293-0-2ac15cbd-7f7d-4afc-8c56-6f3dac9e8c75.png",
       "source_dimensions": [
         1920,
@@ -75,10 +75,10 @@
       "file": "es-01-293-r1-4x5.png",
       "dimensions": [
         864,
-        1080
+        1270
       ],
-      "byte_length": 1435068,
-      "sha256": "33e60224e1237821d665b159c23561635e92ce60467d4fa30389076cbb9efa12",
+      "byte_length": 1442194,
+      "sha256": "00275a1ee4b26da85637763eb013ab87455723f9b6aad4e402b3ca8fcaf24549",
       "source_file": "media-generation-src-es-01-293-0-2ac15cbd-7f7d-4afc-8c56-6f3dac9e8c75.png",
       "source_dimensions": [
         1920,
@@ -150,32 +150,31 @@
   "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
   "reference_evidence": [],
   "approval_basis": "G1 visual: the 16:9 master recognizably renders the Cueva de los Verdes lava tube interior — a receding sequence of illuminated arches washed in the venue's designed warm amber lighting, rough volcanic rock walls closing around the tube as it draws into darkness, path-side fixtures visible along the walkway; the concert-tube character reads clearly while the auditorium is honestly not depicted; clean framing, no artifacts. G2 technical: both masters verified 1920x1080 and 864x1080 with SHA-256 matching the packet; on-image text exact — caption 'Cueva de los Verdes, Lanzarote', scenario '24 September 2026 · 01:24 Europe/Madrid', 'AI-generated artistic interpretation · Not a photograph.' on a bottom-left gradient scrim, 'Jason D’s Vision' signature bottom-right, legible and non-intrusive; Open-Meteo weather retrieved 2026-09-24T01:15+02:00, valid 01:15 — fresh against the 01:24 scenario, no reuse. G3 originality: packet documents built-in text-only generation, zero photographic inputs, Lanczos resampling lineage. G4 IP: no people, no logos, no recognizable private property. G5: no open blockers.",
-  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals)."
-,
+  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals).",
   "daylight_variant": {
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
         "path": "es-01-293-r1-16x9.png",
-        "sha256": "e26fcfc9797ce2fa2649ee4019daf1399371d5784835fc098d1a35d3570812c6"
+        "sha256": "3c52e5ec408875855052aa8c062d0fa302568a8002a2166ed06513ed183b1401"
       },
       "4x5": {
         "path": "es-01-293-r1-4x5.png",
-        "sha256": "33e60224e1237821d665b159c23561635e92ce60467d4fa30389076cbb9efa12"
+        "sha256": "00275a1ee4b26da85637763eb013ab87455723f9b6aad4e402b3ca8fcaf24549"
       }
     },
     "masters": {
       "16x9": {
         "path": "es-01-293-daylight-16x9.png",
         "width": 1920,
-        "height": 1080,
-        "sha256": "30427e68710f5bb9323e7ffaf0cf7497ee4323b7131fde586a32661f37e7563f"
+        "height": 1270,
+        "sha256": "8c0c16533ca0a4910e52ad7bd8afdf4fcc231ff18c33c1e89e237aa83cac90e8"
       },
       "4x5": {
         "path": "es-01-293-daylight-4x5.png",
         "width": 864,
-        "height": 1080,
-        "sha256": "95d2dd1fbd0d1acb24aaec54fafae6a84d0658e313b27bfa093ccaa37008300b"
+        "height": 1270,
+        "sha256": "d6cbb87750b7b14ffda68b7128cd561d14f54b89223a647cc3ad598270a2b63e"
       }
     },
     "on_image_text": [

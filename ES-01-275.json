@@ -34,13 +34,13 @@
   "dimensions": {
     "16x9": {
       "width": 1920,
-      "height": 1080,
-      "sha256": "79bde5eccd0202a29361f1ac7a06b317bb269758a030384085e986521e5a9182"
+      "height": 1270,
+      "sha256": "b217e57efb10be30765f17c44c2e4f72bc5e185276b4ffa186c010bc65ab2834"
     },
     "4x5": {
       "width": 864,
-      "height": 1080,
-      "sha256": "3a4c5a973704e59daabd6cd8b37803cf4e230601b08e23af754a8f1caf1122eb"
+      "height": 1270,
+      "sha256": "a7e6d08a1d0e4abdf9f8e7a0d32c57ba5ba5e74d898560edb9c0de050e03911e"
     }
   },
   "masters": {
@@ -48,10 +48,10 @@
       "file": "es-01-275-r1-16x9.png",
       "dimensions": [
         1920,
-        1080
+        1270
       ],
-      "byte_length": 2412403,
-      "sha256": "79bde5eccd0202a29361f1ac7a06b317bb269758a030384085e986521e5a9182",
+      "byte_length": 2415361,
+      "sha256": "b217e57efb10be30765f17c44c2e4f72bc5e185276b4ffa186c010bc65ab2834",
       "source_file": "source-275.png",
       "source_dimensions": [
         1408,
@@ -75,10 +75,10 @@
       "file": "es-01-275-r1-4x5.png",
       "dimensions": [
         864,
-        1080
+        1270
       ],
-      "byte_length": 1137913,
-      "sha256": "3a4c5a973704e59daabd6cd8b37803cf4e230601b08e23af754a8f1caf1122eb",
+      "byte_length": 1146658,
+      "sha256": "a7e6d08a1d0e4abdf9f8e7a0d32c57ba5ba5e74d898560edb9c0de050e03911e",
       "source_file": "source-275.png",
       "source_dimensions": [
         1408,
@@ -155,32 +155,31 @@
   "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
   "reference_evidence": [],
   "approval_basis": "Gate 1: the 16:9 master shows Benidorm's illuminated high-rise skyline — twin towers, curved residential slabs and the lit promenade — stretching along the moonlit beach with column reflections in the water and the dark silhouette of Benidorm Island offshore, a recognizable night view from the southern headland. Gate 2: masters 1920×1080/864×1080 with SHA-256 matching the packet; on-image caption 'Benidorm skyline, Benidorm', scenario '24 September 2026 · 01:33 Europe/Madrid', and 'AI-generated artistic interpretation · Not a photograph.' disclosure legible bottom-left; 'Jason D's Vision' with curly apostrophe bottom-right; Open-Meteo weather retrieved 2026-09-24T01:12:51+02:00, valid 01:30, consistent with the 01:33 scenario. Gate 3: provenance documents text-only original generation, image_inputs empty, no photographic inputs. Gate 4: no visible people or logos; city lightscape only. Gate 5: no open blockers.",
-  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals)."
-,
+  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals).",
   "daylight_variant": {
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
         "path": "es-01-275-r1-16x9.png",
-        "sha256": "79bde5eccd0202a29361f1ac7a06b317bb269758a030384085e986521e5a9182"
+        "sha256": "b217e57efb10be30765f17c44c2e4f72bc5e185276b4ffa186c010bc65ab2834"
       },
       "4x5": {
         "path": "es-01-275-r1-4x5.png",
-        "sha256": "3a4c5a973704e59daabd6cd8b37803cf4e230601b08e23af754a8f1caf1122eb"
+        "sha256": "a7e6d08a1d0e4abdf9f8e7a0d32c57ba5ba5e74d898560edb9c0de050e03911e"
       }
     },
     "masters": {
       "16x9": {
         "path": "es-01-275-daylight-16x9.png",
         "width": 1920,
-        "height": 1080,
-        "sha256": "9913005bf2de19c76762ba8355fb45e29159c36a5c4f8eaf1c054049ebdab0ce"
+        "height": 1270,
+        "sha256": "69f6b638e599662fd3535fc0e08163cd0153946d613899bd18254f24afbb8fa9"
       },
       "4x5": {
         "path": "es-01-275-daylight-4x5.png",
         "width": 864,
-        "height": 1080,
-        "sha256": "ce5a337cab9357084eb5e16d58ef12845e5886d29be41591fd5099059ee4bfd6"
+        "height": 1270,
+        "sha256": "f0c8d01fce3f338d7afdb243aabcbd5d6c7cdcfc46f9cb68406223d2267db45e"
       }
     },
     "on_image_text": [

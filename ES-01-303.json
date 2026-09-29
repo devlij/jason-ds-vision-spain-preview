@@ -34,13 +34,13 @@
   "dimensions": {
     "16x9": {
       "width": 1920,
-      "height": 1080,
-      "sha256": "8c404cc967c53e48abb8f6baef516f038efca7c49cde5fd370a93335ceb133a0"
+      "height": 1270,
+      "sha256": "4d76a72355d69522964635e29718f8e9155bc16f307416a194d288ad8ced5e73"
     },
     "4x5": {
       "width": 864,
-      "height": 1080,
-      "sha256": "35c78016d9ec41ede13a2a00d56809ba16d389d4f64fbd4268566ad5c1aede16"
+      "height": 1270,
+      "sha256": "342103add5766ec895563ed58d4f06da56106a8ebe3edc0edae9e74083e898b7"
     }
   },
   "masters": {
@@ -48,10 +48,10 @@
       "file": "es-01-303-r1-16x9.png",
       "dimensions": [
         1920,
-        1080
+        1270
       ],
-      "byte_length": 2412175,
-      "sha256": "8c404cc967c53e48abb8f6baef516f038efca7c49cde5fd370a93335ceb133a0",
+      "byte_length": 2416440,
+      "sha256": "4d76a72355d69522964635e29718f8e9155bc16f307416a194d288ad8ced5e73",
       "source_file": "media-generation-src-es-01-303-0-ff1a82cf-8d23-43c5-953d-f993a662c383.png",
       "source_dimensions": [
         1920,
@@ -75,10 +75,10 @@
       "file": "es-01-303-r1-4x5.png",
       "dimensions": [
         864,
-        1080
+        1270
       ],
-      "byte_length": 1276987,
-      "sha256": "35c78016d9ec41ede13a2a00d56809ba16d389d4f64fbd4268566ad5c1aede16",
+      "byte_length": 1283423,
+      "sha256": "342103add5766ec895563ed58d4f06da56106a8ebe3edc0edae9e74083e898b7",
       "source_file": "media-generation-src-es-01-303-0-ff1a82cf-8d23-43c5-953d-f993a662c383.png",
       "source_dimensions": [
         1920,
@@ -150,32 +150,31 @@
   "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
   "reference_evidence": [],
   "approval_basis": "G1: Betancuria sleeps recognizably under moonlight — whitewashed houses scattered among dark volcanic hills, the Santa Maria church bell tower with its distinctive brick-quoined facade rising at the center, a few lit windows, near-full moon and stars in an essentially clear sky (1% model cloud consistent); quiet inland night, clean framing. G2: mechanical sweep PASS on exact 1920×1080 + 864×1080 with packet-matching SHA-256; exact caption 'Betancuria, Fuerteventura', scenario '24 September 2026 · 01:33 Europe/Madrid', AI disclosure on scrim; exact 'Jason D's Vision' signature; weather retrieved 01:30, valid 01:30 — fresh. G3: text-only generation, image_inputs empty. G4: no visible people or logos; ordinary village houses noted, documented only. G5: no open blockers.",
-  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals)."
-,
+  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals).",
   "daylight_variant": {
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
         "path": "es-01-303-r1-16x9.png",
-        "sha256": "8c404cc967c53e48abb8f6baef516f038efca7c49cde5fd370a93335ceb133a0"
+        "sha256": "4d76a72355d69522964635e29718f8e9155bc16f307416a194d288ad8ced5e73"
       },
       "4x5": {
         "path": "es-01-303-r1-4x5.png",
-        "sha256": "35c78016d9ec41ede13a2a00d56809ba16d389d4f64fbd4268566ad5c1aede16"
+        "sha256": "342103add5766ec895563ed58d4f06da56106a8ebe3edc0edae9e74083e898b7"
       }
     },
     "masters": {
       "16x9": {
         "path": "es-01-303-daylight-16x9.png",
         "width": 1920,
-        "height": 1080,
-        "sha256": "1dad6d43c1702f430295e8df2d6ec199ef0f6a41280e9b8da676a391f09675b3"
+        "height": 1270,
+        "sha256": "f33a2eb64a85adc9b8622fc13466b976e37e9200b747ad9f685bb5cffd130f05"
       },
       "4x5": {
         "path": "es-01-303-daylight-4x5.png",
         "width": 864,
-        "height": 1080,
-        "sha256": "df1edf66f0d2b1b275572d34c9061121f732724bf3fac8126c391d14241c76e1"
+        "height": 1270,
+        "sha256": "8ae052faa2a1455dd75b6faa4443793bf117177b4d180d4b55a3a61b39498578"
       }
     },
     "on_image_text": [

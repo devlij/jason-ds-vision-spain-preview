@@ -34,13 +34,13 @@
   "dimensions": {
     "16x9": {
       "width": 1920,
-      "height": 1080,
-      "sha256": "ed2f7a462637b98500d0e89b7b28c9c6b27081c6420e96486bdaffe795face5f"
+      "height": 1270,
+      "sha256": "7cb5f3a7eb3e46709297db50a01badcfe9d09da53427f3b8da14bddf0bc7db5f"
     },
     "4x5": {
       "width": 864,
-      "height": 1080,
-      "sha256": "3518454c247274dce4add81d674fc6500e04912f8e739fed0fbfe4319aeda5b4"
+      "height": 1270,
+      "sha256": "39e05dc7438a5ff5078737facf3094bf5139ccd655433add0d50538073049bee"
     }
   },
   "masters": {
@@ -48,10 +48,10 @@
       "file": "es-01-277-r1-16x9.png",
       "dimensions": [
         1920,
-        1080
+        1270
       ],
-      "byte_length": 2110406,
-      "sha256": "ed2f7a462637b98500d0e89b7b28c9c6b27081c6420e96486bdaffe795face5f",
+      "byte_length": 2114222,
+      "sha256": "7cb5f3a7eb3e46709297db50a01badcfe9d09da53427f3b8da14bddf0bc7db5f",
       "source_file": "source-277.png",
       "source_dimensions": [
         1408,
@@ -75,10 +75,10 @@
       "file": "es-01-277-r1-4x5.png",
       "dimensions": [
         864,
-        1080
+        1270
       ],
-      "byte_length": 927054,
-      "sha256": "3518454c247274dce4add81d674fc6500e04912f8e739fed0fbfe4319aeda5b4",
+      "byte_length": 936078,
+      "sha256": "39e05dc7438a5ff5078737facf3094bf5139ccd655433add0d50538073049bee",
       "source_file": "source-277.png",
       "source_dimensions": [
         1408,
@@ -155,32 +155,31 @@
   "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
   "reference_evidence": [],
   "approval_basis": "Gate 1: the 16:9 master shows the floodlit Castillo de Santa Bárbara crowning Mount Benacantil, its walls and towers glowing above Alicante's lit cityscape, port lights and palms below — a recognizable night panorama of the city. Gate 2: masters 1920×1080/864×1080 with SHA-256 matching the packet; on-image caption 'Castillo de Santa Bárbara, Alicante', scenario '24 September 2026 · 01:33 Europe/Madrid', and 'AI-generated artistic interpretation · Not a photograph.' disclosure legible bottom-left; 'Jason D's Vision' with curly apostrophe bottom-right; Open-Meteo weather retrieved 2026-09-24T01:12:51+02:00, valid 01:30, consistent with the 01:33 scenario. Gate 3: provenance documents text-only original generation, image_inputs empty, no photographic inputs. Gate 4: no visible people or logos; city panorama only. Gate 5: no open blockers.",
-  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals)."
-,
+  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals).",
   "daylight_variant": {
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
         "path": "es-01-277-r1-16x9.png",
-        "sha256": "ed2f7a462637b98500d0e89b7b28c9c6b27081c6420e96486bdaffe795face5f"
+        "sha256": "7cb5f3a7eb3e46709297db50a01badcfe9d09da53427f3b8da14bddf0bc7db5f"
       },
       "4x5": {
         "path": "es-01-277-r1-4x5.png",
-        "sha256": "3518454c247274dce4add81d674fc6500e04912f8e739fed0fbfe4319aeda5b4"
+        "sha256": "39e05dc7438a5ff5078737facf3094bf5139ccd655433add0d50538073049bee"
       }
     },
     "masters": {
       "16x9": {
         "path": "es-01-277-daylight-16x9.png",
         "width": 1920,
-        "height": 1080,
-        "sha256": "896a672b499fa42a4958e761254471c61c5c3552ab6c95185990bd63a2fb5baa"
+        "height": 1270,
+        "sha256": "0772a50a0e5b29b3dd6859b2ffa5c0897f89c7e60f8ed46f2d579936760541e0"
       },
       "4x5": {
         "path": "es-01-277-daylight-4x5.png",
         "width": 864,
-        "height": 1080,
-        "sha256": "2ee3e7dc1906b3c7b0449ad69280dd7350a25a763d2f2a8cf90d503adf928e4d"
+        "height": 1270,
+        "sha256": "f5844219ebf8bce756d2528127ed0b77b005b5d9bb1c0fc918de31ac97857b3c"
       }
     },
     "on_image_text": [

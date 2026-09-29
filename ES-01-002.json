@@ -44,13 +44,13 @@
   "dimensions": {
     "16x9": {
       "width": 1920,
-      "height": 1080,
-      "sha256": "6006aff5b757eabaae71ebc38d008904b63ccaaedafc387d45b401fdd89c4ec7"
+      "height": 1270,
+      "sha256": "3ecaf5c41455e66f969b80d39e7fe63f6e1b2cf5858b42629f2482ae82a87311"
     },
     "4x5": {
       "width": 864,
-      "height": 1080,
-      "sha256": "f59f7fe649e9a86ce649bea338ebea43044f15346100b1953b7cbd5d4cf99604"
+      "height": 1270,
+      "sha256": "5e82301250a2b90ac4cf356322f132a4a9f18a3d23826b47439a4ce3872ab2c7"
     }
   }
 }

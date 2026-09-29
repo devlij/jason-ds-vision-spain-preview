@@ -34,13 +34,13 @@
   "dimensions": {
     "16x9": {
       "width": 1920,
-      "height": 1080,
-      "sha256": "2720bbc3420c74784470d1ec84275bf5b649990573a811ad4ca72d110cb99b7e"
+      "height": 1270,
+      "sha256": "23c3ac0523dc7884b07750ec555fa57b8b47bb950e2f3e3a3fbf54d631ac9711"
     },
     "4x5": {
       "width": 864,
-      "height": 1080,
-      "sha256": "bff0394bb6dc175c62451322d686a1ba609d172dc8f5c0442e3a892f1e304f55"
+      "height": 1270,
+      "sha256": "a9faf14da125a4570eb66a5903998098bb137cf0f41c0ddd7481b407a7b7f2d1"
     }
   },
   "masters": {
@@ -48,10 +48,10 @@
       "file": "es-01-297-r1-16x9.png",
       "dimensions": [
         1920,
-        1080
+        1270
       ],
-      "byte_length": 1642831,
-      "sha256": "2720bbc3420c74784470d1ec84275bf5b649990573a811ad4ca72d110cb99b7e",
+      "byte_length": 1648850,
+      "sha256": "23c3ac0523dc7884b07750ec555fa57b8b47bb950e2f3e3a3fbf54d631ac9711",
       "source_file": "media-generation-src-es-01-297-0-4ac316f2-7eec-4d26-9a05-e0c82cf99e2f.png",
       "source_dimensions": [
         1920,
@@ -75,10 +75,10 @@
       "file": "es-01-297-r1-4x5.png",
       "dimensions": [
         864,
-        1080
+        1270
       ],
-      "byte_length": 1026736,
-      "sha256": "bff0394bb6dc175c62451322d686a1ba609d172dc8f5c0442e3a892f1e304f55",
+      "byte_length": 1034082,
+      "sha256": "a9faf14da125a4570eb66a5903998098bb137cf0f41c0ddd7481b407a7b7f2d1",
       "source_file": "media-generation-src-es-01-297-0-4ac316f2-7eec-4d26-9a05-e0c82cf99e2f.png",
       "source_dimensions": [
         1920,
@@ -150,32 +150,31 @@
   "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
   "reference_evidence": [],
   "approval_basis": "G1: Roque Nublo is instantly recognizable — the great basalt monolith silhouetted against a starry sky, rising from a volcanic ridge, with thin drifting cloud and the distant silhouette of Mount Teide across the dark sea on the horizon; stark high-plateau framing, no artifacts. G2: mechanical sweep PASS on exact 1920×1080 + 864×1080 with packet-matching SHA-256; exact caption 'Roque Nublo, Gran Canaria', scenario '24 September 2026 · 01:29 Europe/Madrid', AI disclosure on scrim; exact 'Jason D's Vision' signature; weather retrieved 01:15, valid 01:15 — fresh for this build. G3: text-only generation, image_inputs empty, no photographic input. G4: no people, logos, or private property. G5: no open blockers.",
-  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals)."
-,
+  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals).",
   "daylight_variant": {
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
         "path": "es-01-297-r1-16x9.png",
-        "sha256": "2720bbc3420c74784470d1ec84275bf5b649990573a811ad4ca72d110cb99b7e"
+        "sha256": "23c3ac0523dc7884b07750ec555fa57b8b47bb950e2f3e3a3fbf54d631ac9711"
       },
       "4x5": {
         "path": "es-01-297-r1-4x5.png",
-        "sha256": "bff0394bb6dc175c62451322d686a1ba609d172dc8f5c0442e3a892f1e304f55"
+        "sha256": "a9faf14da125a4570eb66a5903998098bb137cf0f41c0ddd7481b407a7b7f2d1"
       }
     },
     "masters": {
       "16x9": {
         "path": "es-01-297-daylight-16x9.png",
         "width": 1920,
-        "height": 1080,
-        "sha256": "e2a57cfbb59c670889f397737f6ca5d224fb1845341046512aa91c631d4cdbe9"
+        "height": 1270,
+        "sha256": "c2e0825651e6a26ef8da39110c4e3695e06d054b418711c3fa6e987d15315223"
       },
       "4x5": {
         "path": "es-01-297-daylight-4x5.png",
         "width": 864,
-        "height": 1080,
-        "sha256": "c1112790b0fc998bce967febf604d016914bfe6c68f01712358ffcbe7d2fd6e8"
+        "height": 1270,
+        "sha256": "5b0be3cef922eea0c1402f4dea71fc4a764beb6cbe640981bb3e2a29d8c8d906"
       }
     },
     "on_image_text": [

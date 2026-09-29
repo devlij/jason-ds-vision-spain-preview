@@ -34,13 +34,13 @@
   "dimensions": {
     "16x9": {
       "width": 1920,
-      "height": 1080,
-      "sha256": "ca435d78b1b8e486ffd1748b3e5053c55f8ff137b294f43aa44c92ed1e53b0e5"
+      "height": 1270,
+      "sha256": "10646f9f1829ab457de245f07d9fc3df09fc2fbffa134add44d4bca0ad5eb28e"
     },
     "4x5": {
       "width": 864,
-      "height": 1080,
-      "sha256": "a9d4d92a42c72dffd6565377f6938d5cc2482e013e09d292ae94c1cc51af945d"
+      "height": 1270,
+      "sha256": "74ded2cfc335b50d0b8b0a9c8e87aedfae8813b2bfaa7a94c4b05922bb9a9cd2"
     }
   },
   "masters": {
@@ -48,10 +48,10 @@
       "file": "es-01-258-r1-16x9.png",
       "dimensions": [
         1920,
-        1080
+        1270
       ],
-      "byte_length": 1762361,
-      "sha256": "ca435d78b1b8e486ffd1748b3e5053c55f8ff137b294f43aa44c92ed1e53b0e5",
+      "byte_length": 1763478,
+      "sha256": "10646f9f1829ab457de245f07d9fc3df09fc2fbffa134add44d4bca0ad5eb28e",
       "source_file": "source-258.png",
       "source_dimensions": [
         1408,
@@ -75,10 +75,10 @@
       "file": "es-01-258-r1-4x5.png",
       "dimensions": [
         864,
-        1080
+        1270
       ],
-      "byte_length": 1260158,
-      "sha256": "a9d4d92a42c72dffd6565377f6938d5cc2482e013e09d292ae94c1cc51af945d",
+      "byte_length": 1266170,
+      "sha256": "74ded2cfc335b50d0b8b0a9c8e87aedfae8813b2bfaa7a94c4b05922bb9a9cd2",
       "source_file": "source-258.png",
       "source_dimensions": [
         1408,
@@ -161,25 +161,25 @@
     "source_night": {
       "16x9": {
         "path": "es-01-258-r1-16x9.png",
-        "sha256": "ca435d78b1b8e486ffd1748b3e5053c55f8ff137b294f43aa44c92ed1e53b0e5"
+        "sha256": "10646f9f1829ab457de245f07d9fc3df09fc2fbffa134add44d4bca0ad5eb28e"
       },
       "4x5": {
         "path": "es-01-258-r1-4x5.png",
-        "sha256": "a9d4d92a42c72dffd6565377f6938d5cc2482e013e09d292ae94c1cc51af945d"
+        "sha256": "74ded2cfc335b50d0b8b0a9c8e87aedfae8813b2bfaa7a94c4b05922bb9a9cd2"
       }
     },
     "masters": {
       "16x9": {
         "path": "es-01-258-daylight-16x9.png",
         "width": 1920,
-        "height": 1080,
-        "sha256": "5071e24d32dafc959b867e83fc9a58cc19a0471aa7a79643a4460a848b5cd663"
+        "height": 1270,
+        "sha256": "3a8147ed4c0d625cf6404c87bf98fa8b30fcfa803af9223161328e447f24ebae"
       },
       "4x5": {
         "path": "es-01-258-daylight-4x5.png",
         "width": 864,
-        "height": 1080,
-        "sha256": "c5fc6ccd2294a37fafda95033663d0fce40e3e19c290f01e7156468aa0d44c04"
+        "height": 1270,
+        "sha256": "f25f1c463c386de2aa8acb0b3becf1df9f142b81e97ede52048f64683cb4b2b5"
       }
     },
     "on_image_text": [

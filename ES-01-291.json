@@ -34,13 +34,13 @@
   "dimensions": {
     "16x9": {
       "width": 1920,
-      "height": 1080,
-      "sha256": "75e17e38a2466f3df80613d4870b917789171f4ca2210837762f87270168d80a"
+      "height": 1270,
+      "sha256": "529a7865b3bcd975bd6f17a01c0250d63911e4e2f5094c78bd1137a3694bb4e2"
     },
     "4x5": {
       "width": 864,
-      "height": 1080,
-      "sha256": "d5a22b2193b957c5b1408de3fcfcce110db6f937ce176de2ebf23f4b4d54c8ce"
+      "height": 1270,
+      "sha256": "0749e70539781e149a3aafb50e20aac5b09bc4b937b0c20022378343f5ceb7fc"
     }
   },
   "masters": {
@@ -48,10 +48,10 @@
       "file": "es-01-291-r1-16x9.png",
       "dimensions": [
         1920,
-        1080
+        1270
       ],
-      "byte_length": 2936148,
-      "sha256": "75e17e38a2466f3df80613d4870b917789171f4ca2210837762f87270168d80a",
+      "byte_length": 2934721,
+      "sha256": "529a7865b3bcd975bd6f17a01c0250d63911e4e2f5094c78bd1137a3694bb4e2",
       "source_file": "media-generation-src-es-01-291-0-a98396d5-09b5-498f-bdd5-f9833b3177e0.png",
       "source_dimensions": [
         1280,
@@ -75,10 +75,10 @@
       "file": "es-01-291-r1-4x5.png",
       "dimensions": [
         864,
-        1080
+        1270
       ],
-      "byte_length": 1746403,
-      "sha256": "d5a22b2193b957c5b1408de3fcfcce110db6f937ce176de2ebf23f4b4d54c8ce",
+      "byte_length": 1754202,
+      "sha256": "0749e70539781e149a3aafb50e20aac5b09bc4b937b0c20022378343f5ceb7fc",
       "source_file": "media-generation-src-es-01-291-0-a98396d5-09b5-498f-bdd5-f9833b3177e0.png",
       "source_dimensions": [
         1280,
@@ -150,32 +150,31 @@
   "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
   "reference_evidence": [],
   "approval_basis": "G1 visual: the 16:9 master recognizably renders Garajonay's laurisilva — moss-draped laurel trunks arching overhead along a forest trail, low mist drifting between the ferns, shafts of dim light through the canopy; the misty mood is honest against the model's cloud and the island's horizontal-rain reputation; clean framing, no artifacts. G2 technical: both masters verified 1920x1080 and 864x1080 with SHA-256 matching the packet; on-image text exact — caption 'Garajonay, La Gomera', scenario '24 September 2026 · 01:21 Europe/Madrid', 'AI-generated artistic interpretation · Not a photograph.' on a bottom-left gradient scrim, 'Jason D’s Vision' signature bottom-right, legible and non-intrusive; Open-Meteo weather retrieved 2026-09-24T01:15+02:00, valid 01:15 — fresh against the 01:21 scenario, no reuse. G3 originality: packet documents built-in text-only generation, zero photographic inputs, Lanczos resampling lineage. G4 IP: no people, no logos, no recognizable private property. G5: no open blockers; trail point honestly disclosed as unverified and no nighttime access claimed.",
-  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals)."
-,
+  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals).",
   "daylight_variant": {
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
         "path": "es-01-291-r1-16x9.png",
-        "sha256": "75e17e38a2466f3df80613d4870b917789171f4ca2210837762f87270168d80a"
+        "sha256": "529a7865b3bcd975bd6f17a01c0250d63911e4e2f5094c78bd1137a3694bb4e2"
       },
       "4x5": {
         "path": "es-01-291-r1-4x5.png",
-        "sha256": "d5a22b2193b957c5b1408de3fcfcce110db6f937ce176de2ebf23f4b4d54c8ce"
+        "sha256": "0749e70539781e149a3aafb50e20aac5b09bc4b937b0c20022378343f5ceb7fc"
       }
     },
     "masters": {
       "16x9": {
         "path": "es-01-291-daylight-16x9.png",
         "width": 1920,
-        "height": 1080,
-        "sha256": "60df649b609656b411729ab17c8bf1f49e2c3895fdeceb80318120acfa3b7ab8"
+        "height": 1270,
+        "sha256": "edd65e4617e807d41586ad8d4b68b6c42511f8ec60c8e662726a6271ca61126e"
       },
       "4x5": {
         "path": "es-01-291-daylight-4x5.png",
         "width": 864,
-        "height": 1080,
-        "sha256": "ce994f34ab2f5c34a61712416528a722d6bd3c65e99f755a797ceff27cce21b0"
+        "height": 1270,
+        "sha256": "21b70112b84d06e2450ba37601a85e5083cc28420446b86950a2a176a26da689"
       }
     },
     "on_image_text": [

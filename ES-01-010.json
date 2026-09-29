@@ -23,18 +23,18 @@
   "dimensions": {
     "16x9": {
       "width": 1920,
-      "height": 1080,
-      "sha256": "37078ccf45e75940c73e982d2692097ec1846f8c59de0e5838cc88d07dd54faa",
-      "bytes": 2684959,
+      "height": 1270,
+      "sha256": "2b1079a00afb0694c5c9bb582fc21b422b0012e3c386490783a87438453ba65d",
+      "bytes": 2688406,
       "source_width": 1672,
       "source_height": 941,
       "resampled": true
     },
     "4x5": {
       "width": 864,
-      "height": 1080,
-      "sha256": "376bcebf433a6fc3934d71a5de5628e5c72175df5f710a2d64446196daf4dca0",
-      "bytes": 1204498,
+      "height": 1270,
+      "sha256": "874563dd973da420601dce36ed1d0dadcc5afdc02f539aae30066a3e702a77a2",
+      "bytes": 1211743,
       "source_width": 1672,
       "source_height": 941,
       "resampled": true
