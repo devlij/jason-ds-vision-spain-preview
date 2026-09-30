@@ -31,6 +31,7 @@
   "description": "From the natural pool's edge, the water of Charco Azul lies dark under an overcast night sky — a faint glow on the surface where the clouds thin, with the volcanic rock rim black around it. The sea murmurs beyond the rocks while the pool holds its sheltered stillness. El Hierro's famous blue pool is a swimmer's secret by day; tonight it's a dark mirror under the clouds.",
   "file_16x9": "es-01-298-r1-16x9.png",
   "file_4x5": "es-01-298-r1-4x5.png",
+  "file_9x16": "es-01-298-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "594b99e6cff81975894fbe34186c941d504615a443112060d51b5e21c4bf6d94"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "4db15fd99708c50435922235cae09ece9613469c60f57f7944c8b5f73f80c3eb"
     }
   },
   "masters": {

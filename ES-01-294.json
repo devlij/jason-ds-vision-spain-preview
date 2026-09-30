@@ -31,6 +31,7 @@
   "description": "From the beach, the moonlit shore of Las Teresitas curves away toward the dark mass of the Anaga mountains — golden sand glowing pale under the moon, with the calm water lapping at the frame's edge. Palm silhouettes stand along the promenade behind, and the mountains rise black against the starry sky. Tenerife's great man-made golden beach is a local institution; by night it's a quiet crescent of silver.",
   "file_16x9": "es-01-294-r1-16x9.png",
   "file_4x5": "es-01-294-r1-4x5.png",
+  "file_9x16": "es-01-294-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "0dbe7a17cfde26342d04752dc29c7324f63b0649c1104972bb64bd62eb6c4085"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "d7b1780d7a46d84845fa7728df0b3b6967847e17dc5b2efa1df6a8f3ae1f8f35"
     }
   },
   "masters": {

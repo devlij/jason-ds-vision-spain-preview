@@ -31,6 +31,7 @@
   "description": "From the waterfront, the promenade lamps of Puerto de la Cruz trace the old town's edge above the dark sea — warm light pooling along the walk with the town's houses climbing behind it. Waves break faintly against the rocks below the promenade, and the lights reflect in the black water. This is the Canaries' classic old resort town, and its seafront keeps a gentle, lamplit rhythm through the night.",
   "file_16x9": "es-01-295-r1-16x9.png",
   "file_4x5": "es-01-295-r1-4x5.png",
+  "file_9x16": "es-01-295-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "a6b9e8968162deefd2d712bdc53d9179e4afa3fba4d78bed8f2d3606820c68d2"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "e370f4b22bfb4da8f5f917eb6ee76948025a78fb8bc71e3583313b9f68ed52a3"
     }
   },
   "masters": {
