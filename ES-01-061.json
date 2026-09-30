@@ -1,193 +1,135 @@
 {
   "entry_id": "ES-01-061",
   "country": "Spain",
-  "city": "Cañas",
   "region": "La Rioja",
+  "city": "Cañas",
   "caption": "Monastery of Cañas, Cañas",
-  "revision": "r1",
-  "viewpoint": "the valley lane approaching the abbey, looking at its frontage",
-  "anchors": [
-    "the Cistercian abbey church with its Gothic portal",
-    "the cloistered monastic complex in the valley",
-    "green fields and poplars around the abbey"
-  ],
-  "limitations": "Text-only generation; no photographic input. Exact camera position unverified. Depicts the exterior only; the cloistered interior is not publicly depicted.",
-  "refs": [
-    [
-      "https://es.wikipedia.org/wiki/Monasterio_de_Ca%C3%B1as",
-      "Spanish Wikipedia — the Cistercian Abbey of Santa María de Cañas"
-    ],
-    [
-      "https://www.spain.info/en/region/la-rioja/",
-      "spain.info — official Spain tourism, La Rioja region page (official lariojaturismo.com unreachable from builder network)"
-    ]
-  ],
-  "status": "Approved · Cosmo QC 5/5 · Night",
-  "approval_state": "approved",
-  "scenario_label": "24 September 2026 · 04:09 Europe/Madrid",
+  "scenario_label": "1 October 2026 · 01:05 Europe/Madrid",
+  "composition": "Night · the 1757 Baroque west portal of Santa María de Cañas · AI-generated artistic interpretation",
+  "alt_text": "AI-generated artistic interpretation of the Monastery of Cañas at night, with the Baroque round-arched west portal, broken curved pediment, armorial tondi, and a niche of San Bernardo.",
+  "description": "From the valley lane at night, the west front of Santa María de Cañas shows its 1757 Baroque portal: a round arch between pilasters, a broken curved pediment, two armorial tondi, and a niche of San Bernardo. A modest two-stage Baroque bell-gable stands beside the church, with poplars and dark fields around the abbey.",
+  "viewpoint": "Valley lane approaching the Monastery of Cañas abbey, looking at its frontage. Exact generated camera correspondence is unverified.",
+  "status": "Candidate · architectural rebuild · awaiting Cosmo re-audit · Night",
+  "approval_state": "candidate",
+  "gates": {
+    "visual": "pending — Cosmo re-audit; no pass claimed",
+    "technical": "pending — Cosmo re-audit; local dimension and Art.50 checks only",
+    "provenance": "pending — Cosmo re-audit; generation lineage recorded, uniqueness unverified",
+    "commercial_ip": "pending — Cosmo re-audit; not legal certification",
+    "publication": "candidate only — not approved for the gallery"
+  },
+  "weather": "Model data from Open-Meteo, retrieved 1 October 2026 01:05:09 Europe/Madrid, valid 01:00 Europe/Madrid — not a verified on-site observation. 14.5°C, WMO 3 overcast, cloud 100%, precipitation 0.0 mm, wind 14.8 km/h. Sunrise 08:08, sunset 19:53. Approximate solar elevation -48.76°, azimuth 338.49°. Night; no direct sunlight.",
+  "limitations": "Candidate only. No Cosmo QC is claimed for these bytes. 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top 864×1080 of an 864×1152 generated source and drop 72 pixels of foreground. Dimensions do not imply native detail. Open-Meteo figures are model data, not an on-site observation. Exact camera correspondence is not surveyed.",
+  "file_16x9": "es-01-061-cand-r1-16x9.png",
+  "file_4x5": "es-01-061-cand-r1-4x5.png",
+  "license_badge": "Free · no credit needed",
+  "license_anchor": "#license",
+  "editions": [],
   "time_of_day": "Night",
-  "composition": "Night · the abbey in its valley · AI-generated artistic interpretation",
-  "alt_text": "AI-generated artistic interpretation of Monastery of Cañas, Cañas at night.",
-  "description": "The abbey of Cañas rests in its valley, the monastery church and cloister caught by night lighting against the hills. The buildings sit quiet among dark fields with the ridgeline closing the background. A Cistercian house of rare elegance, founded in the twelfth century.",
-  "file_16x9": "es-01-061-r1-16x9.png",
-  "file_4x5": "es-01-061-r1-4x5.png",
+  "revision_lineage": "Full rebuild for wo-spain-architectural-rework-2026-09-30 pack 4. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. Previous masters remain in the repository as superseded bytes.",
+  "review_history": [
+    {
+      "date": "2026-10-01",
+      "previous_status": "Approved · Cosmo QC 5/5 · Night",
+      "previous_approval_state": "approved",
+      "previous_files": {
+        "16x9": "es-01-061-r1-16x9.png",
+        "4x5": "es-01-061-r1-4x5.png",
+        "9x16": null
+      },
+      "resolution": "Architectural rebuild cand-r1 landed as Candidate. The prior approval covered the previous bytes only. It does not cover cand-r1. No Cosmo re-audit is claimed."
+    }
+  ],
+  "approval_basis": "Not approved. cand-r1 is an architectural rebuild awaiting Cosmo re-audit. The earlier Cosmo approval applied only to the previous master bytes and is retained in review_history.",
   "dimensions": {
     "16x9": {
       "width": 1920,
       "height": 1270,
-      "sha256": "ee1ab1912e5a71c9488c9b7e80e44a2a242e6e1cab17907e73e8589a334e55af"
+      "sha256": "0062d9169fa09d5b2f4fc3db79cac1b39334ac1c6f7405015467ab0b5760dd22",
+      "bytes": 2089040,
+      "source_width": 1280,
+      "source_height": 720,
+      "resampled": true
     },
     "4x5": {
       "width": 864,
       "height": 1270,
-      "sha256": "bf4170ec56704164fa15423617c03ffec568d32bf2b31c9b428156c603fbf512"
-    }
-  },
-  "masters": {
-    "16x9": {
-      "file": "es-01-061-r1-16x9.png",
-      "dimensions": [
-        1920,
-        1270
-      ],
-      "byte_length": 2273058,
-      "sha256": "ee1ab1912e5a71c9488c9b7e80e44a2a242e6e1cab17907e73e8589a334e55af",
-      "source_file": "es-01-061-r1.png",
-      "source_dimensions": [
-        1408,
-        1760
-      ],
-      "crop_center": [
-        0.5,
-        0.5
-      ],
-      "labels": [
-        "Monastery of Cañas, Cañas",
-        "Scenario: 24 September 2026 · 04:09 Europe/Madrid",
-        "AI-generated artistic interpretation · Not a photograph."
-      ],
-      "signature": "Jason D’s Vision",
-      "format": "PNG",
-      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
-      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
+      "sha256": "8f3c640316667790fec70f6f7aacb23887415e9e45f69798e3029ff50538000d",
+      "bytes": 1196405,
+      "source_width": 864,
+      "source_height": 1152,
+      "resampled": false
     },
-    "4x5": {
-      "file": "es-01-061-r1-4x5.png",
-      "dimensions": [
-        864,
-        1270
-      ],
-      "byte_length": 1248181,
-      "sha256": "bf4170ec56704164fa15423617c03ffec568d32bf2b31c9b428156c603fbf512",
-      "source_file": "es-01-061-r1.png",
-      "source_dimensions": [
-        1408,
-        1760
-      ],
-      "crop_center": [
-        0.5,
-        0.5
-      ],
-      "labels": [
-        "Monastery of Cañas, Cañas",
-        "Scenario: 24 September 2026 · 04:09 Europe/Madrid",
-        "AI-generated artistic interpretation · Not a photograph."
-      ],
-      "signature": "Jason D’s Vision",
-      "format": "PNG",
-      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
-      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 864x1080. Not native target-resolution detail."
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "a81c07924c6de97d495fa4fea25f7b0cd807ae3910d94a198ab27a7e395260aa",
+      "bytes": 2123392,
+      "source_width": 720,
+      "source_height": 1280,
+      "resampled": true
     }
   },
-  "conditions": {
-    "provider": "Open-Meteo",
-    "retrieved": "2026-09-24T04:09:22.701162+02:00",
-    "valid": "2026-09-24T04:00 Europe/Madrid",
-    "note": "Model data — not a verified on-site observation."
-  },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T04:09:22.701162+02:00, valid 2026-09-24T04:00 Europe/Madrid — not a verified on-site observation.",
-  "prompts": {
-    "prompt-r1.txt": "Photorealistic original artistic interpretation (not a photograph) of the Monastery of Cañas, La Rioja, Spain. Tourist viewpoint: the valley lane approaching the abbey, looking at its frontage. Frame: the Cistercian abbey church with its Gothic portal; the cloistered monastic complex in the valley; green fields and poplars around the abbey. Light and weather: clear night, light winds. Main subject centered to survive a 4:5 center crop. No identifiable people, no legible logos, no text, lettering or signs anywhere in the image. Keep the lower third clean and uncluttered."
-  },
-  "source_files": [
-    {
-      "file": "es-01-061-r1.png",
-      "sha256": "47d627b6c5e00d38d02672d319e7d57580fd83d674cada84c1cbbc6e866af0f4",
-      "dimensions": [
-        1408,
-        1760
-      ],
-      "selected": true
-    }
-  ],
-  "provenance": {
-    "tool": "Built-in image generation; specific model version not exposed",
-    "image_inputs": [],
-    "source_use": "Text-only original generation. Third-party photographs inspected for facts, not supplied as input pixels. No uniqueness guarantee.",
-    "lineage": "Same selected source cropped and uniformly Lanczos-resampled to two exact PNGs; factual text and upward-fading scrim added deterministically. No stretching.",
-    "resampling": "Source [1408, 1760]; uniform Lanczos enlargement/crop to exact 1920x1080 and 864x1080. Not native target-resolution detail."
-  },
-  "production_checks": {
-    "technical": "Both PNGs fully decode, dimensions exact; label boxes in frame. Technical checks are not independent Cosmo QC.",
-    "visual": "Production comparison and limitations documented; not an independent gate verdict.",
-    "originality": "Own generated pixels; uniqueness not established.",
-    "commercial_ip": "No prominent people/logos or artwork focal subject; third-party clearance not legally certified.",
-    "publication": "Candidate handoff only. No approval inferred."
-  },
-  "independent_qc": {
-    "reviewer": "Cosmo",
-    "verdict": "Awaiting review",
-    "exact_pair_required": true
-  },
-  "card_handoff": {
-    "owner": "Cosmo",
-    "placement": "Candidate pipeline, two-format card (16:9/4:5 tabs, both downloads)",
-    "preserve": "caption, scenario, composition, description, status, disclosure, license, search/navigation and country switcher"
-  },
-  "license_badge": "Free · no credit needed",
-  "license_anchor": "#license",
-  "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
-  "reference_evidence": [],
-  "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor E: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/E/ES-01-061.md. r1.",
-  "daylight_variant": {
-    "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
-    "source_night": {
-      "16x9": {
-        "path": "es-01-061-r1-16x9.png",
-        "sha256": "ee1ab1912e5a71c9488c9b7e80e44a2a242e6e1cab17907e73e8589a334e55af"
+  "revision": "cand-r1",
+  "file_9x16": "es-01-061-cand-r1-9x16.png",
+  "evidence_card": "evidence/ES-01-061.json",
+  "land_as": "Candidate",
+  "conditions_record": {
+    "retrieved_local": "2026-10-01T01:05:09.889696+02:00",
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=42.3925&longitude=-2.8467&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
+    "requested_coordinates": [
+      42.3925,
+      -2.8467
+    ],
+    "response": {
+      "latitude": 42.39,
+      "longitude": -2.8500004,
+      "generationtime_ms": 0.4273653030395508,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 641.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
       },
-      "4x5": {
-        "path": "es-01-061-r1-4x5.png",
-        "sha256": "bf4170ec56704164fa15423617c03ffec568d32bf2b31c9b428156c603fbf512"
+      "current": {
+        "time": "2026-10-01T01:00",
+        "interval": 900,
+        "temperature_2m": 14.5,
+        "weather_code": 3,
+        "cloud_cover": 100,
+        "is_day": 0,
+        "precipitation": 0.0,
+        "wind_speed_10m": 14.8
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T08:08"
+        ],
+        "sunset": [
+          "2026-10-01T19:53"
+        ]
       }
     },
-    "masters": {
-      "16x9": {
-        "path": "es-01-061-daylight-16x9.png",
-        "width": 1920,
-        "height": 1270,
-        "sha256": "a007a119c1a7e75854d3decde830688d0215965cf5e74f47b6f599d23bdbedfd"
-      },
-      "4x5": {
-        "path": "es-01-061-daylight-4x5.png",
-        "width": 864,
-        "height": 1270,
-        "sha256": "53d28421eae1fefc96a08a2165424c9789805b5777bb97f2a913ce6cfc0ae4e5"
-      }
-    },
-    "on_image_text": [
-      "Monastery of Cañas, Cañas",
-      "☀ Daylight variant · derived from the night interpretation",
-      "AI-generated artistic interpretation",
-      "Jason D’s Vision"
-    ],
-    "art50_png_chunks": [
-      "Title",
-      "Description",
-      "Copyright",
-      "Software",
-      "Comment"
-    ],
-    "country": "Spain"
+    "solar": {
+      "method": "NOAA fractional-year geometric approximation, not observation",
+      "elevation_deg": -48.76,
+      "azimuth_deg": 338.49
+    }
   }
 }
