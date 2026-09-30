@@ -31,6 +31,7 @@
   "description": "Face the Dalí Theatre-Museum across the lamplit square at night. The egg-crowned tower rises at center frame, the geodesic dome swelling to one side, with the museum's studded rose-colored walls and surreal sculptures filling the frame. Even floodlit at night, it is unmistakably Dalí.",
   "file_16x9": "es-01-247-r1-16x9.png",
   "file_4x5": "es-01-247-r1-4x5.png",
+  "file_9x16": "es-01-247-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "8b70f395e80e17355c55ac5354c0cb54bcca0ae7f73299a2ba41bef3ac90ade0"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "cd7dc43fcb4da4c4211f2b83196a912a8a23fd6f13407bf3298262cffe81f04a"
     }
   },
   "masters": {

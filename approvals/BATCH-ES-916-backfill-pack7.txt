@@ -1,0 +1,59 @@
+BATCH ES 9:16 backfill pack 7
+Repo: devlij/jason-ds-vision-spain-preview
+Work order: wo-spain-916-backfill-2026-09-30
+Finish date: 2026-09-30
+Base tip before this pack: c0b248435befeb4aa0e3417c0a165ff0f22db22b
+Masters commit: d92cc560eb3920936f04db17d18dde799ed56245
+
+Scope: 30 architectural-QC PASS scenes only, the first 30 PASS scenes after ES-01-229.
+FLAG and NO_REFERENCE scenes are not in this pack and were not cropped.
+Pack 1 files, pack 2 files, pack 3 files, pack 4 files, pack 5 files, and pack 6 files were not touched.
+Draft holds PR #7, PR #8, PR #9, PR #10, PR #11, and PR #13 were not modified, re-pushed, or merged.
+Spain architectural rework draft PRs were not touched.
+
+Scenes:
+ES-01-230
+ES-01-231
+ES-01-233
+ES-01-234
+ES-01-236
+ES-01-238
+ES-01-239
+ES-01-240
+ES-01-242
+ES-01-243
+ES-01-244
+ES-01-246
+ES-01-247
+ES-01-248
+ES-01-249
+ES-01-250
+ES-01-253
+ES-01-255
+ES-01-257
+ES-01-258
+ES-01-259
+ES-01-260
+ES-01-261
+ES-01-262
+ES-01-263
+ES-01-264
+ES-01-265
+ES-01-266
+ES-01-267
+ES-01-268
+
+Skipped neighbors in this range (FLAG, not cropped): ES-01-232, ES-01-235, ES-01-237, ES-01-241, ES-01-245, ES-01-251, ES-01-252, ES-01-254, ES-01-256.
+
+Path layout: Spain keeps masters at the repository root beside the scene JSON, not under library/world/Spain/<City>/. Each 9:16 file mirrors that scene's final 16:9 name with -9x16.png.
+
+Photograph: 608×1080 (9:16, even pixel width). Finished master: 608×1270. The window is the full height of the 16:9 photograph, centered inside the approved 4:5 crop when that 4:5 is the same photograph, so the subject is not dropped or decapitated. These 4:5 masters are independent fits of the same centered source, so the portrait window is the horizontal center of the 16:9 photograph (x=656).
+Label bar: 190px #0e0e12 under the photograph. Caption, scenario, disclosure, and the Jason D's Vision signature are the sibling 16:9 label artwork scaled onto that bar.
+
+Art. 50: Title, Description, Copyright, and Software chunks match the sibling 16:9 master. Comment date on the new 9:16 masters is 2026-09-30.
+
+Gallery probe gate: the 9:16 tab and Download 9:16 button are inserted only after an image probe of data-src-916 succeeds at render time. A missing master never gets a tab. These 30 cards already pointed at the portrait filename.
+
+No approval flip: approval_state was not changed on any scene. Nothing in this pack was self-approved or moved to Approved. No word-of-the-day text was added.
+
+Draft PR only. Not merged.

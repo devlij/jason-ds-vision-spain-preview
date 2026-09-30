@@ -31,6 +31,7 @@
   "description": "At the foot of Niebla's walls at night, the medieval ramparts and gate rise dark and imposing above the road. The red-brick fortifications stretch along the hill, their crenellations black against the starlit sky. The gate stands closed and silent, the little walled town asleep behind its ancient defenses.",
   "file_16x9": "es-01-230-r1-16x9.png",
   "file_4x5": "es-01-230-r1-4x5.png",
+  "file_9x16": "es-01-230-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "67b360ada68df5d464e98c5a2cc26098001d0019e6225d53e8d1fbb600d0a334"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "da96b5b4bad41de1a900907e67d5b8211aca4b326bf443e934b8b0879479d26c"
     }
   },
   "masters": {

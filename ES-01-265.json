@@ -31,6 +31,7 @@
   "description": "Face Es Vedrà at night, the lone rock island rising from the dark sea. The great limestone monolith fills the center of the frame, black against the starry sky, with the empty sea stretching left and right. Ibiza's magnetic mystery island — sailors have told stories about it for centuries.",
   "file_16x9": "es-01-265-r1-16x9.png",
   "file_4x5": "es-01-265-r1-4x5.png",
+  "file_9x16": "es-01-265-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "4ac8b8cfbb5e50ccf65a4449eea1f075c6434f7aaa437e7ad1e845bcf7dcd61e"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "e30b093ce90fbfdabb869d5844f8d59f8cc4da7cb4801c0574ea4f39675ca9b5"
     }
   },
   "masters": {

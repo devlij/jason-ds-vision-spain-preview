@@ -31,6 +31,7 @@
   "description": "From the basilica terrace at night, look up at Montserrat Abbey beneath the serrated peaks. The abbey's lit facade sits at center frame, dwarfed by the great jagged rock wall rising behind it, with the monastery buildings spreading left and right along the mountainside. Moonlight edges the saw-tooth ridge while the valley sleeps far below.",
   "file_16x9": "es-01-242-r1-16x9.png",
   "file_4x5": "es-01-242-r1-4x5.png",
+  "file_9x16": "es-01-242-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "b890962f741414e1a2a71329ba97e81e29667b42ae3ce07be501b435b85d2760"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "fa12e1bbdba7ad31450b9b2afd5c85d69afb38ec049994f042170cf1202e3d9e"
     }
   },
   "masters": {
