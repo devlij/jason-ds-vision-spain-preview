@@ -25,6 +25,7 @@
   "description": "From Tarifa's beach at night, face the old town walls and castle. The Guzmán el Bueno castle rises at center frame, floodlit stone against the dark, with the town walls running left and right along the shore. Africa lies somewhere across the black strait — on a clear night you can almost sense its lights.",
   "file_16x9": "es-01-214-r1-16x9.png",
   "file_4x5": "es-01-214-r1-4x5.png",
+  "file_9x16": "es-01-214-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -35,6 +36,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "3a19eba7fff96b8ffcc5b106b274ac95facb6eca72c4e12a1176938ca1072a27"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "6d4494f133fb05d9471ea23668edf2141ff21d90039142b1a29e9b442cca056e"
     }
   },
   "masters": {

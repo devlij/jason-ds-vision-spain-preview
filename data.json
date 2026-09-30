@@ -1173,7 +1173,15 @@
       "approval_basis": "Night Roman Theatre, Málaga: the crescent of floodlit cavea steps at the foot of the Alcazaba's ramparts, warm lampposts flanking the forecourt and the glass visitor pavilion to the right; on-image text verified: caption 'Roman Theatre, Málaga', scenario '24 September 2026 · 01:15 Europe/Madrid', disclosure 'AI-generated artistic interpretation · Not a photograph.', exact 'Jason D's Vision' signature bottom-right; SHA-256 + 1920×1080/864×1080 match packet; Open-Meteo weather retrieved 2026-09-24T01:13:14+02:00 consistent with scenario hour; packet documents text-only generation, no photographic inputs; no people or logos; packet discloses the theatre is closed at night and the floodlit illumination is artistic interpretation, unverified (documented only — carried as packet limitation, not presented as verified state).",
       "daylight_16x9": "es-01-200-daylight-16x9.png",
       "daylight_4x5": "es-01-200-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-200-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "fec1f030226e7d8128a022c56d58414b3fc1ec5262418ff31d648378cc22b295"
+        }
+      }
     },
     {
       "entry_id": "ES-01-201",
@@ -1190,7 +1198,15 @@
       "approval_basis": "Night Gibralfaro Castle, Málaga: crenellated stone battlements and towers in the foreground overlooking the lit sweep of the city, port and marina, the illuminated bullring, cathedral tower and curving beach below; on-image text verified: caption 'Gibralfaro Castle, Málaga', scenario '24 September 2026 · 01:15 Europe/Madrid', disclosure 'AI-generated artistic interpretation · Not a photograph.', exact 'Jason D's Vision' signature bottom-right; SHA-256 + 1920×1080/864×1080 match packet; Open-Meteo weather retrieved 2026-09-24T01:13:14+02:00 consistent with scenario hour; packet documents text-only generation, no photographic inputs; no people or logos; wall illumination is artistic interpretation and castle interior closed at night per packet limitations (documented only).",
       "daylight_16x9": "es-01-201-daylight-16x9.png",
       "daylight_4x5": "es-01-201-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-201-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "11634c7c4f7b557e8ac4e1ad2a8116d6a0798d74a66c49bce83fb7d44329bc2c"
+        }
+      }
     },
     {
       "entry_id": "ES-01-202",
@@ -1207,7 +1223,15 @@
       "approval_basis": "Cosmo five-gate audit, independent re-audit after boilerplate reversion. Gate 1: Málaga Cathedral's Renaissance west façade recognizably depicted from Plaza del Obispo — carved relief panels, arched portals, tall floodlit north tower ('La Manquita') rising right of center, old-town rooftops flanking; clean framing, no artifacts. Gate 2: 1920x1080 + 864x1080 masters, SHA-256 match packet dd27569d/ffc5cb06; caption 'Málaga Cathedral, Málaga', scenario '24 September 2026 · 01:15 Europe/Madrid', 'AI-generated artistic interpretation · Not a photograph.' and 'Jason D's Vision' (curly apostrophe) verified on-image, legible on scrim; Open-Meteo retrieved 01:13:14 valid 01:15:17 — 2 minutes before scenario, no stale/reused weather. Gate 3: packet documents text-only generation, no photographic inputs. Gate 4: no identifiable people or logos noted; night floodlighting disclosed as artistic interpretation in packet. Gate 5: no blockers.",
       "daylight_16x9": "es-01-202-daylight-16x9.png",
       "daylight_4x5": "es-01-202-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-202-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "caac33109182683c487caa7771042fcd92161b3369afa109ad85054f7d43506c"
+        }
+      }
     },
     {
       "entry_id": "ES-01-203",
@@ -1275,7 +1299,15 @@
       "approval_basis": "Cosmo five-gate audit, independent re-audit after boilerplate reversion. Gate 1: Colomares Castle recognizably depicted — the eclectic Columbus-tribute monument's brick-and-stone towers, ornate pinnacles, carved prow of a ship on the façade, warm floodlighting against the night, cypress trees framing and Benalmádena town lights on the coast behind; plausible tourist viewpoint; clean framing, no artifacts. Gate 2: 1920x1080 + 864x1080 masters, SHA-256 match packet; caption 'Colomares Castle, Benalmádena', scenario '24 September 2026 · 01:17 Europe/Madrid', AI disclosure and 'Jason D's Vision' signature verified on-image, legible; Open-Meteo retrieved 01:13:14 valid 01:17:29 — fresh. Gate 3: packet documents text-only generation, no photographic inputs. Gate 4: no identifiable people or logos noted; night floodlighting disclosed as artistic interpretation, unverified at the scenario hour. Gate 5: no blockers.",
       "daylight_16x9": "es-01-206-daylight-16x9.png",
       "daylight_4x5": "es-01-206-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-206-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "99641f128784dcf52e7ba1b799dac216a5b7d797e3549fa2b7b2e4aafbd49afa"
+        }
+      }
     },
     {
       "entry_id": "ES-01-207",
@@ -1309,7 +1341,15 @@
       "approval_basis": "Cosmo five-gate audit, independent re-audit after boilerplate reversion. Gate 1: Cádiz Cathedral recognizably depicted from its plaza — the golden dome glowing between the two ornate baroque towers, floodlit stone façade, street lamps and palm-frond silhouettes framing a wet reflective plaza; plausible tourist viewpoint; clean framing, no artifacts. Gate 2: 1920x1080 + 864x1080 masters, SHA-256 match packet; caption 'Cádiz Cathedral, Cádiz', scenario '24 September 2026 · 01:22 Europe/Madrid', AI disclosure and 'Jason D's Vision' signature verified on-image, legible; Open-Meteo retrieved 01:20:58 valid 01:22:26 — fresh, within 2 minutes of scenario. Gate 3: packet documents text-only generation, no photographic inputs. Gate 4: no identifiable people or logos noted; packet is transparent that evening illumination is documented only by a walking tour, exact state at 01:17 unverified — disclosed, not claimed. Gate 5: no blockers.",
       "daylight_16x9": "es-01-208-daylight-16x9.png",
       "daylight_4x5": "es-01-208-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-208-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "78876c940049387eba01a44d5ce8ddadc4a39695634d04c02576acc0d962bdb1"
+        }
+      }
     },
     {
       "entry_id": "ES-01-209",
@@ -1326,7 +1366,15 @@
       "approval_basis": "Cosmo five-gate audit, independent re-audit after boilerplate reversion. Gate 1: La Caleta recognizably depicted — the Santa Catalina castle bastion at left, the white bathhouse pavilion glowing on its pilings mid-water, the curving lamplit promenade and sand of La Caleta beach, San Sebastián castle on its headland in the distance under a moonlit sea; plausible elevated tourist viewpoint; clean framing, no artifacts. Gate 2: 1920x1080 + 864x1080 masters, SHA-256 match packet; caption 'La Caleta, Cádiz', scenario '24 September 2026 · 01:22 Europe/Madrid', AI disclosure and 'Jason D's Vision' signature verified on-image, legible; Open-Meteo retrieved 01:20:58 valid 01:22:26 — fresh. Gate 3: packet documents text-only generation, no photographic inputs. Gate 4: no identifiable people or logos noted; bathhouse and castle lighting disclosed as artistic interpretation, unverified. Gate 5: no blockers.",
       "daylight_16x9": "es-01-209-daylight-16x9.png",
       "daylight_4x5": "es-01-209-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-209-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "2f89261f97c4705526f1cd8df8a292626e7fe1b2dfb55d215d34e7a8b1753858"
+        }
+      }
     },
     {
       "entry_id": "ES-01-210",
@@ -1343,7 +1391,15 @@
       "approval_basis": "Cosmo five-gate audit, independent re-audit after boilerplate reversion. Gate 1: Torre Tavira recognizably depicted — the view from the camera-obscura tower's rooftop terrace over the iron railing across Cádiz's white old-town rooftops, church towers rising between them, the golden-domed cathedral floodlit in the distance and the bay's lights beyond; plausible terrace viewpoint matching the scene brief; clean framing, no artifacts. Gate 2: 1920x1080 + 864x1080 masters, SHA-256 match packet; caption 'Torre Tavira, Cádiz', scenario '24 September 2026 · 01:22 Europe/Madrid', AI disclosure and 'Jason D's Vision' signature verified on-image, legible; Open-Meteo retrieved 01:20:58 valid 01:22:26 — fresh. Gate 3: packet documents text-only generation, no photographic inputs. Gate 4: no identifiable people or logos noted. Packet is honest that the tower is closed at the scenario hour, so this is an imagined night view — disclosed, not presented as possible in reality. Gate 5: no blockers.",
       "daylight_16x9": "es-01-210-daylight-16x9.png",
       "daylight_4x5": "es-01-210-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-210-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "20d11ebbbe2769943e57ae4a280bbf236eedc8123ad72e74f4c76371595a6465"
+        }
+      }
     },
     {
       "entry_id": "ES-01-211",
@@ -1360,7 +1416,15 @@
       "approval_basis": "Cosmo five-gate audit, independent re-audit after boilerplate reversion. Gate 1: Alcázar de Jerez recognizably depicted — the floodlit octagonal Torre del Homenaje, crenellated Moorish walls and arched courtyard arcade, rows of palms and street lamps in the square before it at night; plausible tourist viewpoint; clean framing, no artifacts. Gate 2: 1920x1080 + 864x1080 masters, SHA-256 match packet; caption 'Alcázar de Jerez, Jerez de la Frontera', scenario '24 September 2026 · 01:22 Europe/Madrid', AI disclosure and 'Jason D's Vision' signature verified on-image in both formats (4:5 visually checked), legible; Open-Meteo retrieved 01:20:58 valid 01:22:26 — fresh. Gate 3: packet documents text-only generation, no photographic inputs. Gate 4: no identifiable people or logos noted; night illumination disclosed as artistic interpretation, unverified. Gate 5: no blockers.",
       "daylight_16x9": "es-01-211-daylight-16x9.png",
       "daylight_4x5": "es-01-211-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-211-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "f68dbcfe055d457ecda7313066bc1b9f7ab1f87547e8785a9e167d28604007ea"
+        }
+      }
     },
     {
       "entry_id": "ES-01-212",
@@ -1377,7 +1441,15 @@
       "approval_basis": "Night view of Arcos de la Frontera, Cádiz from the reservoir road below: the whitewashed clifftop town along the Tajo gorge with two lit church towers (Santa María), warm lamplight reflecting on the river, crescent moon and stars. Gate 1 (visual/location): recognizable clifftop pueblo blanco from a plausible tourist viewpoint; clean framing, no artifacts. Gate 2 (technical): 1920×1080 + 864×1080, SHA-256 matches packet; on-image caption 'Arcos de la Frontera, Cádiz', scenario '24 September 2026 · 01:24 Europe/Madrid' consistent with Open-Meteo weather retrieved 2026-09-24T01:23:32+02:00 (fresh, no reuse), disclosure 'AI-generated artistic interpretation · Not a photograph.', and 'Jason D’s Vision' signature — all legible on gradient scrims, bottom-left and bottom-right. Gate 3 (originality): packet documents text-only generation, image_inputs empty — no photographic inputs. Gate 4 (commercial/IP): no visible people, logos, or distinctive private property; generic whitewashed architecture documented only. Gate 5 (readiness): no open blockers.",
       "daylight_16x9": "es-01-212-daylight-16x9.png",
       "daylight_4x5": "es-01-212-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-212-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "a3cac8b66aa9f9af1f3db28098362a12eda73f278e7f4e8f05a9d20692e969ec"
+        }
+      }
     },
     {
       "entry_id": "ES-01-213",
@@ -1394,7 +1466,15 @@
       "approval_basis": "Moonlit view of Zahara de la Sierra, Cádiz from the village plaza: whitewashed houses climbing the hill past wrought-iron balconies to the floodlit castle tower on the rocky crag, embalse glinting at right, full moon and stars. Gate 1 (visual/location): recognizable hilltop castle-village arrangement from a plausible plaza viewpoint; clean framing, no artifacts. Gate 2 (technical): 1920×1080 + 864×1080, SHA-256 matches packet; on-image caption 'Zahara de la Sierra, Cádiz', scenario '24 September 2026 · 01:24 Europe/Madrid' consistent with Open-Meteo weather retrieved 2026-09-24T01:23:32+02:00 (fresh, no reuse), disclosure 'AI-generated artistic interpretation · Not a photograph.', and 'Jason D’s Vision' signature — all legible on gradient scrims. Gate 3 (originality): packet documents text-only generation, image_inputs empty — no photographic inputs. Gate 4 (commercial/IP): no visible people, logos, or distinctive private property. Gate 5 (readiness): no open blockers. Castle night-lighting is interpretive per packet limitations; scenario is a modelled scenario, not a verified capture.",
       "daylight_16x9": "es-01-213-daylight-16x9.png",
       "daylight_4x5": "es-01-213-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-213-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "e863fcf0403997e82c950d1b5285358db8b324d500c1242121aa83aa3be295d9"
+        }
+      }
     },
     {
       "entry_id": "ES-01-214",
@@ -1411,7 +1491,15 @@
       "approval_basis": "Night view of Tarifa, Cádiz from Playa de Los Lances: the lit old town and massive stone walls and square towers of the Guzmán el Bueno castle above the beach, moonlit surf and starry sky, distant town lights along the Strait horizon. Gate 1 (visual/location): recognizable Tarifa old-town-and-castle silhouette from a plausible beach viewpoint; clean framing, no artifacts. Gate 2 (technical): 1920×1080 + 864×1080, SHA-256 matches packet; on-image caption 'Tarifa, Cádiz', scenario '24 September 2026 · 01:24 Europe/Madrid' consistent with Open-Meteo weather retrieved 2026-09-24T01:23:32+02:00 (fresh, no reuse), disclosure 'AI-generated artistic interpretation · Not a photograph.', and 'Jason D’s Vision' signature — all legible on gradient scrims. Gate 3 (originality): packet documents text-only generation, image_inputs empty — no photographic inputs. Gate 4 (commercial/IP): no visible people, logos, or distinctive private property. Gate 5 (readiness): no open blockers; wall lighting is interpretive per packet limitations.",
       "daylight_16x9": "es-01-214-daylight-16x9.png",
       "daylight_4x5": "es-01-214-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-214-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "6d4494f133fb05d9471ea23668edf2141ff21d90039142b1a29e9b442cca056e"
+        }
+      }
     },
     {
       "entry_id": "ES-01-215",
@@ -1428,7 +1516,15 @@
       "approval_basis": "Night view of Vejer de la Frontera, Cádiz from the Mirador de la Cobijada terrace: the robed La Cobijada statue in the right foreground, whitewashed village with the church tower in the middle distance, sea and lit coastline stretching left under a moonlit sky. Gate 1 (visual/location): recognizable Vejer overlook composition with the signature statue from a plausible mirador viewpoint; clean framing, no artifacts. Gate 2 (technical): 1920×1080 + 864×1080, SHA-256 matches packet; on-image caption 'Vejer de la Frontera, Cádiz', scenario '24 September 2026 · 01:24 Europe/Madrid' consistent with Open-Meteo weather retrieved 2026-09-24T01:23:32+02:00 (fresh, no reuse), disclosure 'AI-generated artistic interpretation · Not a photograph.', and 'Jason D’s Vision' signature — all legible on gradient scrims. Gate 3 (originality): packet documents text-only generation, image_inputs empty — no photographic inputs. Gate 4 (commercial/IP): no visible people, logos, or distinctive private property. Gate 5 (readiness): no open blockers; night lighting is interpretive per packet limitations.",
       "daylight_16x9": "es-01-215-daylight-16x9.png",
       "daylight_4x5": "es-01-215-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-215-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "d916ee71b2bb681afbbfcf8e0518669ebf54428478d7e255243e9ce17527a07a"
+        }
+      }
     },
     {
       "entry_id": "ES-01-216",
@@ -1445,7 +1541,15 @@
       "approval_basis": "Night view of Baeza Cathedral, Jaén from Plaza de Santa María: the Renaissance façade with its carved Plateresque portal, the Santa María fountain with twisted columns and coat of arms in the foreground, lit bell tower at right, cypresses and warm streetlamps framing the plaza. Gate 1 (visual/location): recognizable cathedral front and fountain from a plausible plaza viewpoint; clean framing, no artifacts. Gate 2 (technical): 1920×1080 + 864×1080, SHA-256 matches packet; on-image caption 'Baeza Cathedral, Jaén', scenario '24 September 2026 · 01:28 Europe/Madrid' consistent with Open-Meteo weather retrieved 2026-09-24T01:27:03+02:00 (fresh, no reuse), disclosure 'AI-generated artistic interpretation · Not a photograph.', and 'Jason D’s Vision' signature — all legible on gradient scrims. Gate 3 (originality): packet documents text-only generation, image_inputs empty — no photographic inputs. Gate 4 (commercial/IP): no visible people, logos, or distinctive private property. Gate 5 (readiness): no open blockers; exact illumination arrangement unverified per packet limitations.",
       "daylight_16x9": "es-01-216-daylight-16x9.png",
       "daylight_4x5": "es-01-216-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-216-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "41d6611f4a29e8e818da0806e3f7f5b73454152e95641352a3de0653a63b2eb9"
+        }
+      }
     },
     {
       "entry_id": "ES-01-217",
@@ -1462,7 +1566,15 @@
       "approval_basis": "Night view of Plaza Vázquez de Molina, Úbeda from the garden end: the church centered with its tower, flanked by the two lit Renaissance palaces, the cherub fountain and parterre gardens with orange trees in the foreground, crescent moon above. Gate 1 (visual/location): recognizable Úbeda Renaissance plaza ensemble from a plausible garden-end viewpoint; clean framing, no artifacts. Gate 2 (technical): 1920×1080 + 864×1080, SHA-256 matches packet; on-image caption 'Plaza Vázquez de Molina, Úbeda', scenario '24 September 2026 · 01:28 Europe/Madrid' consistent with Open-Meteo weather retrieved 2026-09-24T01:27:03+02:00 (fresh, no reuse), disclosure 'AI-generated artistic interpretation · Not a photograph.', and 'Jason D’s Vision' signature — all legible on gradient scrims. Gate 3 (originality): packet documents text-only generation, image_inputs empty — no photographic inputs. Gate 4 (commercial/IP): no visible people, logos, or distinctive private property. Gate 5 (readiness): no open blockers; monument lighting arrangement unverified per packet limitations.",
       "daylight_16x9": "es-01-217-daylight-16x9.png",
       "daylight_4x5": "es-01-217-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-217-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "06328218aecf5fad26796904f001a6175a01b85c55a12225c107b378563d3ba3"
+        }
+      }
     },
     {
       "entry_id": "ES-01-218",
@@ -1479,7 +1591,15 @@
       "approval_basis": "Night view of the Alcazaba, Almería from the city below: the 10th-century Moorish fortress with its crenellated walls and towers spread along the hilltop ridge, the whitewashed La Chanca quarter glowing below, full moon over the sea at right. Gate 1 (visual/location): recognizable Alcazaba ridge silhouette from a plausible city viewpoint; clean framing, no artifacts. Gate 2 (technical): 1920×1080 + 864×1080, SHA-256 matches packet; on-image caption 'Alcazaba, Almería', scenario '24 September 2026 · 01:28 Europe/Madrid' consistent with Open-Meteo weather retrieved 2026-09-24T01:27:03+02:00 (fresh, no reuse), disclosure 'AI-generated artistic interpretation · Not a photograph.', and 'Jason D’s Vision' signature — all legible on gradient scrims. Gate 3 (originality): packet documents text-only generation, image_inputs empty — no photographic inputs. Gate 4 (commercial/IP): no visible people, logos, or distinctive private property. Gate 5 (readiness): no open blockers; honest restrained moonlit treatment matches the packet's no-invented-floodlighting discipline.",
       "daylight_16x9": "es-01-218-daylight-16x9.png",
       "daylight_4x5": "es-01-218-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-218-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "65fac1edf9a79981bb1a56f64e8f934ec5711b79c8f196e7f6570dbd78bd671e"
+        }
+      }
     },
     {
       "entry_id": "ES-01-219",
@@ -1496,7 +1616,15 @@
       "approval_basis": "Night view of the Tabernas Desert, Almería from the castle-ruins viewpoint: moonlit badlands of eroded gullies and a dry wash, ancient stone ruins in the left foreground, full moon and dense stars over the mountain silhouette. Gate 1 (visual/location): recognizable Tabernas badland formations from a plausible viewpoint; clean framing, no artifacts. Gate 2 (technical): 1920×1080 + 864×1080, SHA-256 matches packet; on-image caption 'Tabernas Desert, Almería', scenario '24 September 2026 · 01:28 Europe/Madrid' consistent with Open-Meteo weather retrieved 2026-09-24T01:27:03+02:00 (fresh, no reuse), disclosure 'AI-generated artistic interpretation · Not a photograph.', and 'Jason D’s Vision' signature — all legible on gradient scrims. Gate 3 (originality): packet documents text-only generation, image_inputs empty — no photographic inputs. Gate 4 (commercial/IP): no visible people, logos, or distinctive private property. Gate 5 (readiness): no open blockers; natural moonlight only, no invented artificial lighting, per packet discipline.",
       "daylight_16x9": "es-01-219-daylight-16x9.png",
       "daylight_4x5": "es-01-219-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-219-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "9a93c44d7b9124a90e86525a7cc1adf40a96165e15d3bd5daefff394c9052424"
+        }
+      }
     },
     {
       "entry_id": "ES-01-220",
@@ -1530,7 +1658,15 @@
       "approval_basis": "Night view of Mojácar, Almería from the Mirador del Castillo: the stone church of Santa María at left on the hilltop, the whitewashed village cascading down the slope with warm lit streets, moonlit sea and coastal lights stretching right, Sierra Cabrera silhouette beyond. Gate 1 (visual/location): recognizable hilltop village-and-church arrangement from a plausible mirador viewpoint; clean framing, no artifacts. Gate 2 (technical): 1920×1080 + 864×1080, SHA-256 matches packet; on-image caption 'Mojácar, Almería', scenario '24 September 2026 · 01:33 Europe/Madrid' consistent with Open-Meteo weather retrieved 2026-09-24T01:30:46+02:00 (fresh, no reuse), disclosure 'AI-generated artistic interpretation · Not a photograph.', and 'Jason D’s Vision' signature — all legible on gradient scrims. Gate 3 (originality): packet documents text-only generation, image_inputs empty — no photographic inputs. Gate 4 (commercial/IP): no visible people, logos, or distinctive private property. Gate 5 (readiness): no open blockers; night lighting unverified per packet limitations but consistent with a lived-in village.",
       "daylight_16x9": "es-01-221-daylight-16x9.png",
       "daylight_4x5": "es-01-221-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-221-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "95ac5371cd818239d3560fa86b18eb534eaeccd20aeaa13d5b987c0aa6f7825c"
+        }
+      }
     },
     {
       "entry_id": "ES-01-222",
@@ -1547,7 +1683,15 @@
       "approval_basis": "Gate 1: baroque Murcia Cathedral facade with its tall clock bell tower rising left, Plaza de las Flores setting, ground-level night haze consistent with the Open-Meteo fog (code 45) weather model; clean framing, no artifacts. Gate 2: both masters exact 1920×1080 / 864×1080, SHA-256 matched the packet; on-image bottom-left reads exactly 'Murcia Cathedral, Murcia', scenario '24 September 2026 · 01:33 Europe/Madrid', and the 'AI-generated artistic interpretation · Not a photograph.' disclosure; 'Jason D’s Vision' (curly apostrophe) bottom-right; weather retrieved 01:30:46 valid 01:33:28 — fresh, matching the scenario hour, not stale. Gate 3: packet documents text-only generation, no photographic inputs. Gate 4: no identifiable people, logos, or private property visible — documented only. Gate 5: no open blockers.",
       "daylight_16x9": "es-01-222-daylight-16x9.png",
       "daylight_4x5": "es-01-222-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-222-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "c73483a67cd474c1703b5636e482af62ccc668583ebbd7e428f443e1a1a0f2d8"
+        }
+      }
     },
     {
       "entry_id": "ES-01-223",
@@ -1564,7 +1708,15 @@
       "approval_basis": "Gate 1: Roman Theatre of Cartagena with its semicircular stone cavea tiers rising right, cypress trunks framing the left edge, Cartagena harbor and city lights behind, moon through cloud; recognizably the theatre from a plausible overlook viewpoint; clean framing, no artifacts. Gate 2: both masters exact 1920×1080 / 864×1080, SHA-256 matched the packet; on-image bottom-left reads exactly 'Roman Theatre, Cartagena', scenario '24 September 2026 · 01:33 Europe/Madrid', and the 'AI-generated artistic interpretation · Not a photograph.' disclosure; 'Jason D’s Vision' (curly apostrophe) bottom-right; weather retrieved 01:30:46 valid 01:33:28 — fresh, matching the scenario hour. Gate 3: packet documents text-only generation, no photographic inputs. Gate 4: no identifiable people, logos, or private property visible — documented only. Gate 5: no open blockers.",
       "daylight_16x9": "es-01-223-daylight-16x9.png",
       "daylight_4x5": "es-01-223-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-223-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "4ce293de86a9ec70b815b0293c5830726e8e451a1b4f17b4df5bdfe5ba3e3618"
+        }
+      }
     },
     {
       "entry_id": "ES-01-242",
@@ -2592,7 +2744,15 @@
       "approval_basis": "Gate 1: Corta Atalaya's vast terraced open-pit mine with rust-red, ochre and grey-blue benches curving down to the dark flooded pit floor, stone pines at the rim, rising moon and stars — recognizably the Riotinto open pit from a plausible rim viewpoint; the moonlit treatment is disclosed in the packet as artistic interpretation; no artifacts. Gate 2: both masters exact 1920×1080 / 864×1080, SHA-256 matched the packet; on-image bottom-left reads exactly 'Corta Atalaya, Minas de Riotinto', scenario '24 September 2026 · 01:41 Europe/Madrid', and the 'AI-generated artistic interpretation · Not a photograph.' disclosure; 'Jason D’s Vision' (curly apostrophe) bottom-right; weather retrieved 01:38:39 valid 01:41:33 — fresh, matching the scenario hour. Gate 3: packet documents text-only generation, no photographic inputs. Gate 4: no identifiable people, logos, or private property visible — documented only. Gate 5: no open blockers.",
       "daylight_16x9": "es-01-225-daylight-16x9.png",
       "daylight_4x5": "es-01-225-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-225-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "9e555ea6de29eb30b19bd8ef8c270d1fcd1ba0f0576669b3f83b2c12b4425f42"
+        }
+      }
     },
     {
       "entry_id": "ES-01-226",
@@ -2609,7 +2769,15 @@
       "approval_basis": "Gate 1: Aracena's whitewashed houses climbing the hillside at night, viewed from the old castle wall walkway with the lit brick bell-gable tower foreground-left and moonlit sierra beyond — recognizably Aracena from a plausible castle-rampart viewpoint; clean framing, no artifacts. Gate 2: both masters exact 1920×1080 / 864×1080, SHA-256 matched the packet; on-image bottom-left reads exactly 'Aracena, Huelva', scenario '24 September 2026 · 01:41 Europe/Madrid', and the 'AI-generated artistic interpretation · Not a photograph.' disclosure; 'Jason D’s Vision' (curly apostrophe) bottom-right; weather retrieved 01:38:39 valid 01:41:33 — fresh, matching the scenario hour. Gate 3: packet documents text-only generation, no photographic inputs. Gate 4: no identifiable people, logos, or private property visible — documented only. Gate 5: no open blockers.",
       "daylight_16x9": "es-01-226-daylight-16x9.png",
       "daylight_4x5": "es-01-226-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-226-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "7fc065026f9f3adbd2c6783c343a1527554d31bdd94175bf5f5f14d702549613"
+        }
+      }
     },
     {
       "entry_id": "ES-01-227",
@@ -2626,7 +2794,15 @@
       "approval_basis": "Gate 1: Jaén Cathedral's Renaissance twin-tower facade floodlit against deep blue night, crescent moon upper right, Santa Catalina castle silhouette on the hill behind, lit plaza and lamp posts in the foreground — recognizably Jaén Cathedral from the Plaza de Santa María viewpoint; no artifacts. Gate 2: both masters exact 1920×1080 / 864×1080, SHA-256 matched the packet; on-image bottom-left reads exactly 'Jaén Cathedral, Jaén', scenario '24 September 2026 · 01:41 Europe/Madrid', and the 'AI-generated artistic interpretation · Not a photograph.' disclosure; 'Jason D’s Vision' (curly apostrophe) bottom-right; weather retrieved 01:38:39 valid 01:41:33 — fresh, matching the scenario hour. Gate 3: packet documents text-only generation, no photographic inputs. Gate 4: no identifiable people, logos, or private property visible — documented only. Gate 5: no open blockers.",
       "daylight_16x9": "es-01-227-daylight-16x9.png",
       "daylight_4x5": "es-01-227-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-227-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "51c06ff4d9ff3726df1c0be46448346bf86431dfdbf2e13500c6cb905eaaac6e"
+        }
+      }
     },
     {
       "entry_id": "ES-01-284",
@@ -3475,7 +3651,15 @@
       "approval_basis": "Gate 1 visual/location pass: recognizable Burgalimar Castle on its olive-grove hill, plausible tourist viewpoint, clean framing, no artifacts. Gate 2 technical pass: exact 1920x1080 + 864x1080, SHA-256 matches packet, exact Jason D's Vision signature bottom-right, caption/scenario timestamp/AI disclosure bottom-left legible. Gate 3 originality: packet documents text-only generation, no photographic inputs. Gate 4 commercial/IP documented only: no visible people or logos. Gate 5 publication readiness confirmed, no open blockers.",
       "daylight_16x9": "es-01-228-daylight-16x9.png",
       "daylight_4x5": "es-01-228-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-228-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "f9258ef6f86cde4394a01e739f7a354ed5d35795b24ab51e9241b53a1544f9c2"
+        }
+      }
     },
     {
       "entry_id": "ES-01-229",
@@ -3492,7 +3676,15 @@
       "approval_basis": "Gate 1 visual/location pass: recognizable Plaza Santa Maria church ruins with Cazorla castle on the hill above, plausible plaza viewpoint, clean framing, no artifacts. Gate 2 technical pass: exact 1920x1080 + 864x1080, SHA-256 matches packet, exact Jason D's Vision signature bottom-right, caption/scenario timestamp/AI disclosure bottom-left legible. Gate 3 originality: packet documents text-only generation, no photographic inputs. Gate 4 commercial/IP documented only: no visible people or logos. Gate 5 publication readiness confirmed, no open blockers.",
       "daylight_16x9": "es-01-229-daylight-16x9.png",
       "daylight_4x5": "es-01-229-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-229-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "6a6538b2d07ed1f19e4afa5edd19cd8a170f2fee36af8bcd18ca8edab739add1"
+        }
+      }
     },
     {
       "entry_id": "ES-01-230",
@@ -6714,7 +6906,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor H: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/H/ES-01-194.md. r1.",
       "daylight_16x9": "es-01-194-daylight-16x9.png",
       "daylight_4x5": "es-01-194-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-194-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "53bbc3e73a74a79dfab46f5c137eca9dbaf202d90328776f203b640662ed9ee3"
+        }
+      }
     },
     {
       "entry_id": "ES-01-195",
@@ -6731,7 +6931,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor H: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/H/ES-01-195.md. r1.",
       "daylight_16x9": "es-01-195-daylight-16x9.png",
       "daylight_4x5": "es-01-195-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-195-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "864483118f2e6dd7ef60c96056e60a6518d3d75f57eb3ac6016e60dacbcf12f9"
+        }
+      }
     },
     {
       "entry_id": "ES-01-196",
@@ -6748,7 +6956,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor H: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/H/ES-01-196.md. r1.",
       "daylight_16x9": "es-01-196-daylight-16x9.png",
       "daylight_4x5": "es-01-196-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-196-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "196cb7b3c1caebd76e99fc3abab64cf8aec6e02bc6a76bb9b72a7483182e4f2d"
+        }
+      }
     },
     {
       "entry_id": "ES-01-197",
@@ -6765,7 +6981,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor H: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/H/ES-01-197.md. r1.",
       "daylight_16x9": "es-01-197-daylight-16x9.png",
       "daylight_4x5": "es-01-197-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-197-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "384d1470f6d4f5d6dc76fe22376bdc4fc6af7f2ed71ce68b359f42b99a8ef70f"
+        }
+      }
     },
     {
       "entry_id": "ES-01-198",
@@ -6782,7 +7006,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor H: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/H/ES-01-198.md. r1.",
       "daylight_16x9": "es-01-198-daylight-16x9.png",
       "daylight_4x5": "es-01-198-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-198-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "6937fc98e5711970fbbd7926ca8e99056db590bc4a2507203486fa929264c03d"
+        }
+      }
     },
     {
       "entry_id": "ES-01-199",
@@ -6799,7 +7031,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor H: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/H/ES-01-199.md. r1.",
       "daylight_16x9": "es-01-199-daylight-16x9.png",
       "daylight_4x5": "es-01-199-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-199-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "00234d699286f74104ac7e157dfb8e7d6ea25d8c9b860becffa301e77c4ae464"
+        }
+      }
     }
   ],
   "starters": [

@@ -31,6 +31,7 @@
   "description": "Standing on Zafra's main square at night, you take in the arcaded plaza glowing under lamplight. The frame runs along the colonnades of the Plaza Grande, their arches warm against the dark façades above. The little Seville of Extremadura keeps its square lit through the small hours.",
   "file_16x9": "es-01-194-r1-16x9.png",
   "file_4x5": "es-01-194-r1-4x5.png",
+  "file_9x16": "es-01-194-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "7c93e0981af28c0dac36587b7f256875173675c0af5d9a94cb0c172c45b8dca1"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "53bbc3e73a74a79dfab46f5c137eca9dbaf202d90328776f203b640662ed9ee3"
     }
   },
   "masters": {

@@ -31,6 +31,7 @@
   "description": "From the square before it, the Renaissance facade of Jaén Cathedral glows at night — its great baroque-classical front floodlit, with the twin towers rising on either side of the central portal. The carved stonework catches the light in warm relief against the dark sky, and the plaza lies quiet at its feet. One of Andalusia's grandest cathedrals, it holds the city's main square in majestic, lamplit calm.",
   "file_16x9": "es-01-227-r1-16x9.png",
   "file_4x5": "es-01-227-r1-4x5.png",
+  "file_9x16": "es-01-227-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "b86da08810777a389f996ea14bfa943e76f5c23b96f64bba3aff1ae2fc302165"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "51c06ff4d9ff3726df1c0be46448346bf86431dfdbf2e13500c6cb905eaaac6e"
     }
   },
   "masters": {

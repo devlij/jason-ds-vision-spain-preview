@@ -25,6 +25,7 @@
   "description": "Look across La Caleta at night, with the old bathhouse on its rocky point at center frame and the castle of Santa Catalina guarding one side. The small beach curves between them, dark water lapping at the sand, while the lit facades of the old town close the view behind. It is the Cádiz of postcards, gone quiet.",
   "file_16x9": "es-01-209-r1-16x9.png",
   "file_4x5": "es-01-209-r1-4x5.png",
+  "file_9x16": "es-01-209-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -35,6 +36,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "9518c6884f9731b3bd0355e8573ba8ed19cfbf31202775e7827317bc1e45a70d"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "2f89261f97c4705526f1cd8df8a292626e7fe1b2dfb55d215d34e7a8b1753858"
     }
   },
   "masters": {

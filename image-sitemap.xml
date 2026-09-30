@@ -362,6 +362,10 @@
       <image:loc>https://spain.jdvision.org/es-01-228-r1-4x5.png</image:loc>
       <image:title>Burgalimar Castle, Baños de la Encina — Burgalimar Castle, Baños de la Encina</image:title>
     </image:image>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-228-r1-9x16.png</image:loc>
+      <image:title>Burgalimar Castle, Baños de la Encina — Burgalimar Castle, Baños de la Encina</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-033</loc>
@@ -437,6 +441,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-229-r1-4x5.png</image:loc>
+      <image:title>Plaza Santa María, Cazorla — Plaza Santa María, Cazorla</image:title>
+    </image:image>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-229-r1-9x16.png</image:loc>
       <image:title>Plaza Santa María, Cazorla — Plaza Santa María, Cazorla</image:title>
     </image:image>
   </url>
@@ -2166,6 +2174,10 @@
       <image:loc>https://spain.jdvision.org/es-01-194-r1-4x5.png</image:loc>
       <image:title>Zafra, Zafra — Zafra, Zafra</image:title>
     </image:image>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-194-r1-9x16.png</image:loc>
+      <image:title>Zafra, Zafra — Zafra, Zafra</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-195</loc>
@@ -2175,6 +2187,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-195-r1-4x5.png</image:loc>
+      <image:title>Olivenza, Olivenza — Olivenza, Olivenza</image:title>
+    </image:image>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-195-r1-9x16.png</image:loc>
       <image:title>Olivenza, Olivenza — Olivenza, Olivenza</image:title>
     </image:image>
   </url>
@@ -2188,6 +2204,10 @@
       <image:loc>https://spain.jdvision.org/es-01-196-r1-4x5.png</image:loc>
       <image:title>Jerez de los Caballeros, Jerez de los Caballeros — Jerez de los Caballeros, Jerez de los Caballeros</image:title>
     </image:image>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-196-r1-9x16.png</image:loc>
+      <image:title>Jerez de los Caballeros, Jerez de los Caballeros — Jerez de los Caballeros, Jerez de los Caballeros</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-197</loc>
@@ -2197,6 +2217,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-197-r1-4x5.png</image:loc>
+      <image:title>Jewish Quarter, Hervás — Jewish Quarter, Hervás</image:title>
+    </image:image>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-197-r1-9x16.png</image:loc>
       <image:title>Jewish Quarter, Hervás — Jewish Quarter, Hervás</image:title>
     </image:image>
   </url>
@@ -2210,6 +2234,10 @@
       <image:loc>https://spain.jdvision.org/es-01-198-r1-4x5.png</image:loc>
       <image:title>Monte Hacho, Ceuta — Monte Hacho, Ceuta</image:title>
     </image:image>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-198-r1-9x16.png</image:loc>
+      <image:title>Monte Hacho, Ceuta — Monte Hacho, Ceuta</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-199</loc>
@@ -2219,6 +2247,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-199-r1-4x5.png</image:loc>
+      <image:title>Ensanche Modernista, Melilla — Ensanche Modernista, Melilla</image:title>
+    </image:image>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-199-r1-9x16.png</image:loc>
       <image:title>Ensanche Modernista, Melilla — Ensanche Modernista, Melilla</image:title>
     </image:image>
   </url>
@@ -2375,6 +2407,10 @@
       <image:loc>https://spain.jdvision.org/es-01-200-r1-4x5.png</image:loc>
       <image:title>Roman Theatre, Málaga — Roman Theatre, Málaga</image:title>
     </image:image>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-200-r1-9x16.png</image:loc>
+      <image:title>Roman Theatre, Málaga — Roman Theatre, Málaga</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-201</loc>
@@ -2386,6 +2422,10 @@
       <image:loc>https://spain.jdvision.org/es-01-201-r1-4x5.png</image:loc>
       <image:title>Gibralfaro Castle, Málaga — Gibralfaro Castle, Málaga</image:title>
     </image:image>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-201-r1-9x16.png</image:loc>
+      <image:title>Gibralfaro Castle, Málaga — Gibralfaro Castle, Málaga</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-202</loc>
@@ -2395,6 +2435,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-202-r1-4x5.png</image:loc>
+      <image:title>Málaga Cathedral, Málaga — Málaga Cathedral, Málaga</image:title>
+    </image:image>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-202-r1-9x16.png</image:loc>
       <image:title>Málaga Cathedral, Málaga — Málaga Cathedral, Málaga</image:title>
     </image:image>
   </url>
@@ -2441,6 +2485,10 @@
       <image:loc>https://spain.jdvision.org/es-01-206-r1-4x5.png</image:loc>
       <image:title>Colomares Castle, Benalmádena — Colomares Castle, Benalmádena</image:title>
     </image:image>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-206-r1-9x16.png</image:loc>
+      <image:title>Colomares Castle, Benalmádena — Colomares Castle, Benalmádena</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-207</loc>
@@ -2463,6 +2511,10 @@
       <image:loc>https://spain.jdvision.org/es-01-208-r1-4x5.png</image:loc>
       <image:title>Cádiz Cathedral, Cádiz — Cádiz Cathedral, Cádiz</image:title>
     </image:image>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-208-r1-9x16.png</image:loc>
+      <image:title>Cádiz Cathedral, Cádiz — Cádiz Cathedral, Cádiz</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-209</loc>
@@ -2472,6 +2524,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-209-r1-4x5.png</image:loc>
+      <image:title>La Caleta, Cádiz — La Caleta, Cádiz</image:title>
+    </image:image>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-209-r1-9x16.png</image:loc>
       <image:title>La Caleta, Cádiz — La Caleta, Cádiz</image:title>
     </image:image>
   </url>
@@ -2485,6 +2541,10 @@
       <image:loc>https://spain.jdvision.org/es-01-210-r1-4x5.png</image:loc>
       <image:title>Torre Tavira, Cádiz — Torre Tavira, Cádiz</image:title>
     </image:image>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-210-r1-9x16.png</image:loc>
+      <image:title>Torre Tavira, Cádiz — Torre Tavira, Cádiz</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-211</loc>
@@ -2494,6 +2554,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-211-r1-4x5.png</image:loc>
+      <image:title>Alcázar de Jerez, Jerez de la Frontera — Alcázar de Jerez, Jerez de la Frontera</image:title>
+    </image:image>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-211-r1-9x16.png</image:loc>
       <image:title>Alcázar de Jerez, Jerez de la Frontera — Alcázar de Jerez, Jerez de la Frontera</image:title>
     </image:image>
   </url>
@@ -2507,6 +2571,10 @@
       <image:loc>https://spain.jdvision.org/es-01-212-r1-4x5.png</image:loc>
       <image:title>Arcos de la Frontera, Cádiz — Arcos de la Frontera, Arcos de la Frontera</image:title>
     </image:image>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-212-r1-9x16.png</image:loc>
+      <image:title>Arcos de la Frontera, Cádiz — Arcos de la Frontera, Arcos de la Frontera</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-213</loc>
@@ -2516,6 +2584,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-213-r1-4x5.png</image:loc>
+      <image:title>Zahara de la Sierra, Cádiz — Zahara de la Sierra, Zahara de la Sierra</image:title>
+    </image:image>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-213-r1-9x16.png</image:loc>
       <image:title>Zahara de la Sierra, Cádiz — Zahara de la Sierra, Zahara de la Sierra</image:title>
     </image:image>
   </url>
@@ -2529,6 +2601,10 @@
       <image:loc>https://spain.jdvision.org/es-01-214-r1-4x5.png</image:loc>
       <image:title>Tarifa, Cádiz — Tarifa, Tarifa</image:title>
     </image:image>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-214-r1-9x16.png</image:loc>
+      <image:title>Tarifa, Cádiz — Tarifa, Tarifa</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-215</loc>
@@ -2538,6 +2614,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-215-r1-4x5.png</image:loc>
+      <image:title>Vejer de la Frontera, Cádiz — Vejer de la Frontera, Vejer de la Frontera</image:title>
+    </image:image>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-215-r1-9x16.png</image:loc>
       <image:title>Vejer de la Frontera, Cádiz — Vejer de la Frontera, Vejer de la Frontera</image:title>
     </image:image>
   </url>
@@ -2551,6 +2631,10 @@
       <image:loc>https://spain.jdvision.org/es-01-216-r1-4x5.png</image:loc>
       <image:title>Baeza Cathedral, Jaén — Baeza Cathedral, Baeza</image:title>
     </image:image>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-216-r1-9x16.png</image:loc>
+      <image:title>Baeza Cathedral, Jaén — Baeza Cathedral, Baeza</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-217</loc>
@@ -2560,6 +2644,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-217-r1-4x5.png</image:loc>
+      <image:title>Plaza Vázquez de Molina, Úbeda — Plaza Vázquez de Molina, Úbeda</image:title>
+    </image:image>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-217-r1-9x16.png</image:loc>
       <image:title>Plaza Vázquez de Molina, Úbeda — Plaza Vázquez de Molina, Úbeda</image:title>
     </image:image>
   </url>
@@ -2573,6 +2661,10 @@
       <image:loc>https://spain.jdvision.org/es-01-218-r1-4x5.png</image:loc>
       <image:title>Alcazaba, Almería — Alcazaba, Almería</image:title>
     </image:image>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-218-r1-9x16.png</image:loc>
+      <image:title>Alcazaba, Almería — Alcazaba, Almería</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-219</loc>
@@ -2582,6 +2674,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-219-r1-4x5.png</image:loc>
+      <image:title>Tabernas Desert, Almería — Tabernas Desert, Tabernas</image:title>
+    </image:image>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-219-r1-9x16.png</image:loc>
       <image:title>Tabernas Desert, Almería — Tabernas Desert, Tabernas</image:title>
     </image:image>
   </url>
@@ -2606,6 +2702,10 @@
       <image:loc>https://spain.jdvision.org/es-01-221-r1-4x5.png</image:loc>
       <image:title>Mojácar, Almería — Mojácar, Mojácar</image:title>
     </image:image>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-221-r1-9x16.png</image:loc>
+      <image:title>Mojácar, Almería — Mojácar, Mojácar</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-222</loc>
@@ -2617,6 +2717,10 @@
       <image:loc>https://spain.jdvision.org/es-01-222-r1-4x5.png</image:loc>
       <image:title>Murcia Cathedral, Murcia — Murcia Cathedral, Murcia</image:title>
     </image:image>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-222-r1-9x16.png</image:loc>
+      <image:title>Murcia Cathedral, Murcia — Murcia Cathedral, Murcia</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-223</loc>
@@ -2626,6 +2730,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-223-r1-4x5.png</image:loc>
+      <image:title>Roman Theatre, Cartagena — Roman Theatre, Cartagena</image:title>
+    </image:image>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-223-r1-9x16.png</image:loc>
       <image:title>Roman Theatre, Cartagena — Roman Theatre, Cartagena</image:title>
     </image:image>
   </url>
@@ -2650,6 +2758,10 @@
       <image:loc>https://spain.jdvision.org/es-01-225-r1-4x5.png</image:loc>
       <image:title>Corta Atalaya, Minas de Riotinto — Corta Atalaya, Minas de Riotinto</image:title>
     </image:image>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-225-r1-9x16.png</image:loc>
+      <image:title>Corta Atalaya, Minas de Riotinto — Corta Atalaya, Minas de Riotinto</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-226</loc>
@@ -2661,6 +2773,10 @@
       <image:loc>https://spain.jdvision.org/es-01-226-r1-4x5.png</image:loc>
       <image:title>Aracena, Huelva — Aracena, Aracena</image:title>
     </image:image>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-226-r1-9x16.png</image:loc>
+      <image:title>Aracena, Huelva — Aracena, Aracena</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-227</loc>
@@ -2670,6 +2786,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-227-r1-4x5.png</image:loc>
+      <image:title>Jaén Cathedral, Jaén — Jaén Cathedral, Jaén</image:title>
+    </image:image>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-227-r1-9x16.png</image:loc>
       <image:title>Jaén Cathedral, Jaén — Jaén Cathedral, Jaén</image:title>
     </image:image>
   </url>

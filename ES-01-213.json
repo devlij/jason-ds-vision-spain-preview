@@ -25,6 +25,7 @@
   "description": "Below Zahara de la Sierra at night, look up at the castle ruins on their crag. The broken towers crown the center of the frame, the white village spilling down the slope beneath them, with the dark reservoir gleaming at the valley's edge to one side. The lights of the village thin as they climb toward the walls.",
   "file_16x9": "es-01-213-r1-16x9.png",
   "file_4x5": "es-01-213-r1-4x5.png",
+  "file_9x16": "es-01-213-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -35,6 +36,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "521ea58e2fa93b74700b05807acb4eb22c5eb85262d83fc0cce58d033dacef4f"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "e863fcf0403997e82c950d1b5285358db8b324d500c1242121aa83aa3be295d9"
     }
   },
   "masters": {

@@ -31,6 +31,7 @@
   "description": "From Gibralfaro's Moorish ramparts, look out over Málaga and its bay at night. The lit city spreads across the frame below — a glittering grid running to the dark water on one side — with the castle's own walls and towers framing the other. The Mediterranean holds the last of the light while the port glows.",
   "file_16x9": "es-01-201-r1-16x9.png",
   "file_4x5": "es-01-201-r1-4x5.png",
+  "file_9x16": "es-01-201-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "b01037203992754ae817edd723ea4efabfb1cc03ca936fbd009226aa2fd00bdb"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "11634c7c4f7b557e8ac4e1ad2a8116d6a0798d74a66c49bce83fb7d44329bc2c"
     }
   },
   "masters": {

@@ -31,6 +31,7 @@
   "description": "From the rim, the giant terraced pit of Corta Atalaya opens below — vast concentric terraces of the old open-cast mine caught in moonlight, their ochre and rust walls stepping down into shadow. The pit's sheer scale fills the frame, a man-made canyon over a kilometer across. Once among the world's largest open-pit mines, tonight it lies silent under the moon, a monument to the Riotinto mining age.",
   "file_16x9": "es-01-225-r1-16x9.png",
   "file_4x5": "es-01-225-r1-4x5.png",
+  "file_9x16": "es-01-225-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "2cac10f591789591b4f525afad1e31037cb10d263b0e919a0502e6de8b48a709"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "9e555ea6de29eb30b19bd8ef8c270d1fcd1ba0f0576669b3f83b2c12b4425f42"
     }
   },
   "masters": {

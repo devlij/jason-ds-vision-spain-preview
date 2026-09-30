@@ -25,6 +25,7 @@
   "description": "From the Cobijada viewpoint at night, look across at Vejer de la Frontera. The white hilltop town glows across the frame — church tower and windmills silhouetted at the crest, lit houses cascading down the slopes — with the dark countryside spreading below. The veiled woman's statue keeps watch at the viewpoint beside you.",
   "file_16x9": "es-01-215-r1-16x9.png",
   "file_4x5": "es-01-215-r1-4x5.png",
+  "file_9x16": "es-01-215-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -35,6 +36,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "34c917ea665dc16066e60ab9b65cd0d2039689b013480ff6f48f553aed4de6df"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "d916ee71b2bb681afbbfcf8e0518669ebf54428478d7e255243e9ce17527a07a"
     }
   },
   "masters": {

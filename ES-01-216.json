@@ -25,6 +25,7 @@
   "description": "From the plaza at night, face Baeza Cathedral's front. The Renaissance facade rises at center frame, floodlit warm, with the plaza's stone paving spreading left and right toward the old town's honey-colored buildings. The cathedral has watched over this square for five centuries — at night it still holds court.",
   "file_16x9": "es-01-216-r1-16x9.png",
   "file_4x5": "es-01-216-r1-4x5.png",
+  "file_9x16": "es-01-216-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -35,6 +36,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "81c7323baefd691abe9ae0f6fb4078c97c4efac58f4260223ad4ca27060c103b"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "41d6611f4a29e8e818da0806e3f7f5b73454152e95641352a3de0653a63b2eb9"
     }
   },
   "masters": {
