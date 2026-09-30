@@ -31,6 +31,7 @@
   "description": "The Roman aqueduct of Segovia marches across the night in its double tier of granite arches. The great arcade is floodlit pier by pier while the old town rises behind it. Two thousand years old, holding up the sky without a drop of mortar.",
   "file_16x9": "es-01-110-r1-16x9.png",
   "file_4x5": "es-01-110-r1-4x5.png",
+  "file_9x16": "es-01-110-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "63586a56e08491c805a0af112023245c284d347ddd1a36806e16fa3ba77a693d"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "cee17db03e6fe0446d625e432428a28e054858bfab259397a2d3fc9a158e76a6"
     }
   },
   "masters": {

@@ -31,6 +31,7 @@
   "description": "Buitrago del Lozoya's medieval walls run in their river loop, the crenellated circuit lit along the water. The walls close the town on its peninsula while the river bends dark around them. A walled town in a river's embrace, almost an island.",
   "file_16x9": "es-01-109-r1-16x9.png",
   "file_4x5": "es-01-109-r1-4x5.png",
+  "file_9x16": "es-01-109-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "403b8fa471de96cd7290e176f40da65c59fc0063b93f4ded2d9cfb9261d1604f"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "17682c4a89aee7d8763a141cd0d5104f5a43cd46983a92652d6ff5ffae843ca3"
     }
   },
   "masters": {

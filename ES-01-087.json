@@ -31,6 +31,7 @@
   "description": "In Mondoñedo at night, the cathedral town sleeps beneath its great church, the cathedral's mass dark against the starry sky. A few streetlamps glow in the old quarter while the surrounding hills close in black. The little episcopal city rests, its cathedral keeping silent watch over the rooftops.",
   "file_16x9": "es-01-087-r1-16x9.png",
   "file_4x5": "es-01-087-r1-4x5.png",
+  "file_9x16": "es-01-087-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "a3e4aac932018000fdb8bbe629cc63e4db53925b9fe29ca3ae235584664a446c"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "4c5136e4bed470c95a0053c04d46b3650eb394389341ae9514afa06bb59fb46d"
     }
   },
   "masters": {

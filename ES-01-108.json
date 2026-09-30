@@ -31,6 +31,7 @@
   "description": "The monastery of El Escorial rises in its vast grid, the basilica dome and twin towers floodlit against the sierra. The long granite facades run into the dark on either side while the courtyard lies silent. Philip II's great monument, severe and magnificent at night.",
   "file_16x9": "es-01-108-r1-16x9.png",
   "file_4x5": "es-01-108-r1-4x5.png",
+  "file_9x16": "es-01-108-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "68f60e6771502a1b3107ccf9d98734ea7e9bb4e081254e352494a98dd510969c"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "93b1fd2753a0b5b2cd88dc1092fe1340c67b971f5fb6a92194c8c16877423462"
     }
   },
   "masters": {
