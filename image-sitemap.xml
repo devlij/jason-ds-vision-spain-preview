@@ -1308,6 +1308,10 @@
       <image:loc>https://spain.jdvision.org/es-01-116-r1-4x5.png</image:loc>
       <image:title>Old town, Pastrana — Old town, Pastrana</image:title>
     </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-116-r1-9x16.png</image:loc>
+      <image:title>Old town, Pastrana — Old town, Pastrana</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-117</loc>
@@ -1317,6 +1321,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-117-r1-4x5.png</image:loc>
+      <image:title>Old town, Almagro — Old town, Almagro</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-117-r1-9x16.png</image:loc>
       <image:title>Old town, Almagro — Old town, Almagro</image:title>
     </image:image>
   </url>
@@ -1330,6 +1338,10 @@
       <image:loc>https://spain.jdvision.org/es-01-118-r1-4x5.png</image:loc>
       <image:title>Belmonte Castle, Belmonte — Belmonte Castle, Belmonte</image:title>
     </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-118-r1-9x16.png</image:loc>
+      <image:title>Belmonte Castle, Belmonte — Belmonte Castle, Belmonte</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-119</loc>
@@ -1339,6 +1351,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-119-r1-4x5.png</image:loc>
+      <image:title>Lagunas de Ruidera, Ruidera — Lagunas de Ruidera, Ruidera</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-119-r1-9x16.png</image:loc>
       <image:title>Lagunas de Ruidera, Ruidera — Lagunas de Ruidera, Ruidera</image:title>
     </image:image>
   </url>
@@ -1363,6 +1379,10 @@
       <image:loc>https://spain.jdvision.org/es-01-121-r1-4x5.png</image:loc>
       <image:title>Chinchilla de Montearagón, Chinchilla de Montearagón — Chinchilla de Montearagón, Chinchilla de Montearagón</image:title>
     </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-121-r1-9x16.png</image:loc>
+      <image:title>Chinchilla de Montearagón, Chinchilla de Montearagón — Chinchilla de Montearagón, Chinchilla de Montearagón</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-122</loc>
@@ -1372,6 +1392,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-122-r1-4x5.png</image:loc>
+      <image:title>Atienza, Atienza — Atienza, Atienza</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-122-r1-9x16.png</image:loc>
       <image:title>Atienza, Atienza — Atienza, Atienza</image:title>
     </image:image>
   </url>
@@ -1385,6 +1409,10 @@
       <image:loc>https://spain.jdvision.org/es-01-123-r2-4x5.png</image:loc>
       <image:title>Molina de Aragón, Molina de Aragón — Molina de Aragón, Molina de Aragón</image:title>
     </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-123-r2-9x16.png</image:loc>
+      <image:title>Molina de Aragón, Molina de Aragón — Molina de Aragón, Molina de Aragón</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-124</loc>
@@ -1394,6 +1422,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-124-r2-4x5.png</image:loc>
+      <image:title>Alarcón, Alarcón — Alarcón, Alarcón</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-124-r2-9x16.png</image:loc>
       <image:title>Alarcón, Alarcón — Alarcón, Alarcón</image:title>
     </image:image>
   </url>
@@ -1407,6 +1439,10 @@
       <image:loc>https://spain.jdvision.org/es-01-125-r1-4x5.png</image:loc>
       <image:title>Mudejar Towers, Teruel — Mudejar Towers, Teruel</image:title>
     </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-125-r1-9x16.png</image:loc>
+      <image:title>Mudejar Towers, Teruel — Mudejar Towers, Teruel</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-126</loc>
@@ -1416,6 +1452,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-126-r3-4x5.png</image:loc>
+      <image:title>Sos del Rey Católico, Sos del Rey Católico — Sos del Rey Católico, Sos del Rey Católico</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-126-r3-9x16.png</image:loc>
       <image:title>Sos del Rey Católico, Sos del Rey Católico — Sos del Rey Católico, Sos del Rey Católico</image:title>
     </image:image>
   </url>
@@ -1451,6 +1491,10 @@
       <image:loc>https://spain.jdvision.org/es-01-129-r2-4x5.png</image:loc>
       <image:title>Old town, Tarazona — Old town, Tarazona</image:title>
     </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-129-r2-9x16.png</image:loc>
+      <image:title>Old town, Tarazona — Old town, Tarazona</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-130</loc>
@@ -1460,6 +1504,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-130-r3-4x5.png</image:loc>
+      <image:title>Alquézar, Alquézar — Alquézar, Alquézar</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-130-r3-9x16.png</image:loc>
       <image:title>Alquézar, Alquézar — Alquézar, Alquézar</image:title>
     </image:image>
   </url>
@@ -1473,6 +1521,10 @@
       <image:loc>https://spain.jdvision.org/es-01-131-r2-4x5.png</image:loc>
       <image:title>Monasterio de Piedra, Nuévalos — Monasterio de Piedra, Nuévalos</image:title>
     </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-131-r2-9x16.png</image:loc>
+      <image:title>Monasterio de Piedra, Nuévalos — Monasterio de Piedra, Nuévalos</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-132</loc>
@@ -1482,6 +1534,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-132-r1-4x5.png</image:loc>
+      <image:title>Old town, Calatayud — Old town, Calatayud</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-132-r1-9x16.png</image:loc>
       <image:title>Old town, Calatayud — Old town, Calatayud</image:title>
     </image:image>
   </url>
@@ -1495,6 +1551,10 @@
       <image:loc>https://spain.jdvision.org/es-01-133-r2-4x5.png</image:loc>
       <image:title>Old town, Girona — Old town, Girona</image:title>
     </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-133-r2-9x16.png</image:loc>
+      <image:title>Old town, Girona — Old town, Girona</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-134</loc>
@@ -1504,6 +1564,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-134-r2-4x5.png</image:loc>
+      <image:title>Old town, Tortosa — Old town, Tortosa</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-134-r2-9x16.png</image:loc>
       <image:title>Old town, Tortosa — Old town, Tortosa</image:title>
     </image:image>
   </url>
@@ -1517,6 +1581,10 @@
       <image:loc>https://spain.jdvision.org/es-01-135-r3-4x5.png</image:loc>
       <image:title>Castellfollit de la Roca, Castellfollit de la Roca — Castellfollit de la Roca, Castellfollit de la Roca</image:title>
     </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-135-r3-9x16.png</image:loc>
+      <image:title>Castellfollit de la Roca, Castellfollit de la Roca — Castellfollit de la Roca, Castellfollit de la Roca</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-136</loc>
@@ -1528,6 +1596,10 @@
       <image:loc>https://spain.jdvision.org/es-01-136-r2-4x5.png</image:loc>
       <image:title>Old town, Begur — Old town, Begur</image:title>
     </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-136-r2-9x16.png</image:loc>
+      <image:title>Old town, Begur — Old town, Begur</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-137</loc>
@@ -1537,6 +1609,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-137-r1-4x5.png</image:loc>
+      <image:title>Santa Pau, Santa Pau — Santa Pau, Santa Pau</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-137-r1-9x16.png</image:loc>
       <image:title>Santa Pau, Santa Pau — Santa Pau, Santa Pau</image:title>
     </image:image>
   </url>
@@ -1561,6 +1637,10 @@
       <image:loc>https://spain.jdvision.org/es-01-139-r2-4x5.png</image:loc>
       <image:title>Cardona Castle, Cardona — Cardona Castle, Cardona</image:title>
     </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-139-r2-9x16.png</image:loc>
+      <image:title>Cardona Castle, Cardona — Cardona Castle, Cardona</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-140</loc>
@@ -1570,6 +1650,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-140-r2-4x5.png</image:loc>
+      <image:title>Siurana, Cornudella de Montsant — Siurana, Cornudella de Montsant</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-140-r2-9x16.png</image:loc>
       <image:title>Siurana, Cornudella de Montsant — Siurana, Cornudella de Montsant</image:title>
     </image:image>
   </url>
@@ -1583,6 +1667,10 @@
       <image:loc>https://spain.jdvision.org/es-01-141-r1-4x5.png</image:loc>
       <image:title>Old town, Sitges — Old town, Sitges</image:title>
     </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-141-r1-9x16.png</image:loc>
+      <image:title>Old town, Sitges — Old town, Sitges</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-142</loc>
@@ -1592,6 +1680,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-142-r2-4x5.png</image:loc>
+      <image:title>Tabarca, Alicante — Tabarca, Alicante</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-142-r2-9x16.png</image:loc>
       <image:title>Tabarca, Alicante — Tabarca, Alicante</image:title>
     </image:image>
   </url>
@@ -1625,6 +1717,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-145-r2-4x5.png</image:loc>
+      <image:title>Vilafamés, Vilafamés — Vilafamés, Vilafamés</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-145-r2-9x16.png</image:loc>
       <image:title>Vilafamés, Vilafamés — Vilafamés, Vilafamés</image:title>
     </image:image>
   </url>
@@ -1671,6 +1767,10 @@
       <image:loc>https://spain.jdvision.org/es-01-149-r1-4x5.png</image:loc>
       <image:title>Sagunto Castle, Sagunto — Sagunto Castle, Sagunto</image:title>
     </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-149-r1-9x16.png</image:loc>
+      <image:title>Sagunto Castle, Sagunto — Sagunto Castle, Sagunto</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-150</loc>
@@ -1680,6 +1780,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-150-r1-4x5.png</image:loc>
+      <image:title>Colored Houses, Villajoyosa — Colored Houses, Villajoyosa</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-150-r1-9x16.png</image:loc>
       <image:title>Colored Houses, Villajoyosa — Colored Houses, Villajoyosa</image:title>
     </image:image>
   </url>
@@ -1704,6 +1808,10 @@
       <image:loc>https://spain.jdvision.org/es-01-152-r2-4x5.png</image:loc>
       <image:title>Old town, Cehegín — Old town, Cehegín</image:title>
     </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-152-r2-9x16.png</image:loc>
+      <image:title>Old town, Cehegín — Old town, Cehegín</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-153</loc>
@@ -1715,6 +1823,10 @@
       <image:loc>https://spain.jdvision.org/es-01-153-r1-4x5.png</image:loc>
       <image:title>Cabo de Palos, Cartagena — Cabo de Palos, Cartagena</image:title>
     </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-153-r1-9x16.png</image:loc>
+      <image:title>Cabo de Palos, Cartagena — Cabo de Palos, Cartagena</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-154</loc>
@@ -1724,6 +1836,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-154-r2-4x5.png</image:loc>
+      <image:title>Calblanque, Cartagena — Calblanque, Cartagena</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-154-r2-9x16.png</image:loc>
       <image:title>Calblanque, Cartagena — Calblanque, Cartagena</image:title>
     </image:image>
   </url>
@@ -1757,6 +1873,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-157-r1-4x5.png</image:loc>
+      <image:title>La Manga, Cartagena — La Manga, Cartagena</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-157-r1-9x16.png</image:loc>
       <image:title>La Manga, Cartagena — La Manga, Cartagena</image:title>
     </image:image>
   </url>

@@ -31,6 +31,7 @@
   "description": "At night in Begur, you look up toward the old castle hill rising over the town, its walls dimly lit above the scattered house lights. The frame holds the medieval hill at the center with the Costa Brava coves lying dark somewhere beyond. The town glows softly below, a whitewashed cluster in the Empordà dark.",
   "file_16x9": "es-01-136-r2-16x9.png",
   "file_4x5": "es-01-136-r2-4x5.png",
+  "file_9x16": "es-01-136-r2-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "218cad0f80eae4d993360835916863268c6f05d5d4123e7228e3f01351e288b3"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "2818592307ca297fc12d52c6a9e0da6da5640b60cf9dc1d953db81d7945e1db7"
     }
   },
   "masters": {

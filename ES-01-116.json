@@ -31,6 +31,7 @@
   "description": "From the edge of Pastrana's ducal old town at night, you look across a dark stone plaza toward the palace walls and church tower rising above the rooftops. The frame centers on the old town's historic profile, lit here and there by streetlamps that pick out carved stonework and quiet balconies. The whole scene is still, the way a ducal capital rests long after midnight.",
   "file_16x9": "es-01-116-r1-16x9.png",
   "file_4x5": "es-01-116-r1-4x5.png",
+  "file_9x16": "es-01-116-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "a846b85d96361629cb57931d2a22cdb219a892ff2edc61899aaf6311e954072c"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "aa997f67fdbc1d6c3a6bc517392e6eae6be5f1035cd5395bc2d2cceea7d0e1db"
     }
   },
   "masters": {

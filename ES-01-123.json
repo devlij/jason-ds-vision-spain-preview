@@ -31,6 +31,7 @@
   "description": "From the valley at night, Molina de Aragón's great fortress crowns its hill in dark silhouette against the stars. The long curtain walls and towers ring the summit, black against the night sky. The town's lights sparkle faintly below while the medieval fortress keeps its ancient watch.",
   "file_16x9": "es-01-123-r2-16x9.png",
   "file_4x5": "es-01-123-r2-4x5.png",
+  "file_9x16": "es-01-123-r2-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "b0d76bd4b301cd0de197c615ae5001b7845f92bf0634beec452d5666897a6797"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "f675df3c1b4b3508dc48e01df3643057ebd7a52938e16c07fe1c714309270719"
     }
   },
   "masters": {

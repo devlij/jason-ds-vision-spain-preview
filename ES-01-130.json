@@ -31,6 +31,7 @@
   "description": "The village of Alquézar clings to its crag above the Vero canyon, its few lights scattered across the dark rock. From below you see the lit windows of the stone houses and the collegiate church on its summit, the canyon a black void beneath. Night turns this eagle's-nest village into something out of a legend.",
   "file_16x9": "es-01-130-r3-16x9.png",
   "file_4x5": "es-01-130-r3-4x5.png",
+  "file_9x16": "es-01-130-r3-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "66ae4c823e836d9a3519ec7d5ad2c952c463b2081df9092a0e74ffaa92186bb5"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "bf77444d57b42affd5767b2992bd6ceec563d09b9ca98befd53cb75b774406cf"
     }
   },
   "masters": {
