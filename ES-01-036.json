@@ -39,6 +39,7 @@
   "description": "Massive angular Renaissance bastions climbing the hill above the harbour; Dense whitewashed lower old-town buildings beneath the walls; Cathedral and bell-tower silhouette crowning the ridge.",
   "file_16x9": "es-01-036-r1-16x9.png",
   "file_4x5": "es-01-036-r1-4x5.png",
+  "file_9x16": "es-01-036-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -49,6 +50,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "4c10f82d4fc64472b09c637219e53a11c95eb0bf4847a2d250c3656e91a42f18"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "8a9b8986002c31b48bc9ded422aef4b867b213f3cf59a83732fc861236f496c4"
     }
   },
   "masters": {

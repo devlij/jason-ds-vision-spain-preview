@@ -1120,7 +1120,15 @@
       "daylight_4x5": "es-01-036-daylight-4x5.png",
       "daylight_interim": true,
       "audio": "audio/es-01-036-narration.mp3",
-      "description": "Massive angular Renaissance bastions climbing the hill above the harbour; Dense whitewashed lower old-town buildings beneath the walls; Cathedral and bell-tower silhouette crowning the ridge."
+      "description": "Massive angular Renaissance bastions climbing the hill above the harbour; Dense whitewashed lower old-town buildings beneath the walls; Cathedral and bell-tower silhouette crowning the ridge.",
+      "file_9x16": "es-01-036-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "8a9b8986002c31b48bc9ded422aef4b867b213f3cf59a83732fc861236f496c4"
+        }
+      }
     },
     {
       "entry_id": "ES-01-037",
@@ -1138,7 +1146,15 @@
       "daylight_4x5": "es-01-037-daylight-4x5.png",
       "daylight_interim": true,
       "audio": "audio/es-01-037-narration.mp3",
-      "description": "Steep asymmetric pyramidal limestone mass of Es Vedrà rising directly from the sea; Smaller lower Es Vedranell companion islet nearby; Dark pebbly-sandy Cala d'Hort foreground and calm sea channel."
+      "description": "Steep asymmetric pyramidal limestone mass of Es Vedrà rising directly from the sea; Smaller lower Es Vedranell companion islet nearby; Dark pebbly-sandy Cala d'Hort foreground and calm sea channel.",
+      "file_9x16": "es-01-037-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "818b1b2d439d903528ef3f0b5fa277526d2b37815a5c8a5f6221b8f1d2ec7c2e"
+        }
+      }
     },
     {
       "entry_id": "ES-01-038",
@@ -1156,7 +1172,15 @@
       "daylight_4x5": "es-01-038-daylight-4x5.png",
       "daylight_interim": true,
       "audio": "audio/es-01-038-narration.mp3",
-      "description": "Long narrow pale-sand strand with calm shallow turquoise-to-navy water; Low dunes with sparse grasses and a simple protected-access rope/boardwalk edge; Small offshore islets aligned near the northern horizon."
+      "description": "Long narrow pale-sand strand with calm shallow turquoise-to-navy water; Low dunes with sparse grasses and a simple protected-access rope/boardwalk edge; Small offshore islets aligned near the northern horizon.",
+      "file_9x16": "es-01-038-r2-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "85ff59aa6d865a20b69c13781b33f805b2d1f193d15a2082301a792f7880f18f"
+        }
+      }
     },
     {
       "entry_id": "ES-01-200",
@@ -4068,7 +4092,15 @@
       "daylight_4x5": "es-01-039-daylight-4x5.png",
       "daylight_interim": true,
       "audio": "audio/es-01-039-narration.mp3",
-      "description": "Hondarribia's walled old town keeps its great Basque houses with carved eaves, the castle of Charles V above, and the Txingudi bay below. A partly cloudy night over the town. France lies just across the Bidasoa."
+      "description": "Hondarribia's walled old town keeps its great Basque houses with carved eaves, the castle of Charles V above, and the Txingudi bay below. A partly cloudy night over the town. France lies just across the Bidasoa.",
+      "file_9x16": "es-01-039-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "a4713a8a645c1e648f37b3c6a69a2c21fb3a2450cf2b017c2d8ee53c5f4d27a2"
+        }
+      }
     },
     {
       "entry_id": "ES-01-040",
@@ -4086,7 +4118,15 @@
       "daylight_4x5": "es-01-040-daylight-4x5.png",
       "daylight_interim": true,
       "audio": "audio/es-01-040-narration.mp3",
-      "description": "Garachico — the old port buried by the 1706 eruption — keeps its old town, the San Miguel castle, and the lava pools of El Caletón. A partly cloudy night over the town. The Roque de Garachico stands offshore."
+      "description": "Garachico — the old port buried by the 1706 eruption — keeps its old town, the San Miguel castle, and the lava pools of El Caletón. A partly cloudy night over the town. The Roque de Garachico stands offshore.",
+      "file_9x16": "es-01-040-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "f3ba5e46c08b635f2b6b2cb2b7245834a750fd036b9881fd7c6e64a26f62ba0e"
+        }
+      }
     },
     {
       "entry_id": "ES-01-041",
@@ -4104,7 +4144,15 @@
       "daylight_4x5": "es-01-041-daylight-4x5.png",
       "daylight_interim": true,
       "audio": "audio/es-01-041-narration.mp3",
-      "description": "San Cristóbal de La Laguna — the first unfortified colonial city, model for the Americas — keeps its grid of great houses and churches, a UNESCO World Heritage. A partly cloudy night over the town. The cathedral of Los Remedios anchors the old town."
+      "description": "San Cristóbal de La Laguna — the first unfortified colonial city, model for the Americas — keeps its grid of great houses and churches, a UNESCO World Heritage. A partly cloudy night over the town. The cathedral of Los Remedios anchors the old town.",
+      "file_9x16": "es-01-041-r2-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "06205bd8215ea6f8d3d2a9fc4b6a308d3eb868e67ed43b8444fb74b5340b67d0"
+        }
+      }
     },
     {
       "entry_id": "ES-01-042",
@@ -4158,7 +4206,15 @@
       "daylight_4x5": "es-01-044-daylight-4x5.png",
       "daylight_interim": true,
       "audio": "audio/es-01-044-narration.mp3",
-      "description": "El Golfo hides its green lagoon in a volcanic crater by the sea — the Charco de los Clicos, green against the black beach. A clear night over the town. The crater walls open to the Atlantic."
+      "description": "El Golfo hides its green lagoon in a volcanic crater by the sea — the Charco de los Clicos, green against the black beach. A clear night over the town. The crater walls open to the Atlantic.",
+      "file_9x16": "es-01-044-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "d0e269ba33e0a248e8591551e4af8f398ee602cd6ca5d817054ea521cf003d0f"
+        }
+      }
     },
     {
       "entry_id": "ES-01-045",
@@ -4176,7 +4232,15 @@
       "daylight_4x5": "es-01-045-daylight-4x5.png",
       "daylight_interim": true,
       "audio": "audio/es-01-045-narration.mp3",
-      "description": "Castro Urdiales keeps its Gothic church of Santa María and castle-lighthouse on the headland over the fishing port — Flavióbriga of the Romans. An overcast night over the town. The old town climbs between church and sea."
+      "description": "Castro Urdiales keeps its Gothic church of Santa María and castle-lighthouse on the headland over the fishing port — Flavióbriga of the Romans. An overcast night over the town. The old town climbs between church and sea.",
+      "file_9x16": "es-01-045-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "59856bf52a2f6bceeab08d81571db0574c5463286c8f4781a537595a66e8bddd"
+        }
+      }
     },
     {
       "entry_id": "ES-01-046",
@@ -4194,7 +4258,15 @@
       "daylight_4x5": "es-01-046-daylight-4x5.png",
       "daylight_interim": true,
       "audio": "audio/es-01-046-narration.mp3",
-      "description": "In the lanes of Santillana del Mar, honey-colored stone houses with wooden balconies line the cobbled street, the Collegiate Church of Santa Juliana rising above the rooftops. An overcast night over the town. The town keeps its medieval silhouette whole, and the plaza feels untouched by haste."
+      "description": "In the lanes of Santillana del Mar, honey-colored stone houses with wooden balconies line the cobbled street, the Collegiate Church of Santa Juliana rising above the rooftops. An overcast night over the town. The town keeps its medieval silhouette whole, and the plaza feels untouched by haste.",
+      "file_9x16": "es-01-046-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "4c6de940d1bd5794bb8ef1e53b5c43778990c0c56fcc4f0ca75c98a7a16045b4"
+        }
+      }
     },
     {
       "entry_id": "ES-01-047",
@@ -4230,7 +4302,15 @@
       "daylight_4x5": "es-01-048-daylight-4x5.png",
       "daylight_interim": true,
       "audio": "audio/es-01-048-narration.mp3",
-      "description": "From the clifftop path, Playa de Langre curves below between green headlands, its sand split by a rocky outcrop into two coves. An overcast night over the town. Cantabrian surf rolls in steadily, and the cliffs frame the beach like a natural amphitheatre."
+      "description": "From the clifftop path, Playa de Langre curves below between green headlands, its sand split by a rocky outcrop into two coves. An overcast night over the town. Cantabrian surf rolls in steadily, and the cliffs frame the beach like a natural amphitheatre.",
+      "file_9x16": "es-01-048-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "71922e7894c65fcc42f4fa135d42b6009f5e65947f0f88700800f3bef9d88cfc"
+        }
+      }
     },
     {
       "entry_id": "ES-01-049",
@@ -4283,7 +4363,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor E: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/E/ES-01-051.md. r1.",
       "daylight_16x9": "es-01-051-daylight-16x9.png",
       "daylight_4x5": "es-01-051-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-051-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "5b99a7797fa1ccdddfff9039cf9cb3d1ece00e2f60bf66b123c29d27a19ab7d4"
+        }
+      }
     },
     {
       "entry_id": "ES-01-052",
@@ -4334,7 +4422,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor E: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/E/ES-01-054.md. r1.",
       "daylight_16x9": "es-01-054-daylight-16x9.png",
       "daylight_4x5": "es-01-054-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-054-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "e1ddf37e07214459732ca1fd3c91b83888680c143162ad26a11d6206726ab8cb"
+        }
+      }
     },
     {
       "entry_id": "ES-01-084",
@@ -4878,7 +4974,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor E: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/E/ES-01-056.md. r1.",
       "daylight_16x9": "es-01-056-daylight-16x9.png",
       "daylight_4x5": "es-01-056-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-056-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "2949dfed108bb3843ba3774a332e596f81cff35df01c56b422efc943bb18096d"
+        }
+      }
     },
     {
       "entry_id": "ES-01-057",
@@ -4895,7 +4999,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor E: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/E/ES-01-057.md. r1.",
       "daylight_16x9": "es-01-057-daylight-16x9.png",
       "daylight_4x5": "es-01-057-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-057-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "ccf5e0d21dfd4e97184005d2a4de918993de1405f92915f9e0f1496cb5102d89"
+        }
+      }
     },
     {
       "entry_id": "ES-01-058",
@@ -4912,7 +5024,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor E: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/E/ES-01-058.md. r1.",
       "daylight_16x9": "es-01-058-daylight-16x9.png",
       "daylight_4x5": "es-01-058-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-058-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "96bf17eff4557e4365e05df500e12695dc9b6fdf0828de1b4e5a0b63e61c4446"
+        }
+      }
     },
     {
       "entry_id": "ES-01-059",
@@ -4980,7 +5100,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor E: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/E/ES-01-062.md. r1.",
       "daylight_16x9": "es-01-062-daylight-16x9.png",
       "daylight_4x5": "es-01-062-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-062-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "86c5e52ca1d872c6a7d9f81a8df79370304554529d36d2a19d4bf18281b1a6bb"
+        }
+      }
     },
     {
       "entry_id": "ES-01-063",
@@ -4997,7 +5125,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor E: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/E/ES-01-063.md. r1.",
       "daylight_16x9": "es-01-063-daylight-16x9.png",
       "daylight_4x5": "es-01-063-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-063-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "e918cc5983aac7ee34f62e4e797c393975cbb15010d7efdc1c245ca3483d1af2"
+        }
+      }
     },
     {
       "entry_id": "ES-01-064",
@@ -5014,7 +5150,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor E: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/E/ES-01-064.md. r1.",
       "daylight_16x9": "es-01-064-daylight-16x9.png",
       "daylight_4x5": "es-01-064-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-064-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "26f228648267ed395c300388fe3d42362e80e8ff0302d2f46e14f20e851e0a1b"
+        }
+      }
     },
     {
       "entry_id": "ES-01-065",
@@ -5031,7 +5175,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor E: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/E/ES-01-065.md. r1.",
       "daylight_16x9": "es-01-065-daylight-16x9.png",
       "daylight_4x5": "es-01-065-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-065-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "505a3c195a27a5fb17aa34cad76e792b0f25bcbf2e5e489aa15633e5e3a26d49"
+        }
+      }
     },
     {
       "entry_id": "ES-01-066",
@@ -5048,7 +5200,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor E: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/E/ES-01-066.md. r1.",
       "daylight_16x9": "es-01-066-daylight-16x9.png",
       "daylight_4x5": "es-01-066-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-066-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "ba80b37391f7b16db1cbd74de8c33ce30ad7169a8798387b745fe08c35b44bfc"
+        }
+      }
     },
     {
       "entry_id": "ES-01-067",
@@ -5065,7 +5225,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor E: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/E/ES-01-067.md. r1.",
       "daylight_16x9": "es-01-067-daylight-16x9.png",
       "daylight_4x5": "es-01-067-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-067-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "b7b26e50e421e9fe6ed364b8f2280ce2265247a732edb8a732e9927590e22dac"
+        }
+      }
     },
     {
       "entry_id": "ES-01-068",
@@ -5082,7 +5250,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor E: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/E/ES-01-068.md. r1.",
       "daylight_16x9": "es-01-068-daylight-16x9.png",
       "daylight_4x5": "es-01-068-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-068-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "151b777b74e51af6a4c345503cc377024136cabb812ad73d8264664130a19e6d"
+        }
+      }
     },
     {
       "entry_id": "ES-01-069",
@@ -5099,7 +5275,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor E: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/E/ES-01-069.md. r1.",
       "daylight_16x9": "es-01-069-daylight-16x9.png",
       "daylight_4x5": "es-01-069-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-069-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "1dd63b11eb6caba2dfe3279dab65f2300e29d4cb34df367fadfa9eb71f5fe410"
+        }
+      }
     },
     {
       "entry_id": "ES-01-070",
@@ -5116,7 +5300,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor E: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/E/ES-01-070.md. r1.",
       "daylight_16x9": "es-01-070-daylight-16x9.png",
       "daylight_4x5": "es-01-070-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-070-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "5884e884bdcdad81f64b7ab54bd199d2f86835e61b9858e651e6c5fddf73e34b"
+        }
+      }
     },
     {
       "entry_id": "ES-01-071",
@@ -5133,7 +5325,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor E: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/E/ES-01-071.md. r1.",
       "daylight_16x9": "es-01-071-daylight-16x9.png",
       "daylight_4x5": "es-01-071-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-071-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "866124fbc9584237d969157400202388531fa8e0e1dbe4ab68856dfa91444c74"
+        }
+      }
     },
     {
       "entry_id": "ES-01-072",
@@ -5167,7 +5367,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor E: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/E/ES-01-073.md. r1.",
       "daylight_16x9": "es-01-073-daylight-16x9.png",
       "daylight_4x5": "es-01-073-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-073-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "d0236baf0ea6a16d5ac927aded2a7644dbee2935ed5557858ed748335be7494b"
+        }
+      }
     },
     {
       "entry_id": "ES-01-074",
@@ -5184,7 +5392,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor E: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/E/ES-01-074.md. r1.",
       "daylight_16x9": "es-01-074-daylight-16x9.png",
       "daylight_4x5": "es-01-074-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-074-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "84e326953ee11e6acb8ff5b1cc4371f96a3348e72dcdfa622938efc5b07dab90"
+        }
+      }
     },
     {
       "entry_id": "ES-01-075",
@@ -5201,7 +5417,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor E: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/E/ES-01-075.md. r1.",
       "daylight_16x9": "es-01-075-daylight-16x9.png",
       "daylight_4x5": "es-01-075-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-075-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "90f9eec354763c5c6002439a321a9b74c2f7c92f9f6ea99445aae153e4e91f9a"
+        }
+      }
     },
     {
       "entry_id": "ES-01-076",
@@ -5235,7 +5459,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor E: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/E/ES-01-077.md. r1.",
       "daylight_16x9": "es-01-077-daylight-16x9.png",
       "daylight_4x5": "es-01-077-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-077-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "f4a26a7f8766b68ed37e9548a721081ce79b2481f3252f704a7c04cc3700e685"
+        }
+      }
     },
     {
       "entry_id": "ES-01-078",
@@ -5252,7 +5484,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor E: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/E/ES-01-078.md. r1.",
       "daylight_16x9": "es-01-078-daylight-16x9.png",
       "daylight_4x5": "es-01-078-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-078-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "44b1d72fed7ad7e574f5f69808d4577b148cba3da3d3b20687d0f6b767aab2ad"
+        }
+      }
     },
     {
       "entry_id": "ES-01-079",

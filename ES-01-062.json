@@ -31,6 +31,7 @@
   "description": "Vine rows run over the dark hills of Rioja Alta, the trellised lines visible by starlight and distant farm lights. The rows climb and dip across the frame with the hills folding behind them. At this hour the vineyard is a vast, breathing geometry.",
   "file_16x9": "es-01-062-r1-16x9.png",
   "file_4x5": "es-01-062-r1-4x5.png",
+  "file_9x16": "es-01-062-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "e6b1ab2d407294b693f2344bf51646d0e2fcb47e6fe9699b5c5e583a629c564d"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "86c5e52ca1d872c6a7d9f81a8df79370304554529d36d2a19d4bf18281b1a6bb"
     }
   },
   "masters": {

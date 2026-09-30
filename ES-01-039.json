@@ -31,6 +31,7 @@
   "description": "Hondarribia's walled old town keeps its great Basque houses with carved eaves, the castle of Charles V above, and the Txingudi bay below. A partly cloudy night over the town. France lies just across the Bidasoa.",
   "file_16x9": "es-01-039-r1-16x9.png",
   "file_4x5": "es-01-039-r1-4x5.png",
+  "file_9x16": "es-01-039-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "ca2cdffacb300459977dd2687e8f765feae08b02bce67471d86bef4d3d9c0581"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "a4713a8a645c1e648f37b3c6a69a2c21fb3a2450cf2b017c2d8ee53c5f4d27a2"
     }
   },
   "masters": {
