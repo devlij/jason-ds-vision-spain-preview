@@ -31,6 +31,7 @@
   "description": "From the clifftop path, Playa de Langre curves below between green headlands, its sand split by a rocky outcrop into two coves. An overcast night over the town. Cantabrian surf rolls in steadily, and the cliffs frame the beach like a natural amphitheatre.",
   "file_16x9": "es-01-048-r1-16x9.png",
   "file_4x5": "es-01-048-r1-4x5.png",
+  "file_9x16": "es-01-048-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "43caad0dbf07725e48f8d12fdbdf48219258ec31198912ce32d3b02617c929e3"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "71922e7894c65fcc42f4fa135d42b6009f5e65947f0f88700800f3bef9d88cfc"
     }
   },
   "masters": {

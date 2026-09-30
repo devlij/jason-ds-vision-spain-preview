@@ -31,6 +31,7 @@
   "description": "Estella's old town rises above the river Ega, its Romanesque churches and old streets lit in the dark. The river glints faintly below while the rooftops climb the hillside. The Toledo of the north on the pilgrim road, at its most romantic.",
   "file_16x9": "es-01-069-r1-16x9.png",
   "file_4x5": "es-01-069-r1-4x5.png",
+  "file_9x16": "es-01-069-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "54da90d339a0a0b854be15ca719646df4b95d0b1478519f81b3c8e2798812a28"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "1dd63b11eb6caba2dfe3279dab65f2300e29d4cb34df367fadfa9eb71f5fe410"
     }
   },
   "masters": {

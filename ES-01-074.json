@@ -31,6 +31,7 @@
   "description": "At Itzurun beach the flysch strata of Zumaia rise in thin tilted layers, the rock sheets catching faint light. The beach lies dark at their feet while the sea is only sound beyond. These cliffs are a world-famous geological book, its pages lit by the moon.",
   "file_16x9": "es-01-074-r1-16x9.png",
   "file_4x5": "es-01-074-r1-4x5.png",
+  "file_9x16": "es-01-074-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "487f52b4a62b2b473ba792ccea7d81551c248efa59c019e44acc990ff27bf274"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "84e326953ee11e6acb8ff5b1cc4371f96a3348e72dcdfa622938efc5b07dab90"
     }
   },
   "masters": {

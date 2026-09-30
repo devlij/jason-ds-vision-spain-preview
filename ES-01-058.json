@@ -31,6 +31,7 @@
   "description": "The cathedral of Santo Domingo de la Calzada rises over the old town, its tower and spire lit against the night. Pilgrim-route streets run below, shuttered and still, with the dark countryside beyond the rooftops. A thousand years of pilgrims have passed this way.",
   "file_16x9": "es-01-058-r1-16x9.png",
   "file_4x5": "es-01-058-r1-4x5.png",
+  "file_9x16": "es-01-058-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "3e3584260b32bb750c02769b1cf5dbc43add173bc7826d266009b8c3b0f2d27d"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "96bf17eff4557e4365e05df500e12695dc9b6fdf0828de1b4e5a0b63e61c4446"
     }
   },
   "masters": {

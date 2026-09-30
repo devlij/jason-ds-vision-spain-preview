@@ -31,6 +31,7 @@
   "description": "Viana's walled town stands over its vineyards, the old walls and church tower lit above the dark vines. The town fills the hilltop while the Rioja plain stretches black beyond. The last Navarrese town on the French Way, holding its hill through the night.",
   "file_16x9": "es-01-070-r1-16x9.png",
   "file_4x5": "es-01-070-r1-4x5.png",
+  "file_9x16": "es-01-070-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "71f3f4db6c4f91ff46dd145e60d0779ef71693c652816c12e07fe4f611681d64"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "5884e884bdcdad81f64b7ab54bd199d2f86835e61b9858e651e6c5fddf73e34b"
     }
   },
   "masters": {

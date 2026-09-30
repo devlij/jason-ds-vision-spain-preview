@@ -39,6 +39,7 @@
   "description": "Steep asymmetric pyramidal limestone mass of Es Vedrà rising directly from the sea; Smaller lower Es Vedranell companion islet nearby; Dark pebbly-sandy Cala d'Hort foreground and calm sea channel.",
   "file_16x9": "es-01-037-r1-16x9.png",
   "file_4x5": "es-01-037-r1-4x5.png",
+  "file_9x16": "es-01-037-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -49,6 +50,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "239d88686770eea881c7515aa5a0afa6c364ea32dc920f7a39989e5e0665794e"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "818b1b2d439d903528ef3f0b5fa277526d2b37815a5c8a5f6221b8f1d2ec7c2e"
     }
   },
   "masters": {

@@ -1,0 +1,54 @@
+BATCH ES 9:16 backfill pack 2
+Repo: devlij/jason-ds-vision-spain-preview
+Work order: wo-spain-916-backfill-2026-09-30
+Finish date: 2026-09-30
+Base tip before this pack: c0b248435befeb4aa0e3417c0a165ff0f22db22b
+
+Scope: 30 architectural-QC PASS scenes only.
+FLAG and NO_REFERENCE scenes are not in this pack and were not cropped.
+Pack 1 files were not touched.
+
+Scenes:
+ES-01-036
+ES-01-037
+ES-01-038
+ES-01-039
+ES-01-040
+ES-01-041
+ES-01-044
+ES-01-045
+ES-01-046
+ES-01-048
+ES-01-051
+ES-01-054
+ES-01-056
+ES-01-057
+ES-01-058
+ES-01-062
+ES-01-063
+ES-01-064
+ES-01-065
+ES-01-066
+ES-01-067
+ES-01-068
+ES-01-069
+ES-01-070
+ES-01-071
+ES-01-073
+ES-01-074
+ES-01-075
+ES-01-077
+ES-01-078
+
+Path layout: Spain keeps masters at the repository root beside the scene JSON, not under library/world/Spain/<City>/. Each 9:16 file mirrors that scene's final 16:9 name with -9x16.png.
+
+Photograph: 608×1080 (9:16, even pixel width). Finished master: 608×1270. The window is the full height of the 16:9 photograph, centered inside the approved 4:5 crop when that 4:5 is the same photograph, so the subject is not dropped or decapitated.
+Label bar: 190px #0e0e12 under the photograph. Caption, scenario, disclosure, and the Jason D's Vision signature are the sibling 16:9 label artwork scaled onto that bar.
+
+Art. 50: Title, Description, Copyright, and Software chunks match the sibling 16:9 master. Comment date on the new 9:16 masters is 2026-09-30.
+
+Gallery probe gate: the 9:16 tab and Download 9:16 button are inserted only after an image probe of data-src-916 succeeds at render time. A missing master never gets a tab. ES-01-039 did not have data-src-916 on the card; that attribute was added so the probe can see the new master. Other pack2 cards already pointed at the portrait filename.
+
+No approval flip: approval_state was not changed on any scene. Nothing in this pack was self-approved or moved to Approved. No word-of-the-day text was added.
+
+Draft PR only. Not merged.

@@ -31,6 +31,7 @@
   "description": "From the valley floor at night, Potes lies quiet beneath the great peaks of the Picos de Europa, its lights scattered along the valley. The mountains rise black on every side, their summits lost in the starry dark. The little town glows softly at the confluence of the rivers, sheltered by the towering night.",
   "file_16x9": "es-01-051-r1-16x9.png",
   "file_4x5": "es-01-051-r1-4x5.png",
+  "file_9x16": "es-01-051-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "2fc56af70b8f17c1c48bb7b5b757b5e124be27a051418d5b3f178446e3bea493"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "5b99a7797fa1ccdddfff9039cf9cb3d1ece00e2f60bf66b123c29d27a19ab7d4"
     }
   },
   "masters": {

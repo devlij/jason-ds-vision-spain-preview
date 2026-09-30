@@ -31,6 +31,7 @@
   "description": "Castro Urdiales keeps its Gothic church of Santa María and castle-lighthouse on the headland over the fishing port — Flavióbriga of the Romans. An overcast night over the town. The old town climbs between church and sea.",
   "file_16x9": "es-01-045-r1-16x9.png",
   "file_4x5": "es-01-045-r1-4x5.png",
+  "file_9x16": "es-01-045-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "3354c1571c18d39bded3d9254b14a21e83c4dc27280d5f6f395eb8d5ca533abd"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "59856bf52a2f6bceeab08d81571db0574c5463286c8f4781a537595a66e8bddd"
     }
   },
   "masters": {

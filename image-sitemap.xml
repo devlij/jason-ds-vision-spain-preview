@@ -395,7 +395,11 @@
       <image:loc>https://spain.jdvision.org/es-01-036-r1-4x5.png</image:loc>
       <image:title>Dalt Vila, Eivissa — Dalt Vila, Eivissa</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-036-r1-9x16.png</image:loc>
+      <image:title>Dalt Vila, Eivissa — Dalt Vila, Eivissa</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-037</loc>
     <image:image>
@@ -406,7 +410,11 @@
       <image:loc>https://spain.jdvision.org/es-01-037-r1-4x5.png</image:loc>
       <image:title>Es Vedrà, Ibiza — Es Vedrà, Sant Josep de sa Talaia</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-037-r1-9x16.png</image:loc>
+      <image:title>Es Vedrà, Ibiza — Es Vedrà, Sant Josep de sa Talaia</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-038</loc>
     <image:image>
@@ -417,7 +425,11 @@
       <image:loc>https://spain.jdvision.org/es-01-038-r2-4x5.png</image:loc>
       <image:title>Ses Illetes, Formentera — Ses Illetes, Formentera</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-038-r2-9x16.png</image:loc>
+      <image:title>Ses Illetes, Formentera — Ses Illetes, Formentera</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-034</loc>
     <image:image>
@@ -461,7 +473,11 @@
       <image:loc>https://spain.jdvision.org/es-01-039-r1-4x5.png</image:loc>
       <image:title>Old town, Hondarribia — Old town, Hondarribia</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-039-r1-9x16.png</image:loc>
+      <image:title>Old town, Hondarribia — Old town, Hondarribia</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-040</loc>
     <image:image>
@@ -472,7 +488,11 @@
       <image:loc>https://spain.jdvision.org/es-01-040-r1-4x5.png</image:loc>
       <image:title>Old town, Garachico — Old town, Garachico</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-040-r1-9x16.png</image:loc>
+      <image:title>Old town, Garachico — Old town, Garachico</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-042</loc>
     <image:image>
@@ -505,7 +525,11 @@
       <image:loc>https://spain.jdvision.org/es-01-044-r1-4x5.png</image:loc>
       <image:title>El Golfo, Yaiza — El Golfo, Yaiza</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-044-r1-9x16.png</image:loc>
+      <image:title>El Golfo, Yaiza — El Golfo, Yaiza</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-041</loc>
     <image:image>
@@ -516,7 +540,11 @@
       <image:loc>https://spain.jdvision.org/es-01-041-r2-4x5.png</image:loc>
       <image:title>Old town, San Cristóbal de La Laguna — Old town, San Cristóbal de La Laguna</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-041-r2-9x16.png</image:loc>
+      <image:title>Old town, San Cristóbal de La Laguna — Old town, San Cristóbal de La Laguna</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-045</loc>
     <image:image>
@@ -527,7 +555,11 @@
       <image:loc>https://spain.jdvision.org/es-01-045-r1-4x5.png</image:loc>
       <image:title>Old town, Castro Urdiales — Old town, Castro Urdiales</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-045-r1-9x16.png</image:loc>
+      <image:title>Old town, Castro Urdiales — Old town, Castro Urdiales</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-046</loc>
     <image:image>
@@ -538,7 +570,11 @@
       <image:loc>https://spain.jdvision.org/es-01-046-r1-4x5.png</image:loc>
       <image:title>Old town, Santillana del Mar — Old town, Santillana del Mar</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-046-r1-9x16.png</image:loc>
+      <image:title>Old town, Santillana del Mar — Old town, Santillana del Mar</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-047</loc>
     <image:image>
@@ -560,7 +596,11 @@
       <image:loc>https://spain.jdvision.org/es-01-048-r1-4x5.png</image:loc>
       <image:title>Langre Beach, Ribamontán al Mar — Langre Beach, Ribamontán al Mar</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-048-r1-9x16.png</image:loc>
+      <image:title>Langre Beach, Ribamontán al Mar — Langre Beach, Ribamontán al Mar</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-049</loc>
     <image:image>
@@ -593,7 +633,11 @@
       <image:loc>https://spain.jdvision.org/es-01-051-r1-4x5.png</image:loc>
       <image:title>Potes, Potes — Potes, Potes</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-051-r1-9x16.png</image:loc>
+      <image:title>Potes, Potes — Potes, Potes</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-052</loc>
     <image:image>
@@ -626,7 +670,11 @@
       <image:loc>https://spain.jdvision.org/es-01-054-r1-4x5.png</image:loc>
       <image:title>Liérganes, Liérganes — Liérganes, Liérganes</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-054-r1-9x16.png</image:loc>
+      <image:title>Liérganes, Liérganes — Liérganes, Liérganes</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-055</loc>
     <image:image>
@@ -648,7 +696,11 @@
       <image:loc>https://spain.jdvision.org/es-01-056-r1-4x5.png</image:loc>
       <image:title>Clavijo Castle, Clavijo — Clavijo Castle, Clavijo</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-056-r1-9x16.png</image:loc>
+      <image:title>Clavijo Castle, Clavijo — Clavijo Castle, Clavijo</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-057</loc>
     <image:image>
@@ -659,7 +711,11 @@
       <image:loc>https://spain.jdvision.org/es-01-057-r1-4x5.png</image:loc>
       <image:title>Old town, Haro — Old town, Haro</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-057-r1-9x16.png</image:loc>
+      <image:title>Old town, Haro — Old town, Haro</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-058</loc>
     <image:image>
@@ -670,7 +726,11 @@
       <image:loc>https://spain.jdvision.org/es-01-058-r1-4x5.png</image:loc>
       <image:title>Santo Domingo de la Calzada, Santo Domingo de la Calzada — Santo Domingo de la Calzada, Santo Domingo de la Calzada</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-058-r1-9x16.png</image:loc>
+      <image:title>Santo Domingo de la Calzada, Santo Domingo de la Calzada — Santo Domingo de la Calzada, Santo Domingo de la Calzada</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-059</loc>
     <image:image>
@@ -714,7 +774,11 @@
       <image:loc>https://spain.jdvision.org/es-01-062-r1-4x5.png</image:loc>
       <image:title>Vineyards, Rioja Alta — Vineyards, Rioja Alta</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-062-r1-9x16.png</image:loc>
+      <image:title>Vineyards, Rioja Alta — Vineyards, Rioja Alta</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-063</loc>
     <image:image>
@@ -725,7 +789,11 @@
       <image:loc>https://spain.jdvision.org/es-01-063-r1-4x5.png</image:loc>
       <image:title>Puente la Reina, Puente la Reina — Puente la Reina, Puente la Reina</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-063-r1-9x16.png</image:loc>
+      <image:title>Puente la Reina, Puente la Reina — Puente la Reina, Puente la Reina</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-064</loc>
     <image:image>
@@ -736,7 +804,11 @@
       <image:loc>https://spain.jdvision.org/es-01-064-r1-4x5.png</image:loc>
       <image:title>Citadel, Pamplona — Citadel, Pamplona</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-064-r1-9x16.png</image:loc>
+      <image:title>Citadel, Pamplona — Citadel, Pamplona</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-065</loc>
     <image:image>
@@ -747,7 +819,11 @@
       <image:loc>https://spain.jdvision.org/es-01-065-r1-4x5.png</image:loc>
       <image:title>Javier Castle, Javier — Javier Castle, Javier</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-065-r1-9x16.png</image:loc>
+      <image:title>Javier Castle, Javier — Javier Castle, Javier</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-066</loc>
     <image:image>
@@ -758,7 +834,11 @@
       <image:loc>https://spain.jdvision.org/es-01-066-r1-4x5.png</image:loc>
       <image:title>Ochagavía, Ochagavía — Ochagavía, Ochagavía</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-066-r1-9x16.png</image:loc>
+      <image:title>Ochagavía, Ochagavía — Ochagavía, Ochagavía</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-067</loc>
     <image:image>
@@ -769,7 +849,11 @@
       <image:loc>https://spain.jdvision.org/es-01-067-r1-4x5.png</image:loc>
       <image:title>Foz de Lumbier, Lumbier — Foz de Lumbier, Lumbier</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-067-r1-9x16.png</image:loc>
+      <image:title>Foz de Lumbier, Lumbier — Foz de Lumbier, Lumbier</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-068</loc>
     <image:image>
@@ -780,7 +864,11 @@
       <image:loc>https://spain.jdvision.org/es-01-068-r1-4x5.png</image:loc>
       <image:title>Ujué, Ujué — Ujué, Ujué</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-068-r1-9x16.png</image:loc>
+      <image:title>Ujué, Ujué — Ujué, Ujué</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-069</loc>
     <image:image>
@@ -791,7 +879,11 @@
       <image:loc>https://spain.jdvision.org/es-01-069-r1-4x5.png</image:loc>
       <image:title>Old town, Estella — Old town, Estella</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-069-r1-9x16.png</image:loc>
+      <image:title>Old town, Estella — Old town, Estella</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-070</loc>
     <image:image>
@@ -802,7 +894,11 @@
       <image:loc>https://spain.jdvision.org/es-01-070-r1-4x5.png</image:loc>
       <image:title>Old town, Viana — Old town, Viana</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-070-r1-9x16.png</image:loc>
+      <image:title>Old town, Viana — Old town, Viana</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-071</loc>
     <image:image>
@@ -813,7 +909,11 @@
       <image:loc>https://spain.jdvision.org/es-01-071-r1-4x5.png</image:loc>
       <image:title>Irati Forest, Ochagavía — Irati Forest, Ochagavía</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-071-r1-9x16.png</image:loc>
+      <image:title>Irati Forest, Ochagavía — Irati Forest, Ochagavía</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-072</loc>
     <image:image>
@@ -835,7 +935,11 @@
       <image:loc>https://spain.jdvision.org/es-01-073-r1-4x5.png</image:loc>
       <image:title>Old town, Lekeitio — Old town, Lekeitio</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-073-r1-9x16.png</image:loc>
+      <image:title>Old town, Lekeitio — Old town, Lekeitio</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-074</loc>
     <image:image>
@@ -846,7 +950,11 @@
       <image:loc>https://spain.jdvision.org/es-01-074-r1-4x5.png</image:loc>
       <image:title>Itzurun Cliffs, Zumaia — Itzurun Cliffs, Zumaia</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-074-r1-9x16.png</image:loc>
+      <image:title>Itzurun Cliffs, Zumaia — Itzurun Cliffs, Zumaia</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-075</loc>
     <image:image>
@@ -857,7 +965,11 @@
       <image:loc>https://spain.jdvision.org/es-01-075-r1-4x5.png</image:loc>
       <image:title>Zarautz, Zarautz — Zarautz, Zarautz</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-075-r1-9x16.png</image:loc>
+      <image:title>Zarautz, Zarautz — Zarautz, Zarautz</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-076</loc>
     <image:image>
@@ -879,7 +991,11 @@
       <image:loc>https://spain.jdvision.org/es-01-077-r1-4x5.png</image:loc>
       <image:title>Labastida, Labastida — Labastida, Labastida</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-077-r1-9x16.png</image:loc>
+      <image:title>Labastida, Labastida — Labastida, Labastida</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-078</loc>
     <image:image>
@@ -890,7 +1006,11 @@
       <image:loc>https://spain.jdvision.org/es-01-078-r1-4x5.png</image:loc>
       <image:title>Mundaka, Mundaka — Mundaka, Mundaka</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-078-r1-9x16.png</image:loc>
+      <image:title>Mundaka, Mundaka — Mundaka, Mundaka</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-079</loc>
     <image:image>
