@@ -31,6 +31,7 @@
   "description": "From across the estuary at night, Viveiro's old town glows along the shore, its lights reflected in the dark water of the ría. The old quarter's rooftops cluster beneath the hills while the estuary stretches calm and black. The Galician port town keeps its quiet night watch over the water.",
   "file_16x9": "es-01-085-r1-16x9.png",
   "file_4x5": "es-01-085-r1-4x5.png",
+  "file_9x16": "es-01-085-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "ae7c97bfd34536aa25c67824848f033968ba4977cdc2b3a4e41a026f940ec818"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "9c259bdbbbe0d2b241934053704281fb84d346240ece23fb651c4a936353c2ab"
     }
   },
   "masters": {

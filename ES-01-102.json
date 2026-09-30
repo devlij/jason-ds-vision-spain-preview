@@ -31,6 +31,7 @@
   "description": "Astorga's old town rises with its cathedral and Gaudí's Episcopal Palace standing close together, both lit against the night. The palace's fairy-tale turrets face the cathedral's bulk while the town spreads dark below. Two masterpieces, side by side in the small hours.",
   "file_16x9": "es-01-102-r1-16x9.png",
   "file_4x5": "es-01-102-r1-4x5.png",
+  "file_9x16": "es-01-102-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "7d429b3d5d8b6fc125c53fabc4f0b827461e9e31d9128212ed9cc0302409ef43"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "e8492f728218d4e641253a1dcac74583382cf5ccf3295fdaa7528ebbd6327090"
     }
   },
   "masters": {

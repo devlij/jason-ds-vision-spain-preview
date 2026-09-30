@@ -31,6 +31,7 @@
   "description": "Lastres climbs its hillside above its port, the white houses stepped up the slope in the lamplight. The little harbour sits dark below while the Cantabrian Sea stretches black beyond. A fishing town stacked like an amphitheatre over the water.",
   "file_16x9": "es-01-080-r1-16x9.png",
   "file_4x5": "es-01-080-r1-4x5.png",
+  "file_9x16": "es-01-080-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "59cd49c4d3e4170c5f14659cd97b9734ceccb581ce39ae8db9d0e1fe849535b2"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "01f5c5166ede5aa15a4b9f6c5d82bb17b49895c23495589a9441437da82517dd"
     }
   },
   "masters": {

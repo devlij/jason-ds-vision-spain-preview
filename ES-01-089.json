@@ -31,6 +31,7 @@
   "description": "On the Cathedrals Beach at Ribadeo at night, the great stone arches stand dark at low tide, moonlight tracing their carved forms. The rock buttresses rise like a cathedral nave from the wet sand, shadows pooling in their hollows. The sea has withdrawn, leaving the stone arches to the moon and the stars.",
   "file_16x9": "es-01-089-r1-16x9.png",
   "file_4x5": "es-01-089-r1-4x5.png",
+  "file_9x16": "es-01-089-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "f17e094510f2375cdb56e824db905a6fffca70dc10e8d47e1ec9dcb0f45ebe96"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "63e125303fff59794fb13ea9fe53d5733049c835391c8e11a3c300f43ce864c8"
     }
   },
   "masters": {

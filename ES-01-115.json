@@ -31,6 +31,7 @@
   "description": "You stand on the Golden Age square of Villanueva de los Infantes in the deep night, floodlights washing the old stone façades in a warm glow. The Plaza Mayor fills the frame, its arcades and lanterns standing out against the dark La Mancha sky. Windows flicker with a few late lights while the empty square holds the hush of 4 a.m., a Golden Age stage after the audience has gone home.",
   "file_16x9": "es-01-115-r1-16x9.png",
   "file_4x5": "es-01-115-r1-4x5.png",
+  "file_9x16": "es-01-115-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "0205d24008a1dae95bad93bfc2579d6163bbd06ebc9096dadfc20840f37d9728"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "33ca8b7d357d87eb47812387582a4380ba96a3b14880a90b21c082721a90ba3c"
     }
   },
   "masters": {

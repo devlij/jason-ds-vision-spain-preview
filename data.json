@@ -4368,7 +4368,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor F: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/F/ES-01-085.md. description corrected (Rapa das Bestas de Candaoso, Viveiro-verified).",
       "daylight_16x9": "es-01-085-daylight-16x9.png",
       "daylight_4x5": "es-01-085-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-085-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "9c259bdbbbe0d2b241934053704281fb84d346240ece23fb651c4a936353c2ab"
+        }
+      }
     },
     {
       "entry_id": "ES-01-086",
@@ -4385,7 +4393,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor F: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/F/ES-01-086.md. r1.",
       "daylight_16x9": "es-01-086-daylight-16x9.png",
       "daylight_4x5": "es-01-086-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-086-r2-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "1c775619599534dd4dea05bd1b98698218662ff92451c05a6853a03d9f8ed118"
+        }
+      }
     },
     {
       "entry_id": "ES-01-087",
@@ -4402,7 +4418,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor F: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/F/ES-01-087.md. r1.",
       "daylight_16x9": "es-01-087-daylight-16x9.png",
       "daylight_4x5": "es-01-087-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-087-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "4c5136e4bed470c95a0053c04d46b3650eb394389341ae9514afa06bb59fb46d"
+        }
+      }
     },
     {
       "entry_id": "ES-01-088",
@@ -4419,7 +4443,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor F: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/F/ES-01-088.md. r1.",
       "daylight_16x9": "es-01-088-daylight-16x9.png",
       "daylight_4x5": "es-01-088-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-088-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "b86b024b033ed7effeec3475ffb6d459c1c6a36d66721617e30e056304bf2842"
+        }
+      }
     },
     {
       "entry_id": "ES-01-089",
@@ -4436,7 +4468,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor F: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/F/ES-01-089.md. r1.",
       "daylight_16x9": "es-01-089-daylight-16x9.png",
       "daylight_4x5": "es-01-089-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-089-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "63e125303fff59794fb13ea9fe53d5733049c835391c8e11a3c300f43ce864c8"
+        }
+      }
     },
     {
       "entry_id": "ES-01-090",
@@ -4453,7 +4493,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor F: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/F/ES-01-090.md. r1.",
       "daylight_16x9": "es-01-090-daylight-16x9.png",
       "daylight_4x5": "es-01-090-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-090-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "a4c3b4d557b4106e2f35fe87fdc22f4fd1c6dd4505cc7d10c1af8ceac6f76731"
+        }
+      }
     },
     {
       "entry_id": "ES-01-091",
@@ -4470,7 +4518,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor F: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/F/ES-01-091.md. r1.",
       "daylight_16x9": "es-01-091-daylight-16x9.png",
       "daylight_4x5": "es-01-091-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-091-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "a69cbd3c3b7fad04d6ea23e89c51d608bc849273aa76022d86ae2aa84827981b"
+        }
+      }
     },
     {
       "entry_id": "ES-01-092",
@@ -4487,7 +4543,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor F: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/F/ES-01-092.md. r1.",
       "daylight_16x9": "es-01-092-daylight-16x9.png",
       "daylight_4x5": "es-01-092-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-092-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "6d9aefb66f5d18f99a69992e314174f656d98cab51c9077aae00540b2e3e8172"
+        }
+      }
     },
     {
       "entry_id": "ES-01-093",
@@ -4504,7 +4568,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor F: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/F/ES-01-093.md. r1.",
       "daylight_16x9": "es-01-093-daylight-16x9.png",
       "daylight_4x5": "es-01-093-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-093-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "777096e7817419b79de74e8b173cccfdc867d9e0e2b7d41466039ba161193206"
+        }
+      }
     },
     {
       "entry_id": "ES-01-123",
@@ -5269,7 +5341,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor E: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/E/ES-01-079.md. r1.",
       "daylight_16x9": "es-01-079-daylight-16x9.png",
       "daylight_4x5": "es-01-079-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-079-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "5392f3e3f911984b0ee2c8e45e4f7f810728910c2db9df22192cc136d73a0de2"
+        }
+      }
     },
     {
       "entry_id": "ES-01-080",
@@ -5286,7 +5366,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor E: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/E/ES-01-080.md. r1.",
       "daylight_16x9": "es-01-080-daylight-16x9.png",
       "daylight_4x5": "es-01-080-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-080-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "01f5c5166ede5aa15a4b9f6c5d82bb17b49895c23495589a9441437da82517dd"
+        }
+      }
     },
     {
       "entry_id": "ES-01-081",
@@ -5303,7 +5391,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor E: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/E/ES-01-081.md. r1.",
       "daylight_16x9": "es-01-081-daylight-16x9.png",
       "daylight_4x5": "es-01-081-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-081-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "90448b700a0bd554ad3ee7d712283daa364b322e5955b86a6c4fe0521d2c3ca0"
+        }
+      }
     },
     {
       "entry_id": "ES-01-082",
@@ -5320,7 +5416,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor E: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/E/ES-01-082.md. r1.",
       "daylight_16x9": "es-01-082-daylight-16x9.png",
       "daylight_4x5": "es-01-082-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-082-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "6a5b3aa13af36c666276fa5599675cd58129b9431a38bc2c60d955604bf1f3fc"
+        }
+      }
     },
     {
       "entry_id": "ES-01-083",
@@ -5354,7 +5458,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor F: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/F/ES-01-094.md. r1.",
       "daylight_16x9": "es-01-094-daylight-16x9.png",
       "daylight_4x5": "es-01-094-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-094-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "80bac786371ca6b87f91efddc12a5d13e9c722f7049c7cf882c0b506d7b1590c"
+        }
+      }
     },
     {
       "entry_id": "ES-01-095",
@@ -5371,7 +5483,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor F: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/F/ES-01-095.md. r1.",
       "daylight_16x9": "es-01-095-daylight-16x9.png",
       "daylight_4x5": "es-01-095-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-095-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "1e8dbd5fb68bcc3dd42b1f95130612c85a222c3f64de19f29f529c75659d5159"
+        }
+      }
     },
     {
       "entry_id": "ES-01-096",
@@ -5388,7 +5508,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor F: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/F/ES-01-096.md. r1.",
       "daylight_16x9": "es-01-096-daylight-16x9.png",
       "daylight_4x5": "es-01-096-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-096-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "a8b81b8ff40dec5863c35fa6b510badc02df22520be1f029b0888fb55c565997"
+        }
+      }
     },
     {
       "entry_id": "ES-01-097",
@@ -5422,7 +5550,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor F: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/F/ES-01-098.md. r1.",
       "daylight_16x9": "es-01-098-daylight-16x9.png",
       "daylight_4x5": "es-01-098-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-098-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "2c4292164b08567093604c0697e1370626b5ae9181e3a096c63a18e0822f1c4f"
+        }
+      }
     },
     {
       "entry_id": "ES-01-099",
@@ -5490,7 +5626,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor F: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/F/ES-01-102.md. r1.",
       "daylight_16x9": "es-01-102-daylight-16x9.png",
       "daylight_4x5": "es-01-102-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-102-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "e8492f728218d4e641253a1dcac74583382cf5ccf3295fdaa7528ebbd6327090"
+        }
+      }
     },
     {
       "entry_id": "ES-01-103",
@@ -5507,7 +5651,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor F: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/F/ES-01-103.md. r1.",
       "daylight_16x9": "es-01-103-daylight-16x9.png",
       "daylight_4x5": "es-01-103-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-103-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "82bdc2dd4ed7de750a849695fda9e8e9b6289ca867064c6a1436cfc978c90079"
+        }
+      }
     },
     {
       "entry_id": "ES-01-104",
@@ -5524,7 +5676,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor F: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/F/ES-01-104.md. r1.",
       "daylight_16x9": "es-01-104-daylight-16x9.png",
       "daylight_4x5": "es-01-104-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-104-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "f0c1469d9ccfcbe5e2d8e9fd714fb0c132549f5497cccc347a814321b935694e"
+        }
+      }
     },
     {
       "entry_id": "ES-01-105",
@@ -5541,7 +5701,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor F: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/F/ES-01-105.md. r1.",
       "daylight_16x9": "es-01-105-daylight-16x9.png",
       "daylight_4x5": "es-01-105-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-105-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "48e667e4fdaa6c79b3ee66616d8f65207ce753e0a0b9bff61d6fe823fd036fd2"
+        }
+      }
     },
     {
       "entry_id": "ES-01-106",
@@ -5558,7 +5726,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor F: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/F/ES-01-106.md. r1.",
       "daylight_16x9": "es-01-106-daylight-16x9.png",
       "daylight_4x5": "es-01-106-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-106-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "9add61416eb9e44dfcf9c6f140f07b841d80aa49edef0d5efc4aaff97bb39840"
+        }
+      }
     },
     {
       "entry_id": "ES-01-107",
@@ -5575,7 +5751,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor F: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/F/ES-01-107.md. r1.",
       "daylight_16x9": "es-01-107-daylight-16x9.png",
       "daylight_4x5": "es-01-107-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-107-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "a97556b79828ecab7d1b8225515614297d7fb1e6fd6f6b9822c938128a457d92"
+        }
+      }
     },
     {
       "entry_id": "ES-01-108",
@@ -5592,7 +5776,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor F: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/F/ES-01-108.md. r1.",
       "daylight_16x9": "es-01-108-daylight-16x9.png",
       "daylight_4x5": "es-01-108-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-108-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "93b1fd2753a0b5b2cd88dc1092fe1340c67b971f5fb6a92194c8c16877423462"
+        }
+      }
     },
     {
       "entry_id": "ES-01-109",
@@ -5609,7 +5801,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor F: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/F/ES-01-109.md. r1.",
       "daylight_16x9": "es-01-109-daylight-16x9.png",
       "daylight_4x5": "es-01-109-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-109-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "17682c4a89aee7d8763a141cd0d5104f5a43cd46983a92652d6ff5ffae843ca3"
+        }
+      }
     },
     {
       "entry_id": "ES-01-110",
@@ -5626,7 +5826,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor F: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/F/ES-01-110.md. r1.",
       "daylight_16x9": "es-01-110-daylight-16x9.png",
       "daylight_4x5": "es-01-110-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-110-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "cee17db03e6fe0446d625e432428a28e054858bfab259397a2d3fc9a158e76a6"
+        }
+      }
     },
     {
       "entry_id": "ES-01-111",
@@ -5660,7 +5868,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor F: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/F/ES-01-112.md. r1.",
       "daylight_16x9": "es-01-112-daylight-16x9.png",
       "daylight_4x5": "es-01-112-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-112-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "dc5a90fbde2aa6b76fa416303ed6d165928ad26f8e34c2f3f3e8054f3c58a071"
+        }
+      }
     },
     {
       "entry_id": "ES-01-113",
@@ -5677,7 +5893,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor F: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/F/ES-01-113.md. r1.",
       "daylight_16x9": "es-01-113-daylight-16x9.png",
       "daylight_4x5": "es-01-113-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-113-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "8fb247f5e46f9dd1a79dfd61053c7a4564da0ca03db02125f208f806178c3b63"
+        }
+      }
     },
     {
       "entry_id": "ES-01-114",
@@ -5694,7 +5918,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor F: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/F/ES-01-114.md. r1.",
       "daylight_16x9": "es-01-114-daylight-16x9.png",
       "daylight_4x5": "es-01-114-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-114-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "d9f8522bb582ff8e2ee7d9ef5306f4de8d006b304f9ccae8669a2ca6995c7be3"
+        }
+      }
     },
     {
       "entry_id": "ES-01-115",
@@ -5711,7 +5943,15 @@
       "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor F: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/F/ES-01-115.md. r1.",
       "daylight_16x9": "es-01-115-daylight-16x9.png",
       "daylight_4x5": "es-01-115-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-115-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "33ca8b7d357d87eb47812387582a4380ba96a3b14880a90b21c082721a90ba3c"
+        }
+      }
     },
     {
       "entry_id": "ES-01-116",

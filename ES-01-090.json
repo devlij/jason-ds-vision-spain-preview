@@ -31,6 +31,7 @@
   "description": "In Pontevedra's old town at night, the granite streets and squares lie quiet under the lamps, the old stone glowing warm. The historic quarter's churches and arcades stand dark against the sky while the Lérez river runs black nearby. The granite city rests, its old town polished by centuries of Galician rain.",
   "file_16x9": "es-01-090-r1-16x9.png",
   "file_4x5": "es-01-090-r1-4x5.png",
+  "file_9x16": "es-01-090-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "ba65b64ecb49921cf079f3c453dad622d6745075dc5279b407b8d87ae43cd5ad"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "a4c3b4d557b4106e2f35fe87fdc22f4fd1c6dd4505cc7d10c1af8ceac6f76731"
     }
   },
   "masters": {

@@ -31,6 +31,7 @@
   "description": "The Mendoza fortress at Manzanares el Real stands four-square against the night, its towers and the gallery of the upper court lit. The castle fills the frame above the town while the Pedriza mountains loom dark behind. One of Castile's finest fifteenth-century castles.",
   "file_16x9": "es-01-107-r1-16x9.png",
   "file_4x5": "es-01-107-r1-4x5.png",
+  "file_9x16": "es-01-107-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "e07f24a6636ce2823f764c7b5df6fe58d34e42c1626e4fa04fb445103af135ea"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "a97556b79828ecab7d1b8225515614297d7fb1e6fd6f6b9822c938128a457d92"
     }
   },
   "masters": {
