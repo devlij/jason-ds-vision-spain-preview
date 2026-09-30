@@ -31,6 +31,7 @@
   "description": "In Hervás's old Jewish quarter at night, the dark timbered lanes glow in patches of lamplight. You stand among the narrow judería streets, the frame holding the old chestnut-wood balconies and stone walls lit warm against the dark. The medieval quarter keeps its quiet.",
   "file_16x9": "es-01-197-r1-16x9.png",
   "file_4x5": "es-01-197-r1-4x5.png",
+  "file_9x16": "es-01-197-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "4627e7fbcab13cb4a897bff872a1c261a08cf1a3e4d78f2ba53c329bf36ceda1"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "384d1470f6d4f5d6dc76fe22376bdc4fc6af7f2ed71ce68b359f42b99a8ef70f"
     }
   },
   "masters": {

@@ -31,6 +31,7 @@
   "description": "From the town at night, Jerez de los Caballeros glows with its Baroque church towers and castle lit above the rooftops. The frame holds the old town's handsome profile, towers rising into the dark with warm light on the stonework. The Templar town keeps its height.",
   "file_16x9": "es-01-196-r1-16x9.png",
   "file_4x5": "es-01-196-r1-4x5.png",
+  "file_9x16": "es-01-196-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "33fc25b88811d2e2ff19bff7251c98568fd62ae5dc9d6f2207a784be2270ad62"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "196cb7b3c1caebd76e99fc3abab64cf8aec6e02bc6a76bb9b72a7483182e4f2d"
     }
   },
   "masters": {

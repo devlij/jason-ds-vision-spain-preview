@@ -31,6 +31,7 @@
   "description": "At night in Olivenza, the old border town's walls and church towers glow under the dark Extremaduran sky. You face the historic center across the frame, its Manueline touches lit in warm pools. The frontier town keeps its mixed heritage in the lamplight.",
   "file_16x9": "es-01-195-r1-16x9.png",
   "file_4x5": "es-01-195-r1-4x5.png",
+  "file_9x16": "es-01-195-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "c80da350d0121154a5ab94d44ca121f78d97b3f9a5f1bd6ba226a8e9420d39c9"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "864483118f2e6dd7ef60c96056e60a6518d3d75f57eb3ac6016e60dacbcf12f9"
     }
   },
   "masters": {

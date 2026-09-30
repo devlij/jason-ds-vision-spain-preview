@@ -31,6 +31,7 @@
   "description": "From the Strait at night, Monte Hacho rises dark and fortress-crowned over the black water. You face the old stronghold across the frame, its walls dimly lit above Ceuta's scattered lights with the sea black on either side. Africa's watchtower over the Strait keeps its night.",
   "file_16x9": "es-01-198-r1-16x9.png",
   "file_4x5": "es-01-198-r1-4x5.png",
+  "file_9x16": "es-01-198-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "94b3d57c2115b1dcb2ff668244cf17e9c5df87bc8295d28b029555a02a4f26db"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "6937fc98e5711970fbbd7926ca8e99056db590bc4a2507203486fa929264c03d"
     }
   },
   "masters": {

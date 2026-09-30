@@ -25,6 +25,7 @@
   "description": "From the plaza, face Cádiz Cathedral's facade at night. The baroque front rises at center frame, its twin towers flanking the doors, with the great golden dome swelling above and behind. Floodlights wash the stone warm gold against the black sky while the plaza's lamps glitter at the edges of the frame.",
   "file_16x9": "es-01-208-r1-16x9.png",
   "file_4x5": "es-01-208-r1-4x5.png",
+  "file_9x16": "es-01-208-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -35,6 +36,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "70cd2cc79046057b0f878c9d8bb15713ee198af33ebe8fc99cd76b4b7634d174"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "78876c940049387eba01a44d5ce8ddadc4a39695634d04c02576acc0d962bdb1"
     }
   },
   "masters": {
