@@ -31,6 +31,7 @@
   "description": "Stand before Besalú's Romanesque bridge at night. The great arched span crosses the frame, mirrored dark in the river below, its fortified gate tower rising at the far end. Lamplight catches the stonework in warm patches while the water holds the bridge's ghost.",
   "file_16x9": "es-01-250-r1-16x9.png",
   "file_4x5": "es-01-250-r1-4x5.png",
+  "file_9x16": "es-01-250-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "f836b68aa11c0bf3abcf9bfdcb9f9f0383cb85082ce2c7c99063e23593411656"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "03f07a9957d40cfc1f27e5cee8ea1a85fc144d3ff356f26f195904d11e90c9fd"
     }
   },
   "masters": {

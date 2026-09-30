@@ -31,6 +31,7 @@
   "description": "Stand before the Naveta des Tudons at night. The Bronze Age naveta's great stone prow rises at center frame, silhouetted against the starry sky, with the dark Menorcan plain stretching left and right. Three thousand years old — a collective tomb from when bronze was high technology.",
   "file_16x9": "es-01-267-r1-16x9.png",
   "file_4x5": "es-01-267-r1-4x5.png",
+  "file_9x16": "es-01-267-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "d5c8cb18fd13fa596b35a1a92cbcf919d634418513ae80116a0dfee974733e98"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "d1aae089dff7b856e5b2d2b91543ed0ec4b630a5148766e91214d511a4c59b5f"
     }
   },
   "masters": {

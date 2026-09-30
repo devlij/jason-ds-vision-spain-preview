@@ -31,6 +31,7 @@
   "description": "Climb Girona's lamplit medieval stairway at night, with the cathedral silhouette ahead. The worn steps rise through the center of the frame, old stone houses pressing in left and right, lamps throwing long shadows up the walls. At the top, the cathedral's great nave looms dark against the stars.",
   "file_16x9": "es-01-243-r1-16x9.png",
   "file_4x5": "es-01-243-r1-4x5.png",
+  "file_9x16": "es-01-243-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "a0e58fe284db3f4344f5edb482a0cac95c5cdc128c816c59b62dd721385eacf6"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "57991320f485d6e4850b160d6fd4c7bdc43621c85289d66f8d26a8f2005df3c5"
     }
   },
   "masters": {

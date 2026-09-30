@@ -1581,7 +1581,15 @@
       "approval_basis": "Night moonlit Montserrat: serrated rock fingers rise behind the stone abbey basilica with its rounded apse, warm-lit cloister windows and distant valley lights; on-image text verified: caption 'Montserrat Abbey, Monistrol de Montserrat', scenario '24 September 2026 · 01:14 Europe/Madrid', disclosure 'AI-generated artistic interpretation · Not a photograph.', exact 'Jason D's Vision' signature bottom-right on subtle scrim; SHA-256 + 1920×1080/864×1080 match packet; Open-Meteo weather retrieved 2026-09-24T01:12:51+02:00 consistent with scenario hour (no stale metadata); packet documents text-only generation, no photographic inputs; no people or logos visible — abbey detail interpretive per packet limitations (documented only).",
       "daylight_16x9": "es-01-242-daylight-16x9.png",
       "daylight_4x5": "es-01-242-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-242-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "fa12e1bbdba7ad31450b9b2afd5c85d69afb38ec049994f042170cf1202e3d9e"
+        }
+      }
     },
     {
       "entry_id": "ES-01-243",
@@ -1598,7 +1606,15 @@
       "approval_basis": "Night Girona old town: the broad stone cathedral staircase rises between shuttered stone houses to the baroque west façade with its rose window, glowing vintage street lamps flanking the steps; on-image text verified: caption 'Old town, Girona', scenario '24 September 2026 · 01:14 Europe/Madrid', disclosure 'AI-generated artistic interpretation · Not a photograph.', exact 'Jason D's Vision' signature bottom-right; SHA-256 + 1920×1080/864×1080 match packet; Open-Meteo weather retrieved 2026-09-24T01:12:51+02:00 consistent with scenario hour; packet documents text-only generation, no photographic inputs; no people or logos; lamp-lit street detail interpretive per packet limitations (documented only).",
       "daylight_16x9": "es-01-243-daylight-16x9.png",
       "daylight_4x5": "es-01-243-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-243-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "57991320f485d6e4850b160d6fd4c7bdc43621c85289d66f8d26a8f2005df3c5"
+        }
+      }
     },
     {
       "entry_id": "ES-01-244",
@@ -1615,7 +1631,15 @@
       "approval_basis": "Night Onyar riverfront: the red iron truss of the Pont de les Peixateries frames the bank of ochre, rose and terracotta houses with lit windows reflected in the still river, Girona Cathedral floodlit on the hill behind; on-image text verified: caption 'Onyar River houses, Girona', scenario '24 September 2026 · 01:14 Europe/Madrid', disclosure 'AI-generated artistic interpretation · Not a photograph.', exact 'Jason D's Vision' signature bottom-right; SHA-256 + 1920×1080/864×1080 match packet; Open-Meteo weather retrieved 2026-09-24T01:12:51+02:00 consistent with scenario hour; packet documents text-only generation, no photographic inputs; no people or logos; façade lighting is street-lamp only, no specific illumination claim per packet (documented only).",
       "daylight_16x9": "es-01-244-daylight-16x9.png",
       "daylight_4x5": "es-01-244-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-244-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "22540c50365adc022109c109eed5dc734aad115b0e0286548f2b7d8934ca2acf"
+        }
+      }
     },
     {
       "entry_id": "ES-01-245",
@@ -1649,7 +1673,15 @@
       "approval_basis": "Gate 1: night facade recognizably Tarragona Cathedral — Gothic-Romanesque front with glowing rose window, sculpted portal flanked by saint statues, balustraded stone staircase descending toward the viewer, bell tower and cloister arches flanking; plausible eye-level tourist viewpoint from Pla de la Seu; clean framing, no artifacts. Gate 2: sweep verified 1920x1080 + 864x1080 and SHA-256 match against the packet; on-image caption, Scenario 24 September 2026 01:16 Europe/Madrid, and AI disclosure bottom-left on gradient scrim, exact Jason Ds Vision signature (curly apostrophe) bottom-right; weather retrieved 01:12:51 valid 01:15 — fresh, not stale or reused. Gate 3: packet documents image_inputs empty, text-only original generation, third-party photographs inspected for facts only. Gate 4: no people, logos, or recognizable private property visible — documented only, no chain certified. Gate 5: no open blockers.",
       "daylight_16x9": "es-01-246-daylight-16x9.png",
       "daylight_4x5": "es-01-246-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-246-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "6300837657744593dc84e1d9177c7a2a13417e06beb4a8e172fd009cce7a696e"
+        }
+      }
     },
     {
       "entry_id": "ES-01-247",
@@ -1666,7 +1698,15 @@
       "approval_basis": "Gate 1: unmistakable Dalí Theatre-Museum — central red bread-roll-dotted tower, giant eggs along the parapet, golden rooftop figures, glowing geodesic dome against deep blue night sky, lit facade windows; plausible tourist viewpoint from Plaça Gala i Salvador Dalí; clean framing, no artifacts. Gate 2: sweep verified 1920x1080 + 864x1080 and SHA-256 match; on-image caption Dali Theatre-Museum Figueres, Scenario 24 September 2026 01:16 Europe/Madrid, AI disclosure bottom-left on gradient scrim, exact Jason Ds Vision signature (curly apostrophe) bottom-right; weather retrieved 01:12:51 valid 01:15 — fresh. Gate 3: packet documents image_inputs empty, text-only original generation, third-party photographs inspected for facts only. Gate 4: two dark foreground sculptures (not people), no logos — documented only, no chain certified. Gate 5: no open blockers.",
       "daylight_16x9": "es-01-247-daylight-16x9.png",
       "daylight_4x5": "es-01-247-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-247-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "cd7dc43fcb4da4c4211f2b83196a912a8a23fd6f13407bf3298262cffe81f04a"
+        }
+      }
     },
     {
       "entry_id": "ES-01-248",
@@ -1683,7 +1723,15 @@
       "approval_basis": "Gate 1: Cadaqués recognizable — illuminated Santa Maria church with its tower atop the hill, whitewashed houses cascading to the harbor, moored boats and warm window-light reflections on the water, rocky headland framing the left edge; plausible tourist viewpoint from the waterfront; clean framing, no artifacts. Gate 2: sweep verified 1920x1080 + 864x1080 and SHA-256 match; on-image caption, Scenario 24 September 2026 01:16 Europe/Madrid, AI disclosure bottom-left on gradient scrim, exact Jason Ds Vision signature (curly apostrophe) bottom-right; weather retrieved 01:12:51 valid 01:15 — fresh. Gate 3: packet documents image_inputs empty, text-only original generation, third-party photographs inspected for facts only. Gate 4: no people, logos, or recognizable private property visible — documented only. Gate 5: no open blockers.",
       "daylight_16x9": "es-01-248-daylight-16x9.png",
       "daylight_4x5": "es-01-248-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-248-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "771eb3baa81cfc84614ad74b3e1591a95471084cf69b9cd64bf1407ba91956c7"
+        }
+      }
     },
     {
       "entry_id": "ES-01-249",
@@ -1700,7 +1748,15 @@
       "approval_basis": "Gate 1: Vila Vella recognizable — walled hilltop old town with cylindrical towers, lighthouse glowing at the summit, warm lit windows across the stone houses, beach curving in the foreground; plausible tourist viewpoint from the beach below; clean framing, no artifacts. Gate 2: sweep verified 1920x1080 + 864x1080 and SHA-256 match; on-image caption, Scenario 24 September 2026 01:16 Europe/Madrid, AI disclosure bottom-left on gradient scrim, exact Jason Ds Vision signature (curly apostrophe) bottom-right; weather retrieved 01:12:51 valid 01:15 — fresh. Gate 3: packet documents image_inputs empty, text-only original generation, third-party photographs inspected for facts only. Gate 4: no people, logos, or recognizable private property visible — documented only. Gate 5: no open blockers.",
       "daylight_16x9": "es-01-249-daylight-16x9.png",
       "daylight_4x5": "es-01-249-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-249-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "62725c391c07531e8f32389c431b0459c52ee79912db425e548216c76f7251d8"
+        }
+      }
     },
     {
       "entry_id": "ES-01-250",
@@ -1717,7 +1773,15 @@
       "approval_basis": "Gate 1: Besalú Bridge recognizable — Romanesque multi-arch stone bridge with the gatehouse tower arch at right, warm lamp row tracing the parapet and reflected in the still river, old town on the hill behind; plausible tourist viewpoint from the riverbank; clean framing, no artifacts. Gate 2: sweep verified 1920x1080 + 864x1080 and SHA-256 match; on-image caption, Scenario 24 September 2026 01:18 Europe/Madrid, AI disclosure bottom-left on gradient scrim, exact Jason Ds Vision signature (curly apostrophe) bottom-right; weather retrieved 01:12:51 valid 01:15 — fresh. Gate 3: packet documents image_inputs empty, text-only original generation, third-party photographs inspected for facts only. Gate 4: no people, logos, or recognizable private property visible — documented only. Gate 5: no open blockers.",
       "daylight_16x9": "es-01-250-daylight-16x9.png",
       "daylight_4x5": "es-01-250-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-250-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "03f07a9957d40cfc1f27e5cee8ea1a85fc144d3ff356f26f195904d11e90c9fd"
+        }
+      }
     },
     {
       "entry_id": "ES-01-251",
@@ -1768,7 +1832,15 @@
       "approval_basis": "Gate 1: Peratallada medieval old town recognizable — foreground stone arcade with five warm wall lamps, narrow cobbled street rising past stone houses with lit windows, crenellated walled town and tower looming through the mist above; plausible street-level tourist viewpoint; clean framing, no artifacts. Gate 2: sweep verified 1920x1080 + 864x1080 and SHA-256 match; on-image caption, Scenario 24 September 2026 01:18 Europe/Madrid, AI disclosure bottom-left on gradient scrim, exact Jason Ds Vision signature (curly apostrophe) bottom-right; weather retrieved 01:12:51 valid 01:15 — fresh. Gate 3: packet documents image_inputs empty, text-only original generation, third-party photographs inspected for facts only. Gate 4: no people, logos, or recognizable private property visible — documented only. Gate 5: no open blockers.",
       "daylight_16x9": "es-01-253-daylight-16x9.png",
       "daylight_4x5": "es-01-253-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-253-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "e6c7cd4d82e4151677df0f3ddb78063706c2aa0eef4cabf03d2c550d0425d451"
+        }
+      }
     },
     {
       "entry_id": "ES-01-254",
@@ -1802,7 +1874,15 @@
       "approval_basis": "Gate 1: Estany de Sant Maurici recognizable — still lake mirroring the twin peaks of Els Encantats, pine slopes framing both sides, low mist drifting over the water under a moonlit cloud break; plausible shoreline viewpoint; clean framing, no artifacts. Gate 2: sweep verified 1920x1080 + 864x1080 and SHA-256 match; on-image caption, Scenario 24 September 2026 01:19 Europe/Madrid, AI disclosure bottom-left on gradient scrim, exact Jason Ds Vision signature (curly apostrophe) bottom-right; weather retrieved 01:12:51 valid 01:15 — fresh. Gate 3: packet documents image_inputs empty, text-only original generation, third-party photographs inspected for facts only. Gate 4: no people, logos, or recognizable private property visible — documented only. Gate 5: no open blockers.",
       "daylight_16x9": "es-01-255-daylight-16x9.png",
       "daylight_4x5": "es-01-255-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-255-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "aa5ad4626099dc3a8eb68e0a222f061ad8b4f5d74c97a5d38f9d661fd75d4eba"
+        }
+      }
     },
     {
       "entry_id": "ES-01-256",
@@ -1836,7 +1916,15 @@
       "approval_basis": "Five-gate Cosmo QC: Gate 1 PASS — viewed from the wooden rails of a birdwatching hide, moonlit shallow lagoons and reedbeds stretch out with dark silhouettes of waterbirds resting on the mirror-like surface, distant rice paddies beyond; naturally dark, no artificial lighting, no scenario anomalies. Gate 2 PASS — both masters byte-verified 1920x1080 and 864x1080 with SHA-256 matching the packet; on-image text exact ('Ebro Delta, Deltebre', 'Scenario: 24 September 2026 · 01:19 Europe/Madrid', 'AI-generated artistic interpretation · Not a photograph.') and 'Jason D\\u2019s Vision' signature bottom-right; weather retrieved 2026-09-24T01:12:51+02:00, valid 01:15 — 6 min before scenario, fresh. Gate 3 PASS — text-only generation, no photographic inputs reported. Gate 4 — no people, logos, or private property visible; not legally certified. Gate 5 — no blockers.",
       "daylight_16x9": "es-01-257-daylight-16x9.png",
       "daylight_4x5": "es-01-257-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-257-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "54e465c853c16bdd7f1926978410c2ab6993cbcf02025a0aa2871176c51bada7"
+        }
+      }
     },
     {
       "entry_id": "ES-01-258",
@@ -1853,7 +1941,15 @@
       "approval_basis": "Five-gate Cosmo QC: Gate 1 PASS — from the western shore, traditional stilt pesquera huts line the water's edge bottom-left, the glassy lake mirrors a starry sky with a thin moonlight path on the water, tree-lined far shore and faint Banyoles town lights behind; calm, clean, no artifacts. Gate 2 PASS — byte-verified 1920x1080 and 864x1080, SHA-256 matching the packet; on-image text exact ('Lake Banyoles, Banyoles', 'Scenario: 24 September 2026 · 01:23 Europe/Madrid', disclosure) and 'Jason D\\u2019s Vision' signature bottom-right; weather retrieved 2026-09-24T01:12:51+02:00, valid 01:15 — 8 min before the 01:23 scenario, fresh. Gate 3 PASS — text-only generation, zero photo inputs. Gate 4 — no people, logos, or private property; not legally certified. Gate 5 — no blockers.",
       "daylight_16x9": "es-01-258-daylight-16x9.png",
       "daylight_4x5": "es-01-258-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-258-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "37bcd20fd60f0dc07b478b723a78a54728205d9e5063069255ce866a5053019d"
+        }
+      }
     },
     {
       "entry_id": "ES-01-259",
@@ -1870,7 +1966,15 @@
       "approval_basis": "Five-gate Cosmo QC: Gate 1 PASS — the crenellated stone walls with square towers rise centered, warm lamps glowing along the wall walk, the stone arch of the Portal de Bové gate framing lit old-town rooftops beyond, starry sky above; plausible Plaça Major viewpoint, no misconfiguration. Gate 2 PASS — byte-verified 1920x1080 and 864x1080, SHA-256 matching the packet; on-image text exact ('Medieval walls, Montblanc', 'Scenario: 24 September 2026 · 01:22 Europe/Madrid', disclosure) and 'Jason D\\u2019s Vision' signature bottom-right; weather retrieved 2026-09-24T01:12:51+02:00, valid 01:15 — 9 min before scenario, fresh; packet honestly disclaims any specific illumination claim. Gate 3 PASS — text-only generation, no photo inputs. Gate 4 — no people, logos, or private property visible; not legally certified. Gate 5 — no blockers.",
       "daylight_16x9": "es-01-259-daylight-16x9.png",
       "daylight_4x5": "es-01-259-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-259-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "cd95d2196d382ec5d5d41eb968b292c5ad4a8e5425de916ed7acd26fda78bdcb"
+        }
+      }
     },
     {
       "entry_id": "ES-01-260",
@@ -1887,7 +1991,15 @@
       "approval_basis": "Five-gate Cosmo QC: Gate 1 PASS — from the Parc de la Mar esplanade, the Gothic sandstone cathedral mass with soaring buttresses and its large rose window rises centered above dark reflecting pools, warmly lit, Almudaina palace flanking left, palm-lined promenade and dark water reflections foreground; restrained lamp-lit treatment, no false floodlighting. Gate 2 PASS — byte-verified 1920x1080 and 864x1080, SHA-256 matching the packet; on-image text exact ('Palma Cathedral, Palma de Mallorca', 'Scenario: 24 September 2026 · 01:22 Europe/Madrid', disclosure) and 'Jason D\\u2019s Vision' signature bottom-right; weather retrieved 2026-09-24T01:12:51+02:00, valid 01:15 — 9 min before scenario, fresh; no cathedral illumination claimed. Gate 3 PASS — text-only generation, no photo inputs. Gate 4 — no people, logos, or private property; not legally certified. Gate 5 — no blockers.",
       "daylight_16x9": "es-01-260-daylight-16x9.png",
       "daylight_4x5": "es-01-260-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-260-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "01fde6b46247576b5dfb7161ed3b9ba18456bc5b807dd61dad165c929720baf2"
+        }
+      }
     },
     {
       "entry_id": "ES-01-261",
@@ -1904,7 +2016,15 @@
       "approval_basis": "Five-gate Cosmo QC: Gate 1 PASS — the towering limestone walls of the Torrent de Pareis gorge mouth rise on both sides of a narrow cove opening onto the dark Mediterranean, moonlight tracing the cliff edges and still water under a starry sky; naturally dark with no artificial lighting, no glaring misconfiguration. Gate 2 PASS — byte-verified 1920x1080 and 864x1080, SHA-256 matching the packet; on-image text exact ('Sa Calobra cove, Escorca', 'Scenario: 24 September 2026 · 01:22 Europe/Madrid', 'AI-generated artistic interpretation · Not a photograph.') and 'Jason D\\u2019s Vision' signature bottom-right; weather retrieved 2026-09-24T01:12:51+02:00, valid 01:15 — 9 min before scenario, fresh. Gate 3 PASS — text-only generation, no photographic inputs. Gate 4 — no people, logos, or private property visible; not legally certified. Gate 5 — no blockers.",
       "daylight_16x9": "es-01-261-daylight-16x9.png",
       "daylight_4x5": "es-01-261-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-261-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "ab7433a13aff1e16ba03614b15a2a72606c368762934f0ce0cb81530ddf2bd96"
+        }
+      }
     },
     {
       "entry_id": "ES-01-262",
@@ -1921,7 +2041,15 @@
       "approval_basis": "Five-gate Cosmo QC: Gate 1 PASS — honey-colored stone houses with green shutters and terracotta roofs cluster below the viewpoint, warm windows glowing, the bell tower of the Carthusian monastery rising above the rooftops, dark Tramuntana silhouette behind under a starry sky; plausible mirador viewpoint, clean framing. Gate 2 PASS — byte-verified 1920x1080 and 864x1080, SHA-256 matching the packet; on-image text exact ('Valldemossa, Valldemossa', 'Scenario: 24 September 2026 · 01:26 Europe/Madrid', disclosure) and 'Jason D\\u2019s Vision' signature bottom-right; weather retrieved 2026-09-24T01:12:51+02:00, valid 01:15 — 11 min before scenario, fresh; window/lamp light only, no floodlighting claimed. Gate 3 PASS — text-only generation, no photo inputs. Gate 4 — no people, logos, or recognizable private property visible; not legally certified. Gate 5 — no blockers.",
       "daylight_16x9": "es-01-262-daylight-16x9.png",
       "daylight_4x5": "es-01-262-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-262-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "8bcbbeba5530aba0131d770ed0e3b2872177bb7465ca55d0189f584155f5d075"
+        }
+      }
     },
     {
       "entry_id": "ES-01-263",
@@ -1938,7 +2066,15 @@
       "approval_basis": "Five-gate Cosmo QC: Gate 1 PASS — from the cliff viewpoint, the small white-sand cove sits between dark pine-clad limestone headlands, turquoise-dark water lying still under a starry sky with a thin sliver of moonlight on gentle waves; naturally dark, no artificial lighting, honest moonlit treatment. Gate 2 PASS — byte-verified 1920x1080 and 864x1080, SHA-256 matching the packet; on-image text exact ('Cala Macarella, Ciutadella de Menorca', 'Scenario: 24 September 2026 · 01:26 Europe/Madrid', disclosure) and 'Jason D\\u2019s Vision' signature bottom-right; weather retrieved 2026-09-24T01:12:51+02:00, valid 01:15 — 11 min before scenario, fresh. Gate 3 PASS — text-only generation, no photo inputs. Gate 4 — no people, logos, or private property visible; not legally certified. Gate 5 — no blockers.",
       "daylight_16x9": "es-01-263-daylight-16x9.png",
       "daylight_4x5": "es-01-263-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-263-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "52a5c7ebd3210efae0b9b2a87e7934a7fef5d9e1948c5854f228469bd95a7ae2"
+        }
+      }
     },
     {
       "entry_id": "ES-01-264",
@@ -1955,7 +2091,15 @@
       "approval_basis": "Five-gate Cosmo QC: Gate 1 PASS — from the marina across the harbor, Dalt Vila rises on the hill with the Renaissance walls and bastions warmly lit at left, cathedral bell tower crowning the silhouette, whitewashed houses glowing with lamp light, sailboat masts and moored boats in the dark harbor foreground, starry sky; lamp light only, no wall floodlighting claimed. Gate 2 PASS — byte-verified 1920x1080 and 864x1080, SHA-256 matching the packet; on-image text exact ('Dalt Vila, Eivissa', 'Scenario: 24 September 2026 · 01:26 Europe/Madrid', disclosure) and 'Jason D\\u2019s Vision' signature bottom-right; weather retrieved 2026-09-24T01:12:51+02:00, valid 01:15 — 11 min before scenario, fresh. Gate 3 PASS — text-only generation, no photo inputs. Gate 4 — no people, logos, or recognizable private property visible; not legally certified. Gate 5 — no blockers.",
       "daylight_16x9": "es-01-264-daylight-16x9.png",
       "daylight_4x5": "es-01-264-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-264-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "73ed1a6a9c8bbafe1802f49fd8e3c9d6c739c83800d1e5cae1e9874fd5f4bb45"
+        }
+      }
     },
     {
       "entry_id": "ES-01-265",
@@ -1972,7 +2116,15 @@
       "approval_basis": "Five-gate Cosmo QC: Gate 1 PASS — the massive sheer-sided limestone islet of Es Vedrà rises centered from the dark Mediterranean, moonlight edging its craggy cliffs, the smaller Vedranell rock to the left, thin clouds drifting across the starry sky, dark mainland pines at the frame edges; naturally dark, no artificial lighting. Gate 2 PASS — byte-verified 1920x1080 and 864x1080, SHA-256 matching the packet; on-image text exact ('Es Vedrà, Sant Josep de sa Talaia', 'Scenario: 24 September 2026 · 01:26 Europe/Madrid', disclosure) and 'Jason D\\u2019s Vision' signature bottom-right; weather retrieved 2026-09-24T01:12:51+02:00, valid 01:15 — 11 min before scenario, fresh. Gate 3 PASS — text-only generation, no photo inputs. Gate 4 — no people, logos, or private property visible; not legally certified. Gate 5 — no blockers.",
       "daylight_16x9": "es-01-265-daylight-16x9.png",
       "daylight_4x5": "es-01-265-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-265-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "e30b093ce90fbfdabb869d5844f8d59f8cc4da7cb4801c0574ea4f39675ca9b5"
+        }
+      }
     },
     {
       "entry_id": "ES-01-266",
@@ -1989,7 +2141,15 @@
       "approval_basis": "Gates: (1) The narrow white-sand spit of Ses Illetes running centered between two dark sea stretches, shallow water faintly glowing under a clear starry sky, dark Ibiza silhouette on the horizon, honest moonlit treatment with no invented floodlighting; plausible tourist viewpoint, clean framing, no artifacts. (2) Both masters 1920x1080/864x1080, SHA-256 match; on-image caption 'Ses Illetes, Formentera', scenario '24 September 2026 · 01:28 Europe/Madrid', AI-disclosure 'Not a photograph' bottom-left on scrim, legible; 'Jason D's Vision' (curly apostrophe) bottom-right. Weather retrieval 2026-09-24T01:12:51+02:00 for the 01:28 scenario — same night, ~15 min prior batch retrieval, valid and consistent (no stale reuse). (3) Packet documents text-only generation, image_inputs: [], third-party photos inspected for facts only. (4) IP: empty beach, no people, no logos, no recognizable private property; documented only. (5) No blockers — publication-ready.",
       "daylight_16x9": "es-01-266-daylight-16x9.png",
       "daylight_4x5": "es-01-266-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-266-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "667e3d2c5ba8cf9ffc655d119b4ab761e27a907349af91911d34d8e3242c3a72"
+        }
+      }
     },
     {
       "entry_id": "ES-01-267",
@@ -2006,7 +2166,15 @@
       "approval_basis": "Gate 1 PASS: night view of the boat-shaped Bronze Age naveta — coursed megalithic masonry, small square upper window and dark entrance doorway — under a starry sky with a crescent moon, stone boundary wall in the foreground; recognizably Naveta des Tudons from a plausible tourist viewpoint, clean framing, no artifacts. Gate 2 PASS: both masters mechanically verified (1920x1080 + 864x1080, SHA-256 match); baked caption reads 'Naveta des Tudons, Ciutadella de Menorca' — correctly spelled, which supersedes the 09:30 EDT qc note (that note was mistaken: the baked text does contain the n in Tudons, matching Wikipedia 'Naveta des Tudons'); scenario '24 September 2026 · 01:27 Europe/Madrid' matches packet; weather retrieved 01:12:51+02:00 valid 01:15 covers the scenario hour — fresh, not the reused 01:11 block; signature 'Jason D's Vision' with curly apostrophe bottom-right and 'AI-generated artistic interpretation · Not a photograph.' disclosure bottom-left, both legible on the scrim. Gate 3 PASS: packet documents text-only generation, image_inputs empty, no photographic inputs. Gate 4: no people, logos, or private property visible — open prehistoric monument. Gate 5: no open blockers. Modelled night scenario, not a verified capture.",
       "daylight_16x9": "es-01-267-daylight-16x9.png",
       "daylight_4x5": "es-01-267-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-267-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "d1aae089dff7b856e5b2d2b91543ed0ec4b630a5148766e91214d511a4c59b5f"
+        }
+      }
     },
     {
       "entry_id": "ES-01-268",
@@ -2023,7 +2191,15 @@
       "approval_basis": "Gates: (1) The Hemisfèric with its closed eye-lid shell centered over dark reflecting pools, Science Museum's arched spine left and Palau de les Arts silhouette right under a partly cloudy starry sky; recognizable Calatrava forms, plausible bridge viewpoint, clean framing, no artifacts. (2) Both masters 1920x1080/864x1080, SHA-256 match; on-image caption 'City of Arts and Sciences, Valencia', scenario '24 September 2026 · 01:27 Europe/Madrid', AI-disclosure 'Not a photograph' bottom-left on scrim, legible; 'Jason D's Vision' (curly apostrophe) bottom-right. Weather retrieval 2026-09-24T01:12:51+02:00 for the 01:27 scenario — same night, consistent batch retrieval. (3) Packet documents text-only generation, image_inputs: [], third-party photos inspected for facts only. (4) IP: no people, no logos, no recognizable private property; documented only. (5) No blockers — publication-ready.",
       "daylight_16x9": "es-01-268-daylight-16x9.png",
       "daylight_4x5": "es-01-268-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-268-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "2efe41bebbf91d4bc9e32a708eb6ef12315a6c19a5109ee28fda9d21936584a9"
+        }
+      }
     },
     {
       "entry_id": "ES-01-269",
@@ -3509,7 +3685,15 @@
       "approval_basis": "Gate 1 visual/location pass: recognizable crenellated Walls of Niebla with gate towers and whitewashed town behind, plausible viewpoint, clean framing, no artifacts. Gate 2 technical pass: exact 1920x1080 + 864x1080, SHA-256 matches packet, exact Jason D's Vision signature bottom-right, caption/scenario timestamp/AI disclosure bottom-left legible. Gate 3 originality: packet documents text-only generation, no photographic inputs. Gate 4 commercial/IP documented only: no visible people or logos. Gate 5 publication readiness confirmed, no open blockers.",
       "daylight_16x9": "es-01-230-daylight-16x9.png",
       "daylight_4x5": "es-01-230-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-230-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "da96b5b4bad41de1a900907e67d5b8211aca4b326bf443e934b8b0879479d26c"
+        }
+      }
     },
     {
       "entry_id": "ES-01-345",
@@ -3546,7 +3730,15 @@
       "approval_basis": "Gate 1: Monumento a Colón recognizably depicted from a plausible tourist viewpoint at Punta del Sebo, estuary marshland and port lights behind, clean framing, no artifacts. Gate 2: both masters 1920x1080/864x1080 with SHA-256 matching packet, exact 'Jason D's Vision' signature bottom-right, exact caption, scenario timestamp and AI disclosure bottom-left on gradient scrim, legible. Gate 3: packet documents text-only generation with image_inputs: [], no photographic inputs. Gate 4: no people, logos, or private property visible — public monument only; noted as documented, not certified. Gate 5: no open blockers.",
       "daylight_16x9": "es-01-231-daylight-16x9.png",
       "daylight_4x5": "es-01-231-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-231-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "8aa1c7268116a9cdef1be285b74f19a7a0a5d734dee69ac94e8fa9e61dff3c37"
+        }
+      }
     },
     {
       "entry_id": "ES-01-232",
@@ -3580,7 +3772,15 @@
       "approval_basis": "Gate 1: Balcón de Europa, Nerja recognizably depicted — marble balustrade terrace overlooking the cove with the Alfonso XII statue at the railing, lit promenade and moonlit sea, plausible tourist viewpoint, clean framing, no artifacts. Gate 2: both masters exact dimensions with SHA-256 matching packet, exact 'Jason D's Vision' signature bottom-right, exact caption, scenario timestamp and AI disclosure bottom-left on gradient scrim, legible. Gate 3: packet documents text-only generation, image_inputs: [], no photographic inputs. Gate 4: no people, logos, or private property visible — public viewpoint with public statue only; documented only. Gate 5: no open blockers.",
       "daylight_16x9": "es-01-233-daylight-16x9.png",
       "daylight_4x5": "es-01-233-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-233-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "ebd7610b8293236cea80722ad2de26680f27abbd1e36617b3f22d3041f21f15d"
+        }
+      }
     },
     {
       "entry_id": "ES-01-234",
@@ -3597,7 +3797,15 @@
       "approval_basis": "Gate 1: Old Town, Frigiliana recognizably depicted — whitewashed Moorish street with blue shutters and flowerpots rising toward the hilltop village, plausible tourist viewpoint, clean framing, no artifacts. Gate 2: both masters exact dimensions with SHA-256 matching packet, exact 'Jason D's Vision' signature bottom-right, exact caption, scenario timestamp and AI disclosure bottom-left on gradient scrim, legible. Gate 3: packet documents text-only generation, image_inputs: [], no photographic inputs. Gate 4: no people, logos, or private property visible — generic old-town streetscape; documented only. Gate 5: no open blockers.",
       "daylight_16x9": "es-01-234-daylight-16x9.png",
       "daylight_4x5": "es-01-234-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-234-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "17ae21fdb3eca7cf203e50e4712075ebc921c56ad52d199b3a45f852a7677ff4"
+        }
+      }
     },
     {
       "entry_id": "ES-01-235",
@@ -3731,7 +3939,15 @@
       "approval_basis": "Gate 1: Sacra Capilla del Salvador in Úbeda's Plaza Vázquez de Molina with its ornate Plateresque carved facade, corner towers and domed bell tower, flanked by the Palacio de las Cadenas and palace facades, crescent moon and stars — recognizably Úbeda's signature plaza at night; clean framing, no artifacts. Gate 2: both masters exact 1920×1080 / 864×1080, SHA-256 matched the packet; on-image bottom-left reads exactly 'Plaza Vázquez de Molina, Úbeda', scenario '24 September 2026 · 02:31 Europe/Madrid', and the 'AI-generated artistic interpretation · Not a photograph.' disclosure; 'Jason D’s Vision' (curly apostrophe) bottom-right; weather retrieved 02:29:06 valid 02:31:18 — fresh, matching the scenario hour. Gate 3: packet documents text-only generation, no photographic inputs. Gate 4: no identifiable people, logos, or private property visible — documented only. Gate 5: no open blockers.",
       "daylight_16x9": "es-01-236-daylight-16x9.png",
       "daylight_4x5": "es-01-236-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-236-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "b09ca57255f558541480b61b78859d6f26dea3862404d5e0055f5a573efeae7f"
+        }
+      }
     },
     {
       "entry_id": "ES-01-237",
@@ -3765,7 +3981,15 @@
       "approval_basis": "Gate 1: Alcázar of Jerez's crenellated stone keep rising above the lantern-lit inner courtyard, octagonal carved fountain centered among hedges, orange trees and palms, bell tower behind the right wall — recognizably the Alcázar's courtyard from a plausible interior viewpoint; clean framing, no artifacts. Gate 2: both masters exact 1920×1080 / 864×1080, SHA-256 matched the packet; on-image bottom-left reads exactly 'Alcázar of Jerez, Jerez de la Frontera', scenario '24 September 2026 · 02:31 Europe/Madrid', and the 'AI-generated artistic interpretation · Not a photograph.' disclosure; 'Jason D’s Vision' (curly apostrophe) bottom-right; weather retrieved 02:29:06 valid 02:31:18 — fresh, matching the scenario hour. Gate 3: packet documents text-only generation, no photographic inputs. Gate 4: no identifiable people, logos, or private property visible — documented only. Gate 5: no open blockers.",
       "daylight_16x9": "es-01-238-daylight-16x9.png",
       "daylight_4x5": "es-01-238-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-238-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "f0bef0678c2641a34b4252840d4b76438d1f8c5d25cdd054d9d880a03e765694"
+        }
+      }
     },
     {
       "entry_id": "ES-01-239",
@@ -3782,7 +4006,15 @@
       "approval_basis": "G1: Isla de Tarifa reads recognizably from the causeway — white lighthouse with a visible rotating beam, the walled Castillo de Santa Catalina, curved causeway and beach in the foreground, Tangier's lights glimmering across the strait, crescent moon in a starry sky; the kitesurfers' kites aloft at 02:31 are an interpretive liberty (kitesurfing does not happen at night) but the framing is clean with no artifacts. G2: mechanical sweep PASS on exact 1920×1080 + 864×1080 with packet-matching SHA-256; exact caption 'Isla de Tarifa, Tarifa', scenario '24 September 2026 · 02:31 Europe/Madrid' and AI disclosure on a legible bottom-left scrim; exact 'Jason D's Vision' signature bottom-right; Open-Meteo weather retrieved 02:29:06, valid 02:31:18 — fresh, not reused. G3: packet provenance is text-only generation with image_inputs empty; source photographs inspected for facts only, no input pixels. G4: no identifiable people, no logos or readable branding, only distant town lights and fortress walls. G5: no open blockers.",
       "daylight_16x9": "es-01-239-daylight-16x9.png",
       "daylight_4x5": "es-01-239-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-239-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "d537a680776d93ad975a5a400f7d2cf64e99d13af0c9285dd5d05a4a2fba803d"
+        }
+      }
     },
     {
       "entry_id": "ES-01-240",
@@ -3799,7 +4031,15 @@
       "approval_basis": "Gates: (1) The ceramic-tiled fountain of the Plaza de España in Vejer de la Frontera centered, three frog spouts and blue azulejo panels visible; whitewashed hilltop houses climbing behind, church tower of El Divino Salvador, wrought-iron lamps lit under a crescent-moon starry sky; plausible tourist viewpoint, clean framing, no artifacts. (2) Both masters 1920x1080/864x1080, SHA-256 match; on-image caption 'Plaza de España, Vejer de la Frontera', scenario '24 September 2026 · 02:43 Europe/Madrid', AI-disclosure 'Not a photograph' bottom-left on scrim, legible; 'Jason D's Vision' (curly apostrophe) bottom-right. Weather retrieval 2026-09-24T02:42:10+02:00 matches the 02:43 scenario (minutes fresh). (3) Packet documents text-only generation, image_inputs: [], third-party photos inspected for facts only. (4) IP: empty plaza, no people, no logos, no recognizable private property; documented only. (5) No blockers — publication-ready.",
       "daylight_16x9": "es-01-240-daylight-16x9.png",
       "daylight_4x5": "es-01-240-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-240-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "36fbfd54de62ad207aa35c3fc90ce601831219f408ffff2667959d91ae03b70d"
+        }
+      }
     },
     {
       "entry_id": "ES-01-241",

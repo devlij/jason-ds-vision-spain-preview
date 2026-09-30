@@ -31,6 +31,7 @@
   "description": "From the causeway at night, the lighthouse island of Tarifa stands at Europe's edge, its beam sweeping over the Strait of Gibraltar. The dark water of the strait runs on either side, Africa a black absence beyond. The lighthouse flashes steadily, the southernmost light of the continent keeping its night watch.",
   "file_16x9": "es-01-239-r1-16x9.png",
   "file_4x5": "es-01-239-r1-4x5.png",
+  "file_9x16": "es-01-239-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "0df860c66f75117f66c5480dd30564e006d25f0563f5af64c1777d5c9c13e5f3"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "d537a680776d93ad975a5a400f7d2cf64e99d13af0c9285dd5d05a4a2fba803d"
     }
   },
   "masters": {

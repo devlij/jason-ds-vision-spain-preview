@@ -42,16 +42,19 @@ function clearFilters(){var s=$('search');if(s)s.value='';['f-region','f-daynigh
 
 filter();
 
-/* Section 16: 16:9 / 4:5 format tab switching per card. */
-document.querySelectorAll('.card').forEach(card=>{
-  const tabs=card.querySelectorAll('.fmt-tab');
+/* Section 16: 16:9 / 4:5 tabs, and a 9:16 tab only after the master probes.
+   Spain 2026-09-26 rendered 9:16 tabs for files that were not in the repo.
+   The tab and Download 9:16 button stay out of the DOM until the probe loads. */
+function bindFmtTab(card, tab){
   const link=card.querySelector('a.thumb');
   const img=link&&link.querySelector('img');
-  tabs.forEach(tab=>tab.addEventListener('click',e=>{
+  tab.addEventListener('click',e=>{
     e.preventDefault();
+    if(tab.disabled||tab.classList.contains('is-disabled'))return;
     const fmt=tab.dataset.format;
     const prev=card.querySelector('.fmt-tab.is-active');
-    tabs.forEach(t=>t.classList.toggle('is-active',t===tab));
+    const live=()=>card.querySelectorAll('.fmt-tab');
+    live().forEach(t=>t.classList.toggle('is-active',t===tab));
     if(!img||!link)return;
     const dtab0=card.querySelector('.day-tab.is-active');
     const useDay=dtab0&&dtab0.getAttribute('data-daynight')==='day';
@@ -61,15 +64,13 @@ document.querySelectorAll('.card').forEach(card=>{
       ?(useDay&&img.getAttribute('data-src-45-day'))||img.getAttribute('data-src-45')
       :(useDay&&img.getAttribute('data-src-16-day'))||img.getAttribute('data-src-16');
     if(fmt==='9x16'&&next&&!card.hasAttribute('data-916-ok')){
-      // The 9:16 master lands with the label-bar backfill: probe it on first
-      // click. If the file 404s, drop the 9:16 tab + download and revert.
       const probe=new Image();
       probe.onload=function(){card.setAttribute('data-916-ok','1');swap();};
       probe.onerror=function(){
         card.setAttribute('data-916-missing','1');
         tab.remove();
         const dl=card.querySelector('a.download[data-dl="9x16"]');if(dl)dl.remove();
-        tabs.forEach(t=>t.classList.toggle('is-active',t===prev));
+        live().forEach(t=>t.classList.toggle('is-active',t===prev));
         link.classList.remove('tall916');
       };
       probe.src=next;
@@ -81,7 +82,51 @@ document.querySelectorAll('.card').forEach(card=>{
       link.classList.toggle('tall916',fmt==='9x16');
     }
     if(next)swap();
-  }));
+  });
+}
+document.querySelectorAll('.card').forEach(card=>{
+  card.querySelectorAll('.fmt-tab').forEach(tab=>bindFmtTab(card, tab));
+});
+
+function mount916(card, src){
+  if(card.getAttribute('data-916-missing')==='1')return;
+  if(card.querySelector('.fmt-tab[data-format="9x16"]'))return;
+  card.setAttribute('data-916-ok','1');
+  const tabs=card.querySelector('.fmt-tabs');
+  if(!tabs)return;
+  const tab=document.createElement('button');
+  tab.type='button';
+  tab.className='fmt-tab';
+  tab.dataset.format='9x16';
+  tab.textContent='9:16';
+  tabs.appendChild(tab);
+  bindFmtTab(card, tab);
+  const day=card.querySelector('.day-tab.is-active');
+  if(day&&day.getAttribute('data-daynight')==='day'){
+    tab.disabled=true;
+    tab.classList.add('is-disabled');
+  }
+  const dl=card.querySelector('.downloads');
+  if(dl&&!dl.querySelector('a.download[data-dl="9x16"]')){
+    const a=document.createElement('a');
+    a.className='download';
+    a.href=src;
+    a.setAttribute('download', src.split('/').pop());
+    a.setAttribute('data-dl','9x16');
+    a.textContent='Download 9:16';
+    const copy=dl.querySelector('.copy-link');
+    if(copy)dl.insertBefore(a, copy);
+    else dl.appendChild(a);
+  }
+}
+document.querySelectorAll('.card').forEach(card=>{
+  const img=card.querySelector('a.thumb img');
+  const src=img&&img.getAttribute('data-src-916');
+  if(!src)return;
+  const probe=new Image();
+  probe.onload=function(){mount916(card, src);};
+  probe.onerror=function(){};
+  probe.src=src;
 });
 
 /* Daylight toggle: one button per card, rendered only where day-variant masters
