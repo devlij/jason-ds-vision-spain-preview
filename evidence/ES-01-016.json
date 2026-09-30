@@ -1,0 +1,118 @@
+{
+  "scene_id": "ES-01-016",
+  "land_as": "Candidate",
+  "revision": "cand-r1",
+  "work_order": "wo-spain-architectural-rework-2026-09-30",
+  "pack": 1,
+  "defect_corrected": "The Hemisfèric pupil is a glazed metallic hemisphere under the aluminum-and-glass shutter, not an opaque white sphere.",
+  "viewpoint": "Northeast reflecting-pool promenade facing southwest toward the Hemisfèric; approximate camera near 39.457168,-0.353358, based on the documented Commons viewpoint, not surveyed.",
+  "reference_links": [
+    {
+      "url": "https://cultural.valencia.es/en/espais/the-hemisferic/",
+      "note": "Municipal description of L'Hemisfèric as an eye with a projection dome."
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/L%27Hemisf%C3%A8ric",
+      "note": "L'Hemisfèric: Calatrava eye, aluminum and glass shutter, hemispherical hall."
+    }
+  ],
+  "geometry_anchors": [
+    "Movable aluminum-and-glass eyelid lattice over the eye",
+    "Glazed metallic hemispherical pupil with reflections and panel seams, not an opaque white ball",
+    "Shallow reflecting pool mirroring the eye from the northeast promenade"
+  ],
+  "art50_comment_date": "2026-09-30",
+  "art50_note": "Comment date is this scene's finish date, 30 September 2026, not a fleet-wide restamp.",
+  "open_meteo": {
+    "retrieved_local": "2026-09-30T23:56:54.532650+02:00",
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=39.457168&longitude=-0.353358&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
+    "requested_coordinates": [
+      39.457168,
+      -0.353358
+    ],
+    "response": {
+      "latitude": 39.4375,
+      "longitude": -0.375,
+      "generationtime_ms": 0.3809928894042969,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 5.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-09-30T23:45",
+        "interval": 900,
+        "temperature_2m": 24.3,
+        "weather_code": 61,
+        "cloud_cover": 100,
+        "is_day": 0,
+        "precipitation": 0.0,
+        "wind_speed_10m": 1.8
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-09-30"
+        ],
+        "sunrise": [
+          "2026-09-30T07:56"
+        ],
+        "sunset": [
+          "2026-09-30T19:45"
+        ]
+      }
+    },
+    "solar": {
+      "method": "NOAA fractional-year geometric approximation, not observation",
+      "elevation_deg": -44.97,
+      "azimuth_deg": 317.55
+    }
+  },
+  "masters": {
+    "16x9": {
+      "file": "es-01-016-cand-r1-16x9.png",
+      "width": 1920,
+      "height": 1270,
+      "sha256": "8dab54f5ded40c7ff25f8e35481906b1145d8cdfc2e2ecaa647c0a4375f705e7",
+      "bytes": 1990429,
+      "source": "/opt/cursor/artifacts/assets/src-016-16x9.jpg",
+      "source_width": 1280,
+      "source_height": 720
+    },
+    "4x5": {
+      "file": "es-01-016-cand-r1-4x5.png",
+      "width": 864,
+      "height": 1270,
+      "sha256": "411e14acf7b886cb54f13c73090049ca3bcea981693b3179db5260759d2098e8",
+      "bytes": 731369,
+      "source": "/opt/cursor/artifacts/assets/src-016-34.jpg",
+      "source_width": 864,
+      "source_height": 1152
+    },
+    "9x16": {
+      "file": "es-01-016-cand-r1-9x16.png",
+      "width": 1080,
+      "height": 2110,
+      "sha256": "dd26ad1b4e81539f6bfe2abcab53c97ed1570409982f8a8b520eaf6a7432f777",
+      "bytes": 1804357,
+      "source": "/opt/cursor/artifacts/assets/src-016-916.jpg",
+      "source_width": 720,
+      "source_height": 1280
+    }
+  },
+  "producer_check": "Dimensions, label bar, and Art.50 comment date checked locally. This is not Cosmo QC and not an approval.",
+  "independent_verdict": null
+}
