@@ -39,6 +39,7 @@
   "description": "Ochre limestone houses stepping up a steep terraced hillside; Sant Joan Baptista church and bell tower crowning the village; Dark Serra de Tramuntana rock and olive terraces enclosing the settlement.",
   "file_16x9": "es-01-033-r1-16x9.png",
   "file_4x5": "es-01-033-r1-4x5.png",
+  "file_9x16": "es-01-033-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -49,6 +50,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "515c4cf81e66a4f1a791356cdab3319b1556db7d42b1ae66429f638929e7ca7c"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "cf0ed2602e95e66bd9d7868139dbec6a6f33e63c64443a7f8484e90a8a7711d9"
     }
   },
   "masters": {

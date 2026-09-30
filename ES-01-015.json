@@ -43,6 +43,11 @@
       "source_width": 1672,
       "source_height": 941,
       "resampled": true
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "43df2fdbab66e882bd47a7b1a135494e56c4408a230ac79de43493877107c08f"
     }
   },
   "gates": {
@@ -54,6 +59,7 @@
   },
   "file_16x9": "es-01-015-r1-16x9.png",
   "file_4x5": "es-01-015-r1-4x5.png",
+  "file_9x16": "es-01-015-r1-9x16.png",
   "references": [
     {
       "title": "Official San Sebastián Tourism: La Concha Beach",

@@ -62,10 +62,16 @@
       "source_width": 1672,
       "source_height": 940,
       "resampled": true
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "6ee060686964828b91b74f93cffd1179cc2f3121e3a486835e2012185a07db9f"
     }
   },
   "file_16x9": "es-01-021-r3-16x9.png",
   "file_4x5": "es-01-021-r3-4x5.png",
+  "file_9x16": "es-01-021-r3-9x16.png",
   "references": [
     {
       "title": "Málaga municipal Alcazaba listing",

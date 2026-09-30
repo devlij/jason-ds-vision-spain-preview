@@ -39,6 +39,7 @@
   "description": "Long honey-stone Gothic south wall with repeated tall buttresses and pinnacles; Large eastern rose window and layered flying-buttress geometry toward viewer right; Raised city wall and palms above the Parc de la Mar reflecting pool.",
   "file_16x9": "es-01-030-r1-16x9.png",
   "file_4x5": "es-01-030-r1-4x5.png",
+  "file_9x16": "es-01-030-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -49,6 +50,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "90f146f17bf790afc53543fb31edce41353ba2e08506298fb1e3bd8e7cce8ddc"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "786ef4a6546be3dade1febe7f8ead971316804397b62d3ed061b91f1a2b7c3a6"
     }
   },
   "masters": {

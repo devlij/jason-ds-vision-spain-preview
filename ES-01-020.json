@@ -39,10 +39,16 @@
       "source_width": 1672,
       "source_height": 941,
       "resampled": true
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "88e297196fff7fdf5da661225e9e895a2a6978dce059ade44edf163732e6460d"
     }
   },
   "file_16x9": "es-01-020-r1-16x9.png",
   "file_4x5": "es-01-020-r1-4x5.png",
+  "file_9x16": "es-01-020-r1-9x16.png",
   "references": [
     {
       "url": "https://turismo.granada.org/es/monumento/calle-emblematica/carrera-del-darro",

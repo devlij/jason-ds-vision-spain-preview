@@ -39,6 +39,7 @@
   "description": "Pale rounded pebble-and-gravel beach foreground; Two sheer orange-grey limestone walls narrowing sharply inland; Sparse scrub clinging to fractured rock with a dark channel floor between cliffs.",
   "file_16x9": "es-01-032-r1-16x9.png",
   "file_4x5": "es-01-032-r1-4x5.png",
+  "file_9x16": "es-01-032-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -49,6 +50,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "88bdc252f6f469e4cf23aa3f86094671e6c39d30be304e57254183af5c264d64"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "b0dba3d32f177a909f85e83e310ef2ecf9af55a3cfae1e5565c0c792155be1cc"
     }
   },
   "masters": {

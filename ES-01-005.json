@@ -9,6 +9,7 @@
   "alt_text": "AI-generated artistic interpretation of the Mezquita-Catedral bell tower and Puerta del Perdón from the orange-tree courtyard in clear early-afternoon daylight",
   "file_16x9": "es-01-005-r3-16x9.png",
   "file_4x5": "es-01-005-r3-4x5.png",
+  "file_9x16": "es-01-005-r3-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "status": "Approved · Cosmo QC 5/5 · Daylight",
@@ -56,6 +57,11 @@
       "height": 1270,
       "sha256": "1b2cce15a32fbec0d778d57a440fd22335c88516a8369e8f99572d7d3a3f0a15",
       "bytes": 1240432
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "371a9d0bf5c59d84b79e17bd903360b5ebded4a8529cee81905fbf7fa2ccf414"
     }
   }
 }

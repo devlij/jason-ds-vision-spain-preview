@@ -1,0 +1,53 @@
+BATCH ES 9:16 backfill pack 1
+Repo: devlij/jason-ds-vision-spain-preview
+Work order: wo-spain-916-backfill-2026-09-30
+Finish date: 2026-09-30
+Base tip before this pack: c0b248435befeb4aa0e3417c0a165ff0f22db22b
+Pack tip: the commit on cursor/spain-916-backfill-pack1-2046 that adds this note.
+
+Scope: 30 architectural-QC PASS scenes only.
+FLAG (~70) and NO_REFERENCE (7) are not in this pack and were not cropped.
+
+Scenes:
+ES-01-001
+ES-01-003
+ES-01-004
+ES-01-005
+ES-01-006
+ES-01-009
+ES-01-010
+ES-01-011
+ES-01-012
+ES-01-013
+ES-01-014
+ES-01-015
+ES-01-018
+ES-01-019
+ES-01-020
+ES-01-021
+ES-01-022
+ES-01-023
+ES-01-024
+ES-01-025
+ES-01-026
+ES-01-027
+ES-01-028
+ES-01-029
+ES-01-030
+ES-01-031
+ES-01-032
+ES-01-033
+ES-01-034
+ES-01-035
+
+Path layout: Spain keeps masters at the repository root beside the scene JSON, not under library/world/Spain/<City>/ and not under assets/. Each 9:16 file mirrors that scene's final 16:9 name with -9x16.png.
+Photograph: 608×1080 (9:16, even pixel width). Finished master: 608×1270. The window is the full height of the 16:9 photograph, centered inside the approved 4:5 crop when that 4:5 is the same photograph, so the subject is not dropped or decapitated.
+Label bar: 190px #0e0e12 under the photograph. Caption, scenario, disclosure, and the Jason D's Vision signature are the sibling 16:9 label artwork scaled onto that bar.
+
+Art. 50: Title, Description, Copyright, and Software chunks match the sibling 16:9 master. Comment date on the new 9:16 masters is 2026-09-30.
+
+Gallery probe gate: the 9:16 tab and Download 9:16 button are inserted only after an image probe of data-src-916 succeeds at render time. A missing master never gets a tab. This is the opposite of the Spain 2026-09-26 dead-tab incident, where 9:16 tabs rendered for files that were not in the repo.
+
+No approval flip: approval_state was not changed on any scene. Nothing in this pack was self-approved or moved to Approved. No word-of-the-day text was added.
+
+Draft PR only. Not merged.

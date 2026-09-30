@@ -39,6 +39,7 @@
   "description": "From near the Mirador de la Catedral, look northeast across Albarracín's old town at night. The village's warm-lit houses step down the hillside across the frame, the castle's defensive wall ridge running along the top. In the dark, only window lights and the lit wall trace the old town's shape against the night hills.",
   "file_16x9": "es-01-024-r1-16x9.png",
   "file_4x5": "es-01-024-r1-4x5.png",
+  "file_9x16": "es-01-024-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -49,6 +50,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "7c1a2c9a1474225b3a1f5dd3d3cdf95c9441e26c8feee9792f2ea3414c56a69e"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "3cf987952c498400a74fccddcc9f79680c4efd1034d0eb21b1f55cc6507f3cf5"
     }
   },
   "masters": {

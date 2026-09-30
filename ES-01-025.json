@@ -39,6 +39,7 @@
   "description": "From the Pradera de Ordesa trailhead, look north at the limestone escarpment under the night sky. The great pale cliff wall fills the center of the frame, rising sheer above the dark valley floor, with forested slopes falling away left and right. Moonlight edges the rim while the meadow below lies in deep shadow.",
   "file_16x9": "es-01-025-r1-16x9.png",
   "file_4x5": "es-01-025-r1-4x5.png",
+  "file_9x16": "es-01-025-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -49,6 +50,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "2d257a5dfc7a7561bc16430ee5d16eb10cde50758e5b5d6eb14caf6cb82f6507"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "35377179e6851d54317fe8c6a43d41feb6868be854d279b0863639582cd901f4"
     }
   },
   "masters": {

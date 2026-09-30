@@ -39,6 +39,7 @@
   "description": "Single compact inverted-boat funerary monument of massive dry-laid limestone blocks; Small low rectangular entrance in the flat end wall; Open dry Menorcan field with low scrub and a simple visitor path.",
   "file_16x9": "es-01-035-r1-16x9.png",
   "file_4x5": "es-01-035-r1-4x5.png",
+  "file_9x16": "es-01-035-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -49,6 +50,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "aa43f70b3d140eae895f70e65b3a80fe6deeabacc9bd3b3535becc1d2fed2df4"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "6ce7e794153d46730b681089066b5c9ca5967485d9953963dfa8899e942623b2"
     }
   },
   "masters": {

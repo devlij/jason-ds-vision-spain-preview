@@ -39,6 +39,7 @@
   "description": "Long paved Plaça des Born with its slender nineteenth-century obelisk; Sandstone town hall/former royal fortress closing the western square edge; Warm ochre stately façades and narrow old-town streets beyond.",
   "file_16x9": "es-01-034-r1-16x9.png",
   "file_4x5": "es-01-034-r1-4x5.png",
+  "file_9x16": "es-01-034-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -49,6 +50,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "a392d3454654105d3b7c2a997fd3ef83fa1752703b559a3a5531705bb391abe3"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "1c0b858670bad286b4551e3ec88793a9e95f029ce38e61b6d712b80938371d62"
     }
   },
   "masters": {

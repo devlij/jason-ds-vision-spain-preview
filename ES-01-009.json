@@ -38,6 +38,11 @@
       "source_width": 1672,
       "source_height": 941,
       "resampled": true
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "60d2eabfddf0e40eaf598ff051cd9f44d0d9a71ddb6170f862642c5f50a50f1b"
     }
   },
   "gates": {
@@ -49,6 +54,7 @@
   },
   "file_16x9": "es-01-009-r1-16x9.png",
   "file_4x5": "es-01-009-r1-4x5.png",
+  "file_9x16": "es-01-009-r1-9x16.png",
   "references": [
     {
       "title": "Official Madrid tourism",
