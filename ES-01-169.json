@@ -31,6 +31,7 @@
   "description": "In Anaga the forest ridges and cliffs are pure night shapes, laurel forest cloaking the slopes with the ridgeline jagged against the sky. Only the faintest light from a distant village shows in the folds of the mountains. One of Europe's oldest and most atmospheric wild places.",
   "file_16x9": "es-01-169-r1-16x9.png",
   "file_4x5": "es-01-169-r1-4x5.png",
+  "file_9x16": "es-01-169-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "2ec2a8b45303db35ac98ef39a6b89c12d2fa486d65f10c75bfb19146a34d9379"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "c4ad9444acda2c7bf371db3f8e11ed13612f6f4d065d8080b0dac7f37da25c0a"
     }
   },
   "masters": {

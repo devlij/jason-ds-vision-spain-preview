@@ -31,6 +31,7 @@
   "description": "At night in Jumilla, the castle hill rises floodlit over the dark wine country. You face the lit fortress across the frame with the sleeping vineyards stretching black around the town's scattered lights. The old wine capital keeps its hill lit through the small hours.",
   "file_16x9": "es-01-158-r1-16x9.png",
   "file_4x5": "es-01-158-r1-4x5.png",
+  "file_9x16": "es-01-158-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "192d76140aee4ccdb3702c2bc59fe47b0c64c343f9e01addbce3a5101b67f491"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "335424bf3f7da27e75621ea5b8b1203fd5b364e4dfe64167b48d28dfe21572f3"
     }
   },
   "masters": {

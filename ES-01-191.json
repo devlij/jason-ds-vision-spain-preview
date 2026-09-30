@@ -31,6 +31,7 @@
   "description": "From the Tagus gorge at night, the Alcántara Bridge spans the dark river in floodlit stone. You face the great Roman bridge across the frame, its arches lit against the black water and gorge walls. Two thousand years of engineering glowing in the dark.",
   "file_16x9": "es-01-191-r1-16x9.png",
   "file_4x5": "es-01-191-r1-4x5.png",
+  "file_9x16": "es-01-191-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "cf7d3250d32f45f56dc3a274e2e126a5936194d7caca50e3e25fa70ee9aaa168"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "28df9ce13a3a5486ca06d8d6e8d495a9f0e299ffd6deeca97aa32eb3aadd2acf"
     }
   },
   "masters": {

@@ -31,6 +31,7 @@
   "description": "From the valley at night, Arcos de la Frontera glows on its cliff-top, the old town's lights strung along the rock edge. The frame holds the whitewashed cliff town with its bell towers lit against the dark gorge below. The frontier town keeps its cliff through the small hours.",
   "file_16x9": "es-01-184-r1-16x9.png",
   "file_4x5": "es-01-184-r1-4x5.png",
+  "file_9x16": "es-01-184-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "280510ac96bd525f0e8d8f774ef47b172407ce92e9805ad4003c7833a3cf4585"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "ce7e362488e1466ad493c58c40e2e51d1b442e4b0a7a821a98e6f5de4e349d71"
     }
   },
   "masters": {

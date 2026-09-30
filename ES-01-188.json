@@ -31,6 +31,7 @@
   "description": "At night, Guadix's cave quarter lies dark and sculptural, the troglodyte hills rolling in black shapes under the stars. From the viewpoint you face the famous badlands across the frame, a few cave chimneys lit among the dark gullies. The ancient cave city sleeps in its own earth.",
   "file_16x9": "es-01-188-r1-16x9.png",
   "file_4x5": "es-01-188-r1-4x5.png",
+  "file_9x16": "es-01-188-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "0a1e62bd7e1b47e872c8e54b98ebbfdeb42cf677a9123fa5db29c1e9339de973"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "fc23ae98bf7d007e2d69569bbe56a6ed8ca22326e1a1c5b8340dbbba2a2d2849"
     }
   },
   "masters": {

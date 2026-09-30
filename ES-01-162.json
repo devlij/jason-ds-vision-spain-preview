@@ -31,6 +31,7 @@
   "description": "Night over Banyalbufar's terraced coast, where the stone-walled terraces step down toward the sea in darkness. Scattered lights from the village sit among the terraces while the Mediterranean lies flat and black beyond. You feel the whole slope breathing quietly under the stars.",
   "file_16x9": "es-01-162-r1-16x9.png",
   "file_4x5": "es-01-162-r1-4x5.png",
+  "file_9x16": "es-01-162-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "37c46a7acc7aa9829c37d202a1908f3a6f45d02899df4cd915fcf3ca4dd2e4b4"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "e62ff8634bd2ec8faeb25d2ad905cbc04ffb85c3ea0bc691d0abf6f04ccd0083"
     }
   },
   "masters": {

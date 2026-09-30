@@ -31,6 +31,7 @@
   "description": "Along the famous balcony-lined street of Santa Cruz de La Palma, the carved wooden balconies of the old houses stand out under the streetlamps. Doors and shutters are shut for the night, with only a few warm windows lit along the row. A quietly elegant street, asleep in the Canarian dark.",
   "file_16x9": "es-01-164-r1-16x9.png",
   "file_4x5": "es-01-164-r1-4x5.png",
+  "file_9x16": "es-01-164-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "e4a5ddb07e9215b128b944857d593357b21a6533740f7387cb0cb3ba49ff2f69"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "f8b68439a6520c31415b6528011240afe2524616f727552f0393b1728732a489"
     }
   },
   "masters": {
