@@ -3,7 +3,7 @@ Repo: devlij/jason-ds-vision-spain-preview
 Work order: wo-spain-916-backfill-2026-09-30
 Finish date: 2026-09-30
 Base tip before this pack: c0b248435befeb4aa0e3417c0a165ff0f22db22b
-Masters commit: recorded in the follow-up note commit
+Masters commit: 193787a573b154706df2c585117981e784150a76
 
 Scope: 30 architectural-QC PASS scenes only, the first 30 PASS scenes after ES-01-268.
 FLAG and NO_REFERENCE scenes are not in this pack and were not cropped.
