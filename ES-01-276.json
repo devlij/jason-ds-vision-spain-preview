@@ -31,6 +31,7 @@
   "description": "From the winding streets below, the whitewashed old town climbs the hill toward the church with its famous blue dome, the dome glowing deep blue under the night lights at the top of the frame. Cobbled lanes and white facades wind upward on either side, lamplit and quiet. The old town's maze of alleys funnels the eye up to the church — Altea's signature silhouette over the Costa Blanca.",
   "file_16x9": "es-01-276-r1-16x9.png",
   "file_4x5": "es-01-276-r1-4x5.png",
+  "file_9x16": "es-01-276-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "d9b5df2d9072cb9c603f97c5d6ea19d3f8daddb5d53a1701b9e904c23bd83aa5"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "ec154f36dd5981e814dd571e5fcca2f7e5aa529c1751a00f1d1ad2876b050b3f"
     }
   },
   "masters": {

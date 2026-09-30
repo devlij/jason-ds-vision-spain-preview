@@ -31,6 +31,7 @@
   "description": "From the valley road below, the bell tower stands alone on its rocky pinnacle at the center of the frame, floodlit against the black night while the dark valley spreads out beneath it. The tower's stonework glows warm where the light catches it, and the pinnacle's sheer flanks drop away into shadow. It's the unmistakable landmark of Guadalest — a small town's proud belfry holding the high ground over the valley.",
   "file_16x9": "es-01-273-r1-16x9.png",
   "file_4x5": "es-01-273-r1-4x5.png",
+  "file_9x16": "es-01-273-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "0a907fc90a5663bab98908a651148fedd3998a5941a8cfb329bc9d2c46584c1d"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "3c005c03a32d97ad50301118df9ad73b3dafed821ffac3131ee4fece5ea84df4"
     }
   },
   "masters": {

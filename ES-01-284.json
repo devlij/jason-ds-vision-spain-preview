@@ -31,6 +31,7 @@
   "description": "From the Roques de García area, the summit cone of Teide rises across the dark caldera floor — a great volcanic silhouette drawn against the starfield, with the lava formations of the Roques standing black in the foreground. The night sky over the national park is among the clearest in the world, and the stars crowd thick above the sleeping volcano. Spain's highest peak keeps its silent, starlit watch over Tenerife.",
   "file_16x9": "es-01-284-r1-16x9.png",
   "file_4x5": "es-01-284-r1-4x5.png",
+  "file_9x16": "es-01-284-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "c9468900b5da236c7d6ebc782975cf33979d017d8a8a88597d2702c091842a93"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "7ec86e53a24636c3958b94facefb473fa0eb414767d93eb35dbf60f6d2c50210"
     }
   },
   "masters": {

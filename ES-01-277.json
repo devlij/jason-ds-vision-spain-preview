@@ -31,6 +31,7 @@
   "description": "Seen from the harbor side, the castle dominates the frame from its high crag, floodlit walls and bastions glowing against the night while the illuminated harbor city spreads out below. Alicante's streetlights trace the grid of the city down to the dark water of the port, with boat masts faintly outlined along the quay. Above the bustle, Santa Bárbara holds the skyline — one of Spain's great coastal fortresses.",
   "file_16x9": "es-01-277-r1-16x9.png",
   "file_4x5": "es-01-277-r1-4x5.png",
+  "file_9x16": "es-01-277-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "39e05dc7438a5ff5078737facf3094bf5139ccd655433add0d50538073049bee"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "a19c16e2dbef698b6f3fd652e298f6f9f21ca2f0ea0545b0f83b5a53abcf8ab2"
     }
   },
   "masters": {

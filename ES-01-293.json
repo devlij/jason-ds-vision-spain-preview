@@ -31,6 +31,7 @@
   "description": "From inside the lava tube, the illuminated passage runs ahead between smooth volcanic walls — colored lights washing the basalt in amber and gold as the tunnel curves out of sight. The rock's strange folds and ripples catch the light, and the path descends into the earth's dark heart. Cueva de los Verdes is Lanzarote's great underground gallery, a seven-kilometer tube; the lit section feels like walking through the planet's veins.",
   "file_16x9": "es-01-293-r1-16x9.png",
   "file_4x5": "es-01-293-r1-4x5.png",
+  "file_9x16": "es-01-293-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "00275a1ee4b26da85637763eb013ab87455723f9b6aad4e402b3ca8fcaf24549"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "8f2fec10fe2ae74e03a690354bd39109dd33b1ffccf872f63fd2877441d747b2"
     }
   },
   "masters": {

@@ -31,6 +31,7 @@
   "description": "From the dune field, pale moonlit ridges roll toward Montaña Roja while the dark shape of Isla de Lobos sits on the horizon across the strait. The sand catches the moon in soft silver waves, and the night is wide and open over the dunes. Corralejo's great dune sea is Fuerteventura's signature landscape — by night it lies vast, pale, and utterly still.",
   "file_16x9": "es-01-290-r1-16x9.png",
   "file_4x5": "es-01-290-r1-4x5.png",
+  "file_9x16": "es-01-290-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "63d59c3e3bda14d26b8065cabef65ca09fc3a089ad54a1f67d50e613436161a4"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "4f12914af34351a82120a4ca4ad7f992329d0a22ba2f7143ed27d9e5bddafc6c"
     }
   },
   "masters": {

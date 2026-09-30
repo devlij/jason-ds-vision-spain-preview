@@ -31,6 +31,7 @@
   "description": "Stand before Valencia's Llotja de la Seda at night. The Gothic silk exchange facade rises at center frame, its carved stonework and gargoyles floodlit warm, with the old town's streets and the market hall spreading left and right. The merchants who traded silk here built one of Europe's great Gothic monuments.",
   "file_16x9": "es-01-269-r1-16x9.png",
   "file_4x5": "es-01-269-r1-4x5.png",
+  "file_9x16": "es-01-269-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "bc8079f0d70b93a12e5d3490caf7ac1c08759ea185a87e6edcb7759139d96c68"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "553240b6d83638cf4abd8c1bfaf8c598561a8d3abf078bddd2a22370bfc6bfcd"
     }
   },
   "masters": {

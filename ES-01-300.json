@@ -31,6 +31,7 @@
   "description": "From the Plaza de San Juan, the Basilica of San Juan Bautista rises over Telde — its stone facade and tower lit against the night while the plaza's palms stand dark in the foreground. The old town's houses cluster around the square, windows glowing warm. Telde was Gran Canaria's first capital, and its basilica still anchors the historic quarter with quiet, lamplit dignity.",
   "file_16x9": "es-01-300-r1-16x9.png",
   "file_4x5": "es-01-300-r1-4x5.png",
+  "file_9x16": "es-01-300-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "05af36a615eecf97853a5d2220fc0b3f7c9e886ce55ea36a01901f27c9c69902"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "91b5502b449526542040dbc44bc401794d92c2489db3a7b1a5269eb293ae29a5"
     }
   },
   "masters": {

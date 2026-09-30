@@ -31,6 +31,7 @@
   "description": "From the harbor, the Castillo de San Gabriel stands on its islet at the end of the Puente de las Bolas — the little fortress floodlit against the night, its cannonballs-on-pillars bridge arching across the dark water. The harbor lights of Arrecife glow behind it while the causeway's lamps trace a line to the castle. Lanzarote's old pirate-proof fortress keeps its watch over the capital's bay.",
   "file_16x9": "es-01-302-r1-16x9.png",
   "file_4x5": "es-01-302-r1-4x5.png",
+  "file_9x16": "es-01-302-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "5e32952e213d99b9762d45d6aca2d92cc0cb37cbe1062bea4a0221788806c77c"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "c44451ca6547fa2965fadd322165428143d97df1f7807ac378689afac2a50452"
     }
   },
   "masters": {
