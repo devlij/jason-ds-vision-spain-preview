@@ -31,6 +31,7 @@
   "description": "At night on Cap de Formentor, the lighthouse stands alone at the cape's end, its beam sweeping the black sea. From the headland you face the lit tower at the frame's center, dark cliffs falling away on either side into the night. Mallorca's wild cape keeps its light through the small hours.",
   "file_16x9": "es-01-159-r2-16x9.png",
   "file_4x5": "es-01-159-r2-4x5.png",
+  "file_9x16": "es-01-159-r2-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "88416fa37de39d36bb374fc14093f72477650e42a22c444039d304d6f7d5db38"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "349965b689ee5efe494f876d527c0e67400b4ea14e97c3e34a219311cc64c1c7"
     }
   },
   "masters": {

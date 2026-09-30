@@ -1770,6 +1770,10 @@
       <image:loc>https://spain.jdvision.org/es-01-158-r1-4x5.png</image:loc>
       <image:title>Jumilla, Jumilla — Jumilla, Jumilla</image:title>
     </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-158-r1-9x16.png</image:loc>
+      <image:title>Jumilla, Jumilla — Jumilla, Jumilla</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-159</loc>
@@ -1781,6 +1785,10 @@
       <image:loc>https://spain.jdvision.org/es-01-159-r2-4x5.png</image:loc>
       <image:title>Formentor, Pollença — Formentor, Pollença</image:title>
     </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-159-r2-9x16.png</image:loc>
+      <image:title>Formentor, Pollença — Formentor, Pollença</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-160</loc>
@@ -1790,6 +1798,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-160-r2-4x5.png</image:loc>
+      <image:title>Sóller, Sóller — Sóller, Sóller</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-160-r2-9x16.png</image:loc>
       <image:title>Sóller, Sóller — Sóller, Sóller</image:title>
     </image:image>
   </url>
@@ -1814,6 +1826,10 @@
       <image:loc>https://spain.jdvision.org/es-01-162-r1-4x5.png</image:loc>
       <image:title>Banyalbufar, Banyalbufar — Banyalbufar, Banyalbufar</image:title>
     </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-162-r1-9x16.png</image:loc>
+      <image:title>Banyalbufar, Banyalbufar — Banyalbufar, Banyalbufar</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-163</loc>
@@ -1823,6 +1839,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-163-r1-4x5.png</image:loc>
+      <image:title>Old town, Alcúdia — Old town, Alcúdia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-163-r1-9x16.png</image:loc>
       <image:title>Old town, Alcúdia — Old town, Alcúdia</image:title>
     </image:image>
   </url>
@@ -1836,6 +1856,10 @@
       <image:loc>https://spain.jdvision.org/es-01-164-r1-4x5.png</image:loc>
       <image:title>Old town, Santa Cruz de La Palma — Old town, Santa Cruz de La Palma</image:title>
     </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-164-r1-9x16.png</image:loc>
+      <image:title>Old town, Santa Cruz de La Palma — Old town, Santa Cruz de La Palma</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-165</loc>
@@ -1845,6 +1869,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-165-r1-4x5.png</image:loc>
+      <image:title>Old town, Teguise — Old town, Teguise</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-165-r1-9x16.png</image:loc>
       <image:title>Old town, Teguise — Old town, Teguise</image:title>
     </image:image>
   </url>
@@ -1858,6 +1886,10 @@
       <image:loc>https://spain.jdvision.org/es-01-166-r1-4x5.png</image:loc>
       <image:title>Old town, San Sebastián de La Gomera — Old town, San Sebastián de La Gomera</image:title>
     </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-166-r1-9x16.png</image:loc>
+      <image:title>Old town, San Sebastián de La Gomera — Old town, San Sebastián de La Gomera</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-167</loc>
@@ -1867,6 +1899,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-167-r1-4x5.png</image:loc>
+      <image:title>Corralejo Dunes, La Oliva — Corralejo Dunes, La Oliva</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-167-r1-9x16.png</image:loc>
       <image:title>Corralejo Dunes, La Oliva — Corralejo Dunes, La Oliva</image:title>
     </image:image>
   </url>
@@ -1880,6 +1916,10 @@
       <image:loc>https://spain.jdvision.org/es-01-168-r1-4x5.png</image:loc>
       <image:title>Old town, La Orotava — Old town, La Orotava</image:title>
     </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-168-r1-9x16.png</image:loc>
+      <image:title>Old town, La Orotava — Old town, La Orotava</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-169</loc>
@@ -1889,6 +1929,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-169-r1-4x5.png</image:loc>
+      <image:title>Anaga, Santa Cruz de Tenerife — Anaga, Santa Cruz de Tenerife</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-169-r1-9x16.png</image:loc>
       <image:title>Anaga, Santa Cruz de Tenerife — Anaga, Santa Cruz de Tenerife</image:title>
     </image:image>
   </url>
@@ -1902,6 +1946,10 @@
       <image:loc>https://spain.jdvision.org/es-01-170-r1-4x5.png</image:loc>
       <image:title>Sacromonte, Granada — Sacromonte, Granada</image:title>
     </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-170-r1-9x16.png</image:loc>
+      <image:title>Sacromonte, Granada — Sacromonte, Granada</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-171</loc>
@@ -1911,6 +1959,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-171-r1-4x5.png</image:loc>
+      <image:title>Mezquita, Córdoba — Mezquita, Córdoba</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-171-r1-9x16.png</image:loc>
       <image:title>Mezquita, Córdoba — Mezquita, Córdoba</image:title>
     </image:image>
   </url>
@@ -1924,6 +1976,10 @@
       <image:loc>https://spain.jdvision.org/es-01-172-r1-4x5.png</image:loc>
       <image:title>Torre del Oro, Seville — Torre del Oro, Seville</image:title>
     </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-172-r1-9x16.png</image:loc>
+      <image:title>Torre del Oro, Seville — Torre del Oro, Seville</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-173</loc>
@@ -1933,6 +1989,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-173-r1-4x5.png</image:loc>
+      <image:title>Grazalema, Grazalema — Grazalema, Grazalema</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-173-r1-9x16.png</image:loc>
       <image:title>Grazalema, Grazalema — Grazalema, Grazalema</image:title>
     </image:image>
   </url>
@@ -1946,6 +2006,10 @@
       <image:loc>https://spain.jdvision.org/es-01-174-r1-4x5.png</image:loc>
       <image:title>Albaicín, Granada — Albaicín, Granada</image:title>
     </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-174-r1-9x16.png</image:loc>
+      <image:title>Albaicín, Granada — Albaicín, Granada</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-175</loc>
@@ -1957,6 +2021,10 @@
       <image:loc>https://spain.jdvision.org/es-01-175-r1-4x5.png</image:loc>
       <image:title>Old town, Cádiz — Old town, Cádiz</image:title>
     </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-175-r1-9x16.png</image:loc>
+      <image:title>Old town, Cádiz — Old town, Cádiz</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-176</loc>
@@ -1966,6 +2034,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-176-r1-4x5.png</image:loc>
+      <image:title>Caminito del Rey, Álora — Caminito del Rey, Álora</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-176-r1-9x16.png</image:loc>
       <image:title>Caminito del Rey, Álora — Caminito del Rey, Álora</image:title>
     </image:image>
   </url>
@@ -1990,6 +2062,10 @@
       <image:loc>https://spain.jdvision.org/es-01-178-r1-4x5.png</image:loc>
       <image:title>Old town, Baeza — Old town, Baeza</image:title>
     </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-178-r1-9x16.png</image:loc>
+      <image:title>Old town, Baeza — Old town, Baeza</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-179</loc>
@@ -2001,6 +2077,10 @@
       <image:loc>https://spain.jdvision.org/es-01-179-r1-4x5.png</image:loc>
       <image:title>Dolmens, Antequera — Dolmens, Antequera</image:title>
     </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-179-r1-9x16.png</image:loc>
+      <image:title>Dolmens, Antequera — Dolmens, Antequera</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-180</loc>
@@ -2010,6 +2090,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-180-r1-4x5.png</image:loc>
+      <image:title>Cómpeta, Cómpeta — Cómpeta, Cómpeta</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-180-r1-9x16.png</image:loc>
       <image:title>Cómpeta, Cómpeta — Cómpeta, Cómpeta</image:title>
     </image:image>
   </url>
@@ -2034,6 +2118,10 @@
       <image:loc>https://spain.jdvision.org/es-01-182-r1-4x5.png</image:loc>
       <image:title>Segura de la Sierra, Segura de la Sierra — Segura de la Sierra, Segura de la Sierra</image:title>
     </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-182-r1-9x16.png</image:loc>
+      <image:title>Segura de la Sierra, Segura de la Sierra — Segura de la Sierra, Segura de la Sierra</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-183</loc>
@@ -2043,6 +2131,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-183-r1-4x5.png</image:loc>
+      <image:title>Old town, Níjar — Old town, Níjar</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-183-r1-9x16.png</image:loc>
       <image:title>Old town, Níjar — Old town, Níjar</image:title>
     </image:image>
   </url>
@@ -2056,6 +2148,10 @@
       <image:loc>https://spain.jdvision.org/es-01-184-r1-4x5.png</image:loc>
       <image:title>Arcos de la Frontera, Arcos de la Frontera — Arcos de la Frontera, Arcos de la Frontera</image:title>
     </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-184-r1-9x16.png</image:loc>
+      <image:title>Arcos de la Frontera, Arcos de la Frontera — Arcos de la Frontera, Arcos de la Frontera</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-185</loc>
@@ -2065,6 +2161,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-185-r1-4x5.png</image:loc>
+      <image:title>Olvera, Olvera — Olvera, Olvera</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-185-r1-9x16.png</image:loc>
       <image:title>Olvera, Olvera — Olvera, Olvera</image:title>
     </image:image>
   </url>
@@ -2100,6 +2200,10 @@
       <image:loc>https://spain.jdvision.org/es-01-188-r1-4x5.png</image:loc>
       <image:title>Cave Quarter, Guadix — Cave Quarter, Guadix</image:title>
     </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-188-r1-9x16.png</image:loc>
+      <image:title>Cave Quarter, Guadix — Cave Quarter, Guadix</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-189</loc>
@@ -2109,6 +2213,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-189-r1-4x5.png</image:loc>
+      <image:title>Medellín, Medellín — Medellín, Medellín</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-189-r1-9x16.png</image:loc>
       <image:title>Medellín, Medellín — Medellín, Medellín</image:title>
     </image:image>
   </url>
@@ -2122,6 +2230,10 @@
       <image:loc>https://spain.jdvision.org/es-01-190-r1-4x5.png</image:loc>
       <image:title>Old town, Cáceres — Old town, Cáceres</image:title>
     </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-190-r1-9x16.png</image:loc>
+      <image:title>Old town, Cáceres — Old town, Cáceres</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-191</loc>
@@ -2133,6 +2245,10 @@
       <image:loc>https://spain.jdvision.org/es-01-191-r1-4x5.png</image:loc>
       <image:title>Alcántara Bridge, Alcántara — Alcántara Bridge, Alcántara</image:title>
     </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-191-r1-9x16.png</image:loc>
+      <image:title>Alcántara Bridge, Alcántara — Alcántara Bridge, Alcántara</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-192</loc>
@@ -2142,6 +2258,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-192-r1-4x5.png</image:loc>
+      <image:title>Yuste Monastery, Cuacos de Yuste — Yuste Monastery, Cuacos de Yuste</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-192-r1-9x16.png</image:loc>
       <image:title>Yuste Monastery, Cuacos de Yuste — Yuste Monastery, Cuacos de Yuste</image:title>
     </image:image>
   </url>

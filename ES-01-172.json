@@ -31,6 +31,7 @@
   "description": "From the riverbank at night, the Torre del Oro rises floodlit over the dark Guadalquivir, its golden tower catching the light at the frame's center. The old river tower stands alone against the black sky with the Triana lights glimmering downstream. Seville's river sentinel keeps its watch through the small hours.",
   "file_16x9": "es-01-172-r1-16x9.png",
   "file_4x5": "es-01-172-r1-4x5.png",
+  "file_9x16": "es-01-172-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "246f3259a334bf56a10b73b49a9bd681a3d6f00f01e97cf1af0fbc0fb38f928e"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "ba0f741df1e2189982e723b5fe6fc7c29129f59955659d4d17cf8343800f00b3"
     }
   },
   "masters": {

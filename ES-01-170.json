@@ -31,6 +31,7 @@
   "description": "From Sacromonte the cave-quarter streets look across the ravine toward the Alhambra, its palaces floodlit gold on the hill opposite. Whitewashed cave houses glow softly at your feet while the fortress fills the center of the view. Night, flamenco silence, and the most famous view in Spain.",
   "file_16x9": "es-01-170-r1-16x9.png",
   "file_4x5": "es-01-170-r1-4x5.png",
+  "file_9x16": "es-01-170-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "a10042924158c4a8398bf6138b5e599ed7a49ada51bcb2aba4a0fa1ebc9cf657"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "4baaa6fda321674023106fc1b889f5a0b82a67d578557f67a215be5ee5eb7f94"
     }
   },
   "masters": {

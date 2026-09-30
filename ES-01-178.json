@@ -31,6 +31,7 @@
   "description": "At night in Baeza, the old town's Renaissance palaces and churches stand lit along the quiet streets. You face the historic center's stone façades across the frame, warm light pooling in the empty plazas. The twin Renaissance city sleeps in its honeyed stone.",
   "file_16x9": "es-01-178-r1-16x9.png",
   "file_4x5": "es-01-178-r1-4x5.png",
+  "file_9x16": "es-01-178-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "bc3680e7760fcb5f153dc44b480ffa36824a2a9943dabe57dccf8c67797dc25b"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "a7b67ab81220e149e232922e22784978b1d7f8b89352cb69df9de74fd362ec17"
     }
   },
   "masters": {
