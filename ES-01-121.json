@@ -31,6 +31,7 @@
   "description": "From the town below at night, the hilltop castle of Chinchilla de Montearagón glows above the rooftops. Floodlit walls and towers rise at the center of the frame over the dark slope, a commanding presence against the black sky. The old town sleeps at its foot while the castle keeps its ancient watch.",
   "file_16x9": "es-01-121-r1-16x9.png",
   "file_4x5": "es-01-121-r1-4x5.png",
+  "file_9x16": "es-01-121-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "9a174565c95bd686db2c17a8f9c66fd18d55b74a6e3eb41b0cccd56722c28a7a"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "49dd8eba56c4a863ad3c57adc46df6fc9dfc1c980744193d0822aa519beba99b"
     }
   },
   "masters": {

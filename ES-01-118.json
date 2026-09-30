@@ -31,6 +31,7 @@
   "description": "From the plain below, you look up at Belmonte Castle standing floodlit against the night sky. The great fortress walls and towers fill the center of the frame, its floodlit stone cutting a bold silhouette while the dark countryside stretches out around it. After midnight the castle has the plain entirely to itself.",
   "file_16x9": "es-01-118-r1-16x9.png",
   "file_4x5": "es-01-118-r1-4x5.png",
+  "file_9x16": "es-01-118-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "8c0baa3719040cb6d1568345e062e377d1de175243f4368610f31cf8cb2c6ed9"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "90717a50cc8a77662f10c0d74decfcb7777a55881092b9419348f109df4cd354"
     }
   },
   "masters": {

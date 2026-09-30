@@ -1,0 +1,54 @@
+BATCH ES 9:16 backfill pack 4
+Repo: devlij/jason-ds-vision-spain-preview
+Work order: wo-spain-916-backfill-2026-09-30
+Finish date: 2026-09-30
+Base tip before this pack: c0b248435befeb4aa0e3417c0a165ff0f22db22b
+
+Scope: 30 architectural-QC PASS scenes only.
+FLAG and NO_REFERENCE scenes are not in this pack and were not cropped.
+Pack 1 files, pack 2 files, and pack 3 files were not touched.
+
+Scenes:
+ES-01-116
+ES-01-117
+ES-01-118
+ES-01-119
+ES-01-121
+ES-01-122
+ES-01-123
+ES-01-124
+ES-01-125
+ES-01-126
+ES-01-129
+ES-01-130
+ES-01-131
+ES-01-132
+ES-01-133
+ES-01-134
+ES-01-135
+ES-01-136
+ES-01-137
+ES-01-139
+ES-01-140
+ES-01-141
+ES-01-142
+ES-01-145
+ES-01-149
+ES-01-150
+ES-01-152
+ES-01-153
+ES-01-154
+ES-01-157
+
+Path layout: Spain keeps masters at the repository root beside the scene JSON, not under library/world/Spain/<City>/. Each 9:16 file mirrors that scene's final 16:9 name with -9x16.png.
+
+Photograph: 608×1080 (9:16, even pixel width). Finished master: 608×1270. The window is the full height of the 16:9 photograph, centered inside the approved 4:5 crop when that 4:5 is the same photograph, so the subject is not dropped or decapitated. These 4:5 masters are independent fits of the same centered source, so the portrait window is the horizontal center of the 16:9 photograph.
+Label bar: 190px #0e0e12 under the photograph. Caption, scenario, disclosure, and the Jason D's Vision signature are the sibling 16:9 label artwork scaled onto that bar.
+
+Art. 50: Title, Description, Copyright, and Software chunks match the sibling 16:9 master. Comment date on the new 9:16 masters is 2026-09-30.
+
+Gallery probe gate: the 9:16 tab and Download 9:16 button are inserted only after an image probe of data-src-916 succeeds at render time. A missing master never gets a tab. These 30 cards already pointed at the portrait filename.
+
+No approval flip: approval_state was not changed on any scene. Nothing in this pack was self-approved or moved to Approved. No word-of-the-day text was added.
+
+Draft PR only. Not merged.

@@ -31,6 +31,7 @@
   "description": "From the town below at night, Cardona Castle crowns its hill in floodlit outline against the dark sky. The fortress walls and keep fill the center of the frame, raised above the dark salt-country rooftops. One of Catalonia's great castles, it keeps its proud profile through the night.",
   "file_16x9": "es-01-139-r2-16x9.png",
   "file_4x5": "es-01-139-r2-4x5.png",
+  "file_9x16": "es-01-139-r2-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "16b5ed3f91c5eb908d255bca817f4e7b2325a3e34399cbefe9e0f6a0ae6af06b"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "c5cff2dda178e44c45291fa0314aaaf091f981bf2f4d28f68322776bcb26b2bf"
     }
   },
   "masters": {

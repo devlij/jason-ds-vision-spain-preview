@@ -31,6 +31,7 @@
   "description": "At night the Lagunas de Ruidera lie dark and glassy, the lagoon chain stretching away under a star-flecked sky. Your viewpoint on the shore frames the water's still surface catching faint moonlight, with reeds and bank edges fading into darkness at either side. The night turns the famous waterfalls' chain into something quiet and mirror-like.",
   "file_16x9": "es-01-119-r1-16x9.png",
   "file_4x5": "es-01-119-r1-4x5.png",
+  "file_9x16": "es-01-119-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "c61e1344b22dce7d125f3b18ee00aa7487ce4436238071c8f8eba6eb75e0cafb"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "983b2b4c04a1f1175d9023058359ca1b5970c03d58dc50e4e02e60b6d314d46b"
     }
   },
   "masters": {

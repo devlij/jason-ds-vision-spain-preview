@@ -27,6 +27,7 @@
   "description": "From the old town streets at night, Teruel's Mudejar towers rise floodlit above the dark rooftops, their patterned brickwork glowing against the sky. The towers of San Martín and El Salvador stand lit in pairs over the sleeping town. Their glazed tiles catch the light, the Mudejar crown of Teruel radiant in the night.",
   "file_16x9": "es-01-125-r1-16x9.png",
   "file_4x5": "es-01-125-r1-4x5.png",
+  "file_9x16": "es-01-125-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -37,6 +38,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "61c5e01f2bf48c6808ab52b91581809c3d8b1603d656b903939b4e4cd1e518cb"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "a9cc7624323d6860a9825ac648e3d510fb9f08377cbb2c44529cec8659d05597"
     }
   },
   "masters": {

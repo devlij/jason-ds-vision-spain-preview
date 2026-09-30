@@ -31,6 +31,7 @@
   "description": "At night in Tortosa, you face the old town across the dark Ebro, its streets and church towers lit in patches along the waterfront. The river fills the foreground of the frame, carrying reflected lamplight, while the old town climbs the far bank under the dark silhouette of La Suda castle hill. The night keeps the city's long history close and quiet.",
   "file_16x9": "es-01-134-r2-16x9.png",
   "file_4x5": "es-01-134-r2-4x5.png",
+  "file_9x16": "es-01-134-r2-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "5db3f3e4e9c0ee945039c15533aa0bae1a42f4ff2799e7f3d897066d18270b88"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "e26153b17d1d2f4a673144105d9fe3afde4f961635039dfd5561a3f3055195a3"
     }
   },
   "masters": {
