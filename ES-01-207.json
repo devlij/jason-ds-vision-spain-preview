@@ -1,199 +1,135 @@
 {
   "entry_id": "ES-01-207",
   "country": "Spain",
-  "city": "Frigiliana",
   "region": "Andalusia",
+  "city": "Frigiliana",
   "caption": "Frigiliana, Málaga",
-  "revision": "r1",
-  "viewpoint": "El Barribarto, the Moorish quarter — Calle Hernando el Darra",
-  "anchors": [
-    "steep whitewashed alley with blue doors and geometric pebble paving",
-    "flower pots and ceramic mosaics on the white walls",
-    "glimpse of the lit Costa del Sol coast far below"
-  ],
-  "limitations": "Text-only generation; no photographic input. Specific street-lamp placement is artistic interpretation. Exact camera position unverified.",
-  "refs": [
-    [
-      "https://www.visitanddo.com/en/what-to-see-and-do-in-frigiliana/",
-      "Travel guide — El Barribarto, best-preserved Moorish village in the Axarquía, Hernando el Darra street"
-    ],
-    [
-      "http://www.explorenerja.com/towns/frigiliana.htm",
-      "Local guide — white village on the Sierra Almijara slopes, Mudéjar old town, views over the coast"
-    ]
-  ],
-  "status": "Approved · Cosmo QC 5/5 · Night",
-  "approval_state": "approved",
-  "scenario_label": "24 September 2026 · 01:17 Europe/Madrid",
+  "scenario_label": "1 October 2026 · 03:15 Europe/Madrid",
+  "composition": "Night · plain blue doors on a whitewashed alley · AI-generated artistic interpretation",
+  "alt_text": "AI-generated artistic interpretation of Calle Hernando el Darra in Frigiliana at night, with plain blue doors under straight lintels on whitewashed walls.",
+  "description": "Calle Hernando el Darra climbs between whitewashed houses. The doors are plain blue rectangles under ordinary lintels, with flower pots and pebble paving, and a glimpse of the coast below.",
+  "viewpoint": "El Barribarto, the Moorish quarter — Calle Hernando el Darra. Exact generated camera correspondence is unverified.",
+  "status": "Candidate · architectural rebuild · awaiting Cosmo re-audit · Night",
+  "approval_state": "candidate",
+  "gates": {
+    "visual": "pending — Cosmo re-audit; no pass claimed",
+    "technical": "pending — Cosmo re-audit; local dimension and Art.50 checks only",
+    "provenance": "pending — Cosmo re-audit; generation lineage recorded, uniqueness unverified",
+    "commercial_ip": "pending — Cosmo re-audit; not legal certification",
+    "publication": "candidate only — not approved for the gallery"
+  },
+  "weather": "Model data from Open-Meteo, retrieved 1 October 2026 03:29:09 Europe/Madrid, valid 03:15 Europe/Madrid — not a verified on-site observation. 21.1°C, WMO 2 partly cloudy, cloud 67%, precipitation 0.0 mm, wind 1.5 km/h. Sunrise 08:10, sunset 19:59. Approximate solar elevation -52.34°, azimuth 29.34°. Night; no direct sunlight.",
+  "limitations": "Candidate only. No Cosmo QC is claimed for these bytes. 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top 864×1080 of an 864×1152 generated source and drop 72 pixels of foreground. Dimensions do not imply native detail. Open-Meteo figures are model data, not an on-site observation. Exact camera correspondence is not surveyed.",
+  "file_16x9": "es-01-207-cand-r1-16x9.png",
+  "file_4x5": "es-01-207-cand-r1-4x5.png",
+  "license_badge": "Free · no credit needed",
+  "license_anchor": "#license",
+  "editions": [],
   "time_of_day": "Night",
-  "composition": "Night · Whitewashed Moorish lanes at night · AI-generated artistic interpretation",
-  "alt_text": "AI-generated artistic interpretation of Frigiliana at night.",
-  "description": "Wander Frigiliana's whitewashed Moorish lanes after dark. The narrow streets climb between white houses and blue-potted doorways, lamps spilling warm across the steps, with the hills falling away dark on one side and the village glowing above on the other. Every corner looks hand-painted.",
-  "file_16x9": "es-01-207-r1-16x9.png",
-  "file_4x5": "es-01-207-r1-4x5.png",
+  "revision_lineage": "Full rebuild for wo-spain-architectural-rework-2026-09-30 pack 10. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. Previous masters remain in the repository as superseded bytes.",
+  "review_history": [
+    {
+      "date": "2026-10-01",
+      "previous_status": "Approved · Cosmo QC 5/5 · Night",
+      "previous_approval_state": "approved",
+      "previous_files": {
+        "16x9": "es-01-207-r1-16x9.png",
+        "4x5": "es-01-207-r1-4x5.png",
+        "9x16": null
+      },
+      "resolution": "Architectural rebuild cand-r1 landed as Candidate. The prior approval covered the previous bytes only. It does not cover cand-r1. Daylight derivatives of those previous night masters are not part of cand-r1. No Cosmo re-audit is claimed."
+    }
+  ],
+  "approval_basis": "Not approved. cand-r1 is an architectural rebuild awaiting Cosmo re-audit. The earlier Cosmo approval applied only to the previous master bytes and is retained in review_history.",
   "dimensions": {
     "16x9": {
       "width": 1920,
       "height": 1270,
-      "sha256": "193aad883a4fab7e751399beab0bcc4744d5ef547eddd8e94b98d3e49ffe1f5e"
+      "sha256": "69f045d201b3a2411f2e79b4c49b3782de085d485793ef48f1e0117b7ebe139e",
+      "bytes": 2520315,
+      "source_width": 1280,
+      "source_height": 720,
+      "resampled": true
     },
     "4x5": {
       "width": 864,
       "height": 1270,
-      "sha256": "a5977254c476db63ece4d39c36cec15108c38746538e25d1d50e7b7ec90f030e"
-    }
-  },
-  "masters": {
-    "16x9": {
-      "file": "es-01-207-r1-16x9.png",
-      "dimensions": [
-        1920,
-        1270
-      ],
-      "byte_length": 2473988,
-      "sha256": "193aad883a4fab7e751399beab0bcc4744d5ef547eddd8e94b98d3e49ffe1f5e",
-      "source_file": "media-generation-es-01-207-source-0-8b353748-4be2-472a-8a41-ac5a109452ad.png",
-      "source_dimensions": [
-        1408,
-        1760
-      ],
-      "crop_center": [
-        0.5,
-        0.5
-      ],
-      "labels": [
-        "Frigiliana, Málaga",
-        "Scenario: 24 September 2026 · 01:17 Europe/Madrid",
-        "AI-generated artistic interpretation · Not a photograph."
-      ],
-      "signature": "Jason D’s Vision",
-      "format": "PNG",
-      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
-      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
+      "sha256": "312be9f2ca09574338b5078120be8435bc53a018fc2c6e09f1feeda341fb7b35",
+      "bytes": 1229961,
+      "source_width": 864,
+      "source_height": 1152,
+      "resampled": false
     },
-    "4x5": {
-      "file": "es-01-207-r1-4x5.png",
-      "dimensions": [
-        864,
-        1270
-      ],
-      "byte_length": 1472262,
-      "sha256": "a5977254c476db63ece4d39c36cec15108c38746538e25d1d50e7b7ec90f030e",
-      "source_file": "media-generation-es-01-207-source-0-8b353748-4be2-472a-8a41-ac5a109452ad.png",
-      "source_dimensions": [
-        1408,
-        1760
-      ],
-      "crop_center": [
-        0.5,
-        0.5
-      ],
-      "labels": [
-        "Frigiliana, Málaga",
-        "Scenario: 24 September 2026 · 01:17 Europe/Madrid",
-        "AI-generated artistic interpretation · Not a photograph."
-      ],
-      "signature": "Jason D’s Vision",
-      "format": "PNG",
-      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
-      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 864x1080. Not native target-resolution detail."
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "1083e09bf6c1d94b56f9c7363a8d11f17b34d58b9cf0c2687165ff3f5476b4f9",
+      "bytes": 2549725,
+      "source_width": 720,
+      "source_height": 1280,
+      "resampled": true
     }
   },
-  "conditions": {
-    "retrieved": "2026-09-24T01:13:14+02:00",
-    "valid": "2026-09-24T01:17:29+02:00",
-    "provider": "Open-Meteo",
-    "api": "https://api.open-meteo.com/v1/forecast",
-    "is_day": 0,
-    "temperature_2m": 21.9,
-    "weather_code": 0,
-    "cloud_cover": 0,
-    "wind_speed_10m": 2.3
-  },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T01:13:14+02:00, valid 2026-09-24T01:17:29+02:00 Europe/Madrid — not a verified on-site observation.",
-  "prompts": {
-    "prompt-r1.txt": "Photorealistic original artistic interpretation (not a photograph) of Frigiliana, Malaga, Spain, at night. Tourist viewpoint: El Barribarto, the Moorish quarter, on Calle Hernando el Darra. Frame: a steep whitewashed alley centered, with blue doors, flower pots and ceramic mosaics on the white walls; traditional geometric pebble paving underfoot; a glimpse of the lit Costa del Sol coastline far below at the end of the lane. Night light: warm street lamps washing the whitewashed walls, coast lights twinkling below, clear sky, 22 degrees C, light breeze. Main subject centered to survive a 4:5 center crop. No identifiable people, no legible logos, no text, lettering or signs anywhere. Keep the lower third clean and uncluttered."
-  },
-  "source_files": [
-    {
-      "file": "media-generation-es-01-207-source-0-8b353748-4be2-472a-8a41-ac5a109452ad.png",
-      "sha256": "efbb91f3d6d7a3163e16763c80730969cfa2d0743463a48469475da12284aab3",
-      "dimensions": [
-        1408,
-        1760
-      ],
-      "selected": true
-    }
-  ],
-  "provenance": {
-    "tool": "Built-in image generation; specific model version not exposed",
-    "image_inputs": [],
-    "source_use": "Text-only original generation. Third-party photographs inspected for facts, not supplied as input pixels. No uniqueness guarantee.",
-    "lineage": "Same selected source cropped and uniformly Lanczos-resampled to two exact PNGs; factual text and upward-fading scrim added deterministically. No stretching.",
-    "resampling": "Source [1408, 1760]; uniform Lanczos enlargement/crop to exact 1920x1080 and 864x1080. Not native target-resolution detail."
-  },
-  "production_checks": {
-    "technical": "Both PNGs fully decode, dimensions exact; label boxes in frame. Technical checks are not independent Cosmo QC.",
-    "visual": "Production comparison and limitations documented; not an independent gate verdict.",
-    "originality": "Own generated pixels; uniqueness not established.",
-    "commercial_ip": "No prominent people/logos or artwork focal subject; third-party clearance not legally certified.",
-    "publication": "Candidate handoff only. No approval inferred."
-  },
-  "independent_qc": {
-    "reviewer": "Cosmo",
-    "verdict": "Awaiting review",
-    "exact_pair_required": true
-  },
-  "card_handoff": {
-    "owner": "Cosmo",
-    "placement": "Candidate pipeline, two-format card (16:9/4:5 tabs, both downloads)",
-    "preserve": "caption, scenario, composition, description, status, disclosure, license, search/navigation and country switcher"
-  },
-  "license_badge": "Free · no credit needed",
-  "license_anchor": "#license",
-  "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
-  "reference_evidence": [],
-  "approval_basis": "Cosmo five-gate audit, independent re-audit after boilerplate reversion. Gate 1: Frigiliana recognizably depicted — narrow whitewashed Moorish-quarter alley with blue doors, decorative azulejo plaques, terracotta pots of geraniums and bougainvillea, lit wall lanterns, and the coastline's lights glittering through the gap between the buildings; plausible viewpoint within the old town; clean framing, no artifacts. Gate 2: 1920x1080 + 864x1080 masters, SHA-256 match packet; caption 'Frigiliana, Málaga', scenario '24 September 2026 · 01:17 Europe/Madrid', AI disclosure and 'Jason D's Vision' signature verified on-image, legible; Open-Meteo retrieved 01:13:14 valid 01:17:29 — fresh. Gate 3: packet documents text-only generation, no photographic inputs. Gate 4: no identifiable people or logos noted; specific street-lamp placement disclosed as artistic interpretation. Gate 5: no blockers.",
-  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals).",
-  "daylight_variant": {
-    "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
-    "source_night": {
-      "16x9": {
-        "path": "es-01-207-r1-16x9.png",
-        "sha256": "193aad883a4fab7e751399beab0bcc4744d5ef547eddd8e94b98d3e49ffe1f5e"
+  "revision": "cand-r1",
+  "file_9x16": "es-01-207-cand-r1-9x16.png",
+  "evidence_card": "evidence/ES-01-207.json",
+  "land_as": "Candidate",
+  "conditions_record": {
+    "retrieved_local": "2026-10-01T03:29:09.967303+02:00",
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=36.7914&longitude=-3.8962&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
+    "requested_coordinates": [
+      36.7914,
+      -3.8962
+    ],
+    "response": {
+      "latitude": 36.75,
+      "longitude": -3.875,
+      "generationtime_ms": 2.1861791610717773,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 321.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
       },
-      "4x5": {
-        "path": "es-01-207-r1-4x5.png",
-        "sha256": "a5977254c476db63ece4d39c36cec15108c38746538e25d1d50e7b7ec90f030e"
+      "current": {
+        "time": "2026-10-01T03:15",
+        "interval": 900,
+        "temperature_2m": 21.1,
+        "weather_code": 2,
+        "cloud_cover": 67,
+        "is_day": 0,
+        "precipitation": 0.0,
+        "wind_speed_10m": 1.5
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T08:10"
+        ],
+        "sunset": [
+          "2026-10-01T19:59"
+        ]
       }
     },
-    "masters": {
-      "16x9": {
-        "path": "es-01-207-daylight-16x9.png",
-        "width": 1920,
-        "height": 1270,
-        "sha256": "ab88cbe7c1d3df64d23f6ec6cde18ea7b490dc7c227282581eca9a4547919ea0"
-      },
-      "4x5": {
-        "path": "es-01-207-daylight-4x5.png",
-        "width": 864,
-        "height": 1270,
-        "sha256": "c38f977d49a8a81779adcbad75c6035f8031be5949010c509f6c0766bb1f8cd2"
-      }
-    },
-    "on_image_text": [
-      "Frigiliana, Málaga",
-      "☀ Daylight variant · derived from the night interpretation",
-      "AI-generated artistic interpretation · Not a photograph.",
-      "Jason D’s Vision"
-    ],
-    "art50_png_chunks": [
-      "Title",
-      "Description",
-      "Copyright",
-      "Software",
-      "Comment"
-    ],
-    "country": "Spain"
+    "solar": {
+      "method": "NOAA fractional-year geometric approximation, not observation",
+      "elevation_deg": -52.34,
+      "azimuth_deg": 29.34
+    }
   }
 }

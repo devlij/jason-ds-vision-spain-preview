@@ -1,199 +1,135 @@
 {
   "entry_id": "ES-01-205",
   "country": "Spain",
-  "city": "Antequera",
   "region": "Andalusia",
+  "city": "Antequera",
   "caption": "El Torcal, Antequera",
-  "revision": "r1",
-  "viewpoint": "the Green Route (Ruta Verde) among the karst sculptures, Torcal Alto",
-  "anchors": [
-    "towering limestone karst sculptures — stacked, mushroom-like rock towers",
-    "El Tornillo (the Screw), the park's emblematic screw-shaped pinnacle",
-    "moonlit plateau with the lights of the Antequera plain far below"
-  ],
-  "limitations": "Text-only generation; no photographic input. The park is not open at night; this is a restrained moonlit interpretation claiming no measured luminance and no floodlighting. Exact camera position unverified.",
-  "refs": [
-    [
-      "https://www.juntadeandalucia.es/medioambiente/portal/en/web/ventanadelvisitante/detalle-buscador-mapa/-/asset_publisher/Jlbxh2qB3NwR/content/torcal-de-antequera",
-      "Andalusian government — El Torcal natural area, Green/Yellow routes, El Tornillo emblem"
-    ],
-    [
-      "https://en.wikipedia.org/wiki/El_Torcal_de_Antequera",
-      "Encyclopedia — karst nature reserve in the Sierra del Torcal, one of Europe's most impressive karst landscapes"
-    ]
-  ],
-  "status": "Approved · Cosmo QC 5/5 · Night",
-  "approval_state": "approved",
-  "scenario_label": "24 September 2026 · 01:17 Europe/Madrid",
+  "scenario_label": "1 October 2026 · 03:15 Europe/Madrid",
+  "composition": "Night · short stacked limestone beds of El Tornillo · AI-generated artistic interpretation",
+  "alt_text": "AI-generated artistic interpretation of El Torcal at night, El Tornillo as a short stack of horizontal limestone beds on the Green Route.",
+  "description": "On the Green Route at Torcal Alto, El Tornillo is a short stack of horizontal limestone beds whose overlapping edges read as coarse threads. Other layered karst towers stand around the path, with the Antequera plain's lights far below.",
+  "viewpoint": "The Green Route (Ruta Verde) among the karst sculptures, Torcal Alto. Exact generated camera correspondence is unverified.",
+  "status": "Candidate · architectural rebuild · awaiting Cosmo re-audit · Night",
+  "approval_state": "candidate",
+  "gates": {
+    "visual": "pending — Cosmo re-audit; no pass claimed",
+    "technical": "pending — Cosmo re-audit; local dimension and Art.50 checks only",
+    "provenance": "pending — Cosmo re-audit; generation lineage recorded, uniqueness unverified",
+    "commercial_ip": "pending — Cosmo re-audit; not legal certification",
+    "publication": "candidate only — not approved for the gallery"
+  },
+  "weather": "Model data from Open-Meteo, retrieved 1 October 2026 03:29:08 Europe/Madrid, valid 03:15 Europe/Madrid — not a verified on-site observation. 15.8°C, WMO 2 partly cloudy, cloud 33%, precipitation 0.0 mm, wind 5.9 km/h. Sunrise 08:13, sunset 20:01. Approximate solar elevation -52.44°, azimuth 28.26°. Night; no direct sunlight.",
+  "limitations": "Candidate only. No Cosmo QC is claimed for these bytes. 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top 864×1080 of an 864×1152 generated source and drop 72 pixels of foreground. Dimensions do not imply native detail. Open-Meteo figures are model data, not an on-site observation. Exact camera correspondence is not surveyed.",
+  "file_16x9": "es-01-205-cand-r1-16x9.png",
+  "file_4x5": "es-01-205-cand-r1-4x5.png",
+  "license_badge": "Free · no credit needed",
+  "license_anchor": "#license",
+  "editions": [],
   "time_of_day": "Night",
-  "composition": "Night · Moonlit karst sculptures on the plateau · AI-generated artistic interpretation",
-  "alt_text": "AI-generated artistic interpretation of El Torcal at night.",
-  "description": "On the El Torcal plateau at night, the karst sculptures rise around you in the moonlight. Layered limestone pillars and balanced slabs fill the frame — strange stacked shapes that the light turns silver at the edges and ink-black in the hollows. The whole plateau feels like a stone forest built by giants.",
-  "file_16x9": "es-01-205-r1-16x9.png",
-  "file_4x5": "es-01-205-r1-4x5.png",
+  "revision_lineage": "Full rebuild for wo-spain-architectural-rework-2026-09-30 pack 10. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. Previous masters remain in the repository as superseded bytes.",
+  "review_history": [
+    {
+      "date": "2026-10-01",
+      "previous_status": "Approved · Cosmo QC 5/5 · Night",
+      "previous_approval_state": "approved",
+      "previous_files": {
+        "16x9": "es-01-205-r1-16x9.png",
+        "4x5": "es-01-205-r1-4x5.png",
+        "9x16": null
+      },
+      "resolution": "Architectural rebuild cand-r1 landed as Candidate. The prior approval covered the previous bytes only. It does not cover cand-r1. Daylight derivatives of those previous night masters are not part of cand-r1. No Cosmo re-audit is claimed."
+    }
+  ],
+  "approval_basis": "Not approved. cand-r1 is an architectural rebuild awaiting Cosmo re-audit. The earlier Cosmo approval applied only to the previous master bytes and is retained in review_history.",
   "dimensions": {
     "16x9": {
       "width": 1920,
       "height": 1270,
-      "sha256": "795f33daf59dff9392061d08bd2bf88433cd688ff40c305809c349cff550d501"
+      "sha256": "55341f4577ea0ecb3af5c409903f0780fc4249dbeb65826e9f9d260e8ea36e34",
+      "bytes": 2684718,
+      "source_width": 1280,
+      "source_height": 720,
+      "resampled": true
     },
     "4x5": {
       "width": 864,
       "height": 1270,
-      "sha256": "dc7aaae9d506061dc3a9e5bf84f9bc26a65c9a9cae3c9012d60b0d5d30b2c69f"
-    }
-  },
-  "masters": {
-    "16x9": {
-      "file": "es-01-205-r1-16x9.png",
-      "dimensions": [
-        1920,
-        1270
-      ],
-      "byte_length": 3059249,
-      "sha256": "795f33daf59dff9392061d08bd2bf88433cd688ff40c305809c349cff550d501",
-      "source_file": "media-generation-es-01-205-source-0-e02b5b81-3962-47ad-91f5-76b8b22542f8.png",
-      "source_dimensions": [
-        1408,
-        1760
-      ],
-      "crop_center": [
-        0.5,
-        0.5
-      ],
-      "labels": [
-        "El Torcal, Antequera",
-        "Scenario: 24 September 2026 · 01:17 Europe/Madrid",
-        "AI-generated artistic interpretation · Not a photograph."
-      ],
-      "signature": "Jason D’s Vision",
-      "format": "PNG",
-      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
-      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
+      "sha256": "24b82cfb86b8a476455d365328ff7472bad159fa7c33064adc3b62900d705216",
+      "bytes": 1376650,
+      "source_width": 864,
+      "source_height": 1152,
+      "resampled": false
     },
-    "4x5": {
-      "file": "es-01-205-r1-4x5.png",
-      "dimensions": [
-        864,
-        1270
-      ],
-      "byte_length": 1554297,
-      "sha256": "dc7aaae9d506061dc3a9e5bf84f9bc26a65c9a9cae3c9012d60b0d5d30b2c69f",
-      "source_file": "media-generation-es-01-205-source-0-e02b5b81-3962-47ad-91f5-76b8b22542f8.png",
-      "source_dimensions": [
-        1408,
-        1760
-      ],
-      "crop_center": [
-        0.5,
-        0.5
-      ],
-      "labels": [
-        "El Torcal, Antequera",
-        "Scenario: 24 September 2026 · 01:17 Europe/Madrid",
-        "AI-generated artistic interpretation · Not a photograph."
-      ],
-      "signature": "Jason D’s Vision",
-      "format": "PNG",
-      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
-      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 864x1080. Not native target-resolution detail."
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "c912fd10c76a649dc86076606aa02b2daa9816e384c2214940678639bb4773d3",
+      "bytes": 2754562,
+      "source_width": 720,
+      "source_height": 1280,
+      "resampled": true
     }
   },
-  "conditions": {
-    "retrieved": "2026-09-24T01:13:14+02:00",
-    "valid": "2026-09-24T01:17:29+02:00",
-    "provider": "Open-Meteo",
-    "api": "https://api.open-meteo.com/v1/forecast",
-    "is_day": 0,
-    "temperature_2m": 24.1,
-    "weather_code": 0,
-    "cloud_cover": 0,
-    "wind_speed_10m": 13.2
-  },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T01:13:14+02:00, valid 2026-09-24T01:17:29+02:00 Europe/Madrid — not a verified on-site observation.",
-  "prompts": {
-    "prompt-r1.txt": "Photorealistic original artistic interpretation (not a photograph) of El Torcal de Antequera, Spain, at night. Tourist viewpoint: the Green Route trail among the karst sculptures in Torcal Alto. Frame: towering Jurassic limestone karst sculptures centered — stacked, mushroom-like rock towers; the emblematic El Tornillo (the Screw) pinnacle rising above the trail; the moonlit plateau falling away with the scattered lights of the Antequera plain far below. Night light: pure moonlight on pale limestone, no artificial light, restrained long-exposure feel, stars overhead, clear sky, 24 degrees C, light breeze. Main subject centered to survive a 4:5 center crop. No identifiable people, no legible logos, no text, lettering or signs anywhere. Keep the lower third clean and uncluttered."
-  },
-  "source_files": [
-    {
-      "file": "media-generation-es-01-205-source-0-e02b5b81-3962-47ad-91f5-76b8b22542f8.png",
-      "sha256": "2aca93c6f9ea587a87c92df0d01e7231d414a22df47c79c02cb6c27f2b3130c2",
-      "dimensions": [
-        1408,
-        1760
-      ],
-      "selected": true
-    }
-  ],
-  "provenance": {
-    "tool": "Built-in image generation; specific model version not exposed",
-    "image_inputs": [],
-    "source_use": "Text-only original generation. Third-party photographs inspected for facts, not supplied as input pixels. No uniqueness guarantee.",
-    "lineage": "Same selected source cropped and uniformly Lanczos-resampled to two exact PNGs; factual text and upward-fading scrim added deterministically. No stretching.",
-    "resampling": "Source [1408, 1760]; uniform Lanczos enlargement/crop to exact 1920x1080 and 864x1080. Not native target-resolution detail."
-  },
-  "production_checks": {
-    "technical": "Both PNGs fully decode, dimensions exact; label boxes in frame. Technical checks are not independent Cosmo QC.",
-    "visual": "Production comparison and limitations documented; not an independent gate verdict.",
-    "originality": "Own generated pixels; uniqueness not established.",
-    "commercial_ip": "No prominent people/logos or artwork focal subject; third-party clearance not legally certified.",
-    "publication": "Candidate handoff only. No approval inferred."
-  },
-  "independent_qc": {
-    "reviewer": "Cosmo",
-    "verdict": "Awaiting review",
-    "exact_pair_required": true
-  },
-  "card_handoff": {
-    "owner": "Cosmo",
-    "placement": "Candidate pipeline, two-format card (16:9/4:5 tabs, both downloads)",
-    "preserve": "caption, scenario, composition, description, status, disclosure, license, search/navigation and country switcher"
-  },
-  "license_badge": "Free · no credit needed",
-  "license_anchor": "#license",
-  "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
-  "reference_evidence": [],
-  "approval_basis": "Cosmo five-gate audit, independent re-audit after boilerplate reversion. Gate 1: El Torcal recognizably depicted — the site's signature twisted karst pillars including the screw-shaped 'Tornillo' stack centered against a night sky, moonlit layered limestone towers, city lights of the Antequera plain spread below; plausible hillside viewpoint; clean framing, no artifacts. Gate 2: 1920x1080 + 864x1080 masters, SHA-256 match packet; caption 'El Torcal, Antequera', scenario '24 September 2026 · 01:17 Europe/Madrid', AI disclosure and 'Jason D's Vision' signature verified on-image, legible on scrim; Open-Meteo retrieved 01:13:14 valid 01:17:29 — fresh. Gate 3: packet documents text-only generation, no photographic inputs. Gate 4: no people, logos or private property visible. Packet is unusually honest: the park is closed at night, so the scene is a restrained moonlit interpretation claiming no measured luminance and no floodlighting — scenario honesty preserved. Gate 5: no blockers.",
-  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals).",
-  "daylight_variant": {
-    "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
-    "source_night": {
-      "16x9": {
-        "path": "es-01-205-r1-16x9.png",
-        "sha256": "795f33daf59dff9392061d08bd2bf88433cd688ff40c305809c349cff550d501"
+  "revision": "cand-r1",
+  "file_9x16": "es-01-205-cand-r1-9x16.png",
+  "evidence_card": "evidence/ES-01-205.json",
+  "land_as": "Candidate",
+  "conditions_record": {
+    "retrieved_local": "2026-10-01T03:29:08.055999+02:00",
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=36.952222&longitude=-4.544444&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
+    "requested_coordinates": [
+      36.952222,
+      -4.544444
+    ],
+    "response": {
+      "latitude": 36.9375,
+      "longitude": -4.5625,
+      "generationtime_ms": 36.50772571563721,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 1210.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
       },
-      "4x5": {
-        "path": "es-01-205-r1-4x5.png",
-        "sha256": "dc7aaae9d506061dc3a9e5bf84f9bc26a65c9a9cae3c9012d60b0d5d30b2c69f"
+      "current": {
+        "time": "2026-10-01T03:15",
+        "interval": 900,
+        "temperature_2m": 15.8,
+        "weather_code": 2,
+        "cloud_cover": 33,
+        "is_day": 0,
+        "precipitation": 0.0,
+        "wind_speed_10m": 5.9
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T08:13"
+        ],
+        "sunset": [
+          "2026-10-01T20:01"
+        ]
       }
     },
-    "masters": {
-      "16x9": {
-        "path": "es-01-205-daylight-16x9.png",
-        "width": 1920,
-        "height": 1270,
-        "sha256": "c456b29779ef33da95658e9ce148ad679ad33c458440c844e200b7fe894e2c0d"
-      },
-      "4x5": {
-        "path": "es-01-205-daylight-4x5.png",
-        "width": 864,
-        "height": 1270,
-        "sha256": "996656e0a70d3ebc7c757222069216cd91a799c17aa494e298cbd86c8bd5cd50"
-      }
-    },
-    "on_image_text": [
-      "El Torcal, Antequera",
-      "☀ Daylight variant · derived from the night interpretation",
-      "AI-generated artistic interpretation · Not a photograph.",
-      "Jason D’s Vision"
-    ],
-    "art50_png_chunks": [
-      "Title",
-      "Description",
-      "Copyright",
-      "Software",
-      "Comment"
-    ],
-    "country": "Spain"
+    "solar": {
+      "method": "NOAA fractional-year geometric approximation, not observation",
+      "elevation_deg": -52.44,
+      "azimuth_deg": 28.26
+    }
   }
 }
