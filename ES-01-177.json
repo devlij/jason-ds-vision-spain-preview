@@ -1,135 +1,199 @@
 {
   "entry_id": "ES-01-177",
   "country": "Spain",
-  "region": "Andalusia",
   "city": "Úbeda",
+  "region": "Andalusia",
   "caption": "Old town, Úbeda",
-  "scenario_label": "1 October 2026 · 02:45 Europe/Madrid",
-  "composition": "Night · the Salvador façade on Vázquez de Molina · AI-generated artistic interpretation",
-  "alt_text": "AI-generated artistic interpretation of the Sacra Capilla del Salvador in Úbeda at night, with studded wooden doors, the Transfiguration relief, and the Cobos five-lion arms held by atlantes.",
-  "description": "On Plaza Vázquez de Molina the Sacra Capilla del Salvador shows studded wooden doors, the Transfiguration relief, and the Cobos arms of five lions carried by atlantes. Crossed keys are not the door furniture and not the main crest.",
-  "viewpoint": "The Vázquez de Molina square, looking across its palaces. Exact generated camera correspondence is unverified.",
-  "status": "Candidate · architectural rebuild · awaiting Cosmo re-audit · Night",
-  "approval_state": "candidate",
-  "gates": {
-    "visual": "pending — Cosmo re-audit; no pass claimed",
-    "technical": "pending — Cosmo re-audit; local dimension and Art.50 checks only",
-    "provenance": "pending — Cosmo re-audit; generation lineage recorded, uniqueness unverified",
-    "commercial_ip": "pending — Cosmo re-audit; not legal certification",
-    "publication": "candidate only — not approved for the gallery"
-  },
-  "weather": "Model data from Open-Meteo, retrieved 1 October 2026 02:57:25 Europe/Madrid, valid 02:45 Europe/Madrid — not a verified on-site observation. 20.6°C, WMO 2 partly cloudy, cloud 74%, precipitation 0.0 mm, wind 1.5 km/h. Sunrise 08:09, sunset 19:56. Approximate solar elevation -53.43°, azimuth 162.27°. Night; no direct sunlight.",
-  "limitations": "Candidate only. No Cosmo QC is claimed for these bytes. 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top 864×1080 of an 864×1152 generated source and drop 72 pixels of foreground. Dimensions do not imply native detail. Open-Meteo figures are model data, not an on-site observation. Exact camera correspondence is not surveyed.",
-  "file_16x9": "es-01-177-cand-r1-16x9.png",
-  "file_4x5": "es-01-177-cand-r1-4x5.png",
-  "license_badge": "Free · no credit needed",
-  "license_anchor": "#license",
-  "editions": [],
-  "time_of_day": "Night",
-  "revision_lineage": "Full rebuild for wo-spain-architectural-rework-2026-09-30 pack 8. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. Previous masters remain in the repository as superseded bytes.",
-  "review_history": [
-    {
-      "date": "2026-10-01",
-      "previous_status": "Approved · Cosmo QC 5/5 · Night",
-      "previous_approval_state": "approved",
-      "previous_files": {
-        "16x9": "es-01-177-r1-16x9.png",
-        "4x5": "es-01-177-r1-4x5.png",
-        "9x16": null
-      },
-      "resolution": "Architectural rebuild cand-r1 landed as Candidate. The prior approval covered the previous bytes only. It does not cover cand-r1. No Cosmo re-audit is claimed."
-    }
+  "revision": "r1",
+  "viewpoint": "the Vázquez de Molina square, looking across its palaces",
+  "anchors": [
+    "Úbeda's great Renaissance palaces on the Vázquez de Molina square",
+    "the palace of Francisco de los Cobos",
+    "the olive country of the Guadalquivir valley beyond"
   ],
-  "approval_basis": "Not approved. cand-r1 is an architectural rebuild awaiting Cosmo re-audit. The earlier Cosmo approval applied only to the previous master bytes and is retained in review_history.",
+  "limitations": "Text-only generation; no photographic input. Exact camera position unverified.",
+  "refs": [
+    [
+      "https://en.wikipedia.org/wiki/%C3%9Abeda",
+      "Wikipedia — Úbeda, UNESCO World Heritage Renaissance town"
+    ],
+    [
+      "https://www.andalucia.org",
+      "Official Andalusia tourism portal — verify the Úbeda listing before use"
+    ]
+  ],
+  "status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_state": "approved",
+  "scenario_label": "24 September 2026 · 04:05 Europe/Madrid",
+  "time_of_day": "Night",
+  "composition": "Night · the Renaissance square · AI-generated artistic interpretation",
+  "alt_text": "AI-generated artistic interpretation of Old town at night.",
+  "description": "Standing on Úbeda's Renaissance square at night, you face the great palaces and chapels glowing under warm floodlights. The frame centers on the plaza's golden façades, their carved stonework picked out of the dark with theatrical light. The Andalusian Renaissance at its most noble, with the square entirely yours.",
+  "file_16x9": "es-01-177-r1-16x9.png",
+  "file_4x5": "es-01-177-r1-4x5.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
       "height": 1270,
-      "sha256": "020afa7d6bcc01b983bcbb71790d4bab4f239e04f7f37b96ddf985a6c2b224d1",
-      "bytes": 2585655,
-      "source_width": 1280,
-      "source_height": 720,
-      "resampled": true
+      "sha256": "744066bc6bc81d182a44b4e2913d87d7b695dad81aeda866979a692b2dfb76e6"
     },
     "4x5": {
       "width": 864,
       "height": 1270,
-      "sha256": "3f877855ae0901a8107baf5613e4b880527945bd21ceb073103074bdfd3505a0",
-      "bytes": 1570731,
-      "source_width": 864,
-      "source_height": 1152,
-      "resampled": false
-    },
-    "9x16": {
-      "width": 1080,
-      "height": 2110,
-      "sha256": "31e6e4d8b00aec86e4fef4fd6b770711f7a62c144c60ae6e6857b44558a3559c",
-      "bytes": 2797499,
-      "source_width": 720,
-      "source_height": 1280,
-      "resampled": true
+      "sha256": "c0a8685b1365b0ab71e5c98ac2e99da774306f5731977001fec4133ba7e65989"
     }
   },
-  "revision": "cand-r1",
-  "file_9x16": "es-01-177-cand-r1-9x16.png",
-  "evidence_card": "evidence/ES-01-177.json",
-  "land_as": "Candidate",
-  "conditions_record": {
-    "retrieved_local": "2026-10-01T02:57:25.149397+02:00",
-    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=38.0081&longitude=-3.3682&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
-    "requested_coordinates": [
-      38.0081,
-      -3.3682
-    ],
-    "response": {
-      "latitude": 38.0,
-      "longitude": -3.375,
-      "generationtime_ms": 0.5606412887573242,
-      "utc_offset_seconds": 7200,
-      "timezone": "Europe/Madrid",
-      "timezone_abbreviation": "GMT+2",
-      "elevation": 733.0,
-      "current_units": {
-        "time": "iso8601",
-        "interval": "seconds",
-        "temperature_2m": "°C",
-        "weather_code": "wmo code",
-        "cloud_cover": "%",
-        "is_day": "",
-        "precipitation": "mm",
-        "wind_speed_10m": "km/h"
+  "masters": {
+    "16x9": {
+      "file": "es-01-177-r1-16x9.png",
+      "dimensions": [
+        1920,
+        1270
+      ],
+      "byte_length": 2879748,
+      "sha256": "744066bc6bc81d182a44b4e2913d87d7b695dad81aeda866979a692b2dfb76e6",
+      "source_file": "media-generation-media-generation-es-01-177-sou-0-8562fadd-21ec-4f18-8b6b-9fb8565f6750.png",
+      "source_dimensions": [
+        1408,
+        1760
+      ],
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "labels": [
+        "Old town, Úbeda",
+        "Scenario: 24 September 2026 · 04:05 Europe/Madrid",
+        "AI-generated artistic interpretation · Not a photograph."
+      ],
+      "signature": "Jason D’s Vision",
+      "format": "PNG",
+      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
+      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
+    },
+    "4x5": {
+      "file": "es-01-177-r1-4x5.png",
+      "dimensions": [
+        864,
+        1270
+      ],
+      "byte_length": 1416239,
+      "sha256": "c0a8685b1365b0ab71e5c98ac2e99da774306f5731977001fec4133ba7e65989",
+      "source_file": "media-generation-media-generation-es-01-177-sou-0-8562fadd-21ec-4f18-8b6b-9fb8565f6750.png",
+      "source_dimensions": [
+        1408,
+        1760
+      ],
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "labels": [
+        "Old town, Úbeda",
+        "Scenario: 24 September 2026 · 04:05 Europe/Madrid",
+        "AI-generated artistic interpretation · Not a photograph."
+      ],
+      "signature": "Jason D’s Vision",
+      "format": "PNG",
+      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
+      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 864x1080. Not native target-resolution detail."
+    }
+  },
+  "conditions": {
+    "retrieved": "2026-09-24T04:05:14+02:00",
+    "valid": "2026-09-24T04:05:14+02:00",
+    "provider": "Open-Meteo",
+    "api": "https://api.open-meteo.com/v1/forecast",
+    "is_day": 0,
+    "temperature_2m": 20.3,
+    "weather_code": 1,
+    "cloud_cover": 23,
+    "precipitation": 0.0,
+    "wind_speed_10m": 5.9
+  },
+  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T04:05:14+02:00, valid 2026-09-24T04:05:14+02:00 Europe/Madrid — not a verified on-site observation.",
+  "prompts": {
+    "prompt-r1.txt": "Photorealistic original artistic interpretation (not a photograph) of the old town of Úbeda, Andalusia, Spain. Tourist viewpoint: the Vázquez de Molina square, looking across its palaces. Frame: Úbeda's great Renaissance palaces on the Vázquez de Molina square; the palace of Francisco de los Cobos; the old town around the square. Light and weather: clear night, light winds. Main subject centered to survive a 4:5 center crop. No identifiable people, no legible logos, no text, lettering or signs anywhere in the image. Keep the lower third clean and uncluttered."
+  },
+  "source_files": [
+    {
+      "file": "media-generation-media-generation-es-01-177-sou-0-8562fadd-21ec-4f18-8b6b-9fb8565f6750.png",
+      "sha256": "f5e1dd3891143af2aad5dde00c506e4e0cb4bf6452e92694b7132870cb120c5c",
+      "dimensions": [
+        1408,
+        1760
+      ],
+      "selected": true
+    }
+  ],
+  "provenance": {
+    "tool": "Built-in image generation; specific model version not exposed",
+    "image_inputs": [],
+    "source_use": "Text-only original generation. Third-party photographs inspected for facts, not supplied as input pixels. No uniqueness guarantee.",
+    "lineage": "Same selected source cropped and uniformly Lanczos-resampled to two exact PNGs; factual text and upward-fading scrim added deterministically. No stretching.",
+    "resampling": "Source [1408, 1760]; uniform Lanczos enlargement/crop to exact 1920x1080 and 864x1080. Not native target-resolution detail."
+  },
+  "production_checks": {
+    "technical": "Both PNGs fully decode, dimensions exact; label boxes in frame. Technical checks are not independent Cosmo QC.",
+    "visual": "Production comparison and limitations documented; not an independent gate verdict.",
+    "originality": "Own generated pixels; uniqueness not established.",
+    "commercial_ip": "No prominent people/logos or artwork focal subject; third-party clearance not legally certified.",
+    "publication": "Candidate handoff only. No approval inferred."
+  },
+  "independent_qc": {
+    "reviewer": "Cosmo",
+    "verdict": "Awaiting review",
+    "exact_pair_required": true
+  },
+  "card_handoff": {
+    "owner": "Cosmo",
+    "placement": "Candidate pipeline, two-format card (16:9/4:5 tabs, both downloads)",
+    "preserve": "caption, scenario, composition, description, status, disclosure, license, search/navigation and country switcher"
+  },
+  "license_badge": "Free · no credit needed",
+  "license_anchor": "#license",
+  "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
+  "reference_evidence": [],
+  "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor H: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/H/ES-01-177.md. r2 rebuild (lost batch recovered).",
+  "daylight_variant": {
+    "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
+    "source_night": {
+      "16x9": {
+        "path": "es-01-177-r1-16x9.png",
+        "sha256": "744066bc6bc81d182a44b4e2913d87d7b695dad81aeda866979a692b2dfb76e6"
       },
-      "current": {
-        "time": "2026-10-01T02:45",
-        "interval": 900,
-        "temperature_2m": 20.6,
-        "weather_code": 2,
-        "cloud_cover": 74,
-        "is_day": 0,
-        "precipitation": 0.0,
-        "wind_speed_10m": 1.5
-      },
-      "daily_units": {
-        "time": "iso8601",
-        "sunrise": "iso8601",
-        "sunset": "iso8601"
-      },
-      "daily": {
-        "time": [
-          "2026-10-01"
-        ],
-        "sunrise": [
-          "2026-10-01T08:09"
-        ],
-        "sunset": [
-          "2026-10-01T19:56"
-        ]
+      "4x5": {
+        "path": "es-01-177-r1-4x5.png",
+        "sha256": "c0a8685b1365b0ab71e5c98ac2e99da774306f5731977001fec4133ba7e65989"
       }
     },
-    "solar": {
-      "method": "NOAA fractional-year geometric approximation, not observation",
-      "elevation_deg": -53.43,
-      "azimuth_deg": 162.27
-    }
+    "masters": {
+      "16x9": {
+        "path": "es-01-177-daylight-16x9.png",
+        "width": 1920,
+        "height": 1270,
+        "sha256": "9d4249a858044228f286aa5cc7a24fdaa589efad77b8d62cdb16cf6e6dc29e1c"
+      },
+      "4x5": {
+        "path": "es-01-177-daylight-4x5.png",
+        "width": 864,
+        "height": 1270,
+        "sha256": "5be5c15b1c4aed43157b96a8e87ebd658198d35d0e96dbfac690a12d2ba1fbc4"
+      }
+    },
+    "on_image_text": [
+      "Old town, Úbeda",
+      "☀ Daylight variant · derived from the night interpretation",
+      "AI-generated artistic interpretation · Not a photograph.",
+      "Jason D’s Vision"
+    ],
+    "art50_png_chunks": [
+      "Title",
+      "Description",
+      "Copyright",
+      "Software",
+      "Comment"
+    ],
+    "country": "Spain"
   }
 }
