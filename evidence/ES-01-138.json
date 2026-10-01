@@ -1,0 +1,118 @@
+{
+  "scene_id": "ES-01-138",
+  "land_as": "Candidate",
+  "revision": "cand-r1",
+  "work_order": "wo-spain-architectural-rework-2026-09-30",
+  "pack": 6,
+  "defect_corrected": "The neoclassical church façade, pediment, rose window, and cut-stone paving are gone. The square is a sand and earth market floor enclosed by arcaded houses on all sides.",
+  "viewpoint": "The Plaça Major, looking across its arcaded length. Exact generated camera correspondence is unverified.",
+  "reference_links": [
+    {
+      "url": "https://ca.wikipedia.org/wiki/Pla%C3%A7a_Major_(Vic)",
+      "note": "Catalan Wikipedia — square plan, arcades on all four sides, and a large unpaved center. The cathedral is not on this square."
+    },
+    {
+      "url": "https://www.victurisme.cat/en/guia-practica/com-et-mous/preguntes-frequents",
+      "note": "Vic Turisme — the center of Plaça Major has never been paved; the sand surface is kept on purpose."
+    }
+  ],
+  "geometry_anchors": [
+    "continuous arcades on all four sides, the far end residential",
+    "bare sand and earth market floor",
+    "no cathedral façade terminating the square"
+  ],
+  "art50_comment_date": "2026-10-01",
+  "art50_note": "Comment date is this scene's finish date, 2026-10-01, not a fleet-wide restamp.",
+  "open_meteo": {
+    "retrieved_local": "2026-10-01T02:21:26.226720+02:00",
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=41.9304079&longitude=2.2538173&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
+    "requested_coordinates": [
+      41.9304079,
+      2.2538173
+    ],
+    "response": {
+      "latitude": 41.9375,
+      "longitude": 2.25,
+      "generationtime_ms": 0.08380413055419922,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 506.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T02:15",
+        "interval": 900,
+        "temperature_2m": 17.4,
+        "weather_code": 45,
+        "cloud_cover": 99,
+        "is_day": 0,
+        "precipitation": 0.0,
+        "wind_speed_10m": 1.6
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T07:47"
+        ],
+        "sunset": [
+          "2026-10-01T19:32"
+        ]
+      }
+    },
+    "solar": {
+      "method": "NOAA fractional-year geometric approximation, not observation",
+      "elevation_deg": -49.73,
+      "azimuth_deg": 15.87
+    }
+  },
+  "masters": {
+    "16x9": {
+      "file": "es-01-138-cand-r1-16x9.png",
+      "width": 1920,
+      "height": 1270,
+      "sha256": "a9399d3181153d9ecb260010a930107a1cf143786d591af2b0e74add278749c8",
+      "bytes": 2273632,
+      "source": "/opt/cursor/artifacts/assets/src-138-16x9.jpg",
+      "source_width": 1280,
+      "source_height": 720
+    },
+    "4x5": {
+      "file": "es-01-138-cand-r1-4x5.png",
+      "width": 864,
+      "height": 1270,
+      "sha256": "514ddfea30d7703902ead8f6686c2ffe713dd934926b3074e29755b232a2e31d",
+      "bytes": 1331096,
+      "source": "/opt/cursor/artifacts/assets/src-138-34.jpg",
+      "source_width": 864,
+      "source_height": 1152
+    },
+    "9x16": {
+      "file": "es-01-138-cand-r1-9x16.png",
+      "width": 1080,
+      "height": 2110,
+      "sha256": "417f57cabac9044ffbc10f0d1c888c0b2c19faefdda11bde9e3573a50bc4fca1",
+      "bytes": 1736169,
+      "source": "/opt/cursor/artifacts/assets/src-138-916.jpg",
+      "source_width": 720,
+      "source_height": 1280
+    }
+  },
+  "producer_check": "Dimensions, label bar, and Art.50 comment date checked locally. This is not Cosmo QC and not an approval.",
+  "independent_verdict": null
+}
