@@ -1,168 +1,135 @@
 {
   "entry_id": "ES-01-323",
   "country": "Spain",
-  "city": "Fuente Dé",
   "region": "Cantabria",
+  "city": "Fuente Dé",
   "caption": "Fuente Dé, Cantabria",
-  "revision": "r1",
-  "viewpoint": "From the valley near 43.1450,-4.8140, looking at the cable car station and the Picos wall. Approximate point only.",
-  "anchors": [
-    "Cable car station in the dark valley",
-    "Massive rock wall of the Picos de Europa rising behind",
-    "Ordinary station lamps and moonlight only — no floodlighting claimed; clear starry sky (0% model cloud)"
-  ],
-  "limitations": "Illumination is station lamps and moonlight only; floodlighting is neither depicted nor claimed. Exact viewpoint unverified. Current on-site conditions not verified.",
-  "refs": [
-    [
-      "https://en.wikipedia.org/wiki/Cable_car_of_Fuente_D%C3%A9",
-      "Encyclopedic description of the Cable Car of Fuente Dé (English Wikipedia), 24 September 2026; reference article link — direct page fetch was unavailable in this build turn, so the page text was not re-verified; URL follows the same verified en/es Wikipedia pattern used for all prior scenes."
-    ],
-    [
-      "https://es.wikipedia.org/wiki/Telef%C3%A9rico_de_Fuente_D%C3%A9",
-      "Spanish Wikipedia entry for the Cable Car of Fuente Dé; reference article link — direct page fetch was unavailable in this build turn; URL follows the same verified pattern as prior scenes."
-    ]
-  ],
-  "status": "Approved · Cosmo QC 5/5 · Night",
-  "approval_state": "approved",
-  "scenario_label": "24 September 2026 · 01:49 Europe/Madrid",
+  "scenario_label": "1 October 2026 · 05:00 Europe/Madrid",
+  "composition": "Night · béton brut lower station under the Picos wall · AI-generated artistic interpretation",
+  "alt_text": "AI-generated artistic interpretation of Fuente Dé at night, the concrete lower station with wood-clad prows beneath the limestone wall.",
+  "description": "From the valley, the lower station is exposed concrete: parallel board-formed walls, a thin slab roof, and two wood-clad prow volumes. Cables rise toward the Picos wall. It is not a stone mountain lodge.",
+  "viewpoint": "From the valley near 43.1450,-4.8140, looking at the cable car station and the Picos wall. Approximate point only. Exact generated camera correspondence is unverified.",
+  "status": "Candidate · architectural rebuild · awaiting Cosmo re-audit · Night",
+  "approval_state": "candidate",
+  "gates": {
+    "visual": "pending — Cosmo re-audit; no pass claimed",
+    "technical": "pending — Cosmo re-audit; local dimension and Art.50 checks only",
+    "provenance": "pending — Cosmo re-audit; generation lineage recorded, uniqueness unverified",
+    "commercial_ip": "pending — Cosmo re-audit; not legal certification",
+    "publication": "candidate only — not approved for the gallery"
+  },
+  "weather": "Model data from Open-Meteo, retrieved 1 October 2026 05:04:26 Europe/Madrid, valid 05:00 Europe/Madrid — not a verified on-site observation. 10.1°C, WMO 3 overcast, cloud 100%, precipitation 0.0 mm, wind 4.6 km/h. Sunrise 08:16, sunset 20:00. Approximate solar elevation -34.7°, azimuth 55.58°. Night; no direct sunlight.",
+  "limitations": "Candidate only. No Cosmo QC is claimed for these bytes. 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top 864×1080 of an 864×1152 generated source and drop 72 pixels of foreground. Dimensions do not imply native detail. Open-Meteo figures are model data, not an on-site observation. Exact camera correspondence is not surveyed.",
+  "file_16x9": "es-01-323-cand-r1-16x9.png",
+  "file_4x5": "es-01-323-cand-r1-4x5.png",
+  "license_badge": "Free · no credit needed",
+  "license_anchor": "#license",
+  "editions": [],
   "time_of_day": "Night",
-  "composition": "Night · From Fuente Dé, the cable car station under the Picos wall near 43.1450,-4.8140. Approximate point only. · AI-generated artistic interpretation",
-  "alt_text": "AI-generated artistic interpretation of Fuente Dé, Cantabria at night.",
-  "description": "At the Fuente Dé cable car station after dark, the great limestone wall of the Picos de Europa looms overhead as a vast black massif. The station's lamps glow at the mountain's foot, dwarfed by the sheer cliffs. Stars fill the sky above the peaks, and the valley around the station lies utterly dark and silent.",
-  "file_16x9": "es-01-323-r1-16x9.png",
-  "file_4x5": "es-01-323-r1-4x5.png",
+  "revision_lineage": "Full rebuild for wo-spain-architectural-rework-2026-09-30 pack 13. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. Previous masters remain in the repository as superseded bytes.",
+  "review_history": [
+    {
+      "date": "2026-10-01",
+      "previous_status": "Approved · Cosmo QC 5/5 · Night",
+      "previous_approval_state": "approved",
+      "previous_files": {
+        "16x9": "es-01-323-r1-16x9.png",
+        "4x5": "es-01-323-r1-4x5.png",
+        "9x16": null
+      },
+      "resolution": "Architectural rebuild cand-r1 landed as Candidate. The prior approval covered the previous bytes only. It does not cover cand-r1. Daylight derivatives of those previous night masters are not part of cand-r1. No Cosmo re-audit is claimed."
+    }
+  ],
+  "approval_basis": "Not approved. cand-r1 is an architectural rebuild awaiting Cosmo re-audit. The earlier Cosmo approval applied only to the previous master bytes and is retained in review_history.",
   "dimensions": {
     "16x9": {
       "width": 1920,
       "height": 1270,
-      "sha256": "276973db61d5e1fdb9790ccff154156cefd8572617b15e7a4c56bb00142360e2"
+      "sha256": "a7b32307d44d33228679f9040996f8da408887248b6c4dc72d2907a6d4d89981",
+      "bytes": 2006133,
+      "source_width": 1280,
+      "source_height": 720,
+      "resampled": true
     },
     "4x5": {
       "width": 864,
       "height": 1270,
-      "sha256": "d72b9817782f4126b42b009010a083ece99196c197ee538cd4d8865ad4f321d2"
-    }
-  },
-  "masters": {
-    "16x9": {
-      "file": "es-01-323-r1-16x9.png",
-      "dimensions": [
-        1920,
-        1270
-      ],
-      "byte_length": 2228883,
-      "sha256": "276973db61d5e1fdb9790ccff154156cefd8572617b15e7a4c56bb00142360e2",
-      "source_file": "media-generation-src-es-01-323-0-68041293-41dc-4577-8bf9-16896faf9cc3.png",
-      "source_dimensions": [
-        1920,
-        1280
-      ],
-      "crop_center": [
-        0.5,
-        0.5
-      ],
-      "labels": [
-        "Fuente Dé, Cantabria",
-        "Scenario: 24 September 2026 · 01:49 Europe/Madrid",
-        "AI-generated artistic interpretation · Not a photograph."
-      ],
-      "signature": "Jason D’s Vision",
-      "format": "PNG",
-      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
-      "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
+      "sha256": "c58c33f48786c3a82533507381cc12352764c6db1f75c3cd40a1604bcf489d48",
+      "bytes": 698867,
+      "source_width": 864,
+      "source_height": 1152,
+      "resampled": false
     },
-    "4x5": {
-      "file": "es-01-323-r1-4x5.png",
-      "dimensions": [
-        864,
-        1270
-      ],
-      "byte_length": 1245609,
-      "sha256": "d72b9817782f4126b42b009010a083ece99196c197ee538cd4d8865ad4f321d2",
-      "source_file": "media-generation-src-es-01-323-0-68041293-41dc-4577-8bf9-16896faf9cc3.png",
-      "source_dimensions": [
-        1920,
-        1280
-      ],
-      "crop_center": [
-        0.5,
-        0.5
-      ],
-      "labels": [
-        "Fuente Dé, Cantabria",
-        "Scenario: 24 September 2026 · 01:49 Europe/Madrid",
-        "AI-generated artistic interpretation · Not a photograph."
-      ],
-      "signature": "Jason D’s Vision",
-      "format": "PNG",
-      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
-      "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 864x1080. Not native target-resolution detail."
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "4753d6b06a00a3a6db09f34b6063a3dadce256739d28ae2ac51405a2b319499d",
+      "bytes": 1523014,
+      "source_width": 720,
+      "source_height": 1280,
+      "resampled": true
     }
   },
-  "conditions": {
-    "provider": "Open-Meteo",
-    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=43.1450&longitude=-4.8140&hourly=temperature_2m,weather_code,cloud_cover,precipitation,wind_speed_10m,is_day&daily=sunrise,sunset&timezone=Europe%2FMadrid&past_days=3&forecast_days=1",
-    "retrieved": "2026-09-26T01:42:56+02:00",
-    "valid": "2026-09-24T01:00+02:00 Europe/Madrid",
-    "timezone": "Europe/Madrid",
-    "model_valid_hour": "2026-09-24T01:00+02:00",
-    "scenario_minute": "01:49",
-    "temperature_2m": 17.1,
-    "weather_code": 0,
-    "cloud_cover": 0,
-    "precipitation": 0.0,
-    "wind_speed_10m": 2.6,
-    "is_day": 0,
-    "sunrise": "08:08",
-    "sunset": "20:13"
-  },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-26T01:42:56+02:00, valid 2026-09-24T01:00+02:00 Europe/Madrid — not a verified on-site observation. 17.1°C, weather code 0 (clear), cloud 0%, precipitation 0 mm, wind 2.6 km/h. Sunrise 08:08, sunset 20:13. Scenario minute 01:49 falls inside the 01:00 model-valid hour.",
-  "prompts": {
-    "prompt-r1.txt": "Photorealistic artistic night interpretation of Fuente De in Cantabria: the cable car station in the dark valley with the massive rock wall of the Picos de Europa rising behind, lit only by ordinary station lamps and moonlight, no floodlighting; a cable car cabin silhouette on the line; clear starry sky above; no prominent people, no text, no logos; station and rock wall centered so they survive a center crop; clean uncluttered lower area."
-  },
-  "source_files": [
-    {
-      "file": "media-generation-src-es-01-323-0-68041293-41dc-4577-8bf9-16896faf9cc3.png",
-      "sha256": "0d13aa18372b472b8c47417f8e23378a8bb09c4930467963ad4e50ba5bf15200",
-      "dimensions": [
-        1920,
-        1280
-      ],
-      "selected": true
+  "revision": "cand-r1",
+  "file_9x16": "es-01-323-cand-r1-9x16.png",
+  "evidence_card": "evidence/ES-01-323.json",
+  "land_as": "Candidate",
+  "conditions_record": {
+    "retrieved_local": "2026-10-01T05:04:26.623626+02:00",
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=43.145&longitude=-4.814&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
+    "requested_coordinates": [
+      43.145,
+      -4.814
+    ],
+    "response": {
+      "latitude": 43.14,
+      "longitude": -4.81,
+      "generationtime_ms": 0.9895563125610352,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 1103.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T05:00",
+        "interval": 900,
+        "temperature_2m": 10.1,
+        "weather_code": 3,
+        "cloud_cover": 100,
+        "is_day": 0,
+        "precipitation": 0.0,
+        "wind_speed_10m": 4.6
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T08:16"
+        ],
+        "sunset": [
+          "2026-10-01T20:00"
+        ]
+      }
+    },
+    "solar": {
+      "method": "NOAA fractional-year geometric approximation, not observation",
+      "elevation_deg": -34.7,
+      "azimuth_deg": 55.58
     }
-  ],
-  "provenance": {
-    "tool": "Built-in image generation; specific model version not exposed",
-    "image_inputs": [],
-    "source_use": "Text-only original generation. Third-party photographs inspected for facts, not supplied as input pixels. No uniqueness guarantee.",
-    "lineage": "Same selected source cropped and uniformly Lanczos-resampled to two exact PNGs; factual text and upward-fading scrim added deterministically. No stretching.",
-    "resampling": "Source [1920, 1280]; uniform Lanczos enlargement/crop to exact 1920x1080 and 864x1080. Not native target-resolution detail."
-  },
-  "production_checks": {
-    "technical": "Both PNGs fully decode, dimensions exact; label boxes in frame. Technical checks are not independent Cosmo QC.",
-    "visual": "Production comparison and limitations documented; not an independent gate verdict.",
-    "originality": "Own generated pixels; uniqueness not established.",
-    "commercial_ip": "No prominent people/logos or artwork focal subject; third-party clearance not legally certified.",
-    "publication": "Candidate handoff only. No approval inferred."
-  },
-  "independent_qc": {
-    "reviewer": "Cosmo",
-    "verdict": "Awaiting review",
-    "exact_pair_required": true
-  },
-  "card_handoff": {
-    "owner": "Cosmo",
-    "placement": "Candidate pipeline, two-format card (16:9/4:5 tabs, both downloads)",
-    "preserve": "caption, scenario, composition, description, status, disclosure, license, search/navigation and country switcher"
-  },
-  "license_badge": "Free · no credit needed",
-  "license_anchor": "#license",
-  "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
-  "reference_evidence": [],
-  "qc_notes": [
-    "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals).\n[2026-09-25T18:29:23.122003+00:00 — Cosmo QC] Approval withdrawn 2026-09-25 (Cosmo QC): the weather metadata was a shared/batch Open-Meteo retrieval (retrieved 2026-09-24T01:45+02:00 shared across the ES-01-320–350 block), failing Gate 2 under the standing policy — one Open-Meteo HTTP fetch per scene, one recorded retrieval timestamp per scene; identical-to-the-second timestamps across scenes = shared retrieval. The prior approval_basis claiming fresh/non-reused weather was false. Rework: re-land the review packet with a per-scene fresh Open-Meteo retrieval (own HTTP request, own recorded timestamp), scenario hour inside its model-valid hour. Scene stays Candidate until Cosmo QC re-audits.\n[2026-09-25T23:19:57.347422+00:00 — Cosmo QC] Gate 2 FAIL 2026-09-25 (Cosmo QC, five-gate audit): the review packet records weather 'Model data from Open-Meteo, retrieved 2026-09-24T01:45+02:00, valid 2026-09-24T01:45+02:00' — a retrieval timestamp identical to the second with ES-01-320/321/322/324 (the same 01:45 batch that triggered the 2026-09-25 shared-retrieval revert). Under the standing weather law one Open-Meteo retrieval per scene is required; identical-to-the-second retrieval timestamps across scenes = shared/batch retrieval = Gate 2 fail, even if per-location values differ. The builder has not reworked this scene since the revert. Gates 1 and 3-5 not completed this run; approval is blocked until the packet is re-landed with a per-scene fresh Open-Meteo retrieval (own HTTP request, own recorded timestamp, scenario hour inside its model-valid hour).\n[2026-09-26T01:42:56+02:00 — builder weather rework] Per-scene Open-Meteo HTTP retrieval (own GET, HTTP 200). Retrieved 2026-09-26T01:42:56+02:00 Europe/Madrid. Model-valid hour 2026-09-24T01:00+02:00 contains scenario minute 01:49 on 2026-09-24. Model data only; not a verified on-site observation. approval_state left Candidate. Images not regenerated.\n[2026-09-25 ~21:25 EDT — Cosmo QC] Gate-2 shared-retrieval hold resolved — PASS recorded on re-audit. Re-fetched this packet via the authoritative GitHub API: per-scene Open-Meteo archive retrieval 2026-09-26T01:42:56+02:00, unique to the second repo-wide (43/43 checked), model-valid hour 2026-09-24T01:00+02:00 contains scenario minute 01:49 on 2026-09-24. Five-gate audit completed this run: visual/location PASS (moonlit cable-car station at the cliff base with cabin on the lines, crescent moon over the limestone cliff face, clean framing, no artifacts); technical PASS (exact 1920×1080 + 864×1080, sha verified, signature/caption/scenario/disclosure on-image legible); provenance PASS (text-only, image_inputs []); commercial notes-only (no visible people/logos). All gates closed."
-  ],
-  "reverted_approval_basis": "G1: Fuente Dé's lit cable-car station in the dark valley with a gondola hanging on its lines, the massive moonlit rock wall of the Picos de Europa rising behind under a crescent-moon starry sky — recognizable station viewpoint, clean framing, no artifacts. G2: 1920×1080 and 864×1080 exact, SHA-256 matches packet; on-image 'Fuente Dé, Cantabria', 'Scenario: 24 September 2026 · 01:49 Europe/Madrid', 'AI-generated artistic interpretation · Not a photograph.' bottom-left, 'Jason D's Vision' (curly apostrophe) bottom-right; Open-Meteo weather retrieved 2026-09-24T01:45+02:00, 4 minutes before the scenario — fresh, not stale. G3: packet documents text-only generation, image_inputs empty. G4: no prominent people or logos; commercial clearance documented only, per Jason. G5: all gates closed.",
-  "reverted_at": "2026-09-25T18:29:23.122003+00:00",
-  "approval_basis": "Gate 1 PASS: moonlit cable-car station with warm lit windows at the cliff base, cabin on the cables, crescent moon and star field over the pale limestone cliff face — plausibly Fuente Dé from a valley tourist viewpoint, clean framing, no artifacts. Gate 2 PASS: exact 1920×1080 + 864×1080, sha verified vs packet, 'Jason D’s Vision' signature bottom-right, exact caption, scenario '24 September 2026 · 01:49 Europe/Madrid' and AI disclosure bottom-left on a legible scrim; Open-Meteo weather retrieval recorded 2026-09-26T01:42:56+02:00 (archive fetch), model-valid hour 2026-09-24T01:00 contains scenario minute 01:49, timestamp unique to the second across all 43 reworked candidates. Gate 3 PASS: text-only generation, image_inputs empty, no photographic inputs reported. Gate 4 notes-only: no visible people, logos, or private property. Gate 5 PASS: all gates closed."
+  }
 }

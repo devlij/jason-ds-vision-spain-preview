@@ -1,135 +1,200 @@
 {
   "entry_id": "ES-01-256",
   "country": "Spain",
-  "region": "Catalonia",
   "city": "Queralbs",
+  "region": "Catalonia",
   "caption": "Vall de Núria, Queralbs",
-  "scenario_label": "1 October 2026 · 04:00 Europe/Madrid",
-  "composition": "Night · thick square tower, three-bell frame, and stone cross · AI-generated artistic interpretation",
-  "alt_text": "AI-generated artistic interpretation of the Santuari de Núria at night, a thick square tower with three bells in a metal frame, a clock, and a stone cross.",
-  "description": "From the esplanade at night, the Santuari de Núria shows a thick square granite tower. A clock sits in an arched niche, three bells hang in an open metal frame, and a stone cross rises above them. There is no needle spire.",
-  "viewpoint": "Sanctuary esplanade, eye-level, facing the sanctuary and lake. Exact camera point approximate. Exact generated camera correspondence is unverified.",
-  "status": "Candidate · architectural rebuild · awaiting Cosmo re-audit · Night",
-  "approval_state": "candidate",
-  "gates": {
-    "visual": "pending — Cosmo re-audit; no pass claimed",
-    "technical": "pending — Cosmo re-audit; local dimension and Art.50 checks only",
-    "provenance": "pending — Cosmo re-audit; generation lineage recorded, uniqueness unverified",
-    "commercial_ip": "pending — Cosmo re-audit; not legal certification",
-    "publication": "candidate only — not approved for the gallery"
-  },
-  "weather": "Model data from Open-Meteo, retrieved 1 October 2026 04:04:45 Europe/Madrid, valid 04:00 Europe/Madrid — not a verified on-site observation. 8.4°C, WMO 3 overcast, cloud 100%, precipitation 0.0 mm, wind 2.5 km/h. Sunrise 07:48, sunset 19:32. Approximate solar elevation -39.64°, azimuth 47.66°. Night; no direct sunlight.",
-  "limitations": "Candidate only. No Cosmo QC is claimed for these bytes. 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top 864×1080 of an 864×1152 generated source and drop 72 pixels of foreground. Dimensions do not imply native detail. Open-Meteo figures are model data, not an on-site observation. Exact camera correspondence is not surveyed.",
-  "file_16x9": "es-01-256-cand-r1-16x9.png",
-  "file_4x5": "es-01-256-cand-r1-4x5.png",
-  "license_badge": "Free · no credit needed",
-  "license_anchor": "#license",
-  "editions": [],
-  "time_of_day": "Night",
-  "revision_lineage": "Full rebuild for wo-spain-architectural-rework-2026-09-30 pack 12. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. Previous masters remain in the repository as superseded bytes.",
-  "review_history": [
-    {
-      "date": "2026-10-01",
-      "previous_status": "Approved · Cosmo QC 5/5 · Night",
-      "previous_approval_state": "approved",
-      "previous_files": {
-        "16x9": "es-01-256-r1-16x9.png",
-        "4x5": "es-01-256-r1-4x5.png",
-        "9x16": null
-      },
-      "resolution": "Architectural rebuild cand-r1 landed as Candidate. The prior approval covered the previous bytes only. It does not cover cand-r1. Daylight derivatives of those previous night masters are not part of cand-r1. No Cosmo re-audit is claimed."
-    }
+  "revision": "r1",
+  "viewpoint": "Sanctuary esplanade, eye-level, facing the sanctuary and lake. Exact camera point approximate.",
+  "anchors": [
+    "Sanctuary of the Virgin of Núria with slender bell tower centered at the valley floor",
+    "Dark mountain slopes rise on both sides",
+    "Calm lake of Núria reflects the night in the foreground"
   ],
-  "approval_basis": "Not approved. cand-r1 is an architectural rebuild awaiting Cosmo re-audit. The earlier Cosmo approval applied only to the previous master bytes and is retained in review_history.",
+  "limitations": "Exact camera point approximate; lighting is window and lamp light only — no claim about specific illumination; current conditions unverified. Weather retrieval recorded to minute precision from local build evidence.",
+  "refs": [
+    [
+      "https://en.wikipedia.org/wiki/Vall_de_N%C3%BAria",
+      "Vall de Núria (sanctuary, rack railway, Pyrenean valley)"
+    ],
+    [
+      "https://www.thewanders.eu/vall-de-nuria/",
+      "Vall de Núria visitor guide (sanctuary, lake, mountain setting)"
+    ]
+  ],
+  "status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_state": "approved",
+  "scenario_label": "24 September 2026 · 01:19 Europe/Madrid",
+  "time_of_day": "Night",
+  "composition": "Night · Mountain sanctuary glowing at the valley floor under stars · AI-generated artistic interpretation",
+  "alt_text": "AI-generated artistic interpretation of Vall de Núria, Queralbs at night.",
+  "description": "Look down the Vall de Núria at night, where the mountain sanctuary glows at the valley floor. The lit church and buildings sit at center frame, a warm pool of light, with the great dark valley walls rising left and right and stars overhead. You can only reach it by rack railway — or on foot.",
+  "file_16x9": "es-01-256-r1-16x9.png",
+  "file_4x5": "es-01-256-r1-4x5.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
       "height": 1270,
-      "sha256": "020519b3b45dd66f95fba2100983deaecbf2a0b5847f0a350f6b43b1546b3c5f",
-      "bytes": 1923611,
-      "source_width": 1280,
-      "source_height": 720,
-      "resampled": true
+      "sha256": "52d9fed7511db5cfbc84550dc568fb17253990f339956518b575b70900394cd4"
     },
     "4x5": {
       "width": 864,
       "height": 1270,
-      "sha256": "37e965b496af53eecf0dcd1a81d1fd5a25aadc19245ca9b3a951923f66e30e4f",
-      "bytes": 932358,
-      "source_width": 864,
-      "source_height": 1152,
-      "resampled": false
-    },
-    "9x16": {
-      "width": 1080,
-      "height": 2110,
-      "sha256": "3a7f458db6c5fc22bd9d13ecf4c313bb4a3ed3011b497c1fb2afd796659d08e3",
-      "bytes": 2075035,
-      "source_width": 720,
-      "source_height": 1280,
-      "resampled": true
+      "sha256": "11445c0f6f260499fd9e8cf8ed8e4885a19db73284e5c33c9cb1cc54e9463be7"
     }
   },
-  "revision": "cand-r1",
-  "file_9x16": "es-01-256-cand-r1-9x16.png",
-  "evidence_card": "evidence/ES-01-256.json",
-  "land_as": "Candidate",
-  "conditions_record": {
-    "retrieved_local": "2026-10-01T04:04:45.612065+02:00",
-    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=42.3977&longitude=2.1548&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
-    "requested_coordinates": [
-      42.3977,
-      2.1548
-    ],
-    "response": {
-      "latitude": 42.39,
-      "longitude": 2.1599998,
-      "generationtime_ms": 0.3045797348022461,
-      "utc_offset_seconds": 7200,
-      "timezone": "Europe/Madrid",
-      "timezone_abbreviation": "GMT+2",
-      "elevation": 1969.0,
-      "current_units": {
-        "time": "iso8601",
-        "interval": "seconds",
-        "temperature_2m": "°C",
-        "weather_code": "wmo code",
-        "cloud_cover": "%",
-        "is_day": "",
-        "precipitation": "mm",
-        "wind_speed_10m": "km/h"
+  "masters": {
+    "16x9": {
+      "file": "es-01-256-r1-16x9.png",
+      "dimensions": [
+        1920,
+        1270
+      ],
+      "byte_length": 2418739,
+      "sha256": "52d9fed7511db5cfbc84550dc568fb17253990f339956518b575b70900394cd4",
+      "source_file": "source-256.png",
+      "source_dimensions": [
+        1408,
+        1760
+      ],
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "labels": [
+        "Vall de Núria, Queralbs",
+        "Scenario: 24 September 2026 · 01:19 Europe/Madrid",
+        "AI-generated artistic interpretation · Not a photograph."
+      ],
+      "signature": "Jason D’s Vision",
+      "format": "PNG",
+      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
+      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
+    },
+    "4x5": {
+      "file": "es-01-256-r1-4x5.png",
+      "dimensions": [
+        864,
+        1270
+      ],
+      "byte_length": 1352590,
+      "sha256": "11445c0f6f260499fd9e8cf8ed8e4885a19db73284e5c33c9cb1cc54e9463be7",
+      "source_file": "source-256.png",
+      "source_dimensions": [
+        1408,
+        1760
+      ],
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "labels": [
+        "Vall de Núria, Queralbs",
+        "Scenario: 24 September 2026 · 01:19 Europe/Madrid",
+        "AI-generated artistic interpretation · Not a photograph."
+      ],
+      "signature": "Jason D’s Vision",
+      "format": "PNG",
+      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
+      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 864x1080. Not native target-resolution detail."
+    }
+  },
+  "conditions": {
+    "provider": "Open-Meteo",
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=42.3981&longitude=2.1536&current=temperature_2m%2Cweather_code%2Ccloud_cover%2Cis_day%2Cprecipitation%2Cwind_speed_10m&daily=sunrise%2Csunset&timezone=Europe%2FMadrid&forecast_days=1",
+    "retrieved_local": "2026-09-24T01:19+02:00",
+    "valid_local": "2026-09-24T01:15",
+    "temperature_c": 11.8,
+    "weather_code": 0,
+    "weather_word": "clear sky",
+    "cloud_cover_pct": 7,
+    "is_day": 0,
+    "wind_kmh": 3.5
+  },
+  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T01:12:51+02:00, valid 2026-09-24T01:15 Europe/Madrid — not a verified on-site observation.",
+  "prompts": {
+    "prompt-r1.txt": "Photorealistic artistic interpretation of the Vall de Núria valley in the Catalan Pyrenees at night, viewed from the sanctuary esplanade. The sanctuary of the Virgin of Núria with its slender bell tower sits centered at the valley floor, warmly lit windows glowing; the dark mountain slopes rise on both sides under a clear starry sky; the calm lake of Núria reflects the night in the foreground."
+  },
+  "source_files": [
+    {
+      "file": "source-256.png",
+      "sha256": "4c3ca62c2bf7e4ad5f3f87e79e99e4ae5b491fa1b4b4bd9d530dceff5e840cf3",
+      "dimensions": [
+        1408,
+        1760
+      ],
+      "selected": true
+    }
+  ],
+  "provenance": {
+    "tool": "Built-in image generation; specific model version not exposed",
+    "image_inputs": [],
+    "source_use": "Text-only original generation. Third-party photographs inspected for facts, not supplied as input pixels. No uniqueness guarantee.",
+    "lineage": "Same selected source cropped and uniformly Lanczos-resampled to two exact PNGs; factual text and upward-fading scrim added deterministically. No stretching.",
+    "resampling": "Source [1408, 1760]; uniform Lanczos enlargement/crop to exact 1920x1080 and 864x1080. Not native target-resolution detail."
+  },
+  "production_checks": {
+    "technical": "Both PNGs fully decode, dimensions exact; label boxes in frame. Technical checks are not independent Cosmo QC.",
+    "visual": "Production comparison and limitations documented; not an independent gate verdict.",
+    "originality": "Own generated pixels; uniqueness not established.",
+    "commercial_ip": "No prominent people/logos or artwork focal subject; third-party clearance not legally certified.",
+    "publication": "Candidate handoff only. No approval inferred."
+  },
+  "independent_qc": {
+    "reviewer": "Cosmo",
+    "verdict": "Awaiting review",
+    "exact_pair_required": true
+  },
+  "card_handoff": {
+    "owner": "Cosmo",
+    "placement": "Candidate pipeline, two-format card (16:9/4:5 tabs, both downloads)",
+    "preserve": "caption, scenario, composition, description, status, disclosure, license, search/navigation and country switcher"
+  },
+  "license_badge": "Free · no credit needed",
+  "license_anchor": "#license",
+  "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
+  "reference_evidence": [],
+  "approval_basis": "Five-gate Cosmo QC: Gate 1 PASS — mountain sanctuary with its slender bell tower sits centered at the valley floor, warmly lit windows glowing, dark Pyrenean slopes rising on both sides, the lake of Núria reflecting the lamps in the foreground under a starry sky; clean framing, no artifacts. Gate 2 PASS — both masters byte-verified 1920x1080 and 864x1080 with SHA-256 matching the packet; on-image text exact ('Vall de Núria, Queralbs', 'Scenario: 24 September 2026 · 01:19 Europe/Madrid', 'AI-generated artistic interpretation · Not a photograph.') and 'Jason D\\u2019s Vision' signature bottom-right on an unobtrusive scrim; weather retrieved 2026-09-24T01:12:51+02:00, valid 01:15 — 6 min before the 01:19 scenario hour, fresh, no stale reuse. Gate 3 PASS — packet documents text-only generation with zero photographic inputs. Gate 4 — no visible people, logos, or recognizable private property; not legally certified. Gate 5 — no open blockers.",
+  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals).",
+  "daylight_variant": {
+    "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
+    "source_night": {
+      "16x9": {
+        "path": "es-01-256-r1-16x9.png",
+        "sha256": "52d9fed7511db5cfbc84550dc568fb17253990f339956518b575b70900394cd4"
       },
-      "current": {
-        "time": "2026-10-01T04:00",
-        "interval": 900,
-        "temperature_2m": 8.4,
-        "weather_code": 3,
-        "cloud_cover": 100,
-        "is_day": 0,
-        "precipitation": 0.0,
-        "wind_speed_10m": 2.5
-      },
-      "daily_units": {
-        "time": "iso8601",
-        "sunrise": "iso8601",
-        "sunset": "iso8601"
-      },
-      "daily": {
-        "time": [
-          "2026-10-01"
-        ],
-        "sunrise": [
-          "2026-10-01T07:48"
-        ],
-        "sunset": [
-          "2026-10-01T19:32"
-        ]
+      "4x5": {
+        "path": "es-01-256-r1-4x5.png",
+        "sha256": "11445c0f6f260499fd9e8cf8ed8e4885a19db73284e5c33c9cb1cc54e9463be7"
       }
     },
-    "solar": {
-      "method": "NOAA fractional-year geometric approximation, not observation",
-      "elevation_deg": -39.64,
-      "azimuth_deg": 47.66
-    }
+    "masters": {
+      "16x9": {
+        "path": "es-01-256-daylight-16x9.png",
+        "width": 1920,
+        "height": 1270,
+        "sha256": "4d30809e672c2dd115a5740106b30670aef27996cc6694f54f4fa8dee8396db9"
+      },
+      "4x5": {
+        "path": "es-01-256-daylight-4x5.png",
+        "width": 864,
+        "height": 1270,
+        "sha256": "f9eacb6a38f119bcba4ef4c30e5ed2da2542240eaace170b5aa882c104dac819"
+      }
+    },
+    "on_image_text": [
+      "Vall de Núria, Queralbs",
+      "☀ Daylight variant · derived from the night interpretation",
+      "AI-generated artistic interpretation · Not a photograph.",
+      "Jason D’s Vision"
+    ],
+    "art50_png_chunks": [
+      "Title",
+      "Description",
+      "Copyright",
+      "Software",
+      "Comment"
+    ],
+    "country": "Spain"
   }
 }

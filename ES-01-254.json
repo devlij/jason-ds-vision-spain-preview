@@ -1,135 +1,200 @@
 {
   "entry_id": "ES-01-254",
   "country": "Spain",
-  "region": "Catalonia",
   "city": "Cadaqués",
+  "region": "Catalonia",
   "caption": "Cap de Creus Lighthouse, Cadaqués",
-  "scenario_label": "1 October 2026 · 04:00 Europe/Madrid",
-  "composition": "Night · square lower gallery and round upper gallery · AI-generated artistic interpretation",
-  "alt_text": "AI-generated artistic interpretation of the Cap de Creus lighthouse at night, a short tower with a square lower gallery and a round upper gallery on one square keeper's house.",
-  "description": "On the Cap de Creus headland at night, an eleven-metre masonry tower rises from one square keeper's house. The lower gallery is square and the upper gallery is round, under a glass lantern.",
-  "viewpoint": "Rugged headland near the lighthouse, eye-level, facing the cape and sea. Exact camera point approximate. Exact generated camera correspondence is unverified.",
-  "status": "Candidate · architectural rebuild · awaiting Cosmo re-audit · Night",
-  "approval_state": "candidate",
-  "gates": {
-    "visual": "pending — Cosmo re-audit; no pass claimed",
-    "technical": "pending — Cosmo re-audit; local dimension and Art.50 checks only",
-    "provenance": "pending — Cosmo re-audit; generation lineage recorded, uniqueness unverified",
-    "commercial_ip": "pending — Cosmo re-audit; not legal certification",
-    "publication": "candidate only — not approved for the gallery"
-  },
-  "weather": "Model data from Open-Meteo, retrieved 1 October 2026 04:04:43 Europe/Madrid, valid 04:00 Europe/Madrid — not a verified on-site observation. 21.6°C, WMO 3 overcast, cloud 100%, precipitation 0.0 mm, wind 27.7 km/h. Sunrise 07:43, sunset 19:28. Approximate solar elevation -39.06°, azimuth 48.96°. Night; no direct sunlight.",
-  "limitations": "Candidate only. No Cosmo QC is claimed for these bytes. 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top 864×1080 of an 864×1152 generated source and drop 72 pixels of foreground. Dimensions do not imply native detail. Open-Meteo figures are model data, not an on-site observation. Exact camera correspondence is not surveyed.",
-  "file_16x9": "es-01-254-cand-r1-16x9.png",
-  "file_4x5": "es-01-254-cand-r1-4x5.png",
-  "license_badge": "Free · no credit needed",
-  "license_anchor": "#license",
-  "editions": [],
-  "time_of_day": "Night",
-  "revision_lineage": "Full rebuild for wo-spain-architectural-rework-2026-09-30 pack 12. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. Previous masters remain in the repository as superseded bytes.",
-  "review_history": [
-    {
-      "date": "2026-10-01",
-      "previous_status": "Approved · Cosmo QC 5/5 · Night",
-      "previous_approval_state": "approved",
-      "previous_files": {
-        "16x9": "es-01-254-r1-16x9.png",
-        "4x5": "es-01-254-r1-4x5.png",
-        "9x16": null
-      },
-      "resolution": "Architectural rebuild cand-r1 landed as Candidate. The prior approval covered the previous bytes only. It does not cover cand-r1. Daylight derivatives of those previous night masters are not part of cand-r1. No Cosmo re-audit is claimed."
-    }
+  "revision": "r1",
+  "viewpoint": "Rugged headland near the lighthouse, eye-level, facing the cape and sea. Exact camera point approximate.",
+  "anchors": [
+    "Squat cylindrical lighthouse with dark lantern room centered on the cape",
+    "Dark Mediterranean stretches behind to the horizon",
+    "Jagged schist rock formations frame the foreground"
   ],
-  "approval_basis": "Not approved. cand-r1 is an architectural rebuild awaiting Cosmo re-audit. The earlier Cosmo approval applied only to the previous master bytes and is retained in review_history.",
+  "limitations": "Exact camera point approximate; restrained night interpretation — no floodlighting claimed; current conditions unverified. Weather retrieval recorded to minute precision from local build evidence.",
+  "refs": [
+    [
+      "https://en.wikivoyage.org/wiki/Cap_de_Creus_Natural_Park",
+      "Cap de Creus Natural Park (easternmost point of the Iberian peninsula, lighthouse)"
+    ],
+    [
+      "https://www.turismoencatalunya.es/en/natural-park-Cap-de-Creus.html",
+      "Cap de Creus Natural Park (rocky cape, lighthouse, protected landscape)"
+    ]
+  ],
+  "status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_state": "approved",
+  "scenario_label": "24 September 2026 · 01:19 Europe/Madrid",
+  "time_of_day": "Night",
+  "composition": "Night · Lighthouse on the wind-scoured cape under a starry sky · AI-generated artistic interpretation",
+  "alt_text": "AI-generated artistic interpretation of Cap de Creus Lighthouse, Cadaqués at night.",
+  "description": "At Cap de Creus at night, the lighthouse stands on the wind-scoured cape under a starry sky. The white tower rises at center frame against the black, its beam sweeping the twisted rocks below, with the dark Mediterranean stretching to the horizon on both sides. Spain's easternmost point, raw and exposed.",
+  "file_16x9": "es-01-254-r1-16x9.png",
+  "file_4x5": "es-01-254-r1-4x5.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
       "height": 1270,
-      "sha256": "e0d93042086a39699d379374c1b6a03fbdabc451d739e0885379e6dc4a1ed27c",
-      "bytes": 1536826,
-      "source_width": 1280,
-      "source_height": 720,
-      "resampled": true
+      "sha256": "2995e187c40b76ce05e35dbba3038fd284fa50e47a404cacb59d17589aeb33f8"
     },
     "4x5": {
       "width": 864,
       "height": 1270,
-      "sha256": "d8c02809eb10cc0f9e2f523d82d372ef858862e2787a367e8ca4277903a61096",
-      "bytes": 771145,
-      "source_width": 864,
-      "source_height": 1152,
-      "resampled": false
-    },
-    "9x16": {
-      "width": 1080,
-      "height": 2110,
-      "sha256": "b3afb6ca32d440798dc7dc9be7975c47f14632c2534a35355384478dbf89fcee",
-      "bytes": 1521829,
-      "source_width": 720,
-      "source_height": 1280,
-      "resampled": true
+      "sha256": "78a9f3d9de890f5274d6a1bec7db0ae1f42585aada90635ce9a928028c9e4c7a"
     }
   },
-  "revision": "cand-r1",
-  "file_9x16": "es-01-254-cand-r1-9x16.png",
-  "evidence_card": "evidence/ES-01-254.json",
-  "land_as": "Candidate",
-  "conditions_record": {
-    "retrieved_local": "2026-10-01T04:04:43.747738+02:00",
-    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=42.3167&longitude=3.315&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
-    "requested_coordinates": [
-      42.3167,
-      3.315
-    ],
-    "response": {
-      "latitude": 42.32,
-      "longitude": 3.3099995,
-      "generationtime_ms": 0.49173831939697266,
-      "utc_offset_seconds": 7200,
-      "timezone": "Europe/Madrid",
-      "timezone_abbreviation": "GMT+2",
-      "elevation": 11.0,
-      "current_units": {
-        "time": "iso8601",
-        "interval": "seconds",
-        "temperature_2m": "°C",
-        "weather_code": "wmo code",
-        "cloud_cover": "%",
-        "is_day": "",
-        "precipitation": "mm",
-        "wind_speed_10m": "km/h"
+  "masters": {
+    "16x9": {
+      "file": "es-01-254-r1-16x9.png",
+      "dimensions": [
+        1920,
+        1270
+      ],
+      "byte_length": 1682133,
+      "sha256": "2995e187c40b76ce05e35dbba3038fd284fa50e47a404cacb59d17589aeb33f8",
+      "source_file": "source-254.png",
+      "source_dimensions": [
+        1408,
+        1760
+      ],
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "labels": [
+        "Cap de Creus Lighthouse, Cadaqués",
+        "Scenario: 24 September 2026 · 01:19 Europe/Madrid",
+        "AI-generated artistic interpretation · Not a photograph."
+      ],
+      "signature": "Jason D’s Vision",
+      "format": "PNG",
+      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
+      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
+    },
+    "4x5": {
+      "file": "es-01-254-r1-4x5.png",
+      "dimensions": [
+        864,
+        1270
+      ],
+      "byte_length": 1157646,
+      "sha256": "78a9f3d9de890f5274d6a1bec7db0ae1f42585aada90635ce9a928028c9e4c7a",
+      "source_file": "source-254.png",
+      "source_dimensions": [
+        1408,
+        1760
+      ],
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "labels": [
+        "Cap de Creus Lighthouse, Cadaqués",
+        "Scenario: 24 September 2026 · 01:19 Europe/Madrid",
+        "AI-generated artistic interpretation · Not a photograph."
+      ],
+      "signature": "Jason D’s Vision",
+      "format": "PNG",
+      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
+      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 864x1080. Not native target-resolution detail."
+    }
+  },
+  "conditions": {
+    "provider": "Open-Meteo",
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=42.3236&longitude=3.3228&current=temperature_2m%2Cweather_code%2Ccloud_cover%2Cis_day%2Cprecipitation%2Cwind_speed_10m&daily=sunrise%2Csunset&timezone=Europe%2FMadrid&forecast_days=1",
+    "retrieved_local": "2026-09-24T01:19+02:00",
+    "valid_local": "2026-09-24T01:15",
+    "temperature_c": 19.7,
+    "weather_code": 0,
+    "weather_word": "clear sky",
+    "cloud_cover_pct": 19,
+    "is_day": 0,
+    "wind_kmh": 2.3
+  },
+  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T01:12:51+02:00, valid 2026-09-24T01:15 Europe/Madrid — not a verified on-site observation.",
+  "prompts": {
+    "prompt-r1.txt": "Photorealistic artistic interpretation of the Cap de Creus Lighthouse in Catalonia at night, viewed from the rugged headland. The squat cylindrical white lighthouse with its dark lantern room stands centered on the wind-scoured rocky cape; the dark Mediterranean stretches behind to the horizon under a clear starry sky; jagged schist rock formations frame the foreground. No floodlighting on the cape — restrained night interpretation with the lighthouse beacon glowing softly."
+  },
+  "source_files": [
+    {
+      "file": "source-254.png",
+      "sha256": "acf0aba27e7585309c947e8d7365d0b69a597247f161444e4e9510ce1b791426",
+      "dimensions": [
+        1408,
+        1760
+      ],
+      "selected": true
+    }
+  ],
+  "provenance": {
+    "tool": "Built-in image generation; specific model version not exposed",
+    "image_inputs": [],
+    "source_use": "Text-only original generation. Third-party photographs inspected for facts, not supplied as input pixels. No uniqueness guarantee.",
+    "lineage": "Same selected source cropped and uniformly Lanczos-resampled to two exact PNGs; factual text and upward-fading scrim added deterministically. No stretching.",
+    "resampling": "Source [1408, 1760]; uniform Lanczos enlargement/crop to exact 1920x1080 and 864x1080. Not native target-resolution detail."
+  },
+  "production_checks": {
+    "technical": "Both PNGs fully decode, dimensions exact; label boxes in frame. Technical checks are not independent Cosmo QC.",
+    "visual": "Production comparison and limitations documented; not an independent gate verdict.",
+    "originality": "Own generated pixels; uniqueness not established.",
+    "commercial_ip": "No prominent people/logos or artwork focal subject; third-party clearance not legally certified.",
+    "publication": "Candidate handoff only. No approval inferred."
+  },
+  "independent_qc": {
+    "reviewer": "Cosmo",
+    "verdict": "Awaiting review",
+    "exact_pair_required": true
+  },
+  "card_handoff": {
+    "owner": "Cosmo",
+    "placement": "Candidate pipeline, two-format card (16:9/4:5 tabs, both downloads)",
+    "preserve": "caption, scenario, composition, description, status, disclosure, license, search/navigation and country switcher"
+  },
+  "license_badge": "Free · no credit needed",
+  "license_anchor": "#license",
+  "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
+  "reference_evidence": [],
+  "approval_basis": "Gate 1: Cap de Creus lighthouse recognizable — whitewashed keeper buildings on the rocky headland, tower with glowing lamp room casting a beam over the sea under a starry night sky; plausible tourist viewpoint from the approach path; clean framing, no artifacts. Gate 2: sweep verified 1920x1080 + 864x1080 and SHA-256 match; on-image caption, Scenario 24 September 2026 01:19 Europe/Madrid, AI disclosure bottom-left on gradient scrim, exact Jason Ds Vision signature (curly apostrophe) bottom-right; weather retrieved 01:12:51 valid 01:15 — fresh. Gate 3: packet documents image_inputs empty, text-only original generation, third-party photographs inspected for facts only. Gate 4: no people, logos, or recognizable private property visible — documented only. Gate 5: no open blockers.",
+  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals).",
+  "daylight_variant": {
+    "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
+    "source_night": {
+      "16x9": {
+        "path": "es-01-254-r1-16x9.png",
+        "sha256": "2995e187c40b76ce05e35dbba3038fd284fa50e47a404cacb59d17589aeb33f8"
       },
-      "current": {
-        "time": "2026-10-01T04:00",
-        "interval": 900,
-        "temperature_2m": 21.6,
-        "weather_code": 3,
-        "cloud_cover": 100,
-        "is_day": 0,
-        "precipitation": 0.0,
-        "wind_speed_10m": 27.7
-      },
-      "daily_units": {
-        "time": "iso8601",
-        "sunrise": "iso8601",
-        "sunset": "iso8601"
-      },
-      "daily": {
-        "time": [
-          "2026-10-01"
-        ],
-        "sunrise": [
-          "2026-10-01T07:43"
-        ],
-        "sunset": [
-          "2026-10-01T19:28"
-        ]
+      "4x5": {
+        "path": "es-01-254-r1-4x5.png",
+        "sha256": "78a9f3d9de890f5274d6a1bec7db0ae1f42585aada90635ce9a928028c9e4c7a"
       }
     },
-    "solar": {
-      "method": "NOAA fractional-year geometric approximation, not observation",
-      "elevation_deg": -39.06,
-      "azimuth_deg": 48.96
-    }
+    "masters": {
+      "16x9": {
+        "path": "es-01-254-daylight-16x9.png",
+        "width": 1920,
+        "height": 1270,
+        "sha256": "b6e2a4ea626ee1794efc3c9ac0c7c587a87e0323621dde0e6209fe2a7d9e17b8"
+      },
+      "4x5": {
+        "path": "es-01-254-daylight-4x5.png",
+        "width": 864,
+        "height": 1270,
+        "sha256": "7950e0125c65e7d1a8ad5771765be2c541be217f4704370800736e131cd19506"
+      }
+    },
+    "on_image_text": [
+      "Cap de Creus Lighthouse, Cadaqués",
+      "☀ Daylight variant · derived from the night interpretation",
+      "AI-generated artistic interpretation · Not a photograph.",
+      "Jason D’s Vision"
+    ],
+    "art50_png_chunks": [
+      "Title",
+      "Description",
+      "Copyright",
+      "Software",
+      "Comment"
+    ],
+    "country": "Spain"
   }
 }
