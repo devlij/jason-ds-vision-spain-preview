@@ -31,6 +31,7 @@
   "description": "Stand on the Gran Vía at night and look down the avenue toward the Metrópolis building, its dome glowing above the rooftops. Neon signs and streetlights blaze along both sides, the street alive with traffic and light. The great boulevard runs straight to the illuminated dome, Madrid's most electric nighttime view.",
   "file_16x9": "es-01-351-r1-16x9.png",
   "file_4x5": "es-01-351-r1-4x5.png",
+  "file_9x16": "es-01-351-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "7ea78abedd82da09d1839635c1cb77fa0c33cea2a860164fd5c71722caa6c9c5"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "aadaec9c95d34f7111cae47ff73094b10f2e56fcca42760d158c246850f61968"
     }
   },
   "masters": {

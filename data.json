@@ -2518,7 +2518,15 @@
       "approval_basis": "Gate 1 PASS: arcaded square with green-column colonnades, lit terrace tables under the galleries, clock-tower town hall facade at the end — recognizably Almagro's Plaza Mayor from a square viewpoint, clean framing, no artifacts. Gate 2 PASS: exact 1920×1080 + 864×1080, sha verified vs packet, 'Jason D’s Vision' signature bottom-right, exact caption, scenario '24 September 2026 · 02:54 Europe/Madrid' and AI disclosure bottom-left on a legible scrim; Open-Meteo weather retrieval recorded 2026-09-26T01:43:09+02:00 (archive fetch), model-valid hour 2026-09-24T02:00 contains scenario minute 02:54, timestamp unique to the second across all 43 reworked candidates. Gate 3 PASS: text-only generation, image_inputs empty. Gate 4 notes-only: no visible people (empty tables) or logos. Gate 5 PASS: all gates closed.",
       "daylight_16x9": "es-01-336-daylight-16x9.png",
       "daylight_4x5": "es-01-336-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-336-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "ed98bc39b9abb0b1a7aeb7942110cfc658fff0796ce1576607d3a65e975e00e6"
+        }
+      }
     },
     {
       "entry_id": "ES-01-337",
@@ -2538,7 +2546,15 @@
       "approval_basis": "Gate 1 PASS: massive floodlit castle-palace on its hill, multiple towers with lit windows above dark trees — plausibly Sigüenza Castle from a below-the-hill tourist viewpoint, clean framing, no artifacts. Gate 2 PASS: exact 1920×1080 + 864×1080, sha verified vs packet, 'Jason D’s Vision' signature bottom-right, exact caption, scenario '24 September 2026 · 03:02 Europe/Madrid' and AI disclosure bottom-left on a legible scrim; Open-Meteo weather retrieval recorded 2026-09-26T01:43:10+02:00 (archive fetch), model-valid hour 2026-09-24T03:00 contains scenario minute 03:02, timestamp unique to the second across all 43 reworked candidates. Gate 3 PASS: text-only generation, image_inputs empty. Gate 4 notes-only: no visible people or logos. Gate 5 PASS: all gates closed.",
       "daylight_16x9": "es-01-337-daylight-16x9.png",
       "daylight_4x5": "es-01-337-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-337-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "bc8fb5e01a864a77fd967745306818c9d999011ef793be82386364e3da513a6e"
+        }
+      }
     },
     {
       "entry_id": "ES-01-338",
@@ -2558,7 +2574,15 @@
       "approval_basis": "Gate 1: recognizably the Loarre castle at night — hilltop fortress mass with round towers and apse, warm lit windows under a star field; plausible viewpoint, clean framing, no artifacts. Gate 2: exact dims and SHA-256 match; exact signature, caption 'Castle, Loarre', scenario '24 September 2026 · 03:10 Europe/Madrid', disclosure on-image; weather retrieved 2026-09-26T01:43:11+02:00, valid 2026-09-24T03:00+02:00 covering the scenario minute, timestamp unique to this scene. Gate 3: packet records text-only original generation, no photographic inputs. Gate 4: no visible people, logos, or private property issues. Gate 5: clear — approved.",
       "daylight_16x9": "es-01-338-daylight-16x9.png",
       "daylight_4x5": "es-01-338-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-338-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "40cf356f1196c5be6907e66676984ee433a9ac0681c447f77cad18fed4cfc90d"
+        }
+      }
     },
     {
       "entry_id": "ES-01-224",
@@ -3358,7 +3382,15 @@
       "approval_basis": "Gate 1: recognizably the Roman Theatre of Mérida at night — the twin columned scaenae frons lit gold, statues in niches, orchestra floor and cavea visible; plausible tourist viewpoint, clean framing, no artifacts. Gate 2: exact dims and SHA-256 match; exact signature, caption 'Roman Theatre, Mérida', scenario '24 September 2026 · 03:18 Europe/Madrid', disclosure on-image; weather retrieved 2026-09-26T01:43:12+02:00, valid 2026-09-24T03:00+02:00 covering the scenario minute, timestamp unique to this scene. Gate 3: packet records text-only original generation, no photographic inputs. Gate 4: niche figures are ancient statuary, no living people, logos, or private property issues. Gate 5: clear — approved.",
       "daylight_16x9": "es-01-339-daylight-16x9.png",
       "daylight_4x5": "es-01-339-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-339-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "b9bcbe283a45b2e007d68ec680099dcce2e12d3c3c4e30172166b25c03081d16"
+        }
+      }
     },
     {
       "entry_id": "ES-01-340",
@@ -3398,7 +3430,15 @@
       "approval_basis": "Gate 1: recognizably Trujillo's Plaza Mayor at night — the Pizarro equestrian statue centered on its plinth, arcaded palace façades with lit balconies, church tower at the corner; plausible viewpoint, clean framing, no artifacts. Gate 2: exact dims and SHA-256 match; exact signature, caption 'Plaza Mayor, Trujillo', scenario '24 September 2026 · 03:34 Europe/Madrid', disclosure on-image; weather retrieved 2026-09-26T01:43:14+02:00, valid 2026-09-24T03:00+02:00 covering the scenario minute, timestamp unique to this scene. Gate 3: packet records text-only original generation, no photographic inputs. Gate 4: statue depicts a historical figure, no living people, logos, or private property issues. Gate 5: clear — approved.",
       "daylight_16x9": "es-01-341-daylight-16x9.png",
       "daylight_4x5": "es-01-341-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-341-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "a9d056c634d79520519c96e58c0ab10f8a250fa0307c3f1129b6db5324111c41"
+        }
+      }
     },
     {
       "entry_id": "ES-01-342",
@@ -3418,7 +3458,15 @@
       "approval_basis": "Gate 1: recognizably the Royal Monastery of Guadalupe at night — twin stone towers flanking the carved Gothic portals, lit windows on the adjoining wing, hills behind; plausible viewpoint, clean framing, no artifacts. Gate 2: exact dims and SHA-256 match; exact signature, caption 'Monastery, Guadalupe', scenario '24 September 2026 · 03:42 Europe/Madrid', disclosure on-image; weather retrieved 2026-09-26T01:43:15+02:00, valid 2026-09-24T03:00+02:00 covering the scenario minute, timestamp unique to this scene. Gate 3: packet records text-only original generation, no photographic inputs. Gate 4: no visible people, logos, or private property issues. Gate 5: clear — approved.",
       "daylight_16x9": "es-01-342-daylight-16x9.png",
       "daylight_4x5": "es-01-342-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-342-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "2794c7d04d2b403875800bffa2e2b30568b98ee21b3ab4ab348bcd9467f9c89c"
+        }
+      }
     },
     {
       "entry_id": "ES-01-343",
@@ -3458,7 +3506,15 @@
       "approval_basis": "Gate 1: recognizably Laguardia's old town at night — crenellated town walls curving around lit stone houses, the church tower above, dark mountain ridge behind; plausible viewpoint, clean framing, no artifacts. Gate 2: exact dims and SHA-256 match; exact signature, caption 'Old Town, Laguardia', scenario '24 September 2026 · 03:58 Europe/Madrid', disclosure on-image; weather retrieved 2026-09-26T01:43:17+02:00, valid 2026-09-24T03:00+02:00 covering the scenario minute, timestamp unique to this scene. Gate 3: packet records text-only original generation, no photographic inputs. Gate 4: no visible people, logos, or private property issues. Gate 5: clear — approved.",
       "daylight_16x9": "es-01-344-daylight-16x9.png",
       "daylight_4x5": "es-01-344-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-344-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "ca4688c0bc69103176a63d7f65f6bba185c6e378149d32b29351a05df930b7cb"
+        }
+      }
     },
     {
       "entry_id": "ES-01-228",
@@ -3529,7 +3585,15 @@
       "approval_basis": "Gate 1: recognizably Pamplona's Plaza del Castillo at night — the columned kiosk bandstand centered, ornate corner café façade with lit wooden bays, arcaded buildings and lampposts; plausible viewpoint, clean framing, no artifacts. Gate 2: exact dims and SHA-256 match; exact signature, caption 'Plaza del Castillo, Pamplona', scenario '24 September 2026 · 04:06 Europe/Madrid', disclosure on-image; weather retrieved 2026-09-26T01:43:18+02:00, valid 2026-09-24T04:00+02:00 covering the scenario minute, timestamp unique to this scene. Gate 3: packet records text-only original generation, no photographic inputs. Gate 4: no visible people, logos, or private property issues. Gate 5: clear — approved.",
       "daylight_16x9": "es-01-345-daylight-16x9.png",
       "daylight_4x5": "es-01-345-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-345-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "3eeae5730fb935e7d3fdc52cc5d9ab6f2222b45a5235254cd06150741197361e"
+        }
+      }
     },
     {
       "entry_id": "ES-01-231",
@@ -3634,7 +3698,15 @@
       "approval_basis": "Gate 1: recognizably the Royal Palace of Olite at night — slate-spired towers, the arcaded gallery wing with lit windows, stone parapets against the dark plain; plausible viewpoint, clean framing, no artifacts. Gate 2: exact dims and SHA-256 match; exact signature, caption 'Royal Palace, Olite', scenario '24 September 2026 · 04:14 Europe/Madrid', disclosure on-image; weather retrieved 2026-09-26T01:43:19+02:00, valid 2026-09-24T04:00+02:00 covering the scenario minute, timestamp unique to this scene. Gate 3: packet records text-only original generation, no photographic inputs. Gate 4: no visible people, logos, or private property issues. Gate 5: clear — approved.",
       "daylight_16x9": "es-01-346-daylight-16x9.png",
       "daylight_4x5": "es-01-346-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-346-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "44573647b864f9eaf83b674c3799860e9dbac4462527bd544111c6f549f63961"
+        }
+      }
     },
     {
       "entry_id": "ES-01-347",
@@ -3654,7 +3726,15 @@
       "approval_basis": "Gate 1: recognizably the Bardenas Reales at night — the cone-shaped eroded butte rising from badland gullies under a Milky Way sky; plausible viewpoint, clean framing, no artifacts. Gate 2: exact dims and SHA-256 match; exact signature, caption 'Bardenas Reales', scenario '24 September 2026 · 04:24 Europe/Madrid', disclosure on-image; weather retrieved 2026-09-26T01:43:20+02:00, valid 2026-09-24T04:00+02:00 covering the scenario minute, timestamp unique to this scene. Gate 3: packet records text-only original generation, no photographic inputs. Gate 4: no visible people, logos, or private property issues. Gate 5: clear — approved.",
       "daylight_16x9": "es-01-347-daylight-16x9.png",
       "daylight_4x5": "es-01-347-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-347-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "6ea8c2612898a755fb904e47c2f0ca7856868e54b92218dc59934d9cebdd3346"
+        }
+      }
     },
     {
       "entry_id": "ES-01-348",
@@ -3674,7 +3754,15 @@
       "approval_basis": "Gate 1: recognizably the Roncesvalles collegiate church at night — stone façade with the large rose window, adjacent white building with shuttered lit windows, misty wooded slopes behind; plausible viewpoint, clean framing, no artifacts. Gate 2: exact dims and SHA-256 match; exact signature, caption 'Collegiate Church, Roncesvalles', scenario '24 September 2026 · 04:32 Europe/Madrid', disclosure on-image; weather retrieved 2026-09-26T01:43:21+02:00, valid 2026-09-24T04:00+02:00 covering the scenario minute, timestamp unique to this scene. Gate 3: packet records text-only original generation, no photographic inputs. Gate 4: no visible people, logos, or private property issues. Gate 5: clear — approved.",
       "daylight_16x9": "es-01-348-daylight-16x9.png",
       "daylight_4x5": "es-01-348-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-348-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "25c94285ed5733c5338b76a8abbd8a2273fd17f66c8e3690d403d559348da823"
+        }
+      }
     },
     {
       "entry_id": "ES-01-349",
@@ -3694,7 +3782,15 @@
       "approval_basis": "Gate 1: recognizably the Retiro Crystal Palace at night — the glowing glass-and-iron pavilion with its central dome reflected in the pond, framed by dark trees; plausible viewpoint, clean framing, no artifacts. Gate 2: exact dims and SHA-256 match; exact signature, caption 'Crystal Palace, Retiro', scenario '24 September 2026 · 04:40 Europe/Madrid', disclosure on-image; weather retrieved 2026-09-26T01:43:22+02:00, valid 2026-09-24T04:00+02:00 covering the scenario minute, timestamp unique to this scene. Gate 3: packet records text-only original generation, no photographic inputs. Gate 4: no visible people, logos, or private property issues. Gate 5: clear — approved.",
       "daylight_16x9": "es-01-349-daylight-16x9.png",
       "daylight_4x5": "es-01-349-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-349-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "07081364990c67b77ee8226360733bdcbb4c7168e09ae1bc715eec64e3c269bf"
+        }
+      }
     },
     {
       "entry_id": "ES-01-350",
@@ -3714,7 +3810,15 @@
       "approval_basis": "Gate 1: recognizably the El Escorial monastery at night — elevated view of the basilica dome and twin towers, long wings with rows of lit windows against dark wooded hills; plausible viewpoint, clean framing, no artifacts. Gate 2: exact dims and SHA-256 match; exact signature, caption 'Monastery, El Escorial', scenario '24 September 2026 · 04:48 Europe/Madrid', disclosure on-image; weather retrieved 2026-09-26T01:43:23+02:00, valid 2026-09-24T04:00+02:00 covering the scenario minute, timestamp unique to this scene. Gate 3: packet records text-only original generation, no photographic inputs. Gate 4: no visible people, logos, or private property issues. Gate 5: clear — approved.",
       "daylight_16x9": "es-01-350-daylight-16x9.png",
       "daylight_4x5": "es-01-350-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-350-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "c3dd905f5e4e4469fec6330f4fb82a236129c1fcb968189db7b9ab7b55020aea"
+        }
+      }
     },
     {
       "entry_id": "ES-01-236",
@@ -3833,7 +3937,15 @@
       "approval_basis": "Gate 1: recognizably Madrid's Gran Vía at night — the Metropolis building's beaux-arts dome with gilded sculpture left, the lit street canyon receding with rows of lamps; plausible viewpoint, clean framing, no artifacts. Gate 2: exact dims and SHA-256 match; exact signature, caption 'Gran Vía, Madrid', scenario '24 September 2026 · 04:56 Europe/Madrid', disclosure on-image; weather retrieved 2026-09-26T01:43:24+02:00, valid 2026-09-24T04:00+02:00 covering the scenario minute, timestamp unique to this scene. Gate 3: packet records text-only original generation, no photographic inputs. Gate 4: no identifiable people, logos, or private property issues. Gate 5: clear — approved.",
       "daylight_16x9": "es-01-351-daylight-16x9.png",
       "daylight_4x5": "es-01-351-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-351-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "aadaec9c95d34f7111cae47ff73094b10f2e56fcca42760d158c246850f61968"
+        }
+      }
     },
     {
       "entry_id": "ES-01-352",
@@ -3850,7 +3962,15 @@
       "approval_basis": "Gate 1 PASS: illuminated Cibeles fountain with Cybele on her lion-drawn chariot in the foreground, sparkling water jets, and the floodlit Palacio de Cibeles facade rising behind — instantly recognizable Plaza de Cibeles. Gate 2 PASS: exact caption 'Cibeles, Madrid', scenario '24 September 2026 · 05:04 Europe/Madrid', AI disclosure and curly-apostrophe signature verified on-image; masters 1920x1080/864x1080, sha256 matched; per-scene Open-Meteo retrieval 2026-09-26T01:43:25+02:00 (valid 05:00, 19.7C mainly clear 1%) — unique to this scene, replacing the earlier shared-retrieval hold recorded in qc_notes. Gate 3 PASS: text-only generation, no photographic inputs. Gate 4: no people or logos; public landmark; commercial call stays Jason's. Gate 5: no open blockers.",
       "daylight_16x9": "es-01-352-daylight-16x9.png",
       "daylight_4x5": "es-01-352-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-352-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "20af0100b2f8448df95060158e4895773915c753c088aabadf9d02368dfdfd74"
+        }
+      }
     },
     {
       "entry_id": "ES-01-353",
@@ -3867,7 +3987,15 @@
       "approval_basis": "Gate 1 PASS: floodlit Egyptian pylons and the colonnaded temple block reflected in the long water basin, ground uplights along the plinth — the classic Temple of Debod night composition from the park side. Gate 2 PASS: exact caption 'Temple of Debod, Madrid', scenario '24 September 2026 · 05:12 Europe/Madrid', AI disclosure and curly-apostrophe signature verified on-image; masters 1920x1080/864x1080, sha256 matched; per-scene Open-Meteo retrieval 2026-09-26T01:43:26+02:00 (valid 05:00, 19.7C clear 1%) — unique to this scene, replacing the earlier shared-retrieval hold. Gate 3 PASS: text-only generation, no photographic inputs. Gate 4: no people or logos; public monument; commercial call stays Jason's. Gate 5: no open blockers.",
       "daylight_16x9": "es-01-353-daylight-16x9.png",
       "daylight_4x5": "es-01-353-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-353-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "3f727cf6d37c51f5bf42eddb3e30e56b7040bf952370961ab8133d435adda939"
+        }
+      }
     },
     {
       "entry_id": "ES-01-354",
@@ -3918,7 +4046,15 @@
       "approval_basis": "Gate 1 PASS: the rocky islet at night with the winding stone causeway bridge climbing to the hermitage silhouette on top, white moonlit surf breaking on the dark rocks — recognizably Gaztelugatxe. Gate 2 PASS: exact caption 'Gaztelugatxe, Bermeo', scenario '24 September 2026 · 05:36 Europe/Madrid', AI disclosure and curly-apostrophe signature verified on-image; masters 1920x1080/864x1080, sha256 matched; per-scene Open-Meteo retrieval 2026-09-26T01:43:29+02:00 (valid 05:00, 17.3C overcast 90%, wind 12.2 km/h) — unique to this scene, replacing the earlier shared-retrieval hold. Gate 3 PASS: text-only generation, no photographic inputs. Gate 4: no people or logos; public site; commercial call stays Jason's. Gate 5: no open blockers.",
       "daylight_16x9": "es-01-356-daylight-16x9.png",
       "daylight_4x5": "es-01-356-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-356-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "426145ec14b22f70763e92b991e89eba0469277fc86c534ed10a7eaa5ccea42c"
+        }
+      }
     },
     {
       "entry_id": "ES-01-357",
@@ -3952,7 +4088,15 @@
       "approval_basis": "Gate 1 PASS: the Royal Walls' moat channel between massive stone ramparts, moonlight on the water, distant coast lights under a cloudy sky — the honest moonlit treatment, claiming no floodlighting per the packet. Gate 2 PASS: exact caption 'Royal Walls, Ceuta', scenario '24 September 2026 · 05:52 Europe/Madrid', AI disclosure and curly-apostrophe signature verified on-image; masters 1920x1080/864x1080, sha256 matched; per-scene Open-Meteo retrieval 2026-09-26T01:43:31+02:00 (valid 05:00, 21.7C partly cloudy 54%) — unique to this scene, replacing the earlier shared-retrieval hold. Gate 3 PASS: text-only generation, no photographic inputs. Gate 4: no people or logos; public fortress; commercial call stays Jason's. Gate 5: no open blockers.",
       "daylight_16x9": "es-01-358-daylight-16x9.png",
       "daylight_4x5": "es-01-358-daylight-4x5.png",
-      "daylight_interim": true
+      "daylight_interim": true,
+      "file_9x16": "es-01-358-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "88c025ccc459743280ff19f888f8e204a6a43d18e5c6f1689cbc8fbfacb2eeb6"
+        }
+      }
     },
     {
       "entry_id": "ES-01-359",

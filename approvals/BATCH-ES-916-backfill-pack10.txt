@@ -1,0 +1,47 @@
+BATCH ES 9:16 backfill pack 10
+Repo: devlij/jason-ds-vision-spain-preview
+Work order: wo-spain-916-backfill-2026-09-30
+Finish date: 2026-09-30
+Base tip before this pack: c0b248435befeb4aa0e3417c0a165ff0f22db22b
+
+Scope: 18 architectural-QC PASS scenes only. This is the final PASS pack and empties the remaining PASS queue after ES-01-335.
+FLAG and NO_REFERENCE scenes are not in this pack and were not cropped.
+Pack 1 files, pack 2 files, pack 3 files, pack 4 files, pack 5 files, pack 6 files, pack 7 files, pack 8 files, and pack 9 files were not touched.
+Draft holds PR #7, PR #8, PR #9, PR #10, PR #11, PR #13, PR #16, PR #17, and PR #20 were not modified, re-pushed, or merged.
+Spain architectural rework draft PRs #12, #14, #15, #18, #19, and #21 were not touched.
+
+Scenes:
+ES-01-336
+ES-01-337
+ES-01-338
+ES-01-339
+ES-01-341
+ES-01-342
+ES-01-344
+ES-01-345
+ES-01-346
+ES-01-347
+ES-01-348
+ES-01-349
+ES-01-350
+ES-01-351
+ES-01-352
+ES-01-353
+ES-01-356
+ES-01-358
+
+Skipped neighbors after ES-01-335 (FLAG or NO_REFERENCE, not cropped): ES-01-340, ES-01-343, ES-01-354, ES-01-355, ES-01-357, ES-01-359, ES-01-360, ES-01-361, ES-01-362, ES-01-363, ES-01-364, ES-01-365.
+Remaining architectural-QC PASS scenes after this pack: 0.
+
+Path layout: Spain keeps masters at the repository root beside the scene JSON, not under library/world/Spain/<City>/. Each 9:16 file mirrors that scene's final 16:9 name with -9x16.png.
+
+Photograph: 608×1080 (9:16, even pixel width). Finished master: 608×1270. The window is the full height of the 16:9 photograph, the horizontal center of that photograph (x=656), so the subject is not dropped or decapitated.
+Label bar: 190px #0e0e12 under the photograph. Caption, scenario, disclosure, and the Jason D's Vision signature are the sibling 16:9 label artwork scaled onto that bar.
+
+Art. 50: Title, Description, Copyright, and Software chunks match the sibling 16:9 master. Comment date on the new 9:16 masters is 2026-09-30.
+
+Gallery probe gate: the 9:16 tab and Download 9:16 button are inserted only after an image probe of data-src-916 succeeds at render time. A missing master never gets a tab. These 18 cards already pointed at the portrait filename.
+
+No approval flip: approval_state was not changed on any scene. Nothing in this pack was self-approved or moved to Approved. No word-of-the-day text was added.
+
+Draft PR only. Not merged.

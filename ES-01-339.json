@@ -31,6 +31,7 @@
   "description": "Sit in the cavea of Mérida's Roman theatre at night and look down across the semicircular rows to the stage below. The great column backdrop of the scaenae frons is floodlit, its capitals blazing against the black sky. The ancient stones glow under the lights, two thousand years of drama still present in the dark.",
   "file_16x9": "es-01-339-r1-16x9.png",
   "file_4x5": "es-01-339-r1-4x5.png",
+  "file_9x16": "es-01-339-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "e46fe0832fcacc8b24acfaad39011cf676c47c156de2df3fc7e227114632b2bc"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "b9bcbe283a45b2e007d68ec680099dcce2e12d3c3c4e30172166b25c03081d16"
     }
   },
   "masters": {

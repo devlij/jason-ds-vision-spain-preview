@@ -31,6 +31,7 @@
   "description": "From under the arcades of Trujillo's Plaza Mayor at night, the bronze Pizarro statue stands centered in the lamplit square. Around it the great conquistador palaces glow, their carved stone fronts lit against the dark. The plaza's broad expanse lies empty and still, the statue watching over his birthplace town.",
   "file_16x9": "es-01-341-r1-16x9.png",
   "file_4x5": "es-01-341-r1-4x5.png",
+  "file_9x16": "es-01-341-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "7f6368e976cb24c549a4863960a2251f58047cc55968c7093fbd138aa7eeb1d0"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "a9d056c634d79520519c96e58c0ab10f8a250fa0307c3f1129b6db5324111c41"
     }
   },
   "masters": {

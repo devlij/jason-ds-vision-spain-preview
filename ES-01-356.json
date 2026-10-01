@@ -31,6 +31,7 @@
   "description": "From the mainland path at night, the islet of Gaztelugatxe rises from the dark sea, its little hermitage moonlit atop the rock. The stone footbridge arches across the water to it, pale in the moonlight. Waves move black below the bridge; the hermitage sits tiny and luminous on its pinnacle under the stars.",
   "file_16x9": "es-01-356-r1-16x9.png",
   "file_4x5": "es-01-356-r1-4x5.png",
+  "file_9x16": "es-01-356-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "baae3e66c302f71cd901535c683411038cf97b1302ed4062cd1660173bc530de"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "426145ec14b22f70763e92b991e89eba0469277fc86c534ed10a7eaa5ccea42c"
     }
   },
   "masters": {
