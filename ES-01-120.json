@@ -1,135 +1,198 @@
 {
   "entry_id": "ES-01-120",
   "country": "Spain",
-  "region": "Castilla-La Mancha",
   "city": "Daimiel",
+  "region": "Castilla-La Mancha",
   "caption": "Tablas de Daimiel, Daimiel",
-  "scenario_label": "1 October 2026 · 02:21 Europe/Madrid",
-  "composition": "Night · the hydraulic Molino de Molemocho among the reed lagoons · AI-generated artistic interpretation",
-  "alt_text": "AI-generated artistic interpretation of Tablas de Daimiel at night, with the low rectangular hydraulic mill of Molemocho, a tiled stone hall and mill-race, and no windmill sails, seen from the boardwalk across the reed lagoons.",
-  "description": "From the boardwalk at night, the Tablas de Daimiel spread out as moonlit lagoons and reed beds. Molino de Molemocho sits at the water as a long, low hydraulic mill of stone and rubble under a tiled roof, with its mill-race at water level. It is a water-mill, without La Mancha sail-arms.",
-  "viewpoint": "The boardwalk through the marshes, looking across the lagoons. Exact generated camera correspondence is unverified.",
-  "status": "Candidate · architectural rebuild · awaiting Cosmo re-audit · Night",
-  "approval_state": "candidate",
-  "gates": {
-    "visual": "pending — Cosmo re-audit; no pass claimed",
-    "technical": "pending — Cosmo re-audit; local dimension and Art.50 checks only",
-    "provenance": "pending — Cosmo re-audit; generation lineage recorded, uniqueness unverified",
-    "commercial_ip": "pending — Cosmo re-audit; not legal certification",
-    "publication": "candidate only — not approved for the gallery"
-  },
-  "weather": "Model data from Open-Meteo, retrieved 1 October 2026 02:21:12 Europe/Madrid, valid 02:15 Europe/Madrid — not a verified on-site observation. 19.8°C, WMO 2 partly cloudy, cloud 61%, precipitation 0.0 mm, wind 2.9 km/h. Sunrise 08:10, sunset 19:57. Approximate solar elevation -53.38°, azimuth 7.03°. Night; no direct sunlight.",
-  "limitations": "Candidate only. No Cosmo QC is claimed for these bytes. 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top 864×1080 of an 864×1152 generated source and drop 72 pixels of foreground. Dimensions do not imply native detail. Open-Meteo figures are model data, not an on-site observation. Exact camera correspondence is not surveyed.",
-  "file_16x9": "es-01-120-cand-r1-16x9.png",
-  "file_4x5": "es-01-120-cand-r1-4x5.png",
-  "license_badge": "Free · no credit needed",
-  "license_anchor": "#license",
-  "editions": [],
-  "time_of_day": "Night",
-  "revision_lineage": "Full rebuild for wo-spain-architectural-rework-2026-09-30 pack 6. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. Previous masters remain in the repository as superseded bytes.",
-  "review_history": [
-    {
-      "date": "2026-10-01",
-      "previous_status": "Approved · Cosmo QC 5/5 · Night",
-      "previous_approval_state": "approved",
-      "previous_files": {
-        "16x9": "es-01-120-r1-16x9.png",
-        "4x5": "es-01-120-r1-4x5.png",
-        "9x16": null
-      },
-      "resolution": "Architectural rebuild cand-r1 landed as Candidate. The prior approval covered the previous bytes only. It does not cover cand-r1. No Cosmo re-audit is claimed."
-    }
+  "revision": "r1",
+  "viewpoint": "the boardwalk through the marshes, looking across the lagoons",
+  "anchors": [
+    "the wetland lagoons with their reed beds and birdlife",
+    "the old water mills among the marshes",
+    "the great La Mancha sky over the water"
   ],
-  "approval_basis": "Not approved. cand-r1 is an architectural rebuild awaiting Cosmo re-audit. The earlier Cosmo approval applied only to the previous master bytes and is retained in review_history.",
+  "limitations": "Text-only generation; no photographic input. Exact camera position unverified. Water levels vary with rainfall; depicted state is illustrative. Moonlight only — no invented lighting.",
+  "refs": [
+    [
+      "https://en.wikipedia.org/wiki/Tablas_de_Daimiel_National_Park",
+      "Wikipedia — Tablas de Daimiel National Park"
+    ],
+    [
+      "https://www.turismocastillalamancha.es",
+      "Official Castilla-La Mancha tourism portal — verify the Daimiel listing before use"
+    ]
+  ],
+  "status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_state": "approved",
+  "scenario_label": "24 September 2026 · 04:41 Europe/Madrid",
+  "time_of_day": "Night",
+  "composition": "Night · the wetland lagoons · AI-generated artistic interpretation",
+  "alt_text": "AI-generated artistic interpretation of Tablas de Daimiel, Daimiel at night.",
+  "description": "Under the night sky, the Tablas de Daimiel wetlands spread out in a dark, shimmering expanse. Standing at the water's edge, you take in the lagoon surface with its reed beds and distant treeline just visible in the dim light. The frame holds the wetland's calm after dark — a rare quiet for one of Spain's most precious water landscapes.",
+  "file_16x9": "es-01-120-r1-16x9.png",
+  "file_4x5": "es-01-120-r1-4x5.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
       "height": 1270,
-      "sha256": "ef29cd7b95921a810296a6836f1e43f25caf28ae8f5bf107a79f34eb9302dc4e",
-      "bytes": 2482901,
-      "source_width": 1280,
-      "source_height": 720,
-      "resampled": true
+      "sha256": "cff46334620e301566e4d6b940f6da627d6c5d45d13dc79731471b723a77dc83"
     },
     "4x5": {
       "width": 864,
       "height": 1270,
-      "sha256": "6fdf7529f343ece07e4113275c1aa667265c1e443afeef2d9d83d0b52cb32baf",
-      "bytes": 1239454,
-      "source_width": 864,
-      "source_height": 1152,
-      "resampled": false
-    },
-    "9x16": {
-      "width": 1080,
-      "height": 2110,
-      "sha256": "581e93cb4bb6c3d1fb0f799300f8439c1f05e214ffbc61e2b0a8b4a3206c7241",
-      "bytes": 2729272,
-      "source_width": 720,
-      "source_height": 1280,
-      "resampled": true
+      "sha256": "cffed7e52668a43ecf0ece4eea90b3d5aed744302cc98ca3a9bb0f8bd3320aab"
     }
   },
-  "revision": "cand-r1",
-  "file_9x16": "es-01-120-cand-r1-9x16.png",
-  "evidence_card": "evidence/ES-01-120.json",
-  "land_as": "Candidate",
-  "conditions_record": {
-    "retrieved_local": "2026-10-01T02:21:12.956352+02:00",
-    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=39.1289154&longitude=-3.6915586&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
-    "requested_coordinates": [
-      39.1289154,
-      -3.6915586
-    ],
-    "response": {
-      "latitude": 39.125,
-      "longitude": -3.6875,
-      "generationtime_ms": 11.940717697143555,
-      "utc_offset_seconds": 7200,
-      "timezone": "Europe/Madrid",
-      "timezone_abbreviation": "GMT+2",
-      "elevation": 607.0,
-      "current_units": {
-        "time": "iso8601",
-        "interval": "seconds",
-        "temperature_2m": "°C",
-        "weather_code": "wmo code",
-        "cloud_cover": "%",
-        "is_day": "",
-        "precipitation": "mm",
-        "wind_speed_10m": "km/h"
+  "masters": {
+    "16x9": {
+      "file": "es-01-120-r1-16x9.png",
+      "dimensions": [
+        1920,
+        1270
+      ],
+      "byte_length": 2597178,
+      "sha256": "cff46334620e301566e4d6b940f6da627d6c5d45d13dc79731471b723a77dc83",
+      "source_file": "media-generation-es-01-120-source-0-3d077db7-2bf0-4b9e-a55b-415825f4151b.png",
+      "source_dimensions": [
+        1408,
+        1760
+      ],
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "labels": [
+        "Tablas de Daimiel, Daimiel",
+        "Scenario: 24 September 2026 · 04:41 Europe/Madrid",
+        "AI-generated artistic interpretation · Not a photograph."
+      ],
+      "signature": "Jason D’s Vision",
+      "format": "PNG",
+      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
+      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
+    },
+    "4x5": {
+      "file": "es-01-120-r1-4x5.png",
+      "dimensions": [
+        864,
+        1270
+      ],
+      "byte_length": 1346721,
+      "sha256": "cffed7e52668a43ecf0ece4eea90b3d5aed744302cc98ca3a9bb0f8bd3320aab",
+      "source_file": "media-generation-es-01-120-source-0-3d077db7-2bf0-4b9e-a55b-415825f4151b.png",
+      "source_dimensions": [
+        1408,
+        1760
+      ],
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "labels": [
+        "Tablas de Daimiel, Daimiel",
+        "Scenario: 24 September 2026 · 04:41 Europe/Madrid",
+        "AI-generated artistic interpretation · Not a photograph."
+      ],
+      "signature": "Jason D’s Vision",
+      "format": "PNG",
+      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
+      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 864x1080. Not native target-resolution detail."
+    }
+  },
+  "conditions": {
+    "provider": "Open-Meteo",
+    "retrieved": "2026-09-24T04:41:22+02:00",
+    "valid": "2026-09-24T04:30+02:00",
+    "temperature_2m_c": 18.6,
+    "weather_code": 1,
+    "cloud_cover_pct": 28,
+    "is_day": 0,
+    "precipitation_mm": 0.0,
+    "wind_speed_10m_kmh": 5.8
+  },
+  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T04:41+02:00, valid 2026-09-24T04:30 Europe/Madrid — not a verified on-site observation.",
+  "prompts": {
+    "prompt-r1.txt": "Photorealistic original artistic interpretation (not a photograph) of the Tablas de Daimiel, Castilla-La Mancha, Spain AT NIGHT. Tourist viewpoint: the boardwalk through the marshes, looking across the lagoons. Frame: the wetland lagoons with their reed beds; the old water mills among the marshes; the great La Mancha sky over the water. Light and weather: mostly clear moonlit night, light breeze; moonlight on the water, a few clouds in the night sky, no invented lighting. Absolutely no daylight anywhere. Main subject centered to survive a 4:5 center crop. No identifiable people, no legible logos, no text, lettering or signs anywhere in the image. Keep the lower third clean and uncluttered."
+  },
+  "source_files": [
+    {
+      "file": "media-generation-es-01-120-source-0-3d077db7-2bf0-4b9e-a55b-415825f4151b.png",
+      "sha256": "4d3454c499afa53d3aa5ccc5eb531079f81923e031ef77bfc07c7e63a55d6cd4",
+      "dimensions": [
+        1408,
+        1760
+      ],
+      "selected": true
+    }
+  ],
+  "provenance": {
+    "tool": "Built-in image generation; specific model version not exposed",
+    "image_inputs": [],
+    "source_use": "Text-only original generation. Third-party photographs inspected for facts, not supplied as input pixels. No uniqueness guarantee.",
+    "lineage": "Same selected source cropped and uniformly Lanczos-resampled to two exact PNGs; factual text and upward-fading scrim added deterministically. No stretching.",
+    "resampling": "Source [1408, 1760]; uniform Lanczos enlargement/crop to exact 1920x1080 and 864x1080. Not native target-resolution detail."
+  },
+  "production_checks": {
+    "technical": "Both PNGs fully decode, dimensions exact; label boxes in frame. Technical checks are not independent Cosmo QC.",
+    "visual": "Production comparison and limitations documented; not an independent gate verdict.",
+    "originality": "Own generated pixels; uniqueness not established.",
+    "commercial_ip": "No prominent people/logos or artwork focal subject; third-party clearance not legally certified.",
+    "publication": "Candidate handoff only. No approval inferred."
+  },
+  "independent_qc": {
+    "reviewer": "Cosmo",
+    "verdict": "Awaiting review",
+    "exact_pair_required": true
+  },
+  "card_handoff": {
+    "owner": "Cosmo",
+    "placement": "Candidate pipeline, two-format card (16:9/4:5 tabs, both downloads)",
+    "preserve": "caption, scenario, composition, description, status, disclosure, license, search/navigation and country switcher"
+  },
+  "license_badge": "Free · no credit needed",
+  "license_anchor": "#license",
+  "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
+  "reference_evidence": [],
+  "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor F: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/F/ES-01-120.md. r1.",
+  "daylight_variant": {
+    "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
+    "source_night": {
+      "16x9": {
+        "path": "es-01-120-r1-16x9.png",
+        "sha256": "cff46334620e301566e4d6b940f6da627d6c5d45d13dc79731471b723a77dc83"
       },
-      "current": {
-        "time": "2026-10-01T02:15",
-        "interval": 900,
-        "temperature_2m": 19.8,
-        "weather_code": 2,
-        "cloud_cover": 61,
-        "is_day": 0,
-        "precipitation": 0.0,
-        "wind_speed_10m": 2.9
-      },
-      "daily_units": {
-        "time": "iso8601",
-        "sunrise": "iso8601",
-        "sunset": "iso8601"
-      },
-      "daily": {
-        "time": [
-          "2026-10-01"
-        ],
-        "sunrise": [
-          "2026-10-01T08:10"
-        ],
-        "sunset": [
-          "2026-10-01T19:57"
-        ]
+      "4x5": {
+        "path": "es-01-120-r1-4x5.png",
+        "sha256": "cffed7e52668a43ecf0ece4eea90b3d5aed744302cc98ca3a9bb0f8bd3320aab"
       }
     },
-    "solar": {
-      "method": "NOAA fractional-year geometric approximation, not observation",
-      "elevation_deg": -53.38,
-      "azimuth_deg": 7.03
-    }
+    "masters": {
+      "16x9": {
+        "path": "es-01-120-daylight-16x9.png",
+        "width": 1920,
+        "height": 1270,
+        "sha256": "075bfb22bd4c243516ff050a62cc331e89de419bb134d06140c42ea41284764a"
+      },
+      "4x5": {
+        "path": "es-01-120-daylight-4x5.png",
+        "width": 864,
+        "height": 1270,
+        "sha256": "9381f0a96de581751f62b52279ab486a4de3296aa270163cfd44f579c2362f3d"
+      }
+    },
+    "on_image_text": [
+      "Tablas de Daimiel, Daimiel",
+      "☀ Daylight variant · derived from the night interpretation",
+      "AI-generated artistic interpretation",
+      "Jason D’s Vision"
+    ],
+    "art50_png_chunks": [
+      "Title",
+      "Description",
+      "Copyright",
+      "Software",
+      "Comment"
+    ],
+    "country": "Spain"
   }
 }

@@ -1,194 +1,135 @@
 {
   "entry_id": "ES-01-144",
   "country": "Spain",
-  "city": "Altea",
   "region": "Valencian Community",
+  "city": "Altea",
   "caption": "Old town, Altea",
-  "revision": "r1",
-  "viewpoint": "the old town lanes below the church, looking up at the dome",
-  "anchors": [
-    "Altea's white old town crowned by the blue-domed church",
-    "the church of Nuestra Señora del Consuelo over the rooftops",
-    "the bay and the Peñón de Ifach on the horizon"
-  ],
-  "limitations": "Text-only generation; no photographic input. Exact camera position unverified.",
-  "refs": [
-    [
-      "https://en.wikipedia.org/wiki/Altea",
-      "Wikipedia — Altea, white town on the Costa Blanca"
-    ],
-    [
-      "https://www.comunitatvalenciana.com",
-      "Official Valencian Community tourism portal — verify the Altea listing before use"
-    ]
-  ],
-  "status": "Approved · Cosmo QC 5/5 · Night",
-  "approval_state": "approved",
-  "scenario_label": "24 September 2026 · 04:20 Europe/Madrid",
+  "scenario_label": "1 October 2026 · 02:30 Europe/Madrid",
+  "composition": "Night · the paired blue-and-white domes of Nuestra Señora del Consuelo · AI-generated artistic interpretation",
+  "alt_text": "AI-generated artistic interpretation of Altea old town at night, with the paired blue-and-white glazed domes of Nuestra Señora del Consuelo and the square bell tower, seen from the lanes below the church.",
+  "description": "From the old-town lanes at night, whitewashed houses climb toward Nuestra Señora del Consuelo. Two blue-and-white glazed domes crown the church: the larger dome on its octagonal drum and the smaller lanterned dome of the Communion chapel, with the square bell tower at the left of the façade.",
+  "viewpoint": "The old town lanes below the church, looking up at the dome. Exact generated camera correspondence is unverified.",
+  "status": "Candidate · architectural rebuild · awaiting Cosmo re-audit · Night",
+  "approval_state": "candidate",
+  "gates": {
+    "visual": "pending — Cosmo re-audit; no pass claimed",
+    "technical": "pending — Cosmo re-audit; local dimension and Art.50 checks only",
+    "provenance": "pending — Cosmo re-audit; generation lineage recorded, uniqueness unverified",
+    "commercial_ip": "pending — Cosmo re-audit; not legal certification",
+    "publication": "candidate only — not approved for the gallery"
+  },
+  "weather": "Model data from Open-Meteo, retrieved 1 October 2026 02:30:12 Europe/Madrid, valid 02:30 Europe/Madrid — not a verified on-site observation. 25.0°C, WMO 3 overcast, cloud 100%, precipitation 0.0 mm, wind 8.5 km/h. Sunrise 07:55, sunset 19:43. Approximate solar elevation -52.92°, azimuth 16.85°. Night; no direct sunlight.",
+  "limitations": "Candidate only. No Cosmo QC is claimed for these bytes. 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top 864×1080 of an 864×1152 generated source and drop 72 pixels of foreground. Dimensions do not imply native detail. Open-Meteo figures are model data, not an on-site observation. Exact camera correspondence is not surveyed.",
+  "file_16x9": "es-01-144-cand-r1-16x9.png",
+  "file_4x5": "es-01-144-cand-r1-4x5.png",
+  "license_badge": "Free · no credit needed",
+  "license_anchor": "#license",
+  "editions": [],
   "time_of_day": "Night",
-  "composition": "Night · the white town under its blue dome · AI-generated artistic interpretation",
-  "alt_text": "AI-generated artistic interpretation of Old town at night.",
-  "description": "From the sea at night, Altea's white town rises over the dark water with its famous blue-tiled dome glowing at the crown. You face the old town's profile across the frame, whitewashed houses climbing the hill under the floodlit church. The night Mediterranean laps the shore while the town shines against the dark.",
-  "file_16x9": "es-01-144-r1-16x9.png",
-  "file_4x5": "es-01-144-r1-4x5.png",
+  "revision_lineage": "Full rebuild for wo-spain-architectural-rework-2026-09-30 pack 7. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. Previous masters remain in the repository as superseded bytes.",
+  "review_history": [
+    {
+      "date": "2026-10-01",
+      "previous_status": "Approved · Cosmo QC 5/5 · Night",
+      "previous_approval_state": "approved",
+      "previous_files": {
+        "16x9": "es-01-144-r1-16x9.png",
+        "4x5": "es-01-144-r1-4x5.png",
+        "9x16": null
+      },
+      "resolution": "Architectural rebuild cand-r1 landed as Candidate. The prior approval covered the previous bytes only. It does not cover cand-r1. No Cosmo re-audit is claimed."
+    }
+  ],
+  "approval_basis": "Not approved. cand-r1 is an architectural rebuild awaiting Cosmo re-audit. The earlier Cosmo approval applied only to the previous master bytes and is retained in review_history.",
   "dimensions": {
     "16x9": {
       "width": 1920,
       "height": 1270,
-      "sha256": "62521ad153e33490fa4137f5ce44b010425fe11baa6fc4a4ab68121e55f8ef63"
+      "sha256": "41989570d8a173b70547c09f0363192beb18ef6a7ba22a345f30a0230fa899d9",
+      "bytes": 2026667,
+      "source_width": 1280,
+      "source_height": 720,
+      "resampled": true
     },
     "4x5": {
       "width": 864,
       "height": 1270,
-      "sha256": "ec12bad03e18a3cec5c79c489bbb7005e6d9c9c171b31297098aa93efe3fb9b5"
-    }
-  },
-  "masters": {
-    "16x9": {
-      "file": "es-01-144-r1-16x9.png",
-      "dimensions": [
-        1920,
-        1270
-      ],
-      "byte_length": 2428941,
-      "sha256": "62521ad153e33490fa4137f5ce44b010425fe11baa6fc4a4ab68121e55f8ef63",
-      "source_file": "media-generation-es-01-144-source-0-3ecc5991-1534-4ea4-8b9c-ee0fe0dee1e2.png",
-      "source_dimensions": [
-        1408,
-        1760
-      ],
-      "crop_center": [
-        0.5,
-        0.5
-      ],
-      "labels": [
-        "Old town, Altea",
-        "Scenario: 24 September 2026 · 04:20 Europe/Madrid",
-        "AI-generated artistic interpretation · Not a photograph."
-      ],
-      "signature": "Jason D’s Vision",
-      "format": "PNG",
-      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
-      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
+      "sha256": "4e604ffc1e2dd5b89fcb7203d36370a675574f0dc6d48439bd1f58cecd90bed5",
+      "bytes": 1157733,
+      "source_width": 864,
+      "source_height": 1152,
+      "resampled": false
     },
-    "4x5": {
-      "file": "es-01-144-r1-4x5.png",
-      "dimensions": [
-        864,
-        1270
-      ],
-      "byte_length": 1243662,
-      "sha256": "ec12bad03e18a3cec5c79c489bbb7005e6d9c9c171b31297098aa93efe3fb9b5",
-      "source_file": "media-generation-es-01-144-source-0-3ecc5991-1534-4ea4-8b9c-ee0fe0dee1e2.png",
-      "source_dimensions": [
-        1408,
-        1760
-      ],
-      "crop_center": [
-        0.5,
-        0.5
-      ],
-      "labels": [
-        "Old town, Altea",
-        "Scenario: 24 September 2026 · 04:20 Europe/Madrid",
-        "AI-generated artistic interpretation · Not a photograph."
-      ],
-      "signature": "Jason D’s Vision",
-      "format": "PNG",
-      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
-      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 864x1080. Not native target-resolution detail."
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "fbe1c691bbe5536089a780b4d4fc029ac558435bc64d735a8f39436c0d9e2fab",
+      "bytes": 2547264,
+      "source_width": 720,
+      "source_height": 1280,
+      "resampled": true
     }
   },
-  "conditions": {
-    "provider": "Open-Meteo",
-    "retrieved": "2026-09-24T04:20:16+02:00",
-    "valid": "2026-09-24T04:15 Europe/Madrid",
-    "phrase": "clear night, light breeze",
-    "note": "Model data — not a verified on-site observation."
-  },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T04:20:16+02:00, valid 2026-09-24T04:15 Europe/Madrid — not a verified on-site observation.",
-  "prompts": {
-    "prompt-r1.txt": "Photorealistic original artistic interpretation (not a photograph) of the old town of Altea, Valencian Community, Spain. Tourist viewpoint: the old town lanes below the church, looking up at the dome. Frame: Altea's white old town crowned by the blue-domed church; the church of Nuestra Señora del Consuelo over the rooftops; the bay beyond the town. Light and weather: clear night, light breeze. Main subject centered to survive a 4:5 center crop. No identifiable people, no legible logos, no text, lettering or signs anywhere in the image. Keep the lower third clean and uncluttered."
-  },
-  "source_files": [
-    {
-      "file": "media-generation-es-01-144-source-0-3ecc5991-1534-4ea4-8b9c-ee0fe0dee1e2.png",
-      "sha256": "d816276ea29e76a7bcf8a789cf04b1497469439d24fa6b57f27099f0696d46e7",
-      "dimensions": [
-        1408,
-        1760
-      ],
-      "selected": true
-    }
-  ],
-  "provenance": {
-    "tool": "Built-in image generation; specific model version not exposed",
-    "image_inputs": [],
-    "source_use": "Text-only original generation. Third-party photographs inspected for facts, not supplied as input pixels. No uniqueness guarantee.",
-    "lineage": "Same selected source cropped and uniformly Lanczos-resampled to two exact PNGs; factual text and upward-fading scrim added deterministically. No stretching.",
-    "resampling": "Source [1408, 1760]; uniform Lanczos enlargement/crop to exact 1920x1080 and 864x1080. Not native target-resolution detail."
-  },
-  "production_checks": {
-    "technical": "Both PNGs fully decode, dimensions exact; label boxes in frame. Technical checks are not independent Cosmo QC.",
-    "visual": "Production comparison and limitations documented; not an independent gate verdict.",
-    "originality": "Own generated pixels; uniqueness not established.",
-    "commercial_ip": "No prominent people/logos or artwork focal subject; third-party clearance not legally certified.",
-    "publication": "Candidate handoff only. No approval inferred."
-  },
-  "independent_qc": {
-    "reviewer": "Cosmo",
-    "verdict": "Awaiting review",
-    "exact_pair_required": true
-  },
-  "card_handoff": {
-    "owner": "Cosmo",
-    "placement": "Candidate pipeline, two-format card (16:9/4:5 tabs, both downloads)",
-    "preserve": "caption, scenario, composition, description, status, disclosure, license, search/navigation and country switcher"
-  },
-  "license_badge": "Free · no credit needed",
-  "license_anchor": "#license",
-  "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
-  "reference_evidence": [],
-  "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor G: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/G/ES-01-144.md. r1.",
-  "daylight_variant": {
-    "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
-    "source_night": {
-      "16x9": {
-        "path": "es-01-144-r1-16x9.png",
-        "sha256": "62521ad153e33490fa4137f5ce44b010425fe11baa6fc4a4ab68121e55f8ef63"
+  "revision": "cand-r1",
+  "file_9x16": "es-01-144-cand-r1-9x16.png",
+  "evidence_card": "evidence/ES-01-144.json",
+  "land_as": "Candidate",
+  "conditions_record": {
+    "retrieved_local": "2026-10-01T02:30:12.611440+02:00",
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=38.5989&longitude=-0.0513&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
+    "requested_coordinates": [
+      38.5989,
+      -0.0513
+    ],
+    "response": {
+      "latitude": 38.625,
+      "longitude": -0.0625,
+      "generationtime_ms": 79.53119277954102,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 59.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
       },
-      "4x5": {
-        "path": "es-01-144-r1-4x5.png",
-        "sha256": "ec12bad03e18a3cec5c79c489bbb7005e6d9c9c171b31297098aa93efe3fb9b5"
+      "current": {
+        "time": "2026-10-01T02:30",
+        "interval": 900,
+        "temperature_2m": 25.0,
+        "weather_code": 3,
+        "cloud_cover": 100,
+        "is_day": 0,
+        "precipitation": 0.0,
+        "wind_speed_10m": 8.5
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T07:55"
+        ],
+        "sunset": [
+          "2026-10-01T19:43"
+        ]
       }
     },
-    "masters": {
-      "16x9": {
-        "path": "es-01-144-daylight-16x9.png",
-        "width": 1920,
-        "height": 1270,
-        "sha256": "d7ccc8036324b8b8db9a8504663831628650cee90fae712896fa6bb79d24f7a3"
-      },
-      "4x5": {
-        "path": "es-01-144-daylight-4x5.png",
-        "width": 864,
-        "height": 1270,
-        "sha256": "711b82eb8ce8334e9764423c16c1bc9b4fd9d4dc9522e0b54b2c0e608e42c10a"
-      }
-    },
-    "on_image_text": [
-      "Old town, Altea",
-      "☀ Daylight variant · derived from the night interpretation",
-      "AI-generated artistic interpretation",
-      "Jason D’s Vision"
-    ],
-    "art50_png_chunks": [
-      "Title",
-      "Description",
-      "Copyright",
-      "Software",
-      "Comment"
-    ],
-    "country": "Spain"
+    "solar": {
+      "method": "NOAA fractional-year geometric approximation, not observation",
+      "elevation_deg": -52.92,
+      "azimuth_deg": 16.85
+    }
   }
 }
