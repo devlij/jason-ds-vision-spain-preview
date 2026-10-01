@@ -1,200 +1,135 @@
 {
   "entry_id": "ES-01-252",
   "country": "Spain",
-  "city": "Lleida",
   "region": "Catalonia",
+  "city": "Lleida",
   "caption": "La Seu Vella, Lleida",
-  "revision": "r1",
-  "viewpoint": "Avinguda Enric Granados below the hill, slightly elevated, facing the cathedral. Exact camera point approximate.",
-  "anchors": [
-    "Romanesque-Gothic hilltop cathedral with slender octagonal bell tower",
-    "Fortress walls of the Turó de la Seu slope down around it",
-    "Warm lamps line the ramparts and terraced gardens"
-  ],
-  "limitations": "Exact camera point approximate; restrained night interpretation — no claim about the cathedral's actual night illumination; current conditions unverified. Weather retrieval recorded to minute precision from local build evidence.",
-  "refs": [
-    [
-      "https://en.wikipedia.org/wiki/Old_Cathedral_of_Lleida",
-      "Old Cathedral of Lleida (La Seu Vella, hilltop, octagonal bell tower)"
-    ],
-    [
-      "https://www.ad-hoc-news.de/unterhaltung/reisen/la-seu-vella-lleida-s-hilltop-cathedral-fortress/70109219",
-      "La Seu Vella guide (hilltop cathedral-fortress over Lleida)"
-    ]
-  ],
-  "status": "Approved · Cosmo QC 5/5 · Night",
-  "approval_state": "approved",
-  "scenario_label": "24 September 2026 · 01:18 Europe/Madrid",
+  "scenario_label": "1 October 2026 · 04:00 Europe/Madrid",
+  "composition": "Night · octagonal campanar crowned with pinnacles and gables · AI-generated artistic interpretation",
+  "alt_text": "AI-generated artistic interpretation of La Seu Vella at night, the octagonal bell tower crowned by Gothic pinnacles and gables.",
+  "description": "From Avinguda Enric Granados at night, La Seu Vella rises on the hill. The octagonal campanar is crowned by an openwork ring of pinnacles and gables, and the crossing cimbori is a windowed lantern, not a pointed cap.",
+  "viewpoint": "Avinguda Enric Granados below the hill, slightly elevated, facing the cathedral. Exact camera point approximate. Exact generated camera correspondence is unverified.",
+  "status": "Candidate · architectural rebuild · awaiting Cosmo re-audit · Night",
+  "approval_state": "candidate",
+  "gates": {
+    "visual": "pending — Cosmo re-audit; no pass claimed",
+    "technical": "pending — Cosmo re-audit; local dimension and Art.50 checks only",
+    "provenance": "pending — Cosmo re-audit; generation lineage recorded, uniqueness unverified",
+    "commercial_ip": "pending — Cosmo re-audit; not legal certification",
+    "publication": "candidate only — not approved for the gallery"
+  },
+  "weather": "Model data from Open-Meteo, retrieved 1 October 2026 04:04:41 Europe/Madrid, valid 04:00 Europe/Madrid — not a verified on-site observation. 19.7°C, WMO 1 mainly clear, cloud 43%, precipitation 0.0 mm, wind 4.6 km/h. Sunrise 07:54, sunset 19:39. Approximate solar elevation -41.01°, azimuth 46.46°. Night; no direct sunlight.",
+  "limitations": "Candidate only. No Cosmo QC is claimed for these bytes. 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top 864×1080 of an 864×1152 generated source and drop 72 pixels of foreground. Dimensions do not imply native detail. Open-Meteo figures are model data, not an on-site observation. Exact camera correspondence is not surveyed.",
+  "file_16x9": "es-01-252-cand-r1-16x9.png",
+  "file_4x5": "es-01-252-cand-r1-4x5.png",
+  "license_badge": "Free · no credit needed",
+  "license_anchor": "#license",
+  "editions": [],
   "time_of_day": "Night",
-  "composition": "Night · Hilltop old cathedral over the fortress walls at night · AI-generated artistic interpretation",
-  "alt_text": "AI-generated artistic interpretation of La Seu Vella, Lleida at night.",
-  "description": "Look up at Lleida's La Seu Vella at night. The hilltop old cathedral crowns the center of the frame, its great bell tower and Gothic bulk rising above the fortress walls, with the city's lights spreading below left and right. From down here it looks like a stone ship riding the hill.",
-  "file_16x9": "es-01-252-r1-16x9.png",
-  "file_4x5": "es-01-252-r1-4x5.png",
+  "revision_lineage": "Full rebuild for wo-spain-architectural-rework-2026-09-30 pack 12. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. Previous masters remain in the repository as superseded bytes.",
+  "review_history": [
+    {
+      "date": "2026-10-01",
+      "previous_status": "Approved · Cosmo QC 5/5 · Night",
+      "previous_approval_state": "approved",
+      "previous_files": {
+        "16x9": "es-01-252-r1-16x9.png",
+        "4x5": "es-01-252-r1-4x5.png",
+        "9x16": null
+      },
+      "resolution": "Architectural rebuild cand-r1 landed as Candidate. The prior approval covered the previous bytes only. It does not cover cand-r1. Daylight derivatives of those previous night masters are not part of cand-r1. No Cosmo re-audit is claimed."
+    }
+  ],
+  "approval_basis": "Not approved. cand-r1 is an architectural rebuild awaiting Cosmo re-audit. The earlier Cosmo approval applied only to the previous master bytes and is retained in review_history.",
   "dimensions": {
     "16x9": {
       "width": 1920,
       "height": 1270,
-      "sha256": "b6a3aa9be5c0d41315113e119ba74c663dabcd8612fc24b02cc419b6ff069ef9"
+      "sha256": "4a97c61af0690733ba529ba5daeb96e8c0cbae15a1f5b46da03dae75cf6c059a",
+      "bytes": 1901467,
+      "source_width": 1280,
+      "source_height": 720,
+      "resampled": true
     },
     "4x5": {
       "width": 864,
       "height": 1270,
-      "sha256": "57cb0a81d3ad7a74cda0ab7a6a356653c14ac3979d839ff6107929b9969ee90b"
-    }
-  },
-  "masters": {
-    "16x9": {
-      "file": "es-01-252-r1-16x9.png",
-      "dimensions": [
-        1920,
-        1270
-      ],
-      "byte_length": 2702259,
-      "sha256": "b6a3aa9be5c0d41315113e119ba74c663dabcd8612fc24b02cc419b6ff069ef9",
-      "source_file": "source-252.png",
-      "source_dimensions": [
-        1408,
-        1760
-      ],
-      "crop_center": [
-        0.5,
-        0.5
-      ],
-      "labels": [
-        "La Seu Vella, Lleida",
-        "Scenario: 24 September 2026 · 01:18 Europe/Madrid",
-        "AI-generated artistic interpretation · Not a photograph."
-      ],
-      "signature": "Jason D’s Vision",
-      "format": "PNG",
-      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
-      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
+      "sha256": "f5249051e0a541b304c471028cdccd64158d82b79adba116c0b5a3e76703f8da",
+      "bytes": 1296459,
+      "source_width": 864,
+      "source_height": 1152,
+      "resampled": false
     },
-    "4x5": {
-      "file": "es-01-252-r1-4x5.png",
-      "dimensions": [
-        864,
-        1270
-      ],
-      "byte_length": 1217441,
-      "sha256": "57cb0a81d3ad7a74cda0ab7a6a356653c14ac3979d839ff6107929b9969ee90b",
-      "source_file": "source-252.png",
-      "source_dimensions": [
-        1408,
-        1760
-      ],
-      "crop_center": [
-        0.5,
-        0.5
-      ],
-      "labels": [
-        "La Seu Vella, Lleida",
-        "Scenario: 24 September 2026 · 01:18 Europe/Madrid",
-        "AI-generated artistic interpretation · Not a photograph."
-      ],
-      "signature": "Jason D’s Vision",
-      "format": "PNG",
-      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
-      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 864x1080. Not native target-resolution detail."
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "6630d40036fd91ffe30bba30755ca722cfefffc33cf5cbcbf3b64e6211807886",
+      "bytes": 2143450,
+      "source_width": 720,
+      "source_height": 1280,
+      "resampled": true
     }
   },
-  "conditions": {
-    "provider": "Open-Meteo",
-    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=41.6184&longitude=0.6251&current=temperature_2m%2Cweather_code%2Ccloud_cover%2Cis_day%2Cprecipitation%2Cwind_speed_10m&daily=sunrise%2Csunset&timezone=Europe%2FMadrid&forecast_days=1",
-    "retrieved_local": "2026-09-24T01:18+02:00",
-    "valid_local": "2026-09-24T01:15",
-    "temperature_c": 20.3,
-    "weather_code": 1,
-    "weather_word": "mainly clear",
-    "cloud_cover_pct": 20,
-    "is_day": 0,
-    "wind_kmh": 3.6
-  },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T01:12:51+02:00, valid 2026-09-24T01:15 Europe/Madrid — not a verified on-site observation.",
-  "prompts": {
-    "prompt-r1.txt": "Photorealistic artistic interpretation of La Seu Vella, the old cathedral of Lleida, Catalonia, at night, viewed from the Enric Granados avenue below. The Romanesque-Gothic hilltop cathedral with its slender octagonal bell tower rises centered on the illuminated hill; the fortress walls and terraced gardens of the Turó de la Seu slope down toward the viewer; warm lamps along the ramparts glow under a deep blue night sky. No dramatic floodlighting claimed — restrained night interpretation."
-  },
-  "source_files": [
-    {
-      "file": "source-252.png",
-      "sha256": "56b2b4d1e9d5e72b0fb48f8f6a4210474d56169718de017caeb9194aea4c85be",
-      "dimensions": [
-        1408,
-        1760
-      ],
-      "selected": true
-    }
-  ],
-  "provenance": {
-    "tool": "Built-in image generation; specific model version not exposed",
-    "image_inputs": [],
-    "source_use": "Text-only original generation. Third-party photographs inspected for facts, not supplied as input pixels. No uniqueness guarantee.",
-    "lineage": "Same selected source cropped and uniformly Lanczos-resampled to two exact PNGs; factual text and upward-fading scrim added deterministically. No stretching.",
-    "resampling": "Source [1408, 1760]; uniform Lanczos enlargement/crop to exact 1920x1080 and 864x1080. Not native target-resolution detail."
-  },
-  "production_checks": {
-    "technical": "Both PNGs fully decode, dimensions exact; label boxes in frame. Technical checks are not independent Cosmo QC.",
-    "visual": "Production comparison and limitations documented; not an independent gate verdict.",
-    "originality": "Own generated pixels; uniqueness not established.",
-    "commercial_ip": "No prominent people/logos or artwork focal subject; third-party clearance not legally certified.",
-    "publication": "Candidate handoff only. No approval inferred."
-  },
-  "independent_qc": {
-    "reviewer": "Cosmo",
-    "verdict": "Awaiting review",
-    "exact_pair_required": true
-  },
-  "card_handoff": {
-    "owner": "Cosmo",
-    "placement": "Candidate pipeline, two-format card (16:9/4:5 tabs, both downloads)",
-    "preserve": "caption, scenario, composition, description, status, disclosure, license, search/navigation and country switcher"
-  },
-  "license_badge": "Free · no credit needed",
-  "license_anchor": "#license",
-  "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
-  "reference_evidence": [],
-  "approval_basis": "Gate 1: La Seu Vella recognizable — hilltop old cathedral with tall tower and octagonal dome, long terraced stone ramparts descending the slope, warm lamp line along the walls against a dark blue night sky; plausible tourist viewpoint from across the valley; clean framing, no artifacts. Gate 2: sweep verified 1920x1080 + 864x1080 and SHA-256 match; on-image caption, Scenario 24 September 2026 01:18 Europe/Madrid, AI disclosure bottom-left on gradient scrim, exact Jason Ds Vision signature (curly apostrophe) bottom-right; weather retrieved 01:12:51 valid 01:15 — fresh. Gate 3: packet documents image_inputs empty, text-only original generation, third-party photographs inspected for facts only. Gate 4: no people, logos, or recognizable private property visible — documented only. Gate 5: no open blockers.",
-  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals).",
-  "daylight_variant": {
-    "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
-    "source_night": {
-      "16x9": {
-        "path": "es-01-252-r1-16x9.png",
-        "sha256": "b6a3aa9be5c0d41315113e119ba74c663dabcd8612fc24b02cc419b6ff069ef9"
+  "revision": "cand-r1",
+  "file_9x16": "es-01-252-cand-r1-9x16.png",
+  "evidence_card": "evidence/ES-01-252.json",
+  "land_as": "Candidate",
+  "conditions_record": {
+    "retrieved_local": "2026-10-01T04:04:41.849707+02:00",
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=41.6178&longitude=0.6265&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
+    "requested_coordinates": [
+      41.6178,
+      0.6265
+    ],
+    "response": {
+      "latitude": 41.625,
+      "longitude": 0.625,
+      "generationtime_ms": 0.0858306884765625,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 230.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
       },
-      "4x5": {
-        "path": "es-01-252-r1-4x5.png",
-        "sha256": "57cb0a81d3ad7a74cda0ab7a6a356653c14ac3979d839ff6107929b9969ee90b"
+      "current": {
+        "time": "2026-10-01T04:00",
+        "interval": 900,
+        "temperature_2m": 19.7,
+        "weather_code": 1,
+        "cloud_cover": 43,
+        "is_day": 0,
+        "precipitation": 0.0,
+        "wind_speed_10m": 4.6
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T07:54"
+        ],
+        "sunset": [
+          "2026-10-01T19:39"
+        ]
       }
     },
-    "masters": {
-      "16x9": {
-        "path": "es-01-252-daylight-16x9.png",
-        "width": 1920,
-        "height": 1270,
-        "sha256": "7868c1bbc416884ebaa8ec3e20d8ad35d6040a22f150af51e4c2eb882e413d8e"
-      },
-      "4x5": {
-        "path": "es-01-252-daylight-4x5.png",
-        "width": 864,
-        "height": 1270,
-        "sha256": "85d087ec4fd709a1bdbd9627e4fa2820c685505bdab65911a718f7578d7ce93f"
-      }
-    },
-    "on_image_text": [
-      "La Seu Vella, Lleida",
-      "☀ Daylight variant · derived from the night interpretation",
-      "AI-generated artistic interpretation · Not a photograph.",
-      "Jason D’s Vision"
-    ],
-    "art50_png_chunks": [
-      "Title",
-      "Description",
-      "Copyright",
-      "Software",
-      "Comment"
-    ],
-    "country": "Spain"
+    "solar": {
+      "method": "NOAA fractional-year geometric approximation, not observation",
+      "elevation_deg": -41.01,
+      "azimuth_deg": 46.46
+    }
   }
 }
