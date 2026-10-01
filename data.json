@@ -6,16 +6,16 @@
       "region": "Andalusia",
       "city": "Córdoba",
       "caption": "Puerta del Puente, Córdoba",
-      "scenario_label": "23 September 2026 · 02:36 Europe/Madrid",
-      "composition": "Night · The freestanding Renaissance gate viewed from Plaza del Triunfo toward the Roman Bridge · AI-generated artistic interpretation",
-      "alt_text": "AI-generated artistic interpretation of Puerta del Puente in Córdoba at night, with the bridge visible through its opening.",
-      "description": "Pale stone columns frame the rectangular passage at the northern end of the Roman Bridge. This early Spain scene looks through the gate from Plaza del Triunfo toward the river crossing. Former entry ID: ES-AN-001.",
+      "scenario_label": "30 September 2026 · 23:56 Europe/Madrid",
+      "composition": "Night · Puerta del Puente from Plaza del Triunfo toward the Roman Bridge · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Puerta del Puente in Córdoba at night, with two warriors and the Crown of Spain shield in the circular pediment above the Philip II inscription, and the Roman Bridge beyond.",
+      "description": "The unfinished circular pediment carries two warriors displaying the Crown of Spain shield. Beneath it is the Philip II dedicatory inscription. The Roman Bridge shows through the passage from Plaza del Triunfo.",
       "viewpoint": "Plaza del Triunfo, looking toward the bridge. Exact camera point remains provisional.",
-      "status": "Approved · Cosmo QC 5/5 · Night",
+      "status": "Candidate · architectural rebuild · awaiting Cosmo re-audit · Night",
       "limitations": "Cosmo QC approved; historical provenance and weather notes retained.",
-      "weather": "Historical provider report: mostly clear, about 20°C — not a verified on-site observation.",
-      "file_16x9": "es-01-017-16x9.png",
-      "file_4x5": "es-01-017-4x5.png",
+      "weather": "Model data from Open-Meteo, retrieved 30 September 2026 23:56:56 Europe/Madrid, valid 23:45 Europe/Madrid — not a verified on-site observation. 24.3°C, WMO 3 overcast, cloud 78%, precipitation 0.0 mm, wind 2.2 km/h. Sunrise 08:13, sunset 20:03. Approximate solar elevation -43.61°, azimuth 311.33°. Night; no direct sunlight.",
+      "file_16x9": "es-01-017-cand-r1-16x9.png",
+      "file_4x5": "es-01-017-cand-r1-4x5.png",
       "license_badge": "Free · no credit needed",
       "license_anchor": "#license",
       "editions": [
@@ -32,32 +32,52 @@
       "legacy_ids": [
         "ES-AN-001"
       ],
-      "approval_state": "approved",
+      "approval_state": "candidate",
       "gates": {
-        "visual": "pass",
-        "technical": "pass",
-        "provenance": "pass",
-        "commercial_ip": "pass",
-        "publication": "pass"
+        "visual": "pending — Cosmo re-audit; no pass claimed",
+        "technical": "pending — Cosmo re-audit; local dimension and Art.50 checks only",
+        "provenance": "pending — Cosmo re-audit; generation lineage recorded, uniqueness unverified",
+        "commercial_ip": "pending — Cosmo re-audit; not legal certification",
+        "publication": "candidate only — not approved for the gallery"
       },
-      "approval_basis": "Cosmo QC: 5/5 approved, relayed and authorized by Jason on 23 September 2026. Internal review, not legal certification.",
+      "approval_basis": "Not approved. cand-r1 is an architectural rebuild awaiting Cosmo re-audit. The earlier Cosmo approval applied only to the previous master bytes and is retained in review_history.",
       "dimensions": {
         "16x9": {
           "width": 1920,
           "height": 1270,
-          "sha256": "bc9f0972a563a4e1f1fdf97291d5c701e26710f1ba08a2cc9fb6796d8e1cea67"
+          "sha256": "6e8b9202332934d92e61c00d31728f8288e96fefb6037afebffc69186ed257da",
+          "bytes": 2125512,
+          "source_width": 1280,
+          "source_height": 720,
+          "resampled": true
         },
         "4x5": {
           "width": 864,
           "height": 1270,
-          "sha256": "4c97ccf9bc2ca331d4149da420567ff9d7a207159c480c665a57dd853fa7176a"
+          "sha256": "1a14ad5f3ff7949656eafd989d2e744b800617ad0a20892a752b1c27d969e9d0",
+          "bytes": 1154288,
+          "source_width": 864,
+          "source_height": 1152,
+          "resampled": true
+        },
+        "9x16": {
+          "width": 1080,
+          "height": 2110,
+          "sha256": "c6c2e2d639a18f648dac07ecfb493e5cea325eb05b3fa35d5e0a44a6be9fa20a",
+          "bytes": 2097300,
+          "source_width": 720,
+          "source_height": 1280,
+          "resampled": true
         }
       },
       "file_naming_note": "Canonical ES-01 filenames are byte-identical copies. ES-AN filenames are retained only as compatibility aliases for historical links.",
       "daylight_16x9": "es-01-017-daylight-16x9.png",
       "daylight_4x5": "es-01-017-daylight-4x5.png",
       "daylight_interim": true,
-      "audio": "audio/es-01-017-narration.mp3"
+      "audio": "audio/es-01-017-narration.mp3",
+      "file_9x16": "es-01-017-cand-r1-9x16.png",
+      "land_as": "Candidate",
+      "revision": "cand-r1"
     },
     {
       "entry_id": "ES-01-018",
@@ -220,28 +240,28 @@
       "region": "Catalonia",
       "city": "Barcelona",
       "caption": "Park Güell, Barcelona",
-      "scenario_label": "23 September 2026 · 09:33 Europe/Madrid",
-      "composition": "Morning daylight · Entrance pavilions from the Dragon Stairway · AI-generated artistic interpretation",
-      "alt_text": "AI-generated artistic interpretation of Park Güell entrance pavilions seen downhill from the staircase in morning daylight.",
-      "description": "The larger entrance pavilion stands left, with the smaller pavilion and its checkerboard cross-topped tower to the right. Both formats retain the complete pavilions and tower crown. Approved following Cosmo QC 5/5, relayed by Jason on 23 September 2026.",
+      "scenario_label": "30 September 2026 · 23:56 Europe/Madrid",
+      "composition": "Night · Entrance pavilions from the Dragon Stairway, checkered tower on the left · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Park Güell at night from the Dragon Stairway, with the blue-and-white checkered Casa del Guarda tower on the viewer's left and the shorter pavilion on the right.",
+      "description": "Looking downhill south-southeast, the eastern Casa del Guarda and its blue-and-white checkered tower stand on the viewer's left. The shorter western reception pavilion stands on the right. The trencadís salamander sits on the stair between them.",
       "viewpoint": "Dragon Stairway upper landing, looking downhill approximately south-southeast. Exact generated camera correspondence is unverified.",
-      "status": "Approved · Cosmo QC 5/5 · Morning daylight",
-      "approval_state": "approved",
+      "status": "Candidate · architectural rebuild · awaiting Cosmo re-audit · Night",
+      "approval_state": "candidate",
       "gates": {
-        "visual": "pass — Cosmo QC relayed by Jason",
-        "technical": "pass — Cosmo QC relayed by Jason",
-        "provenance": "pass — Cosmo QC relayed by Jason",
-        "commercial_ip": "pass — Cosmo QC relayed by Jason",
-        "publication": "pass — Cosmo QC relayed by Jason"
+        "visual": "pending — Cosmo re-audit; no pass claimed",
+        "technical": "pending — Cosmo re-audit; local dimension and Art.50 checks only",
+        "provenance": "pending — Cosmo re-audit; generation lineage recorded, uniqueness unverified",
+        "commercial_ip": "pending — Cosmo re-audit; not legal certification",
+        "publication": "candidate only — not approved for the gallery"
       },
-      "weather": "Model data from Open-Meteo, retrieved 23 September 2026 09:33:41 Europe/Madrid, valid 09:30 Europe/Madrid — not a verified on-site observation. 19.9°C, mainly clear, cloud 12%. Sunrise 07:39, sunset 19:47; morning daylight.",
+      "weather": "Model data from Open-Meteo, retrieved 30 September 2026 23:56:49 Europe/Madrid, valid 23:45 Europe/Madrid — not a verified on-site observation. 22.3°C, WMO 3 overcast, cloud 100%, precipitation 0.0 mm, wind 2.1 km/h. Sunrise 07:47, sunset 19:35. Approximate solar elevation -44.7°, azimuth 321.85°. Night; no direct sunlight.",
       "limitations": "Cosmo QC approved. Historical research and generation lineage retained.",
-      "file_16x9": "es-01-002-16x9.png",
-      "file_4x5": "es-01-002-4x5.png",
+      "file_16x9": "es-01-002-cand-r1-16x9.png",
+      "file_4x5": "es-01-002-cand-r1-4x5.png",
       "license_badge": "Free · no credit needed",
       "license_anchor": "#license",
       "editions": [],
-      "time_of_day": "Morning daylight",
+      "time_of_day": "Night",
       "revision_lineage": "Text-only built-in image generation followed by one own-image framing edit. Same-source crop and gradient text exports. No photographic image inputs.",
       "review_history": [
         {
@@ -256,20 +276,40 @@
           "resolution": "Superseded for editorial gallery placement by Cosmo QC APPROVED 5/5, relayed and authorized by Jason on 2026-09-23. Historical internal concerns retained."
         }
       ],
-      "approval_basis": "Cosmo QC APPROVED 5/5, 2026-09-23, relayed by Jason: honest 09:33 morning daylight; both pavilions and cross-topped tower fully framed in both formats; text and signature clean. Internal QC, not legal certification.",
+      "approval_basis": "Not approved. cand-r1 is an architectural rebuild awaiting Cosmo re-audit. The earlier Cosmo approval applied only to the previous master bytes and is retained in review_history.",
       "dimensions": {
         "16x9": {
           "width": 1920,
           "height": 1270,
-          "sha256": "3ecaf5c41455e66f969b80d39e7fe63f6e1b2cf5858b42629f2482ae82a87311"
+          "sha256": "c748b41373c2e63858b943f68aaf49c09fda2a169fc9db31de7bf4b868b90354",
+          "bytes": 2398167,
+          "source_width": 1280,
+          "source_height": 720,
+          "resampled": true
         },
         "4x5": {
           "width": 864,
           "height": 1270,
-          "sha256": "5e82301250a2b90ac4cf356322f132a4a9f18a3d23826b47439a4ce3872ab2c7"
+          "sha256": "8d0937a0697b5c040de4d55ae470b28129687a0068e9b5d1c75eb89f9bbda1d3",
+          "bytes": 1460323,
+          "source_width": 864,
+          "source_height": 1152,
+          "resampled": true
+        },
+        "9x16": {
+          "width": 1080,
+          "height": 2110,
+          "sha256": "4355ecb134204e259a70227d0a2d6b8b98b358851c9fd81e78a8119171eed0ef",
+          "bytes": 2413714,
+          "source_width": 720,
+          "source_height": 1280,
+          "resampled": true
         }
       },
-      "audio": "audio/es-01-002-narration.mp3"
+      "audio": "audio/es-01-002-narration.mp3",
+      "file_9x16": "es-01-002-cand-r1-9x16.png",
+      "land_as": "Candidate",
+      "revision": "cand-r1"
     },
     {
       "entry_id": "ES-01-003",
@@ -545,16 +585,16 @@
       "region": "Andalusia",
       "city": "Seville",
       "caption": "Plaza de España, Seville",
-      "scenario_label": "23 September 2026 · 17:42 Europe/Madrid",
-      "composition": "Daylight · Canal and tiled bridge from the southwest plaza side · AI-generated artistic interpretation",
-      "alt_text": "AI-generated artistic interpretation of Plaza de España in Seville: a tiled bridge over the canal, curved brick-and-stone gallery and tower in clear late-afternoon daylight.",
-      "description": "The navigable canal and ceramic bridge lead toward the curved arcaded building designed for the 1929 Ibero-American Exposition. This view frames one tower and the gallery; the complete semicircle and all four bridges are outside the single-camera field of view.",
+      "scenario_label": "30 September 2026 · 23:56 Europe/Madrid",
+      "composition": "Night · Both towers of the hemicycle from the southwest plaza side · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Plaza de España in Seville at night, with Torre Norte and Torre Sur, matching brick towers with ceramic crowns, framing the semicircular gallery.",
+      "description": "From the southwest walkway the hemicycle shows a matching pair of tall brick towers, Torre Norte and Torre Sur, each with a multi-tier ceramic-tiled crown. A canal and tiled bridge lead toward the curved gallery.",
       "viewpoint": "Southwest plaza-side public walkway, near the historical panorama camera report 37.376722, -5.987833, looking roughly east-northeast at eye level. The reported point and heading guide composition, not a surveyed match of generated pixels.",
-      "weather": "Model data from Open-Meteo, retrieved 23 September 2026 17:42:45 Europe/Madrid, valid 17:30 Europe/Madrid — not a verified on-site observation. 36.2°C, WMO 0 clear, cloud 0%, precipitation 0 mm, wind 3.1 km/h. Sunrise 08:12, sunset 20:19. Approximate solar elevation 29.70°, azimuth 244.49°.",
-      "status": "Approved · Cosmo QC 5/5 · Daylight",
-      "approval_state": "approved",
-      "approval_basis": "Cosmo independent five-gate QC 5/5, 23 September 2026.",
-      "time_of_day": "Daylight",
+      "weather": "Model data from Open-Meteo, retrieved 30 September 2026 23:56:50 Europe/Madrid, valid 23:45 Europe/Madrid — not a verified on-site observation. 24.3°C, WMO 3 overcast, cloud 81%, precipitation 0.0 mm, wind 6.1 km/h. Sunrise 08:18, sunset 20:08. Approximate solar elevation -43.19°, azimuth 309.62°. Night; no direct sunlight.",
+      "status": "Candidate · architectural rebuild · awaiting Cosmo re-audit · Night",
+      "approval_state": "candidate",
+      "approval_basis": "Not approved. cand-r1 is an architectural rebuild awaiting Cosmo re-audit. The earlier Cosmo approval applied only to the previous master bytes and is retained in review_history.",
+      "time_of_day": "Night",
       "license_badge": "Free · no credit needed",
       "license_anchor": "#license",
       "limitations": "Cosmo QC 5/5, approved 23 September 2026. Geometry of the tiled bridge, tower, bench decorations and solar illumination should be compared independently with references; fine tile inscriptions are invented/unverified. The portrait retains the tower and canal but clips part of the bridge at its right edge. Exact-size exports are upscaled from a 1672×941 generated source; dimensions do not imply native detail. Current conditions are model data rather than an on-site observation.",
@@ -565,32 +605,44 @@
         "16x9": {
           "width": 1920,
           "height": 1270,
-          "sha256": "7d4494ef9ca5faa3bed7163fe17cb345d7e5bad7cf2d325f44deaf97cfccfbd6",
-          "bytes": 3372333,
-          "source_width": 1672,
-          "source_height": 941,
+          "sha256": "2cd36d599f418f2de8404030bd65933619bf378ac23267e0d5063a60270bd49f",
+          "bytes": 2700580,
+          "source_width": 1280,
+          "source_height": 720,
           "resampled": true
         },
         "4x5": {
           "width": 864,
           "height": 1270,
-          "sha256": "72a8f6cbc499a32a4952b52a8a69133d5b811db8955a1b44bbdf330b5091f6dd",
-          "bytes": 1454075,
-          "source_width": 1672,
-          "source_height": 941,
+          "sha256": "cd343c59e6d214279659ae956cc2bcd4eb195658d387a8850f85efd0ffee043f",
+          "bytes": 1206648,
+          "source_width": 864,
+          "source_height": 1152,
+          "resampled": true
+        },
+        "9x16": {
+          "width": 1080,
+          "height": 2110,
+          "sha256": "3838f6e234f3c7822d6360f6c6476200db2f822787fd68be317d8b955465c2f8",
+          "bytes": 2307418,
+          "source_width": 720,
+          "source_height": 1280,
           "resampled": true
         }
       },
       "gates": {
-        "visual": "pending — Cosmo QC; architecture and viewpoint to review",
-        "technical": "Local PNGs fully decoded and opened; dimensions and SHA-256 recorded; same-source crop and overlays checked",
-        "provenance": "Built-in text-only generation and export lineage recorded; uniqueness unverified",
-        "commercial_ip": "Unverified; internal review is not legal certification",
-        "publication": "Candidate pipeline only, separate from approved gallery"
+        "visual": "pending — Cosmo re-audit; no pass claimed",
+        "technical": "pending — Cosmo re-audit; local dimension and Art.50 checks only",
+        "provenance": "pending — Cosmo re-audit; generation lineage recorded, uniqueness unverified",
+        "commercial_ip": "pending — Cosmo re-audit; not legal certification",
+        "publication": "candidate only — not approved for the gallery"
       },
-      "file_16x9": "es-01-007-r1-16x9.png",
-      "file_4x5": "es-01-007-r1-4x5.png",
-      "audio": "audio/es-01-007-narration.mp3"
+      "file_16x9": "es-01-007-cand-r1-16x9.png",
+      "file_4x5": "es-01-007-cand-r1-4x5.png",
+      "audio": "audio/es-01-007-narration.mp3",
+      "file_9x16": "es-01-007-cand-r1-9x16.png",
+      "land_as": "Candidate",
+      "revision": "cand-r1"
     },
     {
       "entry_id": "ES-01-008",
@@ -598,16 +650,16 @@
       "region": "Madrid",
       "city": "Madrid",
       "caption": "Royal Palace, Madrid",
-      "scenario_label": "23 September 2026 · 18:03 Europe/Madrid",
-      "composition": "Daylight · South façade and Plaza de la Armería forecourt · AI-generated artistic interpretation",
-      "alt_text": "AI-generated artistic interpretation of the Royal Palace of Madrid south façade and courtyard, with a modest central clock, in partly cloudy afternoon daylight.",
-      "description": "The principal south façade faces the Plaza de la Armería. Pale limestone and granite, repeated giant-order columns and a small central clock define the palace frontage. The open forecourt and part of its right-side arcade are in frame.",
+      "scenario_label": "30 September 2026 · 23:56 Europe/Madrid",
+      "composition": "Night · South façade from Plaza de la Armería · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Royal Palace of Madrid south façade at night, with four Doric columns on the central balcony beneath the clock and royal arms.",
+      "description": "From Plaza de la Armería the south façade centers on four Doric columns at the throne-room balcony, beneath the clock and the royal arms. The capitals are plain Doric, not Corinthian.",
       "viewpoint": "Public Plaza de la Armería at approximately 40.416583, -3.714444, looking toward the south façade at eye level. Coordinates are reported for a historical reference photo; generated camera correspondence is approximate, not surveyed.",
-      "weather": "Model data from Open-Meteo, retrieved 23 September 2026 18:03:25 Europe/Madrid, valid 18:00 Europe/Madrid — not a verified on-site observation. 33.0°C, WMO 2 partly cloudy, cloud 62%, precipitation 0 mm, wind 6.5 km/h. Sunrise 08:03, sunset 20:10. Approximate solar elevation 23.17°, azimuth 248.91°.",
-      "status": "Approved · Cosmo QC 5/5 · Daylight",
-      "approval_state": "approved",
-      "approval_basis": "Cosmo APPROVED 5/5 for ES-01-008 r2, relayed by Jason on 23 September 2026 after review of the exact packet. The review confirms the restrained central clock, facade proportions, right-side arcade and late-afternoon light direction. This is not a Jason review or publishing-agent verdict.",
-      "time_of_day": "Daylight",
+      "weather": "Model data from Open-Meteo, retrieved 30 September 2026 23:56:52 Europe/Madrid, valid 23:45 Europe/Madrid — not a verified on-site observation. 21.4°C, WMO 2 partly cloudy, cloud 47%, precipitation 0.0 mm, wind 4.6 km/h. Sunrise 08:10, sunset 19:58. Approximate solar elevation -42.48°, azimuth 314.25°. Night; no direct sunlight.",
+      "status": "Candidate · architectural rebuild · awaiting Cosmo re-audit · Night",
+      "approval_state": "candidate",
+      "approval_basis": "Not approved. cand-r1 is an architectural rebuild awaiting Cosmo re-audit. The earlier Cosmo approval applied only to the previous master bytes and is retained in review_history.",
+      "time_of_day": "Night",
       "license_badge": "Free · no credit needed",
       "license_anchor": "#license",
       "limitations": "Cosmo QC 5/5 approved. Palace bay spacing, balcony/roof statuary and solar shadows remain generated interpretations. The portrait crops the outer wings while retaining the central entrance and clock. Exact-size exports are upscaled from a 1672x941 generated source; dimensions do not imply native detail. Model weather is not an on-site observation.",
@@ -620,31 +672,40 @@
         "16x9": {
           "width": 1920,
           "height": 1270,
-          "sha256": "2165067ced61bff35d43ac60ef7e381224ec36bc93ca9924ad5439cd86fbda1b",
-          "bytes": 2734882,
-          "source_width": 1672,
-          "source_height": 941,
+          "sha256": "8b4b8165662c1ca1328df07f37c34ea44cc9176cbaa84d82618c20d5913e955f",
+          "bytes": 2480121,
+          "source_width": 1280,
+          "source_height": 720,
           "resampled": true
         },
         "4x5": {
           "width": 864,
           "height": 1270,
-          "sha256": "3d3e2f6d819f14cb35dd59d25c02b0cd6d7893458438fda9d6ae732eb161bf29",
-          "bytes": 1227946,
-          "source_width": 1672,
-          "source_height": 941,
+          "sha256": "dbb7af58d949503c39fe9ab9c06f0418f4c889246e5a8d309e03192e5d6327fe",
+          "bytes": 1140234,
+          "source_width": 864,
+          "source_height": 1152,
+          "resampled": true
+        },
+        "9x16": {
+          "width": 1080,
+          "height": 2110,
+          "sha256": "fee84a17c0308e1dbacf13e368a9dcc1461771ad8424ade3c159d582b7cdcdce",
+          "bytes": 2251835,
+          "source_width": 720,
+          "source_height": 1280,
           "resampled": true
         }
       },
       "gates": {
-        "visual": "Cosmo QC APPROVED 5/5, relayed by Jason; no new agent review",
-        "technical": "Local PNGs fully decoded and visually opened; dimensions and SHA-256 recorded; same-source crop and overlays checked",
-        "provenance": "Built-in text-only generation and one own-image correction recorded; uniqueness unverified",
-        "commercial_ip": "Unverified; internal review is not legal certification",
-        "publication": "Approved gallery authorized by relayed Cosmo verdict; live status requires successful deployment"
+        "visual": "pending — Cosmo re-audit; no pass claimed",
+        "technical": "pending — Cosmo re-audit; local dimension and Art.50 checks only",
+        "provenance": "pending — Cosmo re-audit; generation lineage recorded, uniqueness unverified",
+        "commercial_ip": "pending — Cosmo re-audit; not legal certification",
+        "publication": "candidate only — not approved for the gallery"
       },
-      "file_16x9": "es-01-008-r2-16x9.png",
-      "file_4x5": "es-01-008-r2-4x5.png",
+      "file_16x9": "es-01-008-cand-r1-16x9.png",
+      "file_4x5": "es-01-008-cand-r1-4x5.png",
       "review_history": [
         {
           "date": "2026-09-23",
@@ -652,7 +713,10 @@
           "resolution": "Cosmo APPROVED 5/5 for ES-01-008 r2, relayed by Jason on 23 September 2026 after review of the exact packet. The review confirms the restrained central clock, facade proportions, right-side arcade and late-afternoon light direction. This is not a Jason review or publishing-agent verdict."
         }
       ],
-      "audio": "audio/es-01-008-narration.mp3"
+      "audio": "audio/es-01-008-narration.mp3",
+      "file_9x16": "es-01-008-cand-r1-9x16.png",
+      "land_as": "Candidate",
+      "revision": "cand-r1"
     },
     {
       "entry_id": "ES-01-009",
@@ -786,17 +850,60 @@
       "region": "Valencian Community",
       "city": "Valencia",
       "caption": "City of Arts and Sciences, Valencia",
-      "scenario_label": "23 September 2026 · 21:52 Europe/Madrid",
-      "composition": "NIGHT · Northeast reflecting-pool promenade facing southwest toward the Hemisfèric; approximate camera near 39.457168,-0.353358, based on the documented Commons viewpoint, not surveyed. · AI-generated artistic interpretation",
-      "alt_text": "AI-generated artistic interpretation of City of Arts and Sciences, Valencia at night. The Hemisfèric glass shell and central auditorium reflect in the basin beneath a partly cloudy night sky.",
-      "description": "From the northeast reflecting-pool promenade, face southwest toward the Hemisfèric at night. The great eye-shaped dome dominates the center of the frame, mirrored in the still water below, with the sculptural white forms of the City of Arts and Sciences rising left and right. Floodlit against the black sky, the whole complex glows like something set down from the future.",
-      "status": "Approved · Cosmo QC 5/5 · Night",
-      "approval_state": "approved",
-      "approval_basis": "Five-gate audit PASS: Gate 1 — Hemisfèric's glass eye-shell with central dome over reflecting pools from the northeast promenade, recognizably the captioned site at night, clean framing, no artifacts; Gate 2 — both masters at exact 1920×1080/864×1080 with SHAs matching the packet, exact caption 'City of Arts and Sciences, Valencia', scenario timestamp '23 September 2026 · 21:52 Europe/Madrid', 'AI-generated artistic interpretation' disclosure, and 'Jason D's Vision' signature legible on the bottom gradient; Gate 3 — packet documents reference evidence only, no third-party image pixels used as generation inputs; Gate 4 documentation-only — no visible people/logos; public exterior; Gate 5 — publication ready, no open blockers.",
+      "scenario_label": "30 September 2026 · 23:56 Europe/Madrid",
+      "composition": "Night · Hemisfèric from the northeast reflecting pool · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of L'Hemisfèric at night, with a glazed metallic hemispherical pupil under an aluminum-and-glass eyelid, reflected in the pool.",
+      "description": "From the northeast promenade, L'Hemisfèric reads as an eye. The eyelid is a movable aluminum-and-glass shutter. The pupil is a glazed metallic hemisphere, not an opaque white sphere, and it reflects in the pool.",
+      "status": "Candidate · architectural rebuild · awaiting Cosmo re-audit · Night",
+      "approval_state": "candidate",
+      "approval_basis": "Not approved. cand-r1 is an architectural rebuild awaiting Cosmo re-audit. The earlier Cosmo approval applied only to the previous master bytes and is retained in review_history.",
       "daylight_16x9": "es-01-016-daylight-16x9.png",
       "daylight_4x5": "es-01-016-daylight-4x5.png",
       "daylight_interim": true,
-      "audio": "audio/es-01-016-narration.mp3"
+      "audio": "audio/es-01-016-narration.mp3",
+      "weather": "Model data from Open-Meteo, retrieved 30 September 2026 23:56:54 Europe/Madrid, valid 23:45 Europe/Madrid — not a verified on-site observation. 24.3°C, WMO 61 slight rain, cloud 100%, precipitation 0.0 mm, wind 1.8 km/h. Sunrise 07:56, sunset 19:45. Approximate solar elevation -44.97°, azimuth 317.55°. Night; no direct sunlight.",
+      "time_of_day": "Night",
+      "file_16x9": "es-01-016-cand-r1-16x9.png",
+      "file_4x5": "es-01-016-cand-r1-4x5.png",
+      "file_9x16": "es-01-016-cand-r1-9x16.png",
+      "dimensions": {
+        "16x9": {
+          "width": 1920,
+          "height": 1270,
+          "sha256": "8dab54f5ded40c7ff25f8e35481906b1145d8cdfc2e2ecaa647c0a4375f705e7",
+          "bytes": 1990429,
+          "source_width": 1280,
+          "source_height": 720,
+          "resampled": true
+        },
+        "4x5": {
+          "width": 864,
+          "height": 1270,
+          "sha256": "411e14acf7b886cb54f13c73090049ca3bcea981693b3179db5260759d2098e8",
+          "bytes": 731369,
+          "source_width": 864,
+          "source_height": 1152,
+          "resampled": true
+        },
+        "9x16": {
+          "width": 1080,
+          "height": 2110,
+          "sha256": "dd26ad1b4e81539f6bfe2abcab53c97ed1570409982f8a8b520eaf6a7432f777",
+          "bytes": 1804357,
+          "source_width": 720,
+          "source_height": 1280,
+          "resampled": true
+        }
+      },
+      "gates": {
+        "visual": "pending — Cosmo re-audit; no pass claimed",
+        "technical": "pending — Cosmo re-audit; local dimension and Art.50 checks only",
+        "provenance": "pending — Cosmo re-audit; generation lineage recorded, uniqueness unverified",
+        "commercial_ip": "pending — Cosmo re-audit; not legal certification",
+        "publication": "candidate only — not approved for the gallery"
+      },
+      "land_as": "Candidate",
+      "revision": "cand-r1"
     },
     {
       "entry_id": "ES-01-019",
