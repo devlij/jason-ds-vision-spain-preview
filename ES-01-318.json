@@ -1,195 +1,135 @@
 {
   "entry_id": "ES-01-318",
   "country": "Spain",
-  "city": "Comillas",
   "region": "Cantabria",
+  "city": "Comillas",
   "caption": "El Capricho, Comillas",
-  "revision": "r1",
-  "viewpoint": "From the garden near 43.3870,-4.2870, looking at El Capricho. Approximate point only.",
-  "anchors": [
-    "El Capricho villa silhouette with its tower — Gaudí's early work",
-    "Ordinary garden lamps and moonlight only — no floodlighting claimed",
-    "Dark garden trees around; clear starry sky (0% model cloud)"
-  ],
-  "limitations": "Building details are an artistic impression; no specific tile or ornament claimed. Illumination is garden lamps and moonlight only; floodlighting is neither depicted nor claimed. Exact viewpoint unverified. Current on-site conditions not verified.",
-  "refs": [
-    [
-      "https://en.wikipedia.org/wiki/El_Capricho_(Comillas)",
-      "Encyclopedic description of El Capricho in Comillas (English Wikipedia), 24 September 2026; reference article link — direct page fetch was unavailable in this build turn, so the page text was not re-verified; URL follows the same verified en/es Wikipedia pattern used for all prior scenes."
-    ],
-    [
-      "https://es.wikipedia.org/wiki/El_Capricho_de_Gaud%C3%AD",
-      "Spanish Wikipedia entry for El Capricho in Comillas; reference article link — direct page fetch was unavailable in this build turn; URL follows the same verified pattern as prior scenes."
-    ]
-  ],
-  "status": "Approved · Cosmo QC 5/5 · Night",
-  "approval_state": "approved",
-  "scenario_label": "24 September 2026 · 01:47 Europe/Madrid",
+  "scenario_label": "1 October 2026 · 05:00 Europe/Madrid",
+  "composition": "Night · green bulbous cupola, red extrusions, white finial · AI-generated artistic interpretation",
+  "alt_text": "AI-generated artistic interpretation of El Capricho at night, the tower ending in a green bulbous cupola and a white finial.",
+  "description": "From the garden, the Capricho tower ends in a green-tiled bulbous Persian cupola. Red geometric extrusions sit on that cupola, and a white pointed finial finishes it. The crown is not a red finial cluster.",
+  "viewpoint": "From the garden near 43.3870,-4.2870, looking at El Capricho. Approximate point only. Exact generated camera correspondence is unverified.",
+  "status": "Candidate · architectural rebuild · awaiting Cosmo re-audit · Night",
+  "approval_state": "candidate",
+  "gates": {
+    "visual": "pending — Cosmo re-audit; no pass claimed",
+    "technical": "pending — Cosmo re-audit; local dimension and Art.50 checks only",
+    "provenance": "pending — Cosmo re-audit; generation lineage recorded, uniqueness unverified",
+    "commercial_ip": "pending — Cosmo re-audit; not legal certification",
+    "publication": "candidate only — not approved for the gallery"
+  },
+  "weather": "Model data from Open-Meteo, retrieved 1 October 2026 05:04:23 Europe/Madrid, valid 05:00 Europe/Madrid — not a verified on-site observation. 16.5°C, WMO 3 overcast, cloud 100%, precipitation 0.0 mm, wind 8.1 km/h. Sunrise 08:14, sunset 19:58. Approximate solar elevation -34.25°, azimuth 55.95°. Night; no direct sunlight.",
+  "limitations": "Candidate only. No Cosmo QC is claimed for these bytes. 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top 864×1080 of an 864×1152 generated source and drop 72 pixels of foreground. Dimensions do not imply native detail. Open-Meteo figures are model data, not an on-site observation. Exact camera correspondence is not surveyed.",
+  "file_16x9": "es-01-318-cand-r1-16x9.png",
+  "file_4x5": "es-01-318-cand-r1-4x5.png",
+  "license_badge": "Free · no credit needed",
+  "license_anchor": "#license",
+  "editions": [],
   "time_of_day": "Night",
-  "composition": "Night · From El Capricho in Comillas, the Gaudí villa in silhouette near 43.3870,-4.2870. Approximate point only. · AI-generated artistic interpretation",
-  "alt_text": "AI-generated artistic interpretation of El Capricho, Comillas at night.",
-  "description": "Stand before El Capricho in Comillas after dark, when Gaudí's caprice of a villa rises in dark silhouette against the night sky. Its whimsical towers and sculpted forms are reduced to pure outline, the night stripping color down to shape. Moonlight traces the roofline while the garden around it lies quiet and dark.",
-  "file_16x9": "es-01-318-r1-16x9.png",
-  "file_4x5": "es-01-318-r1-4x5.png",
+  "revision_lineage": "Full rebuild for wo-spain-architectural-rework-2026-09-30 pack 13. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. Previous masters remain in the repository as superseded bytes.",
+  "review_history": [
+    {
+      "date": "2026-10-01",
+      "previous_status": "Approved · Cosmo QC 5/5 · Night",
+      "previous_approval_state": "approved",
+      "previous_files": {
+        "16x9": "es-01-318-r1-16x9.png",
+        "4x5": "es-01-318-r1-4x5.png",
+        "9x16": null
+      },
+      "resolution": "Architectural rebuild cand-r1 landed as Candidate. The prior approval covered the previous bytes only. It does not cover cand-r1. Daylight derivatives of those previous night masters are not part of cand-r1. No Cosmo re-audit is claimed."
+    }
+  ],
+  "approval_basis": "Not approved. cand-r1 is an architectural rebuild awaiting Cosmo re-audit. The earlier Cosmo approval applied only to the previous master bytes and is retained in review_history.",
   "dimensions": {
     "16x9": {
       "width": 1920,
       "height": 1270,
-      "sha256": "7981ec4cdf99e6fdf5aebe8021727e1c5df584744ddabcf787d84761f33f5f42"
+      "sha256": "071b7bff142c34872c0cb42f7e9fa1d19e1bad833fb8479903e5bceef31da8fe",
+      "bytes": 1956813,
+      "source_width": 1280,
+      "source_height": 720,
+      "resampled": true
     },
     "4x5": {
       "width": 864,
       "height": 1270,
-      "sha256": "0cdada920dcc9cdee0e2173333bf227efb2400e404fb2c21d320b57d8add7b4c"
-    }
-  },
-  "masters": {
-    "16x9": {
-      "file": "es-01-318-r1-16x9.png",
-      "dimensions": [
-        1920,
-        1270
-      ],
-      "byte_length": 2583442,
-      "sha256": "7981ec4cdf99e6fdf5aebe8021727e1c5df584744ddabcf787d84761f33f5f42",
-      "source_file": "media-generation-src-es-01-318-0-a3bb39de-140a-4da6-b0b5-5a9658d8fb0d.png",
-      "source_dimensions": [
-        1920,
-        1280
-      ],
-      "crop_center": [
-        0.5,
-        0.5
-      ],
-      "labels": [
-        "El Capricho, Comillas",
-        "Scenario: 24 September 2026 · 01:47 Europe/Madrid",
-        "AI-generated artistic interpretation · Not a photograph."
-      ],
-      "signature": "Jason D’s Vision",
-      "format": "PNG",
-      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
-      "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
+      "sha256": "175f375c293b9d7a754fe6e57919f45b405ad5aafe9ce6f4b459efcf96730692",
+      "bytes": 1003229,
+      "source_width": 864,
+      "source_height": 1152,
+      "resampled": false
     },
-    "4x5": {
-      "file": "es-01-318-r1-4x5.png",
-      "dimensions": [
-        864,
-        1270
-      ],
-      "byte_length": 1273061,
-      "sha256": "0cdada920dcc9cdee0e2173333bf227efb2400e404fb2c21d320b57d8add7b4c",
-      "source_file": "media-generation-src-es-01-318-0-a3bb39de-140a-4da6-b0b5-5a9658d8fb0d.png",
-      "source_dimensions": [
-        1920,
-        1280
-      ],
-      "crop_center": [
-        0.5,
-        0.5
-      ],
-      "labels": [
-        "El Capricho, Comillas",
-        "Scenario: 24 September 2026 · 01:47 Europe/Madrid",
-        "AI-generated artistic interpretation · Not a photograph."
-      ],
-      "signature": "Jason D’s Vision",
-      "format": "PNG",
-      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
-      "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 864x1080. Not native target-resolution detail."
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "2a81935b365b2783f57e2c114bd4d81a2ce793cd367cfb000b76e4f4ba459580",
+      "bytes": 1850395,
+      "source_width": 720,
+      "source_height": 1280,
+      "resampled": true
     }
   },
-  "conditions": {
-    "provider": "Open-Meteo",
-    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=43.3870&longitude=-4.2870&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
-    "retrieved": "2026-09-24T01:45+02:00",
-    "valid": "2026-09-24T01:45+02:00 Europe/Madrid",
-    "timezone": "Europe/Madrid"
-  },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T01:45+02:00, valid 2026-09-24T01:45+02:00 Europe/Madrid — not a verified on-site observation.",
-  "prompts": {
-    "prompt-r1.txt": "Photorealistic artistic night interpretation of El Capricho villa in Comillas, Cantabria: the distinctive Gaudi-designed villa silhouette with its tower, lit only by ordinary garden lamps and moonlight, no floodlighting; dark garden trees around; clear starry sky above; no prominent people, no text, no logos; villa centered so it survives a center crop; clean uncluttered lower area."
-  },
-  "source_files": [
-    {
-      "file": "media-generation-src-es-01-318-0-a3bb39de-140a-4da6-b0b5-5a9658d8fb0d.png",
-      "sha256": "d7bdbf5ae88f35a41164386e23ae6f12921ed14feaebde5aa9226edec86f345f",
-      "dimensions": [
-        1920,
-        1280
-      ],
-      "selected": true
-    }
-  ],
-  "provenance": {
-    "tool": "Built-in image generation; specific model version not exposed",
-    "image_inputs": [],
-    "source_use": "Text-only original generation. Third-party photographs inspected for facts, not supplied as input pixels. No uniqueness guarantee.",
-    "lineage": "Same selected source cropped and uniformly Lanczos-resampled to two exact PNGs; factual text and upward-fading scrim added deterministically. No stretching.",
-    "resampling": "Source [1920, 1280]; uniform Lanczos enlargement/crop to exact 1920x1080 and 864x1080. Not native target-resolution detail."
-  },
-  "production_checks": {
-    "technical": "Both PNGs fully decode, dimensions exact; label boxes in frame. Technical checks are not independent Cosmo QC.",
-    "visual": "Production comparison and limitations documented; not an independent gate verdict.",
-    "originality": "Own generated pixels; uniqueness not established.",
-    "commercial_ip": "No prominent people/logos or artwork focal subject; third-party clearance not legally certified.",
-    "publication": "Candidate handoff only. No approval inferred."
-  },
-  "independent_qc": {
-    "reviewer": "Cosmo",
-    "verdict": "Awaiting review",
-    "exact_pair_required": true
-  },
-  "card_handoff": {
-    "owner": "Cosmo",
-    "placement": "Candidate pipeline, two-format card (16:9/4:5 tabs, both downloads)",
-    "preserve": "caption, scenario, composition, description, status, disclosure, license, search/navigation and country switcher"
-  },
-  "license_badge": "Free · no credit needed",
-  "license_anchor": "#license",
-  "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
-  "reference_evidence": [],
-  "approval_basis": "G1: Gaudí's El Capricho rendered as a dark villa silhouette in the Comillas garden, its signature tile-clad tower with red-green ceramic checkerwork and arched colonnade visible against a moonlit starry sky — recognizable, clean framing, no artifacts. G2: 1920×1080 and 864×1080 exact, SHA-256 matches packet; on-image 'El Capricho, Comillas', 'Scenario: 24 September 2026 · 01:47 Europe/Madrid', 'AI-generated artistic interpretation · Not a photograph.' bottom-left, 'Jason D's Vision' (curly apostrophe) bottom-right; Open-Meteo weather retrieved 2026-09-24T01:45+02:00, 2 minutes before the scenario — fresh, not stale. G3: packet documents text-only generation, image_inputs empty. G4: no prominent people or logos; distinctive private building rendered as honest generic night treatment — commercial clearance documented only, final call is Jason's. G5: all gates closed.",
-  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals).",
-  "daylight_variant": {
-    "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
-    "source_night": {
-      "16x9": {
-        "path": "es-01-318-r1-16x9.png",
-        "sha256": "7981ec4cdf99e6fdf5aebe8021727e1c5df584744ddabcf787d84761f33f5f42"
+  "revision": "cand-r1",
+  "file_9x16": "es-01-318-cand-r1-9x16.png",
+  "evidence_card": "evidence/ES-01-318.json",
+  "land_as": "Candidate",
+  "conditions_record": {
+    "retrieved_local": "2026-10-01T05:04:23.738746+02:00",
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=43.387&longitude=-4.287&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
+    "requested_coordinates": [
+      43.387,
+      -4.287
+    ],
+    "response": {
+      "latitude": 43.39,
+      "longitude": -4.29,
+      "generationtime_ms": 0.8006095886230469,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 31.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
       },
-      "4x5": {
-        "path": "es-01-318-r1-4x5.png",
-        "sha256": "0cdada920dcc9cdee0e2173333bf227efb2400e404fb2c21d320b57d8add7b4c"
+      "current": {
+        "time": "2026-10-01T05:00",
+        "interval": 900,
+        "temperature_2m": 16.5,
+        "weather_code": 3,
+        "cloud_cover": 100,
+        "is_day": 0,
+        "precipitation": 0.0,
+        "wind_speed_10m": 8.1
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T08:14"
+        ],
+        "sunset": [
+          "2026-10-01T19:58"
+        ]
       }
     },
-    "masters": {
-      "16x9": {
-        "path": "es-01-318-daylight-16x9.png",
-        "width": 1920,
-        "height": 1270,
-        "sha256": "fc40b7beed71e442c570f7c20fe1b0a490148be9fef8b970cc4a2a7d24b69c22"
-      },
-      "4x5": {
-        "path": "es-01-318-daylight-4x5.png",
-        "width": 864,
-        "height": 1270,
-        "sha256": "f0e2c0dfff459517d30c1e10086a34760acb773456496afa902b9189b357545d"
-      }
-    },
-    "on_image_text": [
-      "El Capricho, Comillas",
-      "☀ Daylight variant · derived from the night interpretation",
-      "AI-generated artistic interpretation · Not a photograph.",
-      "Jason D’s Vision"
-    ],
-    "art50_png_chunks": [
-      "Title",
-      "Description",
-      "Copyright",
-      "Software",
-      "Comment"
-    ],
-    "country": "Spain"
+    "solar": {
+      "method": "NOAA fractional-year geometric approximation, not observation",
+      "elevation_deg": -34.25,
+      "azimuth_deg": 55.95
+    }
   }
 }
