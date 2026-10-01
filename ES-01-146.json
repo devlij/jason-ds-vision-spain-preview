@@ -1,135 +1,198 @@
 {
   "entry_id": "ES-01-146",
   "country": "Spain",
-  "region": "Valencian Community",
   "city": "Sant Mateu",
+  "region": "Valencian Community",
   "caption": "Old town, Sant Mateu",
-  "scenario_label": "1 October 2026 · 02:30 Europe/Madrid",
-  "composition": "Night · the freestanding octagonal bell tower of the Església Arxiprestal · AI-generated artistic interpretation",
-  "alt_text": "AI-generated artistic interpretation of Sant Mateu at night, with the freestanding massive octagonal stone bell tower and the sober Gothic church, and no blue-tiled dome, seen from the old-town square.",
-  "description": "The old-town square looks toward the Església Arxiprestal. A freestanding massive octagonal limestone bell tower, flat-crowned and fifteenth-century, stands beside the sober Gothic and Romanesque stone church. There is no blue-tiled exterior dome.",
-  "viewpoint": "The old town square, looking at the church. Exact generated camera correspondence is unverified.",
-  "status": "Candidate · architectural rebuild · awaiting Cosmo re-audit · Night",
-  "approval_state": "candidate",
-  "gates": {
-    "visual": "pending — Cosmo re-audit; no pass claimed",
-    "technical": "pending — Cosmo re-audit; local dimension and Art.50 checks only",
-    "provenance": "pending — Cosmo re-audit; generation lineage recorded, uniqueness unverified",
-    "commercial_ip": "pending — Cosmo re-audit; not legal certification",
-    "publication": "candidate only — not approved for the gallery"
-  },
-  "weather": "Model data from Open-Meteo, retrieved 1 October 2026 02:30:15 Europe/Madrid, valid 02:30 Europe/Madrid — not a verified on-site observation. 20.5°C, WMO 3 overcast, cloud 100%, precipitation 0.0 mm, wind 2.5 km/h. Sunrise 07:55, sunset 19:41. Approximate solar elevation -51.08°, azimuth 16.55°. Night; no direct sunlight.",
-  "limitations": "Candidate only. No Cosmo QC is claimed for these bytes. 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top 864×1080 of an 864×1152 generated source and drop 72 pixels of foreground. Dimensions do not imply native detail. Open-Meteo figures are model data, not an on-site observation. Exact camera correspondence is not surveyed.",
-  "file_16x9": "es-01-146-cand-r1-16x9.png",
-  "file_4x5": "es-01-146-cand-r1-4x5.png",
-  "license_badge": "Free · no credit needed",
-  "license_anchor": "#license",
-  "editions": [],
-  "time_of_day": "Night",
-  "revision_lineage": "Full rebuild for wo-spain-architectural-rework-2026-09-30 pack 7. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. Previous masters remain in the repository as superseded bytes.",
-  "review_history": [
-    {
-      "date": "2026-10-01",
-      "previous_status": "Approved · Cosmo QC 5/5 · Night",
-      "previous_approval_state": "approved",
-      "previous_files": {
-        "16x9": "es-01-146-r2-16x9.png",
-        "4x5": "es-01-146-r2-4x5.png",
-        "9x16": null
-      },
-      "resolution": "Architectural rebuild cand-r1 landed as Candidate. The prior approval covered the previous bytes only. It does not cover cand-r1. No Cosmo re-audit is claimed."
-    }
+  "revision": "r2",
+  "viewpoint": "the old town square, looking at the church",
+  "anchors": [
+    "Sant Mateu's old town with its Gothic archpriestal church",
+    "the historic capital of the Maestrazgo",
+    "the olive and almond country around"
   ],
-  "approval_basis": "Not approved. cand-r1 is an architectural rebuild awaiting Cosmo re-audit. The earlier Cosmo approval applied only to the previous master bytes and is retained in review_history.",
+  "limitations": "Text-only generation; no photographic input. Exact camera position unverified. Replacement for a duplicate site — independently written. Revision r2: regenerated with a fresh source image after r1 audit FAIL; no r1 pixels reused.",
+  "refs": [
+    [
+      "https://en.wikipedia.org/wiki/Sant_Mateu",
+      "Wikipedia — Sant Mateu, Maestrazgo"
+    ],
+    [
+      "https://www.comunitatvalenciana.com",
+      "Official Valencian Community tourism portal — verify the Sant Mateu listing before use"
+    ]
+  ],
+  "status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_state": "approved",
+  "scenario_label": "24 September 2026 · 05:26 Europe/Madrid",
+  "time_of_day": "Night",
+  "composition": "Night · the Maestrazgo old town · AI-generated artistic interpretation",
+  "alt_text": "AI-generated artistic interpretation of Old town, Sant Mateu at night.",
+  "description": "Standing in the old town of Sant Mateu at night, you face its stone houses and old church towers under scattered lamplight. The frame holds the Maestrazgo town's historic center, Gothic palaces and quiet streets dimmed to warm pools of light. The night brings out the old capital's stern, handsome calm.",
+  "file_16x9": "es-01-146-r2-16x9.png",
+  "file_4x5": "es-01-146-r2-4x5.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
       "height": 1270,
-      "sha256": "847698abc399c6da862816c6aae4e5d798d9cad534ed1f89def11277e2eabe5e",
-      "bytes": 2372716,
-      "source_width": 1280,
-      "source_height": 720,
-      "resampled": true
+      "sha256": "90bd3a787570f436a61e8e6b135fdaa4fac0ebb3bd100ca1fecb1cc6c39b6dee"
     },
     "4x5": {
       "width": 864,
       "height": 1270,
-      "sha256": "d205209ccde0782deb3609ce88d84aa4ac13bff47eeb6f2d30473deea3cf05ae",
-      "bytes": 1240195,
-      "source_width": 864,
-      "source_height": 1152,
-      "resampled": false
-    },
-    "9x16": {
-      "width": 1080,
-      "height": 2110,
-      "sha256": "b0db0a827e14118b837b0a5bf576babb181633ac66c6cdcc6e4a6c603be903d4",
-      "bytes": 2484871,
-      "source_width": 720,
-      "source_height": 1280,
-      "resampled": true
+      "sha256": "0235da9572697eb47438296a46870adbda85fe7ed8efac0a0e32a5545e741afd"
     }
   },
-  "revision": "cand-r1",
-  "file_9x16": "es-01-146-cand-r1-9x16.png",
-  "evidence_card": "evidence/ES-01-146.json",
-  "land_as": "Candidate",
-  "conditions_record": {
-    "retrieved_local": "2026-10-01T02:30:15.229155+02:00",
-    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=40.4658&longitude=0.1803&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
-    "requested_coordinates": [
-      40.4658,
-      0.1803
-    ],
-    "response": {
-      "latitude": 40.4375,
-      "longitude": 0.1875,
-      "generationtime_ms": 197.20351696014404,
-      "utc_offset_seconds": 7200,
-      "timezone": "Europe/Madrid",
-      "timezone_abbreviation": "GMT+2",
-      "elevation": 329.0,
-      "current_units": {
-        "time": "iso8601",
-        "interval": "seconds",
-        "temperature_2m": "°C",
-        "weather_code": "wmo code",
-        "cloud_cover": "%",
-        "is_day": "",
-        "precipitation": "mm",
-        "wind_speed_10m": "km/h"
+  "masters": {
+    "16x9": {
+      "file": "es-01-146-r2-16x9.png",
+      "dimensions": [
+        1920,
+        1270
+      ],
+      "byte_length": 2299774,
+      "sha256": "90bd3a787570f436a61e8e6b135fdaa4fac0ebb3bd100ca1fecb1cc6c39b6dee",
+      "source_file": "media-generation-es-01-146-r2-source-0-b629d070-d14d-4fc0-b158-c80ac3f7f942.png",
+      "source_dimensions": [
+        1920,
+        1280
+      ],
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "labels": [
+        "Old town, Sant Mateu",
+        "Scenario: 24 September 2026 · 05:26 Europe/Madrid",
+        "AI-generated artistic interpretation · Not a photograph."
+      ],
+      "signature": "Jason D’s Vision",
+      "format": "PNG",
+      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
+      "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
+    },
+    "4x5": {
+      "file": "es-01-146-r2-4x5.png",
+      "dimensions": [
+        864,
+        1270
+      ],
+      "byte_length": 1303103,
+      "sha256": "0235da9572697eb47438296a46870adbda85fe7ed8efac0a0e32a5545e741afd",
+      "source_file": "media-generation-es-01-146-r2-source-0-b629d070-d14d-4fc0-b158-c80ac3f7f942.png",
+      "source_dimensions": [
+        1920,
+        1280
+      ],
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "labels": [
+        "Old town, Sant Mateu",
+        "Scenario: 24 September 2026 · 05:26 Europe/Madrid",
+        "AI-generated artistic interpretation · Not a photograph."
+      ],
+      "signature": "Jason D’s Vision",
+      "format": "PNG",
+      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
+      "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 864x1080. Not native target-resolution detail."
+    }
+  },
+  "conditions": {
+    "provider": "Open-Meteo",
+    "retrieved": "2026-09-24T05:26:47+02:00",
+    "valid": "2026-09-24T05:15 Europe/Madrid",
+    "phrase": "A mostly clear night over the olive country, light breeze.",
+    "note": "Model data — not a verified on-site observation.",
+    "temperature_2m": "15.1",
+    "weather_code": "1",
+    "cloud_cover": "33",
+    "wind_speed_10m": "4.9"
+  },
+  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T05:26:47+02:00, valid 2026-09-24T05:15 Europe/Madrid — not a verified on-site observation.",
+  "prompts": {
+    "prompt-r2.txt": "Photorealistic original artistic interpretation (not a photograph) of Sant Mateu, Valencian Community, Spain, at DEEP ASTRONOMICAL NIGHT (around 5:30 in the morning). Tourist viewpoint: the town approach, looking toward the old town — Sant Mateu's arciprestal church and medieval streets, the old Maestrat capital's stone houses, the surrounding olive country dark at night. Deep night: pitch-dark star-filled sky, moonlight, faint warm town lights only. NO daylight, NO dawn glow, NO blue-hour brightness. Main subject centered. No identifiable people. Absolutely no legible text, lettering, numbers, signs or plaques anywhere in the image."
+  },
+  "source_files": [
+    {
+      "file": "media-generation-es-01-146-r2-source-0-b629d070-d14d-4fc0-b158-c80ac3f7f942.png",
+      "sha256": "70a6716a8dd61fac450180e29b0b2e8a00d9509c859ac558b5103b338fee7343",
+      "dimensions": [
+        1920,
+        1280
+      ],
+      "selected": true
+    }
+  ],
+  "provenance": {
+    "tool": "Built-in image generation; specific model version not exposed",
+    "image_inputs": [],
+    "source_use": "Text-only original generation. Third-party photographs inspected for facts, not supplied as input pixels. No uniqueness guarantee.",
+    "lineage": "Same selected source cropped and uniformly Lanczos-resampled to two exact PNGs; factual text and upward-fading scrim added deterministically. No stretching.",
+    "resampling": "Source [1920, 1280]; uniform Lanczos enlargement/crop to exact 1920x1080 and 864x1080. Not native target-resolution detail."
+  },
+  "production_checks": {
+    "technical": "Both PNGs fully decode, dimensions exact; label boxes in frame. Technical checks are not independent Cosmo QC.",
+    "visual": "Production comparison and limitations documented; not an independent gate verdict.",
+    "originality": "Own generated pixels; uniqueness not established.",
+    "commercial_ip": "No prominent people/logos or artwork focal subject; third-party clearance not legally certified.",
+    "publication": "Candidate handoff only. No approval inferred."
+  },
+  "independent_qc": {
+    "reviewer": "Cosmo",
+    "verdict": "Awaiting review",
+    "exact_pair_required": true
+  },
+  "card_handoff": {
+    "owner": "Cosmo",
+    "placement": "Candidate pipeline, two-format card (16:9/4:5 tabs, both downloads)",
+    "preserve": "caption, scenario, composition, description, status, disclosure, license, search/navigation and country switcher"
+  },
+  "license_badge": "Free · no credit needed",
+  "license_anchor": "#license",
+  "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
+  "reference_evidence": [],
+  "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor G: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/G/ES-01-146.md. r2 rebuild (night/architecture defects fixed).",
+  "daylight_variant": {
+    "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
+    "source_night": {
+      "16x9": {
+        "path": "es-01-146-r2-16x9.png",
+        "sha256": "90bd3a787570f436a61e8e6b135fdaa4fac0ebb3bd100ca1fecb1cc6c39b6dee"
       },
-      "current": {
-        "time": "2026-10-01T02:30",
-        "interval": 900,
-        "temperature_2m": 20.5,
-        "weather_code": 3,
-        "cloud_cover": 100,
-        "is_day": 0,
-        "precipitation": 0.0,
-        "wind_speed_10m": 2.5
-      },
-      "daily_units": {
-        "time": "iso8601",
-        "sunrise": "iso8601",
-        "sunset": "iso8601"
-      },
-      "daily": {
-        "time": [
-          "2026-10-01"
-        ],
-        "sunrise": [
-          "2026-10-01T07:55"
-        ],
-        "sunset": [
-          "2026-10-01T19:41"
-        ]
+      "4x5": {
+        "path": "es-01-146-r2-4x5.png",
+        "sha256": "0235da9572697eb47438296a46870adbda85fe7ed8efac0a0e32a5545e741afd"
       }
     },
-    "solar": {
-      "method": "NOAA fractional-year geometric approximation, not observation",
-      "elevation_deg": -51.08,
-      "azimuth_deg": 16.55
-    }
+    "masters": {
+      "16x9": {
+        "path": "es-01-146-daylight-16x9.png",
+        "width": 1920,
+        "height": 1270,
+        "sha256": "96ab194c21113c9f79692ee9012f8da13a94fb9e146b55a5e119e80431d10db4"
+      },
+      "4x5": {
+        "path": "es-01-146-daylight-4x5.png",
+        "width": 864,
+        "height": 1270,
+        "sha256": "1ab3920d9770fc720c39b6922354b377d6f4cd72f3cb64896e21244923d82a6c"
+      }
+    },
+    "on_image_text": [
+      "Old town, Sant Mateu",
+      "☀ Daylight variant · derived from the night interpretation",
+      "AI-generated artistic interpretation · Not a photograph.",
+      "Jason D’s Vision"
+    ],
+    "art50_png_chunks": [
+      "Title",
+      "Description",
+      "Copyright",
+      "Software",
+      "Comment"
+    ],
+    "country": "Spain"
   }
 }
