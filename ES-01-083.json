@@ -1,135 +1,193 @@
 {
   "entry_id": "ES-01-083",
   "country": "Spain",
-  "region": "Asturias",
   "city": "Cangas de Onís",
+  "region": "Asturias",
   "caption": "Roman Bridge, Cangas de Onís",
-  "scenario_label": "1 October 2026 · 01:05 Europe/Madrid",
-  "composition": "Night · the bridge over the Sella with the Cruz de la Victoria · AI-generated artistic interpretation",
-  "alt_text": "AI-generated artistic interpretation of the Roman Bridge at Cangas de Onís at night, the Cruz de la Victoria hanging in the great arch with uppercase Alpha on the viewer's right and lowercase omega on the left.",
-  "description": "The medieval bridge at Cangas de Onís lifts its great arch over the Sella, the Picos behind it. The Cruz de la Victoria hangs in the arch, uppercase Alpha on the viewer's right arm and lowercase omega on the left.",
-  "viewpoint": "Sella riverbank, looking at the Roman Bridge with the Picos behind. Exact generated camera correspondence is unverified.",
-  "status": "Candidate · architectural rebuild · awaiting Cosmo re-audit · Night",
-  "approval_state": "candidate",
-  "gates": {
-    "visual": "pending — Cosmo re-audit; no pass claimed",
-    "technical": "pending — Cosmo re-audit; local dimension and Art.50 checks only",
-    "provenance": "pending — Cosmo re-audit; generation lineage recorded, uniqueness unverified",
-    "commercial_ip": "pending — Cosmo re-audit; not legal certification",
-    "publication": "candidate only — not approved for the gallery"
-  },
-  "weather": "Model data from Open-Meteo, retrieved 1 October 2026 01:05:15 Europe/Madrid, valid 01:00 Europe/Madrid — not a verified on-site observation. 17.2°C, WMO 3 overcast, cloud 87%, precipitation 0.2 mm, wind 4.3 km/h. Sunrise 08:17, sunset 20:01. Approximate solar elevation -47.23°, azimuth 335.67°. Night; no direct sunlight.",
-  "limitations": "Candidate only. No Cosmo QC is claimed for these bytes. 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top 864×1080 of an 864×1152 generated source and drop 72 pixels of foreground. Dimensions do not imply native detail. Open-Meteo figures are model data, not an on-site observation. Exact camera correspondence is not surveyed.",
-  "file_16x9": "es-01-083-cand-r1-16x9.png",
-  "file_4x5": "es-01-083-cand-r1-4x5.png",
-  "license_badge": "Free · no credit needed",
-  "license_anchor": "#license",
-  "editions": [],
-  "time_of_day": "Night",
-  "revision_lineage": "Full rebuild for wo-spain-architectural-rework-2026-09-30 pack 4. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. Previous masters remain in the repository as superseded bytes.",
-  "review_history": [
-    {
-      "date": "2026-10-01",
-      "previous_status": "Approved · Cosmo QC 5/5 · Night",
-      "previous_approval_state": "approved",
-      "previous_files": {
-        "16x9": "es-01-083-r1-16x9.png",
-        "4x5": "es-01-083-r1-4x5.png",
-        "9x16": null
-      },
-      "resolution": "Architectural rebuild cand-r1 landed as Candidate. The prior approval covered the previous bytes only. It does not cover cand-r1. No Cosmo re-audit is claimed."
-    }
+  "revision": "r1",
+  "viewpoint": "the Sella riverbank, looking at the bridge with the Picos behind",
+  "anchors": [
+    "the medieval Roman bridge with its great central arch over the Sella",
+    "the traditional Victory Cross hanging from the bridge's great arch",
+    "the Picos de Europa rising behind the river valley"
   ],
-  "approval_basis": "Not approved. cand-r1 is an architectural rebuild awaiting Cosmo re-audit. The earlier Cosmo approval applied only to the previous master bytes and is retained in review_history.",
+  "limitations": "Text-only generation; no photographic input. Exact camera position unverified. The bridge is medieval despite its name; the hanging cross is the traditional replica. CORRECTION 2026-09-24: spec previously mentioned an invented \"chapel of Santa Cruz on the bridge's hump\" — removed; anchor revised to the hanging Victory Cross per current-state honesty.",
+  "refs": [
+    [
+      "https://en.wikipedia.org/wiki/Cangas_de_On%C3%ADs",
+      "Wikipedia — Cangas de Onís and its bridge"
+    ],
+    [
+      "https://www.turismoasturias.es",
+      "Official Asturias tourism portal — verify the Cangas de Onís listing before use"
+    ]
+  ],
+  "status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_state": "approved",
+  "scenario_label": "24 September 2026 · 04:20 Europe/Madrid",
+  "time_of_day": "Night",
+  "composition": "Night · the bridge over the Sella · AI-generated artistic interpretation",
+  "alt_text": "AI-generated artistic interpretation of Roman Bridge, Cangas de Onís at night.",
+  "description": "The famous bridge of Cangas de Onís arches over the Sella, its single great span and the hanging Victory Cross caught by the lighting. The river runs dark beneath while the banks are lost in shadow. The emblem of Asturias, and of the old kingdom's birth.",
+  "file_16x9": "es-01-083-r1-16x9.png",
+  "file_4x5": "es-01-083-r1-4x5.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
       "height": 1270,
-      "sha256": "f8a2a4d930f4543094203d51c4fbab0070c6f77b184b79610e4c88f210815274",
-      "bytes": 2460534,
-      "source_width": 1280,
-      "source_height": 720,
-      "resampled": true
+      "sha256": "74d4c9c371a205a52051afaead0b18206e5a6fb92a45f52f105e6ad03449a401"
     },
     "4x5": {
       "width": 864,
       "height": 1270,
-      "sha256": "a0fe28ba7705ba8708fcfdc0c9d09b77fb2dd224e469a1360f43d47ec401f4a4",
-      "bytes": 1235816,
-      "source_width": 864,
-      "source_height": 1152,
-      "resampled": false
-    },
-    "9x16": {
-      "width": 1080,
-      "height": 2110,
-      "sha256": "9c68d433fa29bc7a994c5d01d06ddf0f99cfd6fb697700cd3c7358054352632e",
-      "bytes": 1803613,
-      "source_width": 720,
-      "source_height": 1280,
-      "resampled": true
+      "sha256": "a08cdebf59a906064748e1cc59d2535722d87c1fee5c194e98c74bae712231d9"
     }
   },
-  "revision": "cand-r1",
-  "file_9x16": "es-01-083-cand-r1-9x16.png",
-  "evidence_card": "evidence/ES-01-083.json",
-  "land_as": "Candidate",
-  "conditions_record": {
-    "retrieved_local": "2026-10-01T01:05:15.418207+02:00",
-    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=43.3508&longitude=-5.1286&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
-    "requested_coordinates": [
-      43.3508,
-      -5.1286
-    ],
-    "response": {
-      "latitude": 43.35,
-      "longitude": -5.13,
-      "generationtime_ms": 0.6997585296630859,
-      "utc_offset_seconds": 7200,
-      "timezone": "Europe/Madrid",
-      "timezone_abbreviation": "GMT+2",
-      "elevation": 68.0,
-      "current_units": {
-        "time": "iso8601",
-        "interval": "seconds",
-        "temperature_2m": "°C",
-        "weather_code": "wmo code",
-        "cloud_cover": "%",
-        "is_day": "",
-        "precipitation": "mm",
-        "wind_speed_10m": "km/h"
+  "masters": {
+    "16x9": {
+      "file": "es-01-083-r1-16x9.png",
+      "dimensions": [
+        1920,
+        1270
+      ],
+      "byte_length": 2817866,
+      "sha256": "74d4c9c371a205a52051afaead0b18206e5a6fb92a45f52f105e6ad03449a401",
+      "source_file": "es-01-083-r1.png",
+      "source_dimensions": [
+        1408,
+        1760
+      ],
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "labels": [
+        "Roman Bridge, Cangas de Onís",
+        "Scenario: 24 September 2026 · 04:20 Europe/Madrid",
+        "AI-generated artistic interpretation · Not a photograph."
+      ],
+      "signature": "Jason D’s Vision",
+      "format": "PNG",
+      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
+      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
+    },
+    "4x5": {
+      "file": "es-01-083-r1-4x5.png",
+      "dimensions": [
+        864,
+        1270
+      ],
+      "byte_length": 1332451,
+      "sha256": "a08cdebf59a906064748e1cc59d2535722d87c1fee5c194e98c74bae712231d9",
+      "source_file": "es-01-083-r1.png",
+      "source_dimensions": [
+        1408,
+        1760
+      ],
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "labels": [
+        "Roman Bridge, Cangas de Onís",
+        "Scenario: 24 September 2026 · 04:20 Europe/Madrid",
+        "AI-generated artistic interpretation · Not a photograph."
+      ],
+      "signature": "Jason D’s Vision",
+      "format": "PNG",
+      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
+      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 864x1080. Not native target-resolution detail."
+    }
+  },
+  "conditions": {
+    "provider": "Open-Meteo",
+    "retrieved": "2026-09-24T04:20:31.851783+02:00",
+    "valid": "2026-09-24T04:15 Europe/Madrid",
+    "note": "Model data — not a verified on-site observation."
+  },
+  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T04:20:31.851783+02:00, valid 2026-09-24T04:15 Europe/Madrid — not a verified on-site observation.",
+  "prompts": {
+    "prompt-r1.txt": "Photorealistic original artistic interpretation (not a photograph) of the Roman Bridge of Cangas de Onís, Asturias, Spain. Tourist viewpoint: the Sella riverbank, looking at the bridge with the Picos behind. Frame: the medieval bridge with its great central arch over the Sella; the traditional Victory Cross hanging from the bridge's great arch; the Picos de Europa rising behind the river valley. Light and weather: clear night, light winds. Main subject centered to survive a 4:5 center crop. No identifiable people, no legible logos, no text, lettering or signs anywhere in the image. Keep the lower third clean and uncluttered."
+  },
+  "source_files": [
+    {
+      "file": "es-01-083-r1.png",
+      "sha256": "5b7bcc3e1eca49d6c006dd9a41c4ec7302495537b3cf2a6025b56738e6e1ec79",
+      "dimensions": [
+        1408,
+        1760
+      ],
+      "selected": true
+    }
+  ],
+  "provenance": {
+    "tool": "Built-in image generation; specific model version not exposed",
+    "image_inputs": [],
+    "source_use": "Text-only original generation. Third-party photographs inspected for facts, not supplied as input pixels. No uniqueness guarantee.",
+    "lineage": "Same selected source cropped and uniformly Lanczos-resampled to two exact PNGs; factual text and upward-fading scrim added deterministically. No stretching.",
+    "resampling": "Source [1408, 1760]; uniform Lanczos enlargement/crop to exact 1920x1080 and 864x1080. Not native target-resolution detail."
+  },
+  "production_checks": {
+    "technical": "Both PNGs fully decode, dimensions exact; label boxes in frame. Technical checks are not independent Cosmo QC.",
+    "visual": "Production comparison and limitations documented; not an independent gate verdict.",
+    "originality": "Own generated pixels; uniqueness not established.",
+    "commercial_ip": "No prominent people/logos or artwork focal subject; third-party clearance not legally certified.",
+    "publication": "Candidate handoff only. No approval inferred."
+  },
+  "independent_qc": {
+    "reviewer": "Cosmo",
+    "verdict": "Awaiting review",
+    "exact_pair_required": true
+  },
+  "card_handoff": {
+    "owner": "Cosmo",
+    "placement": "Candidate pipeline, two-format card (16:9/4:5 tabs, both downloads)",
+    "preserve": "caption, scenario, composition, description, status, disclosure, license, search/navigation and country switcher"
+  },
+  "license_badge": "Free · no credit needed",
+  "license_anchor": "#license",
+  "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
+  "reference_evidence": [],
+  "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor E: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/E/ES-01-083.md. r1.",
+  "daylight_variant": {
+    "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
+    "source_night": {
+      "16x9": {
+        "path": "es-01-083-r1-16x9.png",
+        "sha256": "74d4c9c371a205a52051afaead0b18206e5a6fb92a45f52f105e6ad03449a401"
       },
-      "current": {
-        "time": "2026-10-01T01:00",
-        "interval": 900,
-        "temperature_2m": 17.2,
-        "weather_code": 3,
-        "cloud_cover": 87,
-        "is_day": 0,
-        "precipitation": 0.2,
-        "wind_speed_10m": 4.3
-      },
-      "daily_units": {
-        "time": "iso8601",
-        "sunrise": "iso8601",
-        "sunset": "iso8601"
-      },
-      "daily": {
-        "time": [
-          "2026-10-01"
-        ],
-        "sunrise": [
-          "2026-10-01T08:17"
-        ],
-        "sunset": [
-          "2026-10-01T20:01"
-        ]
+      "4x5": {
+        "path": "es-01-083-r1-4x5.png",
+        "sha256": "a08cdebf59a906064748e1cc59d2535722d87c1fee5c194e98c74bae712231d9"
       }
     },
-    "solar": {
-      "method": "NOAA fractional-year geometric approximation, not observation",
-      "elevation_deg": -47.23,
-      "azimuth_deg": 335.67
-    }
+    "masters": {
+      "16x9": {
+        "path": "es-01-083-daylight-16x9.png",
+        "width": 1920,
+        "height": 1270,
+        "sha256": "63f50185bbbb8e4d61fc9c8798768781813f8e8085005bda14e8072d64ac5fdf"
+      },
+      "4x5": {
+        "path": "es-01-083-daylight-4x5.png",
+        "width": 864,
+        "height": 1270,
+        "sha256": "6f3018030f95d9c36828e9118f4be46f122a02ba2975ed1794aa82916f7ec47f"
+      }
+    },
+    "on_image_text": [
+      "Roman Bridge, Cangas de Onís",
+      "☀ Daylight variant · derived from the night interpretation",
+      "AI-generated artistic interpretation",
+      "Jason D’s Vision"
+    ],
+    "art50_png_chunks": [
+      "Title",
+      "Description",
+      "Copyright",
+      "Software",
+      "Comment"
+    ],
+    "country": "Spain"
   }
 }

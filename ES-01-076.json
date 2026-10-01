@@ -1,135 +1,193 @@
 {
   "entry_id": "ES-01-076",
   "country": "Spain",
-  "region": "Basque Country",
   "city": "Vitoria-Gasteiz",
+  "region": "Basque Country",
   "caption": "Old town, Vitoria-Gasteiz",
-  "scenario_label": "1 October 2026 · 01:05 Europe/Madrid",
-  "composition": "Night · the battle monument in Plaza de la Virgen Blanca · AI-generated artistic interpretation",
-  "alt_text": "AI-generated artistic interpretation of Vitoria-Gasteiz old town at night, with the Monumento a la Batalla de Vitoria inscribed A la Batalla de Vitoria.",
-  "description": "Plaza de la Virgen Blanca at night, with the Monumento a la Batalla de Vitoria in the center and the old-town hill of San Miguel behind it. The stone band reads A la Batalla de Vitoria.",
-  "viewpoint": "Plaza de la Virgen Blanca, looking up at the old-town hill. Exact generated camera correspondence is unverified.",
-  "status": "Candidate · architectural rebuild · awaiting Cosmo re-audit · Night",
-  "approval_state": "candidate",
-  "gates": {
-    "visual": "pending — Cosmo re-audit; no pass claimed",
-    "technical": "pending — Cosmo re-audit; local dimension and Art.50 checks only",
-    "provenance": "pending — Cosmo re-audit; generation lineage recorded, uniqueness unverified",
-    "commercial_ip": "pending — Cosmo re-audit; not legal certification",
-    "publication": "candidate only — not approved for the gallery"
-  },
-  "weather": "Model data from Open-Meteo, retrieved 1 October 2026 01:05:13 Europe/Madrid, valid 01:00 Europe/Madrid — not a verified on-site observation. 15.4°C, WMO 3 overcast, cloud 100%, precipitation 0.0 mm, wind 6.3 km/h. Sunrise 08:07, sunset 19:52. Approximate solar elevation -48.38°, azimuth 338.95°. Night; no direct sunlight.",
-  "limitations": "Candidate only. No Cosmo QC is claimed for these bytes. 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top 864×1080 of an 864×1152 generated source and drop 72 pixels of foreground. Dimensions do not imply native detail. Open-Meteo figures are model data, not an on-site observation. Exact camera correspondence is not surveyed.",
-  "file_16x9": "es-01-076-cand-r1-16x9.png",
-  "file_4x5": "es-01-076-cand-r1-4x5.png",
-  "license_badge": "Free · no credit needed",
-  "license_anchor": "#license",
-  "editions": [],
-  "time_of_day": "Night",
-  "revision_lineage": "Full rebuild for wo-spain-architectural-rework-2026-09-30 pack 4. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. Previous masters remain in the repository as superseded bytes.",
-  "review_history": [
-    {
-      "date": "2026-10-01",
-      "previous_status": "Approved · Cosmo QC 5/5 · Night",
-      "previous_approval_state": "approved",
-      "previous_files": {
-        "16x9": "es-01-076-r1-16x9.png",
-        "4x5": "es-01-076-r1-4x5.png",
-        "9x16": null
-      },
-      "resolution": "Architectural rebuild cand-r1 landed as Candidate. The prior approval covered the previous bytes only. It does not cover cand-r1. No Cosmo re-audit is claimed."
-    }
+  "revision": "r1",
+  "viewpoint": "the Plaza de la Virgen Blanca, looking up at the old-town hill",
+  "anchors": [
+    "the medieval old town climbing its hill around the cathedral",
+    "the Plaza de la Virgen Blanca with its monument",
+    "the green ring of parks circling the historic core"
   ],
-  "approval_basis": "Not approved. cand-r1 is an architectural rebuild awaiting Cosmo re-audit. The earlier Cosmo approval applied only to the previous master bytes and is retained in review_history.",
+  "limitations": "Text-only generation; no photographic input. Exact camera position unverified.",
+  "refs": [
+    [
+      "https://en.wikipedia.org/wiki/Vitoria-Gasteiz",
+      "Wikipedia — Vitoria-Gasteiz, capital of the Basque Country"
+    ],
+    [
+      "https://tourism.euskadi.eus",
+      "Official Basque Country tourism portal — verify the Vitoria listing before use"
+    ]
+  ],
+  "status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_state": "approved",
+  "scenario_label": "24 September 2026 · 04:16 Europe/Madrid",
+  "time_of_day": "Night",
+  "composition": "Night · the old town hill from the plaza · AI-generated artistic interpretation",
+  "alt_text": "AI-generated artistic interpretation of Old town, Vitoria-Gasteiz at night.",
+  "description": "From the plaza you look up at Vitoria-Gasteiz's old town hill, the medieval streets and cathedral rising above. Lit windows climb the slope while the plaza lies quiet at your feet. The Basque capital's ancient core, a hill of history after midnight.",
+  "file_16x9": "es-01-076-r1-16x9.png",
+  "file_4x5": "es-01-076-r1-4x5.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
       "height": 1270,
-      "sha256": "3d94fd178ae8cc13a9aa89cf56c6ab5b9a1221d70fdbca3e2e1a66bd172af071",
-      "bytes": 2471854,
-      "source_width": 1280,
-      "source_height": 720,
-      "resampled": true
+      "sha256": "eb5bae3561caaa82d3135b909661c81bcdd1ac7b05c24ae6f37e89966b5a5534"
     },
     "4x5": {
       "width": 864,
       "height": 1270,
-      "sha256": "feb6040dae889f5dd1c7d4a1fc85935d659b6e10b72866430943af8d4275eabf",
-      "bytes": 1101089,
-      "source_width": 864,
-      "source_height": 1152,
-      "resampled": false
-    },
-    "9x16": {
-      "width": 1080,
-      "height": 2110,
-      "sha256": "71493a1052415410c9afbba88889332e4c6172923e75a18865243053d52ec367",
-      "bytes": 2204179,
-      "source_width": 720,
-      "source_height": 1280,
-      "resampled": true
+      "sha256": "ec74d7a1e48053aa1eea2ab31b0662d8876e5965b17f247520346af9dddb1e43"
     }
   },
-  "revision": "cand-r1",
-  "file_9x16": "es-01-076-cand-r1-9x16.png",
-  "evidence_card": "evidence/ES-01-076.json",
-  "land_as": "Candidate",
-  "conditions_record": {
-    "retrieved_local": "2026-10-01T01:05:13.567140+02:00",
-    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=42.84657&longitude=-2.67331&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
-    "requested_coordinates": [
-      42.84657,
-      -2.67331
-    ],
-    "response": {
-      "latitude": 42.85,
-      "longitude": -2.67,
-      "generationtime_ms": 1.819610595703125,
-      "utc_offset_seconds": 7200,
-      "timezone": "Europe/Madrid",
-      "timezone_abbreviation": "GMT+2",
-      "elevation": 529.0,
-      "current_units": {
-        "time": "iso8601",
-        "interval": "seconds",
-        "temperature_2m": "°C",
-        "weather_code": "wmo code",
-        "cloud_cover": "%",
-        "is_day": "",
-        "precipitation": "mm",
-        "wind_speed_10m": "km/h"
+  "masters": {
+    "16x9": {
+      "file": "es-01-076-r1-16x9.png",
+      "dimensions": [
+        1920,
+        1270
+      ],
+      "byte_length": 2697284,
+      "sha256": "eb5bae3561caaa82d3135b909661c81bcdd1ac7b05c24ae6f37e89966b5a5534",
+      "source_file": "es-01-076-r1.png",
+      "source_dimensions": [
+        1408,
+        1760
+      ],
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "labels": [
+        "Old town, Vitoria-Gasteiz",
+        "Scenario: 24 September 2026 · 04:16 Europe/Madrid",
+        "AI-generated artistic interpretation · Not a photograph."
+      ],
+      "signature": "Jason D’s Vision",
+      "format": "PNG",
+      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
+      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
+    },
+    "4x5": {
+      "file": "es-01-076-r1-4x5.png",
+      "dimensions": [
+        864,
+        1270
+      ],
+      "byte_length": 1378197,
+      "sha256": "ec74d7a1e48053aa1eea2ab31b0662d8876e5965b17f247520346af9dddb1e43",
+      "source_file": "es-01-076-r1.png",
+      "source_dimensions": [
+        1408,
+        1760
+      ],
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "labels": [
+        "Old town, Vitoria-Gasteiz",
+        "Scenario: 24 September 2026 · 04:16 Europe/Madrid",
+        "AI-generated artistic interpretation · Not a photograph."
+      ],
+      "signature": "Jason D’s Vision",
+      "format": "PNG",
+      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
+      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 864x1080. Not native target-resolution detail."
+    }
+  },
+  "conditions": {
+    "provider": "Open-Meteo",
+    "retrieved": "2026-09-24T04:16:15.110903+02:00",
+    "valid": "2026-09-24T04:15 Europe/Madrid",
+    "note": "Model data — not a verified on-site observation."
+  },
+  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T04:16:15.110903+02:00, valid 2026-09-24T04:15 Europe/Madrid — not a verified on-site observation.",
+  "prompts": {
+    "prompt-r1.txt": "Photorealistic original artistic interpretation (not a photograph) of the old town of Vitoria-Gasteiz, Basque Country, Spain. Tourist viewpoint: the Plaza de la Virgen Blanca, looking up at the old-town hill. Frame: the medieval old town climbing its hill around the cathedral; the Plaza de la Virgen Blanca with its monument; the green ring of parks circling the historic core. Light and weather: clear night, light winds. Main subject centered to survive a 4:5 center crop. No identifiable people, no legible logos, no text, lettering or signs anywhere in the image. Keep the lower third clean and uncluttered."
+  },
+  "source_files": [
+    {
+      "file": "es-01-076-r1.png",
+      "sha256": "2bebef094ec477d32aaecf258e95fdab543848db04528c867602307e71ded9f9",
+      "dimensions": [
+        1408,
+        1760
+      ],
+      "selected": true
+    }
+  ],
+  "provenance": {
+    "tool": "Built-in image generation; specific model version not exposed",
+    "image_inputs": [],
+    "source_use": "Text-only original generation. Third-party photographs inspected for facts, not supplied as input pixels. No uniqueness guarantee.",
+    "lineage": "Same selected source cropped and uniformly Lanczos-resampled to two exact PNGs; factual text and upward-fading scrim added deterministically. No stretching.",
+    "resampling": "Source [1408, 1760]; uniform Lanczos enlargement/crop to exact 1920x1080 and 864x1080. Not native target-resolution detail."
+  },
+  "production_checks": {
+    "technical": "Both PNGs fully decode, dimensions exact; label boxes in frame. Technical checks are not independent Cosmo QC.",
+    "visual": "Production comparison and limitations documented; not an independent gate verdict.",
+    "originality": "Own generated pixels; uniqueness not established.",
+    "commercial_ip": "No prominent people/logos or artwork focal subject; third-party clearance not legally certified.",
+    "publication": "Candidate handoff only. No approval inferred."
+  },
+  "independent_qc": {
+    "reviewer": "Cosmo",
+    "verdict": "Awaiting review",
+    "exact_pair_required": true
+  },
+  "card_handoff": {
+    "owner": "Cosmo",
+    "placement": "Candidate pipeline, two-format card (16:9/4:5 tabs, both downloads)",
+    "preserve": "caption, scenario, composition, description, status, disclosure, license, search/navigation and country switcher"
+  },
+  "license_badge": "Free · no credit needed",
+  "license_anchor": "#license",
+  "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
+  "reference_evidence": [],
+  "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor E: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/E/ES-01-076.md. r1.",
+  "daylight_variant": {
+    "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
+    "source_night": {
+      "16x9": {
+        "path": "es-01-076-r1-16x9.png",
+        "sha256": "eb5bae3561caaa82d3135b909661c81bcdd1ac7b05c24ae6f37e89966b5a5534"
       },
-      "current": {
-        "time": "2026-10-01T01:00",
-        "interval": 900,
-        "temperature_2m": 15.4,
-        "weather_code": 3,
-        "cloud_cover": 100,
-        "is_day": 0,
-        "precipitation": 0.0,
-        "wind_speed_10m": 6.3
-      },
-      "daily_units": {
-        "time": "iso8601",
-        "sunrise": "iso8601",
-        "sunset": "iso8601"
-      },
-      "daily": {
-        "time": [
-          "2026-10-01"
-        ],
-        "sunrise": [
-          "2026-10-01T08:07"
-        ],
-        "sunset": [
-          "2026-10-01T19:52"
-        ]
+      "4x5": {
+        "path": "es-01-076-r1-4x5.png",
+        "sha256": "ec74d7a1e48053aa1eea2ab31b0662d8876e5965b17f247520346af9dddb1e43"
       }
     },
-    "solar": {
-      "method": "NOAA fractional-year geometric approximation, not observation",
-      "elevation_deg": -48.38,
-      "azimuth_deg": 338.95
-    }
+    "masters": {
+      "16x9": {
+        "path": "es-01-076-daylight-16x9.png",
+        "width": 1920,
+        "height": 1270,
+        "sha256": "97536ed7098acf9e22a9d574251532e863765d2f480ffe164fd5ed42a30717ee"
+      },
+      "4x5": {
+        "path": "es-01-076-daylight-4x5.png",
+        "width": 864,
+        "height": 1270,
+        "sha256": "7e4ca903dcb559ac5198e25e214a8eacc77de474371326d331419541786d6ca1"
+      }
+    },
+    "on_image_text": [
+      "Old town, Vitoria-Gasteiz",
+      "☀ Daylight variant · derived from the night interpretation",
+      "AI-generated artistic interpretation",
+      "Jason D’s Vision"
+    ],
+    "art50_png_chunks": [
+      "Title",
+      "Description",
+      "Copyright",
+      "Software",
+      "Comment"
+    ],
+    "country": "Spain"
   }
 }

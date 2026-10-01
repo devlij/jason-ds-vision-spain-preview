@@ -1,0 +1,118 @@
+{
+  "scene_id": "ES-01-099",
+  "land_as": "Candidate",
+  "revision": "cand-r1",
+  "work_order": "wo-spain-architectural-rework-2026-09-30",
+  "pack": 5,
+  "defect_corrected": "The oversized three-storey multi-bay block and truncated stump are gone. The lighthouse is a compact two-storey white keepers’ house with masonry quoins, and a short octagonal granite tower with gallery and lantern.",
+  "viewpoint": "The cape path, looking at the lighthouse. Exact generated camera correspondence is unverified.",
+  "reference_links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Cape_Finisterre_Lighthouse",
+      "note": "English Wikipedia — Cape Finisterre Lighthouse: octagonal granite tower with balcony and lantern attached to the keeper’s house."
+    },
+    {
+      "url": "https://guia.visitacostadamorte.com/en/libro/cape-and-lighthouse-of-fisterra/",
+      "note": "Costa da Morte guide — rectangular two-storey white building with masonry frames and corners; octagonal tower, Félix de Uhagón, 1853."
+    }
+  ],
+  "geometry_anchors": [
+    "compact two-storey white keepers’ house with masonry quoins and window frames",
+    "short octagonal granite tower with gallery and lantern",
+    "rocky cape path and the Atlantic on the Costa da Morte"
+  ],
+  "art50_comment_date": "2026-10-01",
+  "art50_note": "Comment date is this scene's finish date, 2026-10-01, not a fleet-wide restamp.",
+  "open_meteo": {
+    "retrieved_local": "2026-10-01T01:47:09.197545+02:00",
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=42.88235&longitude=-9.27202&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
+    "requested_coordinates": [
+      42.88235,
+      -9.27202
+    ],
+    "response": {
+      "latitude": 42.9375,
+      "longitude": -9.25,
+      "generationtime_ms": 0.3132820129394531,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 83.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T01:45",
+        "interval": 900,
+        "temperature_2m": 14.4,
+        "weather_code": 1,
+        "cloud_cover": 25,
+        "is_day": 0,
+        "precipitation": 0.0,
+        "wind_speed_10m": 1.8
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T08:34"
+        ],
+        "sunset": [
+          "2026-10-01T20:18"
+        ]
+      }
+    },
+    "solar": {
+      "method": "NOAA fractional-year geometric approximation, not observation",
+      "elevation_deg": -48.81,
+      "azimuth_deg": 344.86
+    }
+  },
+  "masters": {
+    "16x9": {
+      "file": "es-01-099-cand-r1-16x9.png",
+      "width": 1920,
+      "height": 1270,
+      "sha256": "5b1eec5dab11c556571fc8038d48ba995569f1c8a195077edcbcad21cb791c11",
+      "bytes": 2080913,
+      "source": "/opt/cursor/artifacts/assets/src-099-16x9b.jpg",
+      "source_width": 1280,
+      "source_height": 720
+    },
+    "4x5": {
+      "file": "es-01-099-cand-r1-4x5.png",
+      "width": 864,
+      "height": 1270,
+      "sha256": "ec07a547e1e00f58cf38ff7dee6245e588c029f760958d6327a8d1b0aa8d55ce",
+      "bytes": 1282730,
+      "source": "/opt/cursor/artifacts/assets/src-099-34.jpg",
+      "source_width": 864,
+      "source_height": 1152
+    },
+    "9x16": {
+      "file": "es-01-099-cand-r1-9x16.png",
+      "width": 1080,
+      "height": 2110,
+      "sha256": "4f366244f3f095c2d33c6aebfda94e32f41e7c73b0fe0a02a6b2b70f65020a1a",
+      "bytes": 2288809,
+      "source": "/opt/cursor/artifacts/assets/src-099-916b.jpg",
+      "source_width": 720,
+      "source_height": 1280
+    }
+  },
+  "producer_check": "Dimensions, label bar, and Art.50 comment date checked locally. This is not Cosmo QC and not an approval.",
+  "independent_verdict": null
+}
