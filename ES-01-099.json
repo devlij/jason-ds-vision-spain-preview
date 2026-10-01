@@ -1,198 +1,135 @@
 {
   "entry_id": "ES-01-099",
   "country": "Spain",
-  "city": "Fisterra",
   "region": "Galicia",
+  "city": "Fisterra",
   "caption": "Cape Fisterra, Costa da Morte",
-  "revision": "r1",
-  "viewpoint": "the cape path, looking at the lighthouse",
-  "anchors": [
-    "the Fisterra lighthouse on the rocky cape",
-    "the Atlantic breaking on the cliffs around the cape",
-    "the open ocean beyond the point"
-  ],
-  "limitations": "Text-only generation; no photographic input. Exact camera position unverified. Beacon and lighting are interpretive.",
-  "refs": [
-    [
-      "https://en.wikipedia.org/wiki/Cape_Finisterre",
-      "Wikipedia — Cape Fisterra, end of the earth"
-    ],
-    [
-      "https://www.turismo.gal",
-      "Official Galicia tourism portal — verify the Fisterra listing before use"
-    ]
-  ],
-  "status": "Approved · Cosmo QC 5/5 · Night",
-  "approval_state": "approved",
-  "scenario_label": "24 September 2026 · 04:14 Europe/Madrid",
+  "scenario_label": "1 October 2026 · 01:47 Europe/Madrid",
+  "composition": "Night · the compact two-storey Faro de Cabo Fisterra and its octagonal granite tower · AI-generated artistic interpretation",
+  "alt_text": "AI-generated artistic interpretation of Cape Fisterra at night, with the compact two-storey white keepers’ house, masonry quoins, and a short octagonal granite tower with gallery and lantern.",
+  "description": "From the cape path at night, the Faro de Cabo Fisterra is a compact two-storey white keepers’ house with granite quoins and window frames. A short octagonal granite tower, with a gallery and lantern, rises from the house above the Atlantic rocks.",
+  "viewpoint": "The cape path, looking at the lighthouse. Exact generated camera correspondence is unverified.",
+  "status": "Candidate · architectural rebuild · awaiting Cosmo re-audit · Night",
+  "approval_state": "candidate",
+  "gates": {
+    "visual": "pending — Cosmo re-audit; no pass claimed",
+    "technical": "pending — Cosmo re-audit; local dimension and Art.50 checks only",
+    "provenance": "pending — Cosmo re-audit; generation lineage recorded, uniqueness unverified",
+    "commercial_ip": "pending — Cosmo re-audit; not legal certification",
+    "publication": "candidate only — not approved for the gallery"
+  },
+  "weather": "Model data from Open-Meteo, retrieved 1 October 2026 01:47:09 Europe/Madrid, valid 01:45 Europe/Madrid — not a verified on-site observation. 14.4°C, WMO 1 mainly clear, cloud 25%, precipitation 0.0 mm, wind 1.8 km/h. Sunrise 08:34, sunset 20:18. Approximate solar elevation -48.81°, azimuth 344.86°. Night; no direct sunlight.",
+  "limitations": "Candidate only. No Cosmo QC is claimed for these bytes. 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top 864×1080 of an 864×1152 generated source and drop 72 pixels of foreground. Dimensions do not imply native detail. Open-Meteo figures are model data, not an on-site observation. Exact camera correspondence is not surveyed.",
+  "file_16x9": "es-01-099-cand-r1-16x9.png",
+  "file_4x5": "es-01-099-cand-r1-4x5.png",
+  "license_badge": "Free · no credit needed",
+  "license_anchor": "#license",
+  "editions": [],
   "time_of_day": "Night",
-  "composition": "Night · the lighthouse on the cape · AI-generated artistic interpretation",
-  "alt_text": "AI-generated artistic interpretation of Cape Fisterra, Costa da Morte at night.",
-  "description": "The lighthouse of Cape Fisterra stands at the land's end, its beam sweeping the black Atlantic. Cliffs fall away on both sides while the rocks below catch the spray. The Romans called it the end of the world; at night you can believe it.",
-  "file_16x9": "es-01-099-r1-16x9.png",
-  "file_4x5": "es-01-099-r1-4x5.png",
+  "revision_lineage": "Full rebuild for wo-spain-architectural-rework-2026-09-30 pack 5. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. Previous masters remain in the repository as superseded bytes.",
+  "review_history": [
+    {
+      "date": "2026-10-01",
+      "previous_status": "Approved · Cosmo QC 5/5 · Night",
+      "previous_approval_state": "approved",
+      "previous_files": {
+        "16x9": "es-01-099-r1-16x9.png",
+        "4x5": "es-01-099-r1-4x5.png",
+        "9x16": null
+      },
+      "resolution": "Architectural rebuild cand-r1 landed as Candidate. The prior approval covered the previous bytes only. It does not cover cand-r1. No Cosmo re-audit is claimed."
+    }
+  ],
+  "approval_basis": "Not approved. cand-r1 is an architectural rebuild awaiting Cosmo re-audit. The earlier Cosmo approval applied only to the previous master bytes and is retained in review_history.",
   "dimensions": {
     "16x9": {
       "width": 1920,
       "height": 1270,
-      "sha256": "7476f192e2b69538432328c3d29d71de06d768052bfd4c48a52cd53cac3f50c5"
+      "sha256": "5b1eec5dab11c556571fc8038d48ba995569f1c8a195077edcbcad21cb791c11",
+      "bytes": 2080913,
+      "source_width": 1280,
+      "source_height": 720,
+      "resampled": true
     },
     "4x5": {
       "width": 864,
       "height": 1270,
-      "sha256": "62369cf69f9cd28855f17b2954cedec0381f23d2d9840ab8da82cb85d443d8ae"
-    }
-  },
-  "masters": {
-    "16x9": {
-      "file": "es-01-099-r1-16x9.png",
-      "dimensions": [
-        1920,
-        1270
-      ],
-      "byte_length": 1982494,
-      "sha256": "7476f192e2b69538432328c3d29d71de06d768052bfd4c48a52cd53cac3f50c5",
-      "source_file": "media-generation-es-01-099-source-0-582fd692-4fcd-4758-ae55-f6decceb2ca6.png",
-      "source_dimensions": [
-        1408,
-        1760
-      ],
-      "crop_center": [
-        0.5,
-        0.5
-      ],
-      "labels": [
-        "Cape Fisterra, Costa da Morte",
-        "Scenario: 24 September 2026 · 04:14 Europe/Madrid",
-        "AI-generated artistic interpretation · Not a photograph."
-      ],
-      "signature": "Jason D’s Vision",
-      "format": "PNG",
-      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
-      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
+      "sha256": "ec07a547e1e00f58cf38ff7dee6245e588c029f760958d6327a8d1b0aa8d55ce",
+      "bytes": 1282730,
+      "source_width": 864,
+      "source_height": 1152,
+      "resampled": false
     },
-    "4x5": {
-      "file": "es-01-099-r1-4x5.png",
-      "dimensions": [
-        864,
-        1270
-      ],
-      "byte_length": 1179903,
-      "sha256": "62369cf69f9cd28855f17b2954cedec0381f23d2d9840ab8da82cb85d443d8ae",
-      "source_file": "media-generation-es-01-099-source-0-582fd692-4fcd-4758-ae55-f6decceb2ca6.png",
-      "source_dimensions": [
-        1408,
-        1760
-      ],
-      "crop_center": [
-        0.5,
-        0.5
-      ],
-      "labels": [
-        "Cape Fisterra, Costa da Morte",
-        "Scenario: 24 September 2026 · 04:14 Europe/Madrid",
-        "AI-generated artistic interpretation · Not a photograph."
-      ],
-      "signature": "Jason D’s Vision",
-      "format": "PNG",
-      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
-      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 864x1080. Not native target-resolution detail."
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "4f366244f3f095c2d33c6aebfda94e32f41e7c73b0fe0a02a6b2b70f65020a1a",
+      "bytes": 2288809,
+      "source_width": 720,
+      "source_height": 1280,
+      "resampled": true
     }
   },
-  "conditions": {
-    "provider": "Open-Meteo",
-    "retrieved": "2026-09-24T04:14:42+02:00",
-    "valid": "2026-09-24T04:00+02:00",
-    "temperature_2m_c": 17.7,
-    "weather_code": 0,
-    "cloud_cover_pct": 0,
-    "is_day": 0,
-    "precipitation_mm": 0.0,
-    "wind_speed_10m_kmh": 4.9
-  },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T04:14+02:00, valid 2026-09-24T04:00 Europe/Madrid — not a verified on-site observation.",
-  "prompts": {
-    "prompt-r1.txt": "Photorealistic original artistic interpretation (not a photograph) of Cape Fisterra, Galicia, Spain AT NIGHT. Tourist viewpoint: the cape path, looking at the lighthouse. Frame: the Fisterra lighthouse on the rocky cape; the Atlantic breaking on the cliffs around the cape; the open ocean beyond the point. Light and weather: clear night, light breeze — the lighthouse softly lit with a rotating beacon beam, moonlit surf on the cliffs, no invented lighting beyond the beacon, no daylight anywhere. Main subject centered to survive a 4:5 center crop. No identifiable people, no legible logos, no text, lettering or signs anywhere in the image. Keep the lower third clean and uncluttered."
-  },
-  "source_files": [
-    {
-      "file": "media-generation-es-01-099-source-0-582fd692-4fcd-4758-ae55-f6decceb2ca6.png",
-      "sha256": "1d87b24ce24e4f8c5281b5f23d94275490de927396b86aaa0c61c781894dd2d5",
-      "dimensions": [
-        1408,
-        1760
-      ],
-      "selected": true
-    }
-  ],
-  "provenance": {
-    "tool": "Built-in image generation; specific model version not exposed",
-    "image_inputs": [],
-    "source_use": "Text-only original generation. Third-party photographs inspected for facts, not supplied as input pixels. No uniqueness guarantee.",
-    "lineage": "Same selected source cropped and uniformly Lanczos-resampled to two exact PNGs; factual text and upward-fading scrim added deterministically. No stretching.",
-    "resampling": "Source [1408, 1760]; uniform Lanczos enlargement/crop to exact 1920x1080 and 864x1080. Not native target-resolution detail."
-  },
-  "production_checks": {
-    "technical": "Both PNGs fully decode, dimensions exact; label boxes in frame. Technical checks are not independent Cosmo QC.",
-    "visual": "Production comparison and limitations documented; not an independent gate verdict.",
-    "originality": "Own generated pixels; uniqueness not established.",
-    "commercial_ip": "No prominent people/logos or artwork focal subject; third-party clearance not legally certified.",
-    "publication": "Candidate handoff only. No approval inferred."
-  },
-  "independent_qc": {
-    "reviewer": "Cosmo",
-    "verdict": "Awaiting review",
-    "exact_pair_required": true
-  },
-  "card_handoff": {
-    "owner": "Cosmo",
-    "placement": "Candidate pipeline, two-format card (16:9/4:5 tabs, both downloads)",
-    "preserve": "caption, scenario, composition, description, status, disclosure, license, search/navigation and country switcher"
-  },
-  "license_badge": "Free · no credit needed",
-  "license_anchor": "#license",
-  "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
-  "reference_evidence": [],
-  "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor F: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/F/ES-01-099.md. r1.",
-  "daylight_variant": {
-    "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
-    "source_night": {
-      "16x9": {
-        "path": "es-01-099-r1-16x9.png",
-        "sha256": "7476f192e2b69538432328c3d29d71de06d768052bfd4c48a52cd53cac3f50c5"
+  "revision": "cand-r1",
+  "file_9x16": "es-01-099-cand-r1-9x16.png",
+  "evidence_card": "evidence/ES-01-099.json",
+  "land_as": "Candidate",
+  "conditions_record": {
+    "retrieved_local": "2026-10-01T01:47:09.197545+02:00",
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=42.88235&longitude=-9.27202&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
+    "requested_coordinates": [
+      42.88235,
+      -9.27202
+    ],
+    "response": {
+      "latitude": 42.9375,
+      "longitude": -9.25,
+      "generationtime_ms": 0.3132820129394531,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 83.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
       },
-      "4x5": {
-        "path": "es-01-099-r1-4x5.png",
-        "sha256": "62369cf69f9cd28855f17b2954cedec0381f23d2d9840ab8da82cb85d443d8ae"
+      "current": {
+        "time": "2026-10-01T01:45",
+        "interval": 900,
+        "temperature_2m": 14.4,
+        "weather_code": 1,
+        "cloud_cover": 25,
+        "is_day": 0,
+        "precipitation": 0.0,
+        "wind_speed_10m": 1.8
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T08:34"
+        ],
+        "sunset": [
+          "2026-10-01T20:18"
+        ]
       }
     },
-    "masters": {
-      "16x9": {
-        "path": "es-01-099-daylight-16x9.png",
-        "width": 1920,
-        "height": 1270,
-        "sha256": "c678c9a4d87647b00e8f7fdf7c051de79abd05aceeccf1702e0874f509d281a5"
-      },
-      "4x5": {
-        "path": "es-01-099-daylight-4x5.png",
-        "width": 864,
-        "height": 1270,
-        "sha256": "9089ab0d77dc2e6828ec8d239d5bbc2d9133aa6840df150fbd94521377d59f85"
-      }
-    },
-    "on_image_text": [
-      "Cape Fisterra, Costa da Morte",
-      "☀ Daylight variant · derived from the night interpretation",
-      "AI-generated artistic interpretation",
-      "Jason D’s Vision"
-    ],
-    "art50_png_chunks": [
-      "Title",
-      "Description",
-      "Copyright",
-      "Software",
-      "Comment"
-    ],
-    "country": "Spain"
+    "solar": {
+      "method": "NOAA fractional-year geometric approximation, not observation",
+      "elevation_deg": -48.81,
+      "azimuth_deg": 344.86
+    }
   }
 }
