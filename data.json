@@ -4693,16 +4693,134 @@
       "region": "Cantabria",
       "city": "Los Tojos",
       "caption": "Bárcena Mayor, Los Tojos",
-      "scenario_label": "24 September 2026 · 04:06 Europe/Madrid",
-      "composition": "Night · the historic village street in its valley · AI-generated artistic interpretation",
-      "alt_text": "AI-generated artistic interpretation of Bárcena Mayor, Los Tojos at night.",
-      "description": "Walk the historic village street of Bárcena Mayor at night, its old stone houses dark and silent along the lane. Lamplight touches the cobbles while the valley's wooded slopes close in black around the village. The mountain village sleeps, its centuries-old street empty under the stars.",
-      "status": "Approved · Cosmo QC 5/5 · Night",
-      "approval_state": "approved",
-      "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor E: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/E/ES-01-052.md. r1.",
-      "daylight_16x9": "es-01-052-daylight-16x9.png",
-      "daylight_4x5": "es-01-052-daylight-4x5.png",
-      "daylight_interim": true
+      "scenario_label": "1 October 2026 · 00:38 Europe/Madrid",
+      "composition": "Night · the squat three-body campanario of Santa María with its terracotta hip roof · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Bárcena Mayor at night, with the squat square three-body campanario of Santa María under a low terracotta hip roof and an iron cross.",
+      "description": "Along the main street of Bárcena Mayor at night, stone houses with wooden balconies lead to the church of Santa María. Its squat square campanario is three stone bodies under a low terracotta hip roof, finished with a wrought-iron cross and weather-vane.",
+      "viewpoint": "Main village street of Bárcena Mayor, looking along its length. Exact generated camera correspondence is unverified.",
+      "status": "Candidate · architectural rebuild · awaiting Cosmo re-audit · Night",
+      "approval_state": "candidate",
+      "gates": {
+        "visual": "pending — Cosmo re-audit; no pass claimed",
+        "technical": "pending — Cosmo re-audit; local dimension and Art.50 checks only",
+        "provenance": "pending — Cosmo re-audit; generation lineage recorded, uniqueness unverified",
+        "commercial_ip": "pending — Cosmo re-audit; not legal certification",
+        "publication": "candidate only — not approved for the gallery"
+      },
+      "weather": "Model data from Open-Meteo, retrieved 1 October 2026 00:38:32 Europe/Madrid, valid 00:30 Europe/Madrid — not a verified on-site observation. 13.9°C, WMO 3 overcast, cloud 100%, precipitation 0.0 mm, wind 2.8 km/h. Sunrise 08:14, sunset 19:58. Approximate solar elevation -45.03°, azimuth 148.05°. Night; no direct sunlight.",
+      "limitations": "Candidate only. No Cosmo QC is claimed for these bytes. 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top 864×1080 of an 864×1152 generated source and drop 72 pixels of foreground. Dimensions do not imply native detail. Open-Meteo figures are model data, not an on-site observation. Exact camera correspondence is not surveyed.",
+      "file_16x9": "es-01-052-cand-r1-16x9.png",
+      "file_4x5": "es-01-052-cand-r1-4x5.png",
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "editions": [],
+      "time_of_day": "Night",
+      "revision_lineage": "Full rebuild for wo-spain-architectural-rework-2026-09-30 pack 3. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. Previous masters remain in the repository as superseded bytes.",
+      "review_history": [
+        {
+          "date": "2026-10-01",
+          "previous_status": "Approved · Cosmo QC 5/5 · Night",
+          "previous_approval_state": "approved",
+          "previous_files": {
+            "16x9": "es-01-052-r1-16x9.png",
+            "4x5": "es-01-052-r1-4x5.png",
+            "9x16": null
+          },
+          "resolution": "Architectural rebuild cand-r1 landed as Candidate. The prior approval covered the previous bytes only. It does not cover cand-r1. No Cosmo re-audit is claimed."
+        }
+      ],
+      "approval_basis": "Not approved. cand-r1 is an architectural rebuild awaiting Cosmo re-audit. The earlier Cosmo approval applied only to the previous master bytes and is retained in review_history.",
+      "dimensions": {
+        "16x9": {
+          "width": 1920,
+          "height": 1270,
+          "sha256": "4ef639327a367ceae614e0c45b8fef13deedf6d11b472969b4a8b0348693510c",
+          "bytes": 2766296,
+          "source_width": 1280,
+          "source_height": 720,
+          "resampled": true
+        },
+        "4x5": {
+          "width": 864,
+          "height": 1270,
+          "sha256": "5feed7c13e01c4eedd85c518143fab043e7538562a3fe2d9ebbb35afff1654e0",
+          "bytes": 1353895,
+          "source_width": 864,
+          "source_height": 1152,
+          "resampled": false
+        },
+        "9x16": {
+          "width": 1080,
+          "height": 2110,
+          "sha256": "670a9aa669e971615eec6fc92f6df0d66af0aba13d479af89225f83039562ad7",
+          "bytes": 2825232,
+          "source_width": 720,
+          "source_height": 1280,
+          "resampled": true
+        }
+      },
+      "revision": "cand-r1",
+      "file_9x16": "es-01-052-cand-r1-9x16.png",
+      "evidence_card": "evidence/ES-01-052.json",
+      "land_as": "Candidate",
+      "conditions_record": {
+        "retrieved_local": "2026-10-01T00:38:32.843330+02:00",
+        "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=43.1436&longitude=-4.1935&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
+        "requested_coordinates": [
+          43.1436,
+          -4.1935
+        ],
+        "response": {
+          "latitude": 43.14,
+          "longitude": -4.2000003,
+          "generationtime_ms": 1.9869804382324219,
+          "utc_offset_seconds": 7200,
+          "timezone": "Europe/Madrid",
+          "timezone_abbreviation": "GMT+2",
+          "elevation": 500.0,
+          "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "weather_code": "wmo code",
+            "cloud_cover": "%",
+            "is_day": "",
+            "precipitation": "mm",
+            "wind_speed_10m": "km/h"
+          },
+          "current": {
+            "time": "2026-10-01T00:30",
+            "interval": 900,
+            "temperature_2m": 13.9,
+            "weather_code": 3,
+            "cloud_cover": 100,
+            "is_day": 0,
+            "precipitation": 0.0,
+            "wind_speed_10m": 2.8
+          },
+          "daily_units": {
+            "time": "iso8601",
+            "sunrise": "iso8601",
+            "sunset": "iso8601"
+          },
+          "daily": {
+            "time": [
+              "2026-10-01"
+            ],
+            "sunrise": [
+              "2026-10-01T08:14"
+            ],
+            "sunset": [
+              "2026-10-01T19:58"
+            ]
+          }
+        },
+        "solar": {
+          "method": "NOAA fractional-year geometric approximation, not observation",
+          "elevation_deg": -45.03,
+          "azimuth_deg": 148.05
+        }
+      }
     },
     {
       "entry_id": "ES-01-053",
@@ -4710,16 +4828,134 @@
       "region": "Cantabria",
       "city": "San Vicente de la Barquera",
       "caption": "Oyambre Estuary, San Vicente de la Barquera",
-      "scenario_label": "24 September 2026 · 04:06 Europe/Madrid",
-      "composition": "Night · the estuary with the old town above · AI-generated artistic interpretation",
-      "alt_text": "AI-generated artistic interpretation of Oyambre Estuary, San Vicente de la Barquera at night.",
-      "description": "From the shore of the Oyambre estuary at night, the old town of San Vicente rises on its hill above the dark tidal flats. Moonlight glints on the estuary's channels while the town's lights cluster along the ridge. The wetlands lie quiet and silvered, the old town keeping watch over the water.",
-      "status": "Approved · Cosmo QC 5/5 · Night",
-      "approval_state": "approved",
-      "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor E: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/E/ES-01-053.md. r1.",
-      "daylight_16x9": "es-01-053-daylight-16x9.png",
-      "daylight_4x5": "es-01-053-daylight-4x5.png",
-      "daylight_interim": true
+      "scenario_label": "1 October 2026 · 00:38 Europe/Madrid",
+      "composition": "Night · Castillo del Rey apart from the square belfry of Santa María de los Ángeles · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Oyambre estuary at night, with Castillo del Rey separate from the massive square bell tower of Santa María de los Ángeles.",
+      "description": "From the Oyambre estuary shore, the hill of San Vicente de la Barquera shows two separate monuments: the low battlemented Castillo del Rey, and apart from it the massive square bell tower of Santa María de los Ángeles.",
+      "viewpoint": "Shoreline path at the Oyambre estuary edge, looking across the water to the town. Exact generated camera correspondence is unverified.",
+      "status": "Candidate · architectural rebuild · awaiting Cosmo re-audit · Night",
+      "approval_state": "candidate",
+      "gates": {
+        "visual": "pending — Cosmo re-audit; no pass claimed",
+        "technical": "pending — Cosmo re-audit; local dimension and Art.50 checks only",
+        "provenance": "pending — Cosmo re-audit; generation lineage recorded, uniqueness unverified",
+        "commercial_ip": "pending — Cosmo re-audit; not legal certification",
+        "publication": "candidate only — not approved for the gallery"
+      },
+      "weather": "Model data from Open-Meteo, retrieved 1 October 2026 00:38:34 Europe/Madrid, valid 00:30 Europe/Madrid — not a verified on-site observation. 17.6°C, WMO 3 overcast, cloud 100%, precipitation 0.0 mm, wind 9.1 km/h. Sunrise 08:14, sunset 19:58. Approximate solar elevation -44.75°, azimuth 147.92°. Night; no direct sunlight.",
+      "limitations": "Candidate only. No Cosmo QC is claimed for these bytes. 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top 864×1080 of an 864×1152 generated source and drop 72 pixels of foreground. Dimensions do not imply native detail. Open-Meteo figures are model data, not an on-site observation. Exact camera correspondence is not surveyed.",
+      "file_16x9": "es-01-053-cand-r1-16x9.png",
+      "file_4x5": "es-01-053-cand-r1-4x5.png",
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "editions": [],
+      "time_of_day": "Night",
+      "revision_lineage": "Full rebuild for wo-spain-architectural-rework-2026-09-30 pack 3. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. Previous masters remain in the repository as superseded bytes.",
+      "review_history": [
+        {
+          "date": "2026-10-01",
+          "previous_status": "Approved · Cosmo QC 5/5 · Night",
+          "previous_approval_state": "approved",
+          "previous_files": {
+            "16x9": "es-01-053-r1-16x9.png",
+            "4x5": "es-01-053-r1-4x5.png",
+            "9x16": null
+          },
+          "resolution": "Architectural rebuild cand-r1 landed as Candidate. The prior approval covered the previous bytes only. It does not cover cand-r1. No Cosmo re-audit is claimed."
+        }
+      ],
+      "approval_basis": "Not approved. cand-r1 is an architectural rebuild awaiting Cosmo re-audit. The earlier Cosmo approval applied only to the previous master bytes and is retained in review_history.",
+      "dimensions": {
+        "16x9": {
+          "width": 1920,
+          "height": 1270,
+          "sha256": "7c49b4744008655f316443195eabbb80ffc2b0ade54ca93e0a116099f9056ece",
+          "bytes": 2121626,
+          "source_width": 1280,
+          "source_height": 720,
+          "resampled": true
+        },
+        "4x5": {
+          "width": 864,
+          "height": 1270,
+          "sha256": "49509088f30bcdb3a78f72af24cd433fed1469a57b3225a7cb3cf944b1c4ac7f",
+          "bytes": 1024840,
+          "source_width": 864,
+          "source_height": 1152,
+          "resampled": false
+        },
+        "9x16": {
+          "width": 1080,
+          "height": 2110,
+          "sha256": "c37e3300b0b8f3b5235806c88f2c6dac5e8339e7c512f3a594ff699b714f5d7d",
+          "bytes": 2400167,
+          "source_width": 720,
+          "source_height": 1280,
+          "resampled": true
+        }
+      },
+      "revision": "cand-r1",
+      "file_9x16": "es-01-053-cand-r1-9x16.png",
+      "evidence_card": "evidence/ES-01-053.json",
+      "land_as": "Candidate",
+      "conditions_record": {
+        "retrieved_local": "2026-10-01T00:38:34.760508+02:00",
+        "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=43.3845&longitude=-4.4005&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
+        "requested_coordinates": [
+          43.3845,
+          -4.4005
+        ],
+        "response": {
+          "latitude": 43.38,
+          "longitude": -4.4,
+          "generationtime_ms": 1.8624067306518555,
+          "utc_offset_seconds": 7200,
+          "timezone": "Europe/Madrid",
+          "timezone_abbreviation": "GMT+2",
+          "elevation": 20.0,
+          "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "weather_code": "wmo code",
+            "cloud_cover": "%",
+            "is_day": "",
+            "precipitation": "mm",
+            "wind_speed_10m": "km/h"
+          },
+          "current": {
+            "time": "2026-10-01T00:30",
+            "interval": 900,
+            "temperature_2m": 17.6,
+            "weather_code": 3,
+            "cloud_cover": 100,
+            "is_day": 0,
+            "precipitation": 0.0,
+            "wind_speed_10m": 9.1
+          },
+          "daily_units": {
+            "time": "iso8601",
+            "sunrise": "iso8601",
+            "sunset": "iso8601"
+          },
+          "daily": {
+            "time": [
+              "2026-10-01"
+            ],
+            "sunrise": [
+              "2026-10-01T08:14"
+            ],
+            "sunset": [
+              "2026-10-01T19:58"
+            ]
+          }
+        },
+        "solar": {
+          "method": "NOAA fractional-year geometric approximation, not observation",
+          "elevation_deg": -44.75,
+          "azimuth_deg": 147.92
+        }
+      }
     },
     {
       "entry_id": "ES-01-054",
@@ -5254,16 +5490,134 @@
       "region": "La Rioja",
       "city": "Logroño",
       "caption": "Calle Laurel, Logroño",
-      "scenario_label": "24 September 2026 · 04:07 Europe/Madrid",
-      "composition": "Night · the tavern street in the old town · AI-generated artistic interpretation",
-      "alt_text": "AI-generated artistic interpretation of Calle Laurel, Logroño at night.",
-      "description": "You stand on Calle Laurel in Logroño's old town, the famous tavern street, its bars' lights and signs glowing along the narrow lane. Shutters and balconies rise on both sides, with the street disappearing into shadow at either end. By day this lane is the capital of Rioja tapas; at night it holds its breath.",
-      "status": "Approved · Cosmo QC 5/5 · Night",
-      "approval_state": "approved",
-      "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor E: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/E/ES-01-055.md. r2 rebuild (legible-text defect fixed).",
-      "daylight_16x9": "es-01-055-daylight-16x9.png",
-      "daylight_4x5": "es-01-055-daylight-4x5.png",
-      "daylight_interim": true
+      "scenario_label": "1 October 2026 · 00:38 Europe/Madrid",
+      "composition": "Night · the tavern street opening onto its cross street, not a church front · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Calle Laurel in Logroño at night, a tavern street that opens onto a cross street rather than a church façade.",
+      "description": "Calle Laurel at night is a narrow pedestrian street of tavern doorways. It runs between Capitán Gallarza and Travesía del Laurel and opens onto that crossing; it does not end at a church façade.",
+      "viewpoint": "Pedestrian Calle Laurel itself, looking along its tavern-lined length. Exact generated camera correspondence is unverified.",
+      "status": "Candidate · architectural rebuild · awaiting Cosmo re-audit · Night",
+      "approval_state": "candidate",
+      "gates": {
+        "visual": "pending — Cosmo re-audit; no pass claimed",
+        "technical": "pending — Cosmo re-audit; local dimension and Art.50 checks only",
+        "provenance": "pending — Cosmo re-audit; generation lineage recorded, uniqueness unverified",
+        "commercial_ip": "pending — Cosmo re-audit; not legal certification",
+        "publication": "candidate only — not approved for the gallery"
+      },
+      "weather": "Model data from Open-Meteo, retrieved 1 October 2026 00:38:36 Europe/Madrid, valid 00:30 Europe/Madrid — not a verified on-site observation. 19.2°C, WMO 2 partly cloudy, cloud 57%, precipitation 0.0 mm, wind 9.0 km/h. Sunrise 08:06, sunset 19:51. Approximate solar elevation -46.28°, azimuth 150.02°. Night; no direct sunlight.",
+      "limitations": "Candidate only. No Cosmo QC is claimed for these bytes. 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top 864×1080 of an 864×1152 generated source and drop 72 pixels of foreground. Dimensions do not imply native detail. Open-Meteo figures are model data, not an on-site observation. Exact camera correspondence is not surveyed.",
+      "file_16x9": "es-01-055-cand-r1-16x9.png",
+      "file_4x5": "es-01-055-cand-r1-4x5.png",
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "editions": [],
+      "time_of_day": "Night",
+      "revision_lineage": "Full rebuild for wo-spain-architectural-rework-2026-09-30 pack 3. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. Previous masters remain in the repository as superseded bytes.",
+      "review_history": [
+        {
+          "date": "2026-10-01",
+          "previous_status": "Approved · Cosmo QC 5/5 · Night",
+          "previous_approval_state": "approved",
+          "previous_files": {
+            "16x9": "es-01-055-r2-16x9.png",
+            "4x5": "es-01-055-r2-4x5.png",
+            "9x16": null
+          },
+          "resolution": "Architectural rebuild cand-r1 landed as Candidate. The prior approval covered the previous bytes only. It does not cover cand-r1. No Cosmo re-audit is claimed."
+        }
+      ],
+      "approval_basis": "Not approved. cand-r1 is an architectural rebuild awaiting Cosmo re-audit. The earlier Cosmo approval applied only to the previous master bytes and is retained in review_history.",
+      "dimensions": {
+        "16x9": {
+          "width": 1920,
+          "height": 1270,
+          "sha256": "8a33558b82f67b3eb1deacd2b92f9c7df0f38c7478f59a9cb135ce114266d3f1",
+          "bytes": 2818481,
+          "source_width": 1280,
+          "source_height": 720,
+          "resampled": true
+        },
+        "4x5": {
+          "width": 864,
+          "height": 1270,
+          "sha256": "79fb34790b5780cc726314ef49666c14551b0cc739cb69b3cd4946670446917c",
+          "bytes": 1549872,
+          "source_width": 864,
+          "source_height": 1152,
+          "resampled": false
+        },
+        "9x16": {
+          "width": 1080,
+          "height": 2110,
+          "sha256": "5edaf7eb528e385a22d81bc68872518f835bcbd27177590f40e4eb0e2275bc0b",
+          "bytes": 2953946,
+          "source_width": 720,
+          "source_height": 1280,
+          "resampled": true
+        }
+      },
+      "revision": "cand-r1",
+      "file_9x16": "es-01-055-cand-r1-9x16.png",
+      "evidence_card": "evidence/ES-01-055.json",
+      "land_as": "Candidate",
+      "conditions_record": {
+        "retrieved_local": "2026-10-01T00:38:36.601355+02:00",
+        "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=42.46551&longitude=-2.44846&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
+        "requested_coordinates": [
+          42.46551,
+          -2.44846
+        ],
+        "response": {
+          "latitude": 42.47,
+          "longitude": -2.4499998,
+          "generationtime_ms": 34.63292121887207,
+          "utc_offset_seconds": 7200,
+          "timezone": "Europe/Madrid",
+          "timezone_abbreviation": "GMT+2",
+          "elevation": 395.0,
+          "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "weather_code": "wmo code",
+            "cloud_cover": "%",
+            "is_day": "",
+            "precipitation": "mm",
+            "wind_speed_10m": "km/h"
+          },
+          "current": {
+            "time": "2026-10-01T00:30",
+            "interval": 900,
+            "temperature_2m": 19.2,
+            "weather_code": 2,
+            "cloud_cover": 57,
+            "is_day": 0,
+            "precipitation": 0.0,
+            "wind_speed_10m": 9.0
+          },
+          "daily_units": {
+            "time": "iso8601",
+            "sunrise": "iso8601",
+            "sunset": "iso8601"
+          },
+          "daily": {
+            "time": [
+              "2026-10-01"
+            ],
+            "sunrise": [
+              "2026-10-01T08:06"
+            ],
+            "sunset": [
+              "2026-10-01T19:51"
+            ]
+          }
+        },
+        "solar": {
+          "method": "NOAA fractional-year geometric approximation, not observation",
+          "elevation_deg": -46.28,
+          "azimuth_deg": 150.02
+        }
+      }
     },
     {
       "entry_id": "ES-01-056",
@@ -5322,16 +5676,134 @@
       "region": "La Rioja",
       "city": "Briones",
       "caption": "Briones, Briones",
-      "scenario_label": "24 September 2026 · 04:09 Europe/Madrid",
-      "composition": "Night · the hilltop village over the Ebro valley · AI-generated artistic interpretation",
-      "alt_text": "AI-generated artistic interpretation of Briones, Briones at night.",
-      "description": "The hilltop village of Briones stands over the Ebro valley, its stone houses and church silhouetted above the plain. Lights cluster along the ridge while the great dark valley stretches away beneath. One of Rioja's most beautifully placed villages, seen from its best side.",
-      "status": "Approved · Cosmo QC 5/5 · Night",
-      "approval_state": "approved",
-      "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor E: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/E/ES-01-059.md. r1.",
-      "daylight_16x9": "es-01-059-daylight-16x9.png",
-      "daylight_4x5": "es-01-059-daylight-4x5.png",
-      "daylight_interim": true
+      "scenario_label": "1 October 2026 · 00:38 Europe/Madrid",
+      "composition": "Night · the Beratúa tower, square base to octagonal stages and spire · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Briones at night, the hilltop church crowned by a Baroque tower with a square base, octagonal stages and a tapering spire.",
+      "description": "From the valley below Briones, the hilltop church of Nuestra Señora de la Asunción is crowned by its Baroque Riojan tower: a square stone shaft, ornate octagonal stages, and a tapering spire.",
+      "viewpoint": "Valley approach below the village, looking up at the hilltop. Exact generated camera correspondence is unverified.",
+      "status": "Candidate · architectural rebuild · awaiting Cosmo re-audit · Night",
+      "approval_state": "candidate",
+      "gates": {
+        "visual": "pending — Cosmo re-audit; no pass claimed",
+        "technical": "pending — Cosmo re-audit; local dimension and Art.50 checks only",
+        "provenance": "pending — Cosmo re-audit; generation lineage recorded, uniqueness unverified",
+        "commercial_ip": "pending — Cosmo re-audit; not legal certification",
+        "publication": "candidate only — not approved for the gallery"
+      },
+      "weather": "Model data from Open-Meteo, retrieved 1 October 2026 00:38:38 Europe/Madrid, valid 00:30 Europe/Madrid — not a verified on-site observation. 16.5°C, WMO 3 overcast, cloud 100%, precipitation 0.0 mm, wind 10.8 km/h. Sunrise 08:08, sunset 19:52. Approximate solar elevation -46.09°, azimuth 149.63°. Night; no direct sunlight.",
+      "limitations": "Candidate only. No Cosmo QC is claimed for these bytes. 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top 864×1080 of an 864×1152 generated source and drop 72 pixels of foreground. Dimensions do not imply native detail. Open-Meteo figures are model data, not an on-site observation. Exact camera correspondence is not surveyed.",
+      "file_16x9": "es-01-059-cand-r1-16x9.png",
+      "file_4x5": "es-01-059-cand-r1-4x5.png",
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "editions": [],
+      "time_of_day": "Night",
+      "revision_lineage": "Full rebuild for wo-spain-architectural-rework-2026-09-30 pack 3. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. Previous masters remain in the repository as superseded bytes.",
+      "review_history": [
+        {
+          "date": "2026-10-01",
+          "previous_status": "Approved · Cosmo QC 5/5 · Night",
+          "previous_approval_state": "approved",
+          "previous_files": {
+            "16x9": "es-01-059-r1-16x9.png",
+            "4x5": "es-01-059-r1-4x5.png",
+            "9x16": null
+          },
+          "resolution": "Architectural rebuild cand-r1 landed as Candidate. The prior approval covered the previous bytes only. It does not cover cand-r1. No Cosmo re-audit is claimed."
+        }
+      ],
+      "approval_basis": "Not approved. cand-r1 is an architectural rebuild awaiting Cosmo re-audit. The earlier Cosmo approval applied only to the previous master bytes and is retained in review_history.",
+      "dimensions": {
+        "16x9": {
+          "width": 1920,
+          "height": 1270,
+          "sha256": "47706a15fcd0917fefddffa86a29360c59e7ce6e15139ca0bb298ecd1170df52",
+          "bytes": 1655503,
+          "source_width": 1280,
+          "source_height": 720,
+          "resampled": true
+        },
+        "4x5": {
+          "width": 864,
+          "height": 1270,
+          "sha256": "280f75fce14168ec495d163c015733fce15a85c6013fb7582bb10f40ac4ec0e0",
+          "bytes": 1355238,
+          "source_width": 864,
+          "source_height": 1152,
+          "resampled": false
+        },
+        "9x16": {
+          "width": 1080,
+          "height": 2110,
+          "sha256": "ee10883a84164120351f91d0a5d409946f481f080ee36673e3ca753c242e3f3b",
+          "bytes": 2633990,
+          "source_width": 720,
+          "source_height": 1280,
+          "resampled": true
+        }
+      },
+      "revision": "cand-r1",
+      "file_9x16": "es-01-059-cand-r1-9x16.png",
+      "evidence_card": "evidence/ES-01-059.json",
+      "land_as": "Candidate",
+      "conditions_record": {
+        "retrieved_local": "2026-10-01T00:38:38.486323+02:00",
+        "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=42.544&longitude=-2.785&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
+        "requested_coordinates": [
+          42.544,
+          -2.785
+        ],
+        "response": {
+          "latitude": 42.54,
+          "longitude": -2.7799997,
+          "generationtime_ms": 0.39637088775634766,
+          "utc_offset_seconds": 7200,
+          "timezone": "Europe/Madrid",
+          "timezone_abbreviation": "GMT+2",
+          "elevation": 505.0,
+          "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "weather_code": "wmo code",
+            "cloud_cover": "%",
+            "is_day": "",
+            "precipitation": "mm",
+            "wind_speed_10m": "km/h"
+          },
+          "current": {
+            "time": "2026-10-01T00:30",
+            "interval": 900,
+            "temperature_2m": 16.5,
+            "weather_code": 3,
+            "cloud_cover": 100,
+            "is_day": 0,
+            "precipitation": 0.0,
+            "wind_speed_10m": 10.8
+          },
+          "daily_units": {
+            "time": "iso8601",
+            "sunrise": "iso8601",
+            "sunset": "iso8601"
+          },
+          "daily": {
+            "time": [
+              "2026-10-01"
+            ],
+            "sunrise": [
+              "2026-10-01T08:08"
+            ],
+            "sunset": [
+              "2026-10-01T19:52"
+            ]
+          }
+        },
+        "solar": {
+          "method": "NOAA fractional-year geometric approximation, not observation",
+          "elevation_deg": -46.09,
+          "azimuth_deg": 149.63
+        }
+      }
     },
     {
       "entry_id": "ES-01-060",
@@ -5339,16 +5811,134 @@
       "region": "La Rioja",
       "city": "Ezcaray",
       "caption": "Old town, Ezcaray",
-      "scenario_label": "24 September 2026 · 04:09 Europe/Madrid",
-      "composition": "Night · the arcaded main street toward the church · AI-generated artistic interpretation",
-      "alt_text": "AI-generated artistic interpretation of Old town, Ezcaray at night.",
-      "description": "Ezcaray's arcaded main street runs toward the church, the stone arches of the porticoes lining the darkened lane. A few lamps light the cobbles while the church front closes the view at the street's end. A mountain town of fine old houses, at rest.",
-      "status": "Approved · Cosmo QC 5/5 · Night",
-      "approval_state": "approved",
-      "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor E: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/E/ES-01-060.md. r1.",
-      "daylight_16x9": "es-01-060-daylight-16x9.png",
-      "daylight_4x5": "es-01-060-daylight-4x5.png",
-      "daylight_interim": true
+      "scenario_label": "1 October 2026 · 00:38 Europe/Madrid",
+      "composition": "Night · the reddish fortress church, wooden gallery and bell-cote · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Ezcaray old town at night, the arcaded street facing the reddish fortress church with its wooden gallery and small bell-cote.",
+      "description": "The arcaded street of Ezcaray leads to Santa María la Mayor, a fortress-like mass of reddish sandstone. Its west front carries a long wooden gallery on stone corbels, a geometric stone balustrade, and a small square bell-cote.",
+      "viewpoint": "Arcaded main street, looking toward the church of Santa María la Mayor. Exact generated camera correspondence is unverified.",
+      "status": "Candidate · architectural rebuild · awaiting Cosmo re-audit · Night",
+      "approval_state": "candidate",
+      "gates": {
+        "visual": "pending — Cosmo re-audit; no pass claimed",
+        "technical": "pending — Cosmo re-audit; local dimension and Art.50 checks only",
+        "provenance": "pending — Cosmo re-audit; generation lineage recorded, uniqueness unverified",
+        "commercial_ip": "pending — Cosmo re-audit; not legal certification",
+        "publication": "candidate only — not approved for the gallery"
+      },
+      "weather": "Model data from Open-Meteo, retrieved 1 October 2026 00:38:40 Europe/Madrid, valid 00:30 Europe/Madrid — not a verified on-site observation. 15.0°C, WMO 3 overcast, cloud 100%, precipitation 0.0 mm, wind 1.3 km/h. Sunrise 08:08, sunset 19:53. Approximate solar elevation -46.19°, azimuth 149.21°. Night; no direct sunlight.",
+      "limitations": "Candidate only. No Cosmo QC is claimed for these bytes. 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top 864×1080 of an 864×1152 generated source and drop 72 pixels of foreground. Dimensions do not imply native detail. Open-Meteo figures are model data, not an on-site observation. Exact camera correspondence is not surveyed.",
+      "file_16x9": "es-01-060-cand-r1-16x9.png",
+      "file_4x5": "es-01-060-cand-r1-4x5.png",
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "editions": [],
+      "time_of_day": "Night",
+      "revision_lineage": "Full rebuild for wo-spain-architectural-rework-2026-09-30 pack 3. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. Previous masters remain in the repository as superseded bytes.",
+      "review_history": [
+        {
+          "date": "2026-10-01",
+          "previous_status": "Approved · Cosmo QC 5/5 · Night",
+          "previous_approval_state": "approved",
+          "previous_files": {
+            "16x9": "es-01-060-r1-16x9.png",
+            "4x5": "es-01-060-r1-4x5.png",
+            "9x16": null
+          },
+          "resolution": "Architectural rebuild cand-r1 landed as Candidate. The prior approval covered the previous bytes only. It does not cover cand-r1. No Cosmo re-audit is claimed."
+        }
+      ],
+      "approval_basis": "Not approved. cand-r1 is an architectural rebuild awaiting Cosmo re-audit. The earlier Cosmo approval applied only to the previous master bytes and is retained in review_history.",
+      "dimensions": {
+        "16x9": {
+          "width": 1920,
+          "height": 1270,
+          "sha256": "a69d51ca7b5ec1838560401c5bdd3ae3491e1ec894742ed4e58ade05f170a474",
+          "bytes": 2637637,
+          "source_width": 1280,
+          "source_height": 720,
+          "resampled": true
+        },
+        "4x5": {
+          "width": 864,
+          "height": 1270,
+          "sha256": "12410828c10d5e9451ef3fdae6c43abb19d888b7c32d4a991d0dc7a200335225",
+          "bytes": 1393674,
+          "source_width": 864,
+          "source_height": 1152,
+          "resampled": false
+        },
+        "9x16": {
+          "width": 1080,
+          "height": 2110,
+          "sha256": "e490efd839b0b2a0f4e76365e64555f25b72a2d93ef2790d9e14ea038b88702b",
+          "bytes": 2514652,
+          "source_width": 720,
+          "source_height": 1280,
+          "resampled": true
+        }
+      },
+      "revision": "cand-r1",
+      "file_9x16": "es-01-060-cand-r1-9x16.png",
+      "evidence_card": "evidence/ES-01-060.json",
+      "land_as": "Candidate",
+      "conditions_record": {
+        "retrieved_local": "2026-10-01T00:38:40.321885+02:00",
+        "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=42.326106&longitude=-3.01449&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
+        "requested_coordinates": [
+          42.326106,
+          -3.01449
+        ],
+        "response": {
+          "latitude": 42.33,
+          "longitude": -3.0100002,
+          "generationtime_ms": 124.10366535186768,
+          "utc_offset_seconds": 7200,
+          "timezone": "Europe/Madrid",
+          "timezone_abbreviation": "GMT+2",
+          "elevation": 814.0,
+          "current_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature_2m": "°C",
+            "weather_code": "wmo code",
+            "cloud_cover": "%",
+            "is_day": "",
+            "precipitation": "mm",
+            "wind_speed_10m": "km/h"
+          },
+          "current": {
+            "time": "2026-10-01T00:30",
+            "interval": 900,
+            "temperature_2m": 15.0,
+            "weather_code": 3,
+            "cloud_cover": 100,
+            "is_day": 0,
+            "precipitation": 0.0,
+            "wind_speed_10m": 1.3
+          },
+          "daily_units": {
+            "time": "iso8601",
+            "sunrise": "iso8601",
+            "sunset": "iso8601"
+          },
+          "daily": {
+            "time": [
+              "2026-10-01"
+            ],
+            "sunrise": [
+              "2026-10-01T08:08"
+            ],
+            "sunset": [
+              "2026-10-01T19:53"
+            ]
+          }
+        },
+        "solar": {
+          "method": "NOAA fractional-year geometric approximation, not observation",
+          "elevation_deg": -46.19,
+          "azimuth_deg": 149.21
+        }
+      }
     },
     {
       "entry_id": "ES-01-061",
