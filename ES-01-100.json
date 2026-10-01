@@ -1,198 +1,135 @@
 {
   "entry_id": "ES-01-100",
   "country": "Spain",
-  "city": "Ponferrada",
   "region": "Castilla y León",
+  "city": "Ponferrada",
   "caption": "Las Médulas, Ponferrada",
-  "revision": "r1",
-  "viewpoint": "the Orellán lookout, looking over the red cliffs",
-  "anchors": [
-    "the red-earth cliffs of Las Médulas, the old Roman gold mine",
-    "the fantastical eroded spires and galleries of the red rock",
-    "the chestnut woods around the red earth"
-  ],
-  "limitations": "Text-only generation; no photographic input. Exact camera position unverified. Terrain is representative.",
-  "refs": [
-    [
-      "https://en.wikipedia.org/wiki/Las_M%C3%A9dulas",
-      "Wikipedia — Las Médulas, ancient Roman gold mine"
-    ],
-    [
-      "https://www.turismocastillayleon.com",
-      "Official Castilla y León tourism portal — verify the Las Médulas listing before use"
-    ]
-  ],
+  "scenario_label": "1 October 2026 · 01:47 Europe/Madrid",
+  "composition": "Night · irregular ruina montium caves in the red cliffs of Las Médulas · AI-generated artistic interpretation",
+  "alt_text": "AI-generated artistic interpretation of Las Médulas at night from the Orellán lookout, with red pinnacles, irregular erosional caves, galleries and amphitheatre hollows.",
+  "description": "From the Orellán lookout at night, the iron-red pinnacles of Las Médulas show irregular caves, galleries and amphitheatre hollows left by Roman ruina montium. The openings are uneven and eroded, with chestnut trees in the gullies.",
+  "viewpoint": "The Orellán lookout, looking over the red cliffs. Exact generated camera correspondence is unverified.",
   "status": "Approved · Cosmo QC 5/5 · Night",
   "approval_state": "approved",
-  "scenario_label": "24 September 2026 · 04:15 Europe/Madrid",
+  "gates": {
+    "visual": "pass — Cosmo re-audit 2026-10-01",
+    "technical": "pass — Cosmo re-audit 2026-10-01",
+    "provenance": "pass — Cosmo re-audit 2026-10-01",
+    "commercial_ip": "pass — Cosmo re-audit 2026-10-01",
+    "publication": "pass — Cosmo re-audit 2026-10-01"
+  },
+  "weather": "Model data from Open-Meteo, retrieved 1 October 2026 01:47:11 Europe/Madrid, valid 01:45 Europe/Madrid — not a verified on-site observation. 8.8°C, WMO 1 mainly clear, cloud 49%, precipitation 0.0 mm, wind 4.7 km/h. Sunrise 08:23, sunset 20:08. Approximate solar elevation -49.65°, azimuth 348.56°. Night; no direct sunlight.",
+  "limitations": "Approved by Cosmo QC 5/5 on 1 October 2026 (re-audit of the cand-r1 architectural rebuild). 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top 864×1080 of an 864×1152 generated source and drop 72 pixels of foreground. Dimensions do not imply native detail. Open-Meteo figures are model data, not an on-site observation. Exact camera correspondence is not surveyed.",
+  "file_16x9": "es-01-100-cand-r1-16x9.png",
+  "file_4x5": "es-01-100-cand-r1-4x5.png",
+  "license_badge": "Free · no credit needed",
+  "license_anchor": "#license",
+  "editions": [],
   "time_of_day": "Night",
-  "composition": "Night · the red-earth mine from the lookout · AI-generated artistic interpretation",
-  "alt_text": "AI-generated artistic interpretation of Las Médulas, Ponferrada at night.",
-  "description": "From the lookout the red-earth mine of Las Médulas shows faintly under the night sky, the ruined pinnacles of the Roman workings. The jagged orange cliffs fill the frame with the chestnut forests dark below. The largest open-cast gold mine of the Roman Empire, still otherworldly.",
-  "file_16x9": "es-01-100-r1-16x9.png",
-  "file_4x5": "es-01-100-r1-4x5.png",
+  "revision_lineage": "Full rebuild for wo-spain-architectural-rework-2026-09-30 pack 5. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. Previous masters remain in the repository as superseded bytes.",
+  "review_history": [
+    {
+      "date": "2026-10-01",
+      "previous_status": "Approved · Cosmo QC 5/5 · Night",
+      "previous_approval_state": "approved",
+      "previous_files": {
+        "16x9": "es-01-100-r1-16x9.png",
+        "4x5": "es-01-100-r1-4x5.png",
+        "9x16": null
+      },
+      "resolution": "Architectural rebuild cand-r1 landed as Candidate. The prior approval covered the previous bytes only. It does not cover cand-r1. No Cosmo re-audit is claimed."
+    }
+  ],
+  "approval_basis": "Cosmo independent five-gate re-audit 5/5 (1 October 2026) of the cand-r1 architectural rebuild. Gate 1 visual/location: Las Médulas, Ponferrada re-verified after rebuild, documented defect corrected. Gate 2 technical: masters at exact dims with SHA-256 matching the packet, Open-Meteo model data retrieved 1 October 2026 01:47:11 Europe/Madrid (per-scene retrieval, unique to this scene), label bar and Art. 50 metadata present. Gate 3 provenance: text-only generation per revision_lineage, no photographic inputs. Gate 4 commercial/IP: documentation pass per packet. Gate 5 publication: ready. This approval covers the cand-r1 bytes only and supersedes the prior approval of the previous masters.",
   "dimensions": {
     "16x9": {
       "width": 1920,
       "height": 1270,
-      "sha256": "981bdb4a31e52a32089ce9c6dcc1808b318a835eda12ce9b951b03807797af37"
+      "sha256": "10a42cfafb2fdadb71569c3b3aa8a280815268c42252207e847c77ac5148a56c",
+      "bytes": 2933911,
+      "source_width": 1280,
+      "source_height": 720,
+      "resampled": true
     },
     "4x5": {
       "width": 864,
       "height": 1270,
-      "sha256": "682f5c30a26e918fdd59c4c5dcb0c06d9ba72ec1fc53555905d0140c400cb413"
-    }
-  },
-  "masters": {
-    "16x9": {
-      "file": "es-01-100-r1-16x9.png",
-      "dimensions": [
-        1920,
-        1270
-      ],
-      "byte_length": 2739392,
-      "sha256": "981bdb4a31e52a32089ce9c6dcc1808b318a835eda12ce9b951b03807797af37",
-      "source_file": "media-generation-es-01-100-source-0-f2346900-e77f-41d7-b64b-02df9339cc3f.png",
-      "source_dimensions": [
-        1408,
-        1760
-      ],
-      "crop_center": [
-        0.5,
-        0.5
-      ],
-      "labels": [
-        "Las Médulas, Ponferrada",
-        "Scenario: 24 September 2026 · 04:15 Europe/Madrid",
-        "AI-generated artistic interpretation · Not a photograph."
-      ],
-      "signature": "Jason D’s Vision",
-      "format": "PNG",
-      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
-      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
+      "sha256": "c4cb5c9d45455d5c0986e4be6d9ba8c7f288b1313616df23f88b6ba4ebf5082a",
+      "bytes": 1634794,
+      "source_width": 864,
+      "source_height": 1152,
+      "resampled": false
     },
-    "4x5": {
-      "file": "es-01-100-r1-4x5.png",
-      "dimensions": [
-        864,
-        1270
-      ],
-      "byte_length": 1454557,
-      "sha256": "682f5c30a26e918fdd59c4c5dcb0c06d9ba72ec1fc53555905d0140c400cb413",
-      "source_file": "media-generation-es-01-100-source-0-f2346900-e77f-41d7-b64b-02df9339cc3f.png",
-      "source_dimensions": [
-        1408,
-        1760
-      ],
-      "crop_center": [
-        0.5,
-        0.5
-      ],
-      "labels": [
-        "Las Médulas, Ponferrada",
-        "Scenario: 24 September 2026 · 04:15 Europe/Madrid",
-        "AI-generated artistic interpretation · Not a photograph."
-      ],
-      "signature": "Jason D’s Vision",
-      "format": "PNG",
-      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
-      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 864x1080. Not native target-resolution detail."
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "e08844f8ff93974be8d87ffc9cd1b53ca9f49181ab1897613fac0176d6f9a580",
+      "bytes": 2780281,
+      "source_width": 720,
+      "source_height": 1280,
+      "resampled": true
     }
   },
-  "conditions": {
-    "provider": "Open-Meteo",
-    "retrieved": "2026-09-24T04:15:21+02:00",
-    "valid": "2026-09-24T04:15+02:00",
-    "temperature_2m_c": 15.8,
-    "weather_code": 0,
-    "cloud_cover_pct": 0,
-    "is_day": 0,
-    "precipitation_mm": 0.0,
-    "wind_speed_10m_kmh": 5.9
-  },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T04:15+02:00, valid 2026-09-24T04:15 Europe/Madrid — not a verified on-site observation.",
-  "prompts": {
-    "prompt-r1.txt": "Photorealistic original artistic interpretation (not a photograph) of Las Médulas, León, Spain AT NIGHT. Tourist viewpoint: the Orellán lookout, looking over the red cliffs. Frame: the red-earth cliffs of Las Médulas, the old Roman gold mine; the fantastical eroded spires and galleries of the red rock; the chestnut woods around the red earth. Light and weather: clear night, light breeze — a moonlit red-earth landscape, moonlit spires, dark chestnut woods, no invented lighting, no daylight anywhere. Main subject centered to survive a 4:5 center crop. No identifiable people, no legible logos, no text, lettering or signs anywhere in the image. Keep the lower third clean and uncluttered."
-  },
-  "source_files": [
-    {
-      "file": "media-generation-es-01-100-source-0-f2346900-e77f-41d7-b64b-02df9339cc3f.png",
-      "sha256": "d2dfff84882500b7b17f70d4c0ce25305733385641da036b51b5a10e7c3060a7",
-      "dimensions": [
-        1408,
-        1760
-      ],
-      "selected": true
-    }
-  ],
-  "provenance": {
-    "tool": "Built-in image generation; specific model version not exposed",
-    "image_inputs": [],
-    "source_use": "Text-only original generation. Third-party photographs inspected for facts, not supplied as input pixels. No uniqueness guarantee.",
-    "lineage": "Same selected source cropped and uniformly Lanczos-resampled to two exact PNGs; factual text and upward-fading scrim added deterministically. No stretching.",
-    "resampling": "Source [1408, 1760]; uniform Lanczos enlargement/crop to exact 1920x1080 and 864x1080. Not native target-resolution detail."
-  },
-  "production_checks": {
-    "technical": "Both PNGs fully decode, dimensions exact; label boxes in frame. Technical checks are not independent Cosmo QC.",
-    "visual": "Production comparison and limitations documented; not an independent gate verdict.",
-    "originality": "Own generated pixels; uniqueness not established.",
-    "commercial_ip": "No prominent people/logos or artwork focal subject; third-party clearance not legally certified.",
-    "publication": "Candidate handoff only. No approval inferred."
-  },
-  "independent_qc": {
-    "reviewer": "Cosmo",
-    "verdict": "Awaiting review",
-    "exact_pair_required": true
-  },
-  "card_handoff": {
-    "owner": "Cosmo",
-    "placement": "Candidate pipeline, two-format card (16:9/4:5 tabs, both downloads)",
-    "preserve": "caption, scenario, composition, description, status, disclosure, license, search/navigation and country switcher"
-  },
-  "license_badge": "Free · no credit needed",
-  "license_anchor": "#license",
-  "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
-  "reference_evidence": [],
-  "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor F: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/F/ES-01-100.md. r1.",
-  "daylight_variant": {
-    "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
-    "source_night": {
-      "16x9": {
-        "path": "es-01-100-r1-16x9.png",
-        "sha256": "981bdb4a31e52a32089ce9c6dcc1808b318a835eda12ce9b951b03807797af37"
+  "revision": "cand-r1",
+  "file_9x16": "es-01-100-cand-r1-9x16.png",
+  "evidence_card": "evidence/ES-01-100.json",
+  "land_as": "Candidate",
+  "conditions_record": {
+    "retrieved_local": "2026-10-01T01:47:11.062284+02:00",
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=42.45696&longitude=-6.75154&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
+    "requested_coordinates": [
+      42.45696,
+      -6.75154
+    ],
+    "response": {
+      "latitude": 42.4375,
+      "longitude": -6.75,
+      "generationtime_ms": 0.4703998565673828,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 928.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
       },
-      "4x5": {
-        "path": "es-01-100-r1-4x5.png",
-        "sha256": "682f5c30a26e918fdd59c4c5dcb0c06d9ba72ec1fc53555905d0140c400cb413"
+      "current": {
+        "time": "2026-10-01T01:45",
+        "interval": 900,
+        "temperature_2m": 8.8,
+        "weather_code": 1,
+        "cloud_cover": 49,
+        "is_day": 0,
+        "precipitation": 0.0,
+        "wind_speed_10m": 4.7
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T08:23"
+        ],
+        "sunset": [
+          "2026-10-01T20:08"
+        ]
       }
     },
-    "masters": {
-      "16x9": {
-        "path": "es-01-100-daylight-16x9.png",
-        "width": 1920,
-        "height": 1270,
-        "sha256": "01496d1ca5f1747c83612fe6cc2d3f73f09d56339422275b37749675f86515a6"
-      },
-      "4x5": {
-        "path": "es-01-100-daylight-4x5.png",
-        "width": 864,
-        "height": 1270,
-        "sha256": "7ccb022dd992a7f7307bed108b1d5b3d9857c191936fd44d9e7432f855a15ac4"
-      }
-    },
-    "on_image_text": [
-      "Las Médulas, Ponferrada",
-      "☀ Daylight variant · derived from the night interpretation",
-      "AI-generated artistic interpretation",
-      "Jason D’s Vision"
-    ],
-    "art50_png_chunks": [
-      "Title",
-      "Description",
-      "Copyright",
-      "Software",
-      "Comment"
-    ],
-    "country": "Spain"
+    "solar": {
+      "method": "NOAA fractional-year geometric approximation, not observation",
+      "elevation_deg": -49.65,
+      "azimuth_deg": 348.56
+    }
   }
 }

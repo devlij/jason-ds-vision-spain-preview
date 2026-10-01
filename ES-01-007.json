@@ -4,49 +4,133 @@
   "region": "Andalusia",
   "city": "Seville",
   "caption": "Plaza de España, Seville",
-  "scenario_label": "23 September 2026 · 17:42 Europe/Madrid",
-  "composition": "Daylight · Canal and tiled bridge from the southwest plaza side · AI-generated artistic interpretation",
-  "alt_text": "AI-generated artistic interpretation of Plaza de España in Seville: a tiled bridge over the canal, curved brick-and-stone gallery and tower in clear late-afternoon daylight.",
-  "description": "The navigable canal and ceramic bridge lead toward the curved arcaded building designed for the 1929 Ibero-American Exposition. This view frames one tower and the gallery; the complete semicircle and all four bridges are outside the single-camera field of view.",
+  "scenario_label": "30 September 2026 · 23:56 Europe/Madrid",
+  "composition": "Night · Both towers of the hemicycle from the southwest plaza side · AI-generated artistic interpretation",
+  "alt_text": "AI-generated artistic interpretation of Plaza de España in Seville at night, with Torre Norte and Torre Sur, matching brick towers with ceramic crowns, framing the semicircular gallery.",
+  "description": "From the southwest walkway the hemicycle shows a matching pair of tall brick towers, Torre Norte and Torre Sur, each with a multi-tier ceramic-tiled crown. A canal and tiled bridge lead toward the curved gallery.",
   "viewpoint": "Southwest plaza-side public walkway, near the historical panorama camera report 37.376722, -5.987833, looking roughly east-northeast at eye level. The reported point and heading guide composition, not a surveyed match of generated pixels.",
-  "weather": "Model data from Open-Meteo, retrieved 23 September 2026 17:42:45 Europe/Madrid, valid 17:30 Europe/Madrid — not a verified on-site observation. 36.2°C, WMO 0 clear, cloud 0%, precipitation 0 mm, wind 3.1 km/h. Sunrise 08:12, sunset 20:19. Approximate solar elevation 29.70°, azimuth 244.49°.",
-  "status": "Approved · Cosmo QC 5/5 · Daylight",
+  "weather": "Model data from Open-Meteo, retrieved 30 September 2026 23:56:50 Europe/Madrid, valid 23:45 Europe/Madrid — not a verified on-site observation. 24.3°C, WMO 3 overcast, cloud 81%, precipitation 0.0 mm, wind 6.1 km/h. Sunrise 08:18, sunset 20:08. Approximate solar elevation -43.19°, azimuth 309.62°. Night; no direct sunlight.",
+  "status": "Approved · Cosmo QC 5/5 · Night",
   "approval_state": "approved",
-  "approval_basis": "Cosmo independent five-gate QC 5/5 (23 September 2026): Gate 1 visual/location pass — recognizably Plaza de España from the southwest plaza side, no misconfiguration or artifacts; Gate 2 technical pass — both masters at exact dimensions with SHA-256 match, exact signature/caption/scenario/disclosure; Gate 3 provenance — built-in text-only generation per packet, no photographic inputs reported; Gate 4 commercial/IP documentation only — distant unidentifiable figures, no logos, no blocking flags, chain not certified; Gate 5 publication readiness pass. Fine tile inscriptions are invented/unverified.",
-  "time_of_day": "Daylight",
+  "approval_basis": "Cosmo independent five-gate re-audit 5/5 (1 October 2026) of the cand-r1 architectural rebuild. Gate 1 visual/location: Plaza de España, Seville re-verified after rebuild, documented defect corrected. Gate 2 technical: masters at exact dims with SHA-256 matching the packet, Open-Meteo model data retrieved 30 September 2026 23:56:50 Europe/Madrid (per-scene retrieval, unique to this scene), label bar and Art. 50 metadata present. Gate 3 provenance: text-only generation per revision_lineage, no photographic inputs. Gate 4 commercial/IP: documentation pass per packet. Gate 5 publication: ready. This approval covers the cand-r1 bytes only and supersedes the prior approval of the previous masters.",
+  "time_of_day": "Night",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
-  "limitations": "Cosmo QC 5/5 approved 23 September 2026. Geometry of the tiled bridge, tower, bench decorations and solar illumination should be compared independently with references; fine tile inscriptions are invented/unverified. The portrait retains the tower and canal but clips part of the bridge at its right edge. Exact-size exports are upscaled from a 1672×941 generated source; dimensions do not imply native detail. Current conditions are model data rather than an on-site observation; third-party rights and uniqueness are not legally certified.",
-  "revision_lineage": "Built-in image generation from a text-only prompt; one 1672×941 generated source, no photographic input pixels. Same-source crop and uniform Lanczos resampling; deterministic bottom gradient and four mandated text items. No independent portrait generation. Model version not exposed.",
+  "limitations": "Approved by Cosmo QC 5/5 on 1 October 2026 (re-audit of the cand-r1 architectural rebuild). 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top of a 864×1152 generated source and drop foreground. Dimensions do not imply native detail. Open-Meteo figures are model data, not an on-site observation. Exact camera correspondence is not surveyed.",
+  "revision_lineage": "Full rebuild for wo-spain-architectural-rework-2026-09-30 pack 1. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. Previous masters remain in the repository as superseded bytes.",
   "historical_editions": [],
   "editions": [],
   "dimensions": {
     "16x9": {
       "width": 1920,
       "height": 1270,
-      "sha256": "7d4494ef9ca5faa3bed7163fe17cb345d7e5bad7cf2d325f44deaf97cfccfbd6",
-      "bytes": 3372333,
-      "source_width": 1672,
-      "source_height": 941,
+      "sha256": "2cd36d599f418f2de8404030bd65933619bf378ac23267e0d5063a60270bd49f",
+      "bytes": 2700580,
+      "source_width": 1280,
+      "source_height": 720,
       "resampled": true
     },
     "4x5": {
       "width": 864,
       "height": 1270,
-      "sha256": "72a8f6cbc499a32a4952b52a8a69133d5b811db8955a1b44bbdf330b5091f6dd",
-      "bytes": 1454075,
-      "source_width": 1672,
-      "source_height": 941,
+      "sha256": "cd343c59e6d214279659ae956cc2bcd4eb195658d387a8850f85efd0ffee043f",
+      "bytes": 1206648,
+      "source_width": 864,
+      "source_height": 1152,
+      "resampled": true
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "3838f6e234f3c7822d6360f6c6476200db2f822787fd68be317d8b955465c2f8",
+      "bytes": 2307418,
+      "source_width": 720,
+      "source_height": 1280,
       "resampled": true
     }
   },
   "gates": {
-    "visual": "pending — Cosmo QC; architecture and viewpoint to review",
-    "technical": "Local PNGs fully decoded and opened; dimensions and SHA-256 recorded; same-source crop and overlays checked",
-    "provenance": "Built-in text-only generation and export lineage recorded; uniqueness unverified",
-    "commercial_ip": "Unverified; internal review is not legal certification",
-    "publication": "Candidate pipeline only, separate from approved gallery"
+    "visual": "pass — Cosmo re-audit 2026-10-01",
+    "technical": "pass — Cosmo re-audit 2026-10-01",
+    "provenance": "pass — Cosmo re-audit 2026-10-01",
+    "commercial_ip": "pass — Cosmo re-audit 2026-10-01",
+    "publication": "pass — Cosmo re-audit 2026-10-01"
   },
-  "file_16x9": "es-01-007-r1-16x9.png",
-  "file_4x5": "es-01-007-r1-4x5.png"
+  "file_16x9": "es-01-007-cand-r1-16x9.png",
+  "file_4x5": "es-01-007-cand-r1-4x5.png",
+  "revision": "cand-r1",
+  "file_9x16": "es-01-007-cand-r1-9x16.png",
+  "review_history": [
+    {
+      "date": "2026-09-30",
+      "previous_status": "Approved · Cosmo QC 5/5 · Daylight",
+      "previous_approval_state": "approved",
+      "previous_files": {
+        "16x9": "es-01-007-r1-16x9.png",
+        "4x5": "es-01-007-r1-4x5.png",
+        "9x16": null
+      },
+      "resolution": "Architectural rebuild cand-r1 landed as Candidate on 30 September 2026. The prior approval covered the previous bytes only. It does not cover cand-r1. No Cosmo re-audit is claimed."
+    }
+  ],
+  "evidence_card": "evidence/ES-01-007.json",
+  "land_as": "Candidate",
+  "conditions_record": {
+    "retrieved_local": "2026-09-30T23:56:50.908479+02:00",
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=37.376722&longitude=-5.987833&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
+    "requested_coordinates": [
+      37.376722,
+      -5.987833
+    ],
+    "response": {
+      "latitude": 37.375,
+      "longitude": -6.0,
+      "generationtime_ms": 0.13935565948486328,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 17.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-09-30T23:45",
+        "interval": 900,
+        "temperature_2m": 24.3,
+        "weather_code": 3,
+        "cloud_cover": 81,
+        "is_day": 0,
+        "precipitation": 0.0,
+        "wind_speed_10m": 6.1
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-09-30"
+        ],
+        "sunrise": [
+          "2026-09-30T08:18"
+        ],
+        "sunset": [
+          "2026-09-30T20:08"
+        ]
+      }
+    },
+    "solar": {
+      "method": "NOAA fractional-year geometric approximation, not observation",
+      "elevation_deg": -43.19,
+      "azimuth_deg": 309.62
+    }
+  }
 }

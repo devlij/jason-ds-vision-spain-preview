@@ -1,193 +1,135 @@
 {
   "entry_id": "ES-01-060",
   "country": "Spain",
-  "city": "Ezcaray",
   "region": "La Rioja",
+  "city": "Ezcaray",
   "caption": "Old town, Ezcaray",
-  "revision": "r1",
-  "viewpoint": "the arcaded main street, looking toward the church of Santa María la Mayor",
-  "anchors": [
-    "Ezcaray's arcaded main street with its noble houses",
-    "the church of Santa María la Mayor at the street's end",
-    "the green Oja valley and Sierra de la Demanda behind"
-  ],
-  "limitations": "Text-only generation; no photographic input. Exact camera position unverified.",
-  "refs": [
-    [
-      "https://en.wikipedia.org/wiki/Ezcaray",
-      "Wikipedia — Ezcaray, mountain town in La Rioja"
-    ],
-    [
-      "https://www.spain.info/en/region/la-rioja/",
-      "spain.info — official Spain tourism, La Rioja region page (official lariojaturismo.com unreachable from builder network)"
-    ]
-  ],
+  "scenario_label": "1 October 2026 · 00:38 Europe/Madrid",
+  "composition": "Night · the reddish fortress church, wooden gallery and bell-cote · AI-generated artistic interpretation",
+  "alt_text": "AI-generated artistic interpretation of Ezcaray old town at night, the arcaded street facing the reddish fortress church with its wooden gallery and small bell-cote.",
+  "description": "The arcaded street of Ezcaray leads to Santa María la Mayor, a fortress-like mass of reddish sandstone. Its west front carries a long wooden gallery on stone corbels, a geometric stone balustrade, and a small square bell-cote.",
+  "viewpoint": "Arcaded main street, looking toward the church of Santa María la Mayor. Exact generated camera correspondence is unverified.",
   "status": "Approved · Cosmo QC 5/5 · Night",
   "approval_state": "approved",
-  "scenario_label": "24 September 2026 · 04:09 Europe/Madrid",
+  "gates": {
+    "visual": "pass — Cosmo re-audit 2026-10-01",
+    "technical": "pass — Cosmo re-audit 2026-10-01",
+    "provenance": "pass — Cosmo re-audit 2026-10-01",
+    "commercial_ip": "pass — Cosmo re-audit 2026-10-01",
+    "publication": "pass — Cosmo re-audit 2026-10-01"
+  },
+  "weather": "Model data from Open-Meteo, retrieved 1 October 2026 00:38:40 Europe/Madrid, valid 00:30 Europe/Madrid — not a verified on-site observation. 15.0°C, WMO 3 overcast, cloud 100%, precipitation 0.0 mm, wind 1.3 km/h. Sunrise 08:08, sunset 19:53. Approximate solar elevation -46.19°, azimuth 149.21°. Night; no direct sunlight.",
+  "limitations": "Approved by Cosmo QC 5/5 on 1 October 2026 (re-audit of the cand-r1 architectural rebuild). 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top 864×1080 of an 864×1152 generated source and drop 72 pixels of foreground. Dimensions do not imply native detail. Open-Meteo figures are model data, not an on-site observation. Exact camera correspondence is not surveyed.",
+  "file_16x9": "es-01-060-cand-r1-16x9.png",
+  "file_4x5": "es-01-060-cand-r1-4x5.png",
+  "license_badge": "Free · no credit needed",
+  "license_anchor": "#license",
+  "editions": [],
   "time_of_day": "Night",
-  "composition": "Night · the arcaded main street toward the church · AI-generated artistic interpretation",
-  "alt_text": "AI-generated artistic interpretation of Old town, Ezcaray at night.",
-  "description": "Ezcaray's arcaded main street runs toward the church, the stone arches of the porticoes lining the darkened lane. A few lamps light the cobbles while the church front closes the view at the street's end. A mountain town of fine old houses, at rest.",
-  "file_16x9": "es-01-060-r1-16x9.png",
-  "file_4x5": "es-01-060-r1-4x5.png",
+  "revision_lineage": "Full rebuild for wo-spain-architectural-rework-2026-09-30 pack 3. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. Previous masters remain in the repository as superseded bytes.",
+  "review_history": [
+    {
+      "date": "2026-10-01",
+      "previous_status": "Approved · Cosmo QC 5/5 · Night",
+      "previous_approval_state": "approved",
+      "previous_files": {
+        "16x9": "es-01-060-r1-16x9.png",
+        "4x5": "es-01-060-r1-4x5.png",
+        "9x16": null
+      },
+      "resolution": "Architectural rebuild cand-r1 landed as Candidate. The prior approval covered the previous bytes only. It does not cover cand-r1. No Cosmo re-audit is claimed."
+    }
+  ],
+  "approval_basis": "Cosmo independent five-gate re-audit 5/5 (1 October 2026) of the cand-r1 architectural rebuild. Gate 1 visual/location: Old town, Ezcaray re-verified after rebuild, documented defect corrected. Gate 2 technical: masters at exact dims with SHA-256 matching the packet, Open-Meteo model data retrieved 1 October 2026 00:38:40 Europe/Madrid (per-scene retrieval, unique to this scene), label bar and Art. 50 metadata present. Gate 3 provenance: text-only generation per revision_lineage, no photographic inputs. Gate 4 commercial/IP: documentation pass per packet. Gate 5 publication: ready. This approval covers the cand-r1 bytes only and supersedes the prior approval of the previous masters.",
   "dimensions": {
     "16x9": {
       "width": 1920,
       "height": 1270,
-      "sha256": "a4388ee0f81e6426f02da116eef3074d3bd2a89749dba6cca77655ef0373e6aa"
+      "sha256": "a69d51ca7b5ec1838560401c5bdd3ae3491e1ec894742ed4e58ade05f170a474",
+      "bytes": 2637637,
+      "source_width": 1280,
+      "source_height": 720,
+      "resampled": true
     },
     "4x5": {
       "width": 864,
       "height": 1270,
-      "sha256": "1e24241a2060afaefa97a754f2be63c6e6ace7309334f00775e460786371fa6c"
-    }
-  },
-  "masters": {
-    "16x9": {
-      "file": "es-01-060-r1-16x9.png",
-      "dimensions": [
-        1920,
-        1270
-      ],
-      "byte_length": 2517828,
-      "sha256": "a4388ee0f81e6426f02da116eef3074d3bd2a89749dba6cca77655ef0373e6aa",
-      "source_file": "es-01-060-r1.png",
-      "source_dimensions": [
-        1408,
-        1760
-      ],
-      "crop_center": [
-        0.5,
-        0.5
-      ],
-      "labels": [
-        "Old town, Ezcaray",
-        "Scenario: 24 September 2026 · 04:09 Europe/Madrid",
-        "AI-generated artistic interpretation · Not a photograph."
-      ],
-      "signature": "Jason D’s Vision",
-      "format": "PNG",
-      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
-      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
+      "sha256": "12410828c10d5e9451ef3fdae6c43abb19d888b7c32d4a991d0dc7a200335225",
+      "bytes": 1393674,
+      "source_width": 864,
+      "source_height": 1152,
+      "resampled": false
     },
-    "4x5": {
-      "file": "es-01-060-r1-4x5.png",
-      "dimensions": [
-        864,
-        1270
-      ],
-      "byte_length": 1362419,
-      "sha256": "1e24241a2060afaefa97a754f2be63c6e6ace7309334f00775e460786371fa6c",
-      "source_file": "es-01-060-r1.png",
-      "source_dimensions": [
-        1408,
-        1760
-      ],
-      "crop_center": [
-        0.5,
-        0.5
-      ],
-      "labels": [
-        "Old town, Ezcaray",
-        "Scenario: 24 September 2026 · 04:09 Europe/Madrid",
-        "AI-generated artistic interpretation · Not a photograph."
-      ],
-      "signature": "Jason D’s Vision",
-      "format": "PNG",
-      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
-      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 864x1080. Not native target-resolution detail."
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "e490efd839b0b2a0f4e76365e64555f25b72a2d93ef2790d9e14ea038b88702b",
+      "bytes": 2514652,
+      "source_width": 720,
+      "source_height": 1280,
+      "resampled": true
     }
   },
-  "conditions": {
-    "provider": "Open-Meteo",
-    "retrieved": "2026-09-24T04:09:21.761123+02:00",
-    "valid": "2026-09-24T04:00 Europe/Madrid",
-    "note": "Model data — not a verified on-site observation."
-  },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T04:09:21.761123+02:00, valid 2026-09-24T04:00 Europe/Madrid — not a verified on-site observation.",
-  "prompts": {
-    "prompt-r1.txt": "Photorealistic original artistic interpretation (not a photograph) of the old town of Ezcaray, La Rioja, Spain. Tourist viewpoint: the arcaded main street, looking toward the church. Frame: Ezcaray's arcaded main street with its noble houses; the church of Santa María la Mayor at the street's end; the green Oja valley and Sierra de la Demanda behind. Light and weather: clear night, light winds. Main subject centered to survive a 4:5 center crop. No identifiable people, no legible logos, no text, lettering or signs anywhere in the image. Keep the lower third clean and uncluttered."
-  },
-  "source_files": [
-    {
-      "file": "es-01-060-r1.png",
-      "sha256": "9b177e80ca8a25a1ec874150bca1eb16c4cfd0f03967af87f16a20c8bfb3fee8",
-      "dimensions": [
-        1408,
-        1760
-      ],
-      "selected": true
-    }
-  ],
-  "provenance": {
-    "tool": "Built-in image generation; specific model version not exposed",
-    "image_inputs": [],
-    "source_use": "Text-only original generation. Third-party photographs inspected for facts, not supplied as input pixels. No uniqueness guarantee.",
-    "lineage": "Same selected source cropped and uniformly Lanczos-resampled to two exact PNGs; factual text and upward-fading scrim added deterministically. No stretching.",
-    "resampling": "Source [1408, 1760]; uniform Lanczos enlargement/crop to exact 1920x1080 and 864x1080. Not native target-resolution detail."
-  },
-  "production_checks": {
-    "technical": "Both PNGs fully decode, dimensions exact; label boxes in frame. Technical checks are not independent Cosmo QC.",
-    "visual": "Production comparison and limitations documented; not an independent gate verdict.",
-    "originality": "Own generated pixels; uniqueness not established.",
-    "commercial_ip": "No prominent people/logos or artwork focal subject; third-party clearance not legally certified.",
-    "publication": "Candidate handoff only. No approval inferred."
-  },
-  "independent_qc": {
-    "reviewer": "Cosmo",
-    "verdict": "Awaiting review",
-    "exact_pair_required": true
-  },
-  "card_handoff": {
-    "owner": "Cosmo",
-    "placement": "Candidate pipeline, two-format card (16:9/4:5 tabs, both downloads)",
-    "preserve": "caption, scenario, composition, description, status, disclosure, license, search/navigation and country switcher"
-  },
-  "license_badge": "Free · no credit needed",
-  "license_anchor": "#license",
-  "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
-  "reference_evidence": [],
-  "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor E: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/E/ES-01-060.md. r1.",
-  "daylight_variant": {
-    "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
-    "source_night": {
-      "16x9": {
-        "path": "es-01-060-r1-16x9.png",
-        "sha256": "a4388ee0f81e6426f02da116eef3074d3bd2a89749dba6cca77655ef0373e6aa"
+  "revision": "cand-r1",
+  "file_9x16": "es-01-060-cand-r1-9x16.png",
+  "evidence_card": "evidence/ES-01-060.json",
+  "land_as": "Candidate",
+  "conditions_record": {
+    "retrieved_local": "2026-10-01T00:38:40.321885+02:00",
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=42.326106&longitude=-3.01449&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
+    "requested_coordinates": [
+      42.326106,
+      -3.01449
+    ],
+    "response": {
+      "latitude": 42.33,
+      "longitude": -3.0100002,
+      "generationtime_ms": 124.10366535186768,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 814.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
       },
-      "4x5": {
-        "path": "es-01-060-r1-4x5.png",
-        "sha256": "1e24241a2060afaefa97a754f2be63c6e6ace7309334f00775e460786371fa6c"
+      "current": {
+        "time": "2026-10-01T00:30",
+        "interval": 900,
+        "temperature_2m": 15.0,
+        "weather_code": 3,
+        "cloud_cover": 100,
+        "is_day": 0,
+        "precipitation": 0.0,
+        "wind_speed_10m": 1.3
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T08:08"
+        ],
+        "sunset": [
+          "2026-10-01T19:53"
+        ]
       }
     },
-    "masters": {
-      "16x9": {
-        "path": "es-01-060-daylight-16x9.png",
-        "width": 1920,
-        "height": 1270,
-        "sha256": "cd3406f784de161afc1c6e8676c97f91e99e0ce08b18764853f0158b5618a82d"
-      },
-      "4x5": {
-        "path": "es-01-060-daylight-4x5.png",
-        "width": 864,
-        "height": 1270,
-        "sha256": "187dfbd9eb3fa0d1f3df945ebaf7075dcd9d3a62d0845ca418dd1d8b4e06637f"
-      }
-    },
-    "on_image_text": [
-      "Old town, Ezcaray",
-      "☀ Daylight variant · derived from the night interpretation",
-      "AI-generated artistic interpretation",
-      "Jason D’s Vision"
-    ],
-    "art50_png_chunks": [
-      "Title",
-      "Description",
-      "Copyright",
-      "Software",
-      "Comment"
-    ],
-    "country": "Spain"
+    "solar": {
+      "method": "NOAA fractional-year geometric approximation, not observation",
+      "elevation_deg": -46.19,
+      "azimuth_deg": 149.21
+    }
   }
 }

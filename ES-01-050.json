@@ -1,193 +1,135 @@
 {
   "entry_id": "ES-01-050",
   "country": "Spain",
-  "city": "Rionansa",
   "region": "Cantabria",
+  "city": "Rionansa",
   "caption": "El Soplao Cave, Rionansa",
-  "revision": "r1",
-  "viewpoint": "the visitor walkway inside the show cave, looking along the illuminated gallery",
-  "anchors": [
-    "the cave mouth set into the green hillside of Rionansa",
-    "the visitor walkway leading into the illuminated cavern",
-    "stalactite formations glowing in the guided lighting"
-  ],
-  "limitations": "Text-only generation; no photographic input. Depicts the show-cave interior as presented on guided tours; exact formations and colors are representative, not a survey. Surface weather is irrelevant underground — scenario label reflects the visit hour.",
-  "refs": [
-    [
-      "https://en.wikipedia.org/wiki/El_Soplao",
-      "Wikipedia — El Soplao cave, Cantabria, noted for eccentric speleothems"
-    ],
-    [
-      "https://turismodecantabria.com",
-      "Official Cantabria tourism portal — verify the El Soplao listing before use"
-    ]
-  ],
+  "scenario_label": "1 October 2026 · 00:23 Europe/Madrid",
+  "composition": "Night · Helictite gallery reached by the La Isidra mine train · AI-generated artistic interpretation",
+  "alt_text": "AI-generated artistic interpretation of the interior of El Soplao, with white helictites over a visitor walkway and the La Isidra mine train in a dark tunnel.",
+  "description": "Inside El Soplao, the gallery ceiling is thick with white helictites. The visitor walkway runs beneath them, and the La Isidra mine train sits in a dark tunnel. There is no daylight view out to the hills.",
+  "viewpoint": "Interior helictite gallery of the show cave, on the visitor walkway after the La Isidra mine train. The open daylight cave-mouth vista was the defect removed. Exact generated camera correspondence is unverified.",
   "status": "Approved · Cosmo QC 5/5 · Night",
   "approval_state": "approved",
-  "scenario_label": "24 September 2026 · 04:05 Europe/Madrid",
+  "gates": {
+    "visual": "pass — Cosmo re-audit 2026-10-01",
+    "technical": "pass — Cosmo re-audit 2026-10-01",
+    "provenance": "pass — Cosmo re-audit 2026-10-01",
+    "commercial_ip": "pass — Cosmo re-audit 2026-10-01",
+    "publication": "pass — Cosmo re-audit 2026-10-01"
+  },
+  "weather": "Model data from Open-Meteo, retrieved 1 October 2026 00:23:03 Europe/Madrid, valid 00:15 Europe/Madrid — not a verified on-site observation. 13.9°C, WMO 3 overcast, cloud 100%, precipitation 0.0 mm, wind 5.6 km/h. Sunrise 08:14, sunset 19:58. Approximate solar elevation -43.24°, azimuth 142.94°. Night; no direct sunlight.",
+  "limitations": "Approved by Cosmo QC 5/5 on 1 October 2026 (re-audit of the cand-r1 architectural rebuild). 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top 864×1080 of a 864×1152 generated source and drop 72 pixels of foreground. Dimensions do not imply native detail. Open-Meteo figures are model data, not an on-site observation. Exact camera correspondence is not surveyed.",
+  "file_16x9": "es-01-050-cand-r1-16x9.png",
+  "file_4x5": "es-01-050-cand-r1-4x5.png",
+  "license_badge": "Free · no credit needed",
+  "license_anchor": "#license",
+  "editions": [],
   "time_of_day": "Night",
-  "composition": "Night · the illuminated cavern along the visitor walkway · AI-generated artistic interpretation",
-  "alt_text": "AI-generated artistic interpretation of El Soplao Cave, Rionansa at night.",
-  "description": "Inside El Soplao, the visitor walkway threads between extraordinary geological formations — eccentric stalactites glowing under the cave's guided lighting. A clear night over the town. The cavern feels otherworldly, a forest of stone grown over millennia.",
-  "file_16x9": "es-01-050-r1-16x9.png",
-  "file_4x5": "es-01-050-r1-4x5.png",
+  "revision_lineage": "Full rebuild for wo-spain-architectural-rework-2026-09-30 pack 2. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. Previous masters remain in the repository as superseded bytes.",
+  "review_history": [
+    {
+      "date": "2026-10-01",
+      "previous_status": "Approved · Cosmo QC 5/5 · Night",
+      "previous_approval_state": "approved",
+      "previous_files": {
+        "16x9": "es-01-050-r1-16x9.png",
+        "4x5": "es-01-050-r1-4x5.png",
+        "9x16": null
+      },
+      "resolution": "Architectural rebuild cand-r1 landed as Candidate. The prior approval covered the previous bytes only. It does not cover cand-r1. No Cosmo re-audit is claimed."
+    }
+  ],
+  "approval_basis": "Cosmo independent five-gate re-audit 5/5 (1 October 2026) of the cand-r1 architectural rebuild. Gate 1 visual/location: El Soplao Cave, Rionansa re-verified after rebuild, documented defect corrected. Gate 2 technical: masters at exact dims with SHA-256 matching the packet, Open-Meteo model data retrieved 1 October 2026 00:23:03 Europe/Madrid (per-scene retrieval, unique to this scene), label bar and Art. 50 metadata present. Gate 3 provenance: text-only generation per revision_lineage, no photographic inputs. Gate 4 commercial/IP: documentation pass per packet. Gate 5 publication: ready. This approval covers the cand-r1 bytes only and supersedes the prior approval of the previous masters.",
   "dimensions": {
     "16x9": {
       "width": 1920,
       "height": 1270,
-      "sha256": "0e77e574b007fff64d34b2120de317827156d385e0e59c20c39f29ac9edf4b62"
+      "sha256": "d99dc257c2221844d1b882155db77f78a499f2dbb04ff451bf112339b8bfd248",
+      "bytes": 3782132,
+      "source_width": 1280,
+      "source_height": 720,
+      "resampled": true
     },
     "4x5": {
       "width": 864,
       "height": 1270,
-      "sha256": "bc238ffb3b248a3dbbcd9ee7dd1399318656d6095ac9350b3d459e7bdab10a3c"
-    }
-  },
-  "masters": {
-    "16x9": {
-      "file": "es-01-050-r1-16x9.png",
-      "dimensions": [
-        1920,
-        1270
-      ],
-      "byte_length": 3545284,
-      "sha256": "0e77e574b007fff64d34b2120de317827156d385e0e59c20c39f29ac9edf4b62",
-      "source_file": "es-01-050-r1.png",
-      "source_dimensions": [
-        1408,
-        1760
-      ],
-      "crop_center": [
-        0.5,
-        0.5
-      ],
-      "labels": [
-        "El Soplao Cave, Rionansa",
-        "Scenario: 24 September 2026 · 04:05 Europe/Madrid",
-        "AI-generated artistic interpretation · Not a photograph."
-      ],
-      "signature": "Jason D’s Vision",
-      "format": "PNG",
-      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
-      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
+      "sha256": "ae2178d6bda9dea3c27163b770c3e79f5d914d7be346db61b264fdfa6544ff6a",
+      "bytes": 1855262,
+      "source_width": 864,
+      "source_height": 1152,
+      "resampled": false
     },
-    "4x5": {
-      "file": "es-01-050-r1-4x5.png",
-      "dimensions": [
-        864,
-        1270
-      ],
-      "byte_length": 1689149,
-      "sha256": "bc238ffb3b248a3dbbcd9ee7dd1399318656d6095ac9350b3d459e7bdab10a3c",
-      "source_file": "es-01-050-r1.png",
-      "source_dimensions": [
-        1408,
-        1760
-      ],
-      "crop_center": [
-        0.5,
-        0.5
-      ],
-      "labels": [
-        "El Soplao Cave, Rionansa",
-        "Scenario: 24 September 2026 · 04:05 Europe/Madrid",
-        "AI-generated artistic interpretation · Not a photograph."
-      ],
-      "signature": "Jason D’s Vision",
-      "format": "PNG",
-      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
-      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 864x1080. Not native target-resolution detail."
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "eb82a4230eeb1a455c75c5436bd2ecf64a4b234f7823753811f5dd3cf4147ffc",
+      "bytes": 3330323,
+      "source_width": 720,
+      "source_height": 1280,
+      "resampled": true
     }
   },
-  "conditions": {
-    "provider": "Open-Meteo",
-    "retrieved": "2026-09-24T04:05:02.219565+02:00",
-    "valid": "2026-09-24T04:00 Europe/Madrid",
-    "note": "Model data — not a verified on-site observation."
-  },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T04:05:02.219565+02:00, valid 2026-09-24T04:00 Europe/Madrid — not a verified on-site observation.",
-  "prompts": {
-    "prompt-r1.txt": "Photorealistic original artistic interpretation (not a photograph) of El Soplao Cave in Rionansa, Cantabria, Spain. Tourist viewpoint: the visitor walkway inside the show cave, looking along the illuminated gallery. Frame: the cave mouth set into the green hillside glimpsed at the walkway start; the visitor walkway leading into the illuminated cavern; eccentric stalactite formations glowing in the guided lighting. Light and weather: clear night, light winds. Main subject centered to survive a 4:5 center crop. No identifiable people, no legible logos, no text, lettering or signs anywhere in the image. Keep the lower third clean and uncluttered."
-  },
-  "source_files": [
-    {
-      "file": "es-01-050-r1.png",
-      "sha256": "a03f2cdfa8a3ab86899f29c6af4d92d2c9dc9cf3d5606b2c5f7ffcc5e9a788d2",
-      "dimensions": [
-        1408,
-        1760
-      ],
-      "selected": true
-    }
-  ],
-  "provenance": {
-    "tool": "Built-in image generation; specific model version not exposed",
-    "image_inputs": [],
-    "source_use": "Text-only original generation. Third-party photographs inspected for facts, not supplied as input pixels. No uniqueness guarantee.",
-    "lineage": "Same selected source cropped and uniformly Lanczos-resampled to two exact PNGs; factual text and upward-fading scrim added deterministically. No stretching.",
-    "resampling": "Source [1408, 1760]; uniform Lanczos enlargement/crop to exact 1920x1080 and 864x1080. Not native target-resolution detail."
-  },
-  "production_checks": {
-    "technical": "Both PNGs fully decode, dimensions exact; label boxes in frame. Technical checks are not independent Cosmo QC.",
-    "visual": "Production comparison and limitations documented; not an independent gate verdict.",
-    "originality": "Own generated pixels; uniqueness not established.",
-    "commercial_ip": "No prominent people/logos or artwork focal subject; third-party clearance not legally certified.",
-    "publication": "Candidate handoff only. No approval inferred."
-  },
-  "independent_qc": {
-    "reviewer": "Cosmo",
-    "verdict": "Awaiting review",
-    "exact_pair_required": true
-  },
-  "card_handoff": {
-    "owner": "Cosmo",
-    "placement": "Candidate pipeline, two-format card (16:9/4:5 tabs, both downloads)",
-    "preserve": "caption, scenario, composition, description, status, disclosure, license, search/navigation and country switcher"
-  },
-  "license_badge": "Free · no credit needed",
-  "license_anchor": "#license",
-  "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
-  "reference_evidence": [],
-  "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor E: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/E/ES-01-050.md. r1.",
-  "daylight_variant": {
-    "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
-    "source_night": {
-      "16x9": {
-        "path": "es-01-050-r1-16x9.png",
-        "sha256": "0e77e574b007fff64d34b2120de317827156d385e0e59c20c39f29ac9edf4b62"
+  "revision": "cand-r1",
+  "file_9x16": "es-01-050-cand-r1-9x16.png",
+  "evidence_card": "evidence/ES-01-050.json",
+  "land_as": "Candidate",
+  "conditions_record": {
+    "retrieved_local": "2026-10-01T00:23:03.734648+02:00",
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=43.2956&longitude=-4.4089&current=temperature_2m%2Cweather_code%2Ccloud_cover%2Cis_day%2Cprecipitation%2Cwind_speed_10m&daily=sunrise%2Csunset&timezone=Europe%2FMadrid&forecast_days=1",
+    "requested_coordinates": [
+      43.2956,
+      -4.4089
+    ],
+    "response": {
+      "latitude": 43.3,
+      "longitude": -4.4100003,
+      "generationtime_ms": 0.7700920104980469,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 555.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
       },
-      "4x5": {
-        "path": "es-01-050-r1-4x5.png",
-        "sha256": "bc238ffb3b248a3dbbcd9ee7dd1399318656d6095ac9350b3d459e7bdab10a3c"
+      "current": {
+        "time": "2026-10-01T00:15",
+        "interval": 900,
+        "temperature_2m": 13.9,
+        "weather_code": 3,
+        "cloud_cover": 100,
+        "is_day": 0,
+        "precipitation": 0.0,
+        "wind_speed_10m": 5.6
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T08:14"
+        ],
+        "sunset": [
+          "2026-10-01T19:58"
+        ]
       }
     },
-    "masters": {
-      "16x9": {
-        "path": "es-01-050-daylight-16x9.png",
-        "width": 1920,
-        "height": 1270,
-        "sha256": "0638d34bc4821760534c02e3619e0e7a7e9728d5ed18b697644de5218238abec"
-      },
-      "4x5": {
-        "path": "es-01-050-daylight-4x5.png",
-        "width": 864,
-        "height": 1270,
-        "sha256": "e4c3da5b7f8d88640a62caa2db703491ca56fe8a61e9877772cc56bcdb4be9ab"
-      }
-    },
-    "on_image_text": [
-      "El Soplao Cave, Rionansa",
-      "☀ Daylight variant · derived from the night interpretation",
-      "AI-generated artistic interpretation",
-      "Jason D’s Vision"
-    ],
-    "art50_png_chunks": [
-      "Title",
-      "Description",
-      "Copyright",
-      "Software",
-      "Comment"
-    ],
-    "country": "Spain"
+    "solar": {
+      "method": "NOAA fractional-year geometric approximation, not observation",
+      "elevation_deg": -43.24,
+      "azimuth_deg": 142.94
+    }
   }
 }

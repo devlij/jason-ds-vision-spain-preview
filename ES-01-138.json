@@ -1,194 +1,135 @@
 {
   "entry_id": "ES-01-138",
   "country": "Spain",
-  "city": "Vic",
   "region": "Catalonia",
+  "city": "Vic",
   "caption": "Old town, Vic",
-  "revision": "r1",
-  "viewpoint": "the Plaça Major, looking across its arcaded length",
-  "anchors": [
-    "Vic's great arcaded Plaça Major",
-    "the cathedral of Sant Pere with its neoclassical front",
-    "the old town's stone lanes around the square"
-  ],
-  "limitations": "Text-only generation; no photographic input. Exact camera position unverified.",
-  "refs": [
-    [
-      "https://en.wikipedia.org/wiki/Vic,_Spain",
-      "Wikipedia — Vic, historic city in Catalonia"
-    ],
-    [
-      "https://www.catalunya.com",
-      "Official Catalonia tourism portal — verify the Vic listing before use"
-    ]
-  ],
+  "scenario_label": "1 October 2026 · 02:21 Europe/Madrid",
+  "composition": "Night · Vic’s sand-floored Plaça Major ringed by arcades · AI-generated artistic interpretation",
+  "alt_text": "AI-generated artistic interpretation of Vic’s Plaça Major at night, a sand and earth market floor enclosed on all sides by arcaded houses, with no church façade closing the square.",
+  "description": "Plaça Major at night is a broad market square of packed sand and earth, ringed on every side by arcaded houses. The far end is another residential arcade. The cathedral stands elsewhere and does not terminate the square.",
+  "viewpoint": "The Plaça Major, looking across its arcaded length. Exact generated camera correspondence is unverified.",
   "status": "Approved · Cosmo QC 5/5 · Night",
   "approval_state": "approved",
-  "scenario_label": "24 September 2026 · 04:16 Europe/Madrid",
+  "gates": {
+    "visual": "pass — Cosmo re-audit 2026-10-01",
+    "technical": "pass — Cosmo re-audit 2026-10-01",
+    "provenance": "pass — Cosmo re-audit 2026-10-01",
+    "commercial_ip": "pass — Cosmo re-audit 2026-10-01",
+    "publication": "pass — Cosmo re-audit 2026-10-01"
+  },
+  "weather": "Model data from Open-Meteo, retrieved 1 October 2026 02:21:26 Europe/Madrid, valid 02:15 Europe/Madrid — not a verified on-site observation. 17.4°C, WMO 45 fog, cloud 99%, precipitation 0.0 mm, wind 1.6 km/h. Sunrise 07:47, sunset 19:32. Approximate solar elevation -49.73°, azimuth 15.87°. Night; no direct sunlight.",
+  "limitations": "Approved by Cosmo QC 5/5 on 1 October 2026 (re-audit of the cand-r1 architectural rebuild). 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top 864×1080 of an 864×1152 generated source and drop 72 pixels of foreground. Dimensions do not imply native detail. Open-Meteo figures are model data, not an on-site observation. Exact camera correspondence is not surveyed.",
+  "file_16x9": "es-01-138-cand-r1-16x9.png",
+  "file_4x5": "es-01-138-cand-r1-4x5.png",
+  "license_badge": "Free · no credit needed",
+  "license_anchor": "#license",
+  "editions": [],
   "time_of_day": "Night",
-  "composition": "Night · the arcaded main square · AI-generated artistic interpretation",
-  "alt_text": "AI-generated artistic interpretation of Old town at night.",
-  "description": "You stand on Vic's great arcaded main square at night, lamplight spilling from under the long rows of porches. The frame spans the Plaça Major's colonnades left and right, their arches glowing against the dark façades above. The cathedral square of the old episcopal city sits empty and calm in the early hours.",
-  "file_16x9": "es-01-138-r1-16x9.png",
-  "file_4x5": "es-01-138-r1-4x5.png",
+  "revision_lineage": "Full rebuild for wo-spain-architectural-rework-2026-09-30 pack 6. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. Previous masters remain in the repository as superseded bytes.",
+  "review_history": [
+    {
+      "date": "2026-10-01",
+      "previous_status": "Approved · Cosmo QC 5/5 · Night",
+      "previous_approval_state": "approved",
+      "previous_files": {
+        "16x9": "es-01-138-r1-16x9.png",
+        "4x5": "es-01-138-r1-4x5.png",
+        "9x16": null
+      },
+      "resolution": "Architectural rebuild cand-r1 landed as Candidate. The prior approval covered the previous bytes only. It does not cover cand-r1. No Cosmo re-audit is claimed."
+    }
+  ],
+  "approval_basis": "Cosmo independent five-gate re-audit 5/5 (1 October 2026) of the cand-r1 architectural rebuild. Gate 1 visual/location: Old town, Vic re-verified after rebuild, documented defect corrected. Gate 2 technical: masters at exact dims with SHA-256 matching the packet, Open-Meteo model data retrieved 1 October 2026 02:21:26 Europe/Madrid (per-scene retrieval, unique to this scene), label bar and Art. 50 metadata present. Gate 3 provenance: text-only generation per revision_lineage, no photographic inputs. Gate 4 commercial/IP: documentation pass per packet. Gate 5 publication: ready. This approval covers the cand-r1 bytes only and supersedes the prior approval of the previous masters.",
   "dimensions": {
     "16x9": {
       "width": 1920,
       "height": 1270,
-      "sha256": "cb9ae9b3d5e1da93fcf22505a61aea618e715e2d2aabe26f823eea1b88f29061"
+      "sha256": "a9399d3181153d9ecb260010a930107a1cf143786d591af2b0e74add278749c8",
+      "bytes": 2273632,
+      "source_width": 1280,
+      "source_height": 720,
+      "resampled": true
     },
     "4x5": {
       "width": 864,
       "height": 1270,
-      "sha256": "c4e90c622053e60e5408ddfe8ba45864def438cadce6353f23027140ddb0d205"
-    }
-  },
-  "masters": {
-    "16x9": {
-      "file": "es-01-138-r1-16x9.png",
-      "dimensions": [
-        1920,
-        1270
-      ],
-      "byte_length": 2174000,
-      "sha256": "cb9ae9b3d5e1da93fcf22505a61aea618e715e2d2aabe26f823eea1b88f29061",
-      "source_file": "media-generation-es-01-138-source-0-d3127366-73da-4855-b4ae-7aeb48be52e2.png",
-      "source_dimensions": [
-        1408,
-        1760
-      ],
-      "crop_center": [
-        0.5,
-        0.5
-      ],
-      "labels": [
-        "Old town, Vic",
-        "Scenario: 24 September 2026 · 04:16 Europe/Madrid",
-        "AI-generated artistic interpretation · Not a photograph."
-      ],
-      "signature": "Jason D’s Vision",
-      "format": "PNG",
-      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
-      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
+      "sha256": "514ddfea30d7703902ead8f6686c2ffe713dd934926b3074e29755b232a2e31d",
+      "bytes": 1331096,
+      "source_width": 864,
+      "source_height": 1152,
+      "resampled": false
     },
-    "4x5": {
-      "file": "es-01-138-r1-4x5.png",
-      "dimensions": [
-        864,
-        1270
-      ],
-      "byte_length": 1179471,
-      "sha256": "c4e90c622053e60e5408ddfe8ba45864def438cadce6353f23027140ddb0d205",
-      "source_file": "media-generation-es-01-138-source-0-d3127366-73da-4855-b4ae-7aeb48be52e2.png",
-      "source_dimensions": [
-        1408,
-        1760
-      ],
-      "crop_center": [
-        0.5,
-        0.5
-      ],
-      "labels": [
-        "Old town, Vic",
-        "Scenario: 24 September 2026 · 04:16 Europe/Madrid",
-        "AI-generated artistic interpretation · Not a photograph."
-      ],
-      "signature": "Jason D’s Vision",
-      "format": "PNG",
-      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
-      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 864x1080. Not native target-resolution detail."
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "417f57cabac9044ffbc10f0d1c888c0b2c19faefdda11bde9e3573a50bc4fca1",
+      "bytes": 1736169,
+      "source_width": 720,
+      "source_height": 1280,
+      "resampled": true
     }
   },
-  "conditions": {
-    "provider": "Open-Meteo",
-    "retrieved": "2026-09-24T04:15:56+02:00",
-    "valid": "2026-09-24T04:15 Europe/Madrid",
-    "phrase": "mostly clear night, calm air",
-    "note": "Model data — not a verified on-site observation."
-  },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T04:15:56+02:00, valid 2026-09-24T04:15 Europe/Madrid — not a verified on-site observation.",
-  "prompts": {
-    "prompt-r1.txt": "Photorealistic original artistic interpretation (not a photograph) of the old town of Vic, Catalonia, Spain. Tourist viewpoint: the Plaça Major, looking across its arcaded length. Frame: Vic's great arcaded Plaça Major; the cathedral of Sant Pere with its neoclassical front; the old town's stone lanes around the square. Light and weather: mostly clear night, calm air. Main subject centered to survive a 4:5 center crop. No identifiable people, no legible logos, no text, lettering or signs anywhere in the image. Keep the lower third clean and uncluttered."
-  },
-  "source_files": [
-    {
-      "file": "media-generation-es-01-138-source-0-d3127366-73da-4855-b4ae-7aeb48be52e2.png",
-      "sha256": "b0d78a13c9063e818685c0d131de61213a717fc0fddcf9f6966d9fa0e3ed4aa8",
-      "dimensions": [
-        1408,
-        1760
-      ],
-      "selected": true
-    }
-  ],
-  "provenance": {
-    "tool": "Built-in image generation; specific model version not exposed",
-    "image_inputs": [],
-    "source_use": "Text-only original generation. Third-party photographs inspected for facts, not supplied as input pixels. No uniqueness guarantee.",
-    "lineage": "Same selected source cropped and uniformly Lanczos-resampled to two exact PNGs; factual text and upward-fading scrim added deterministically. No stretching.",
-    "resampling": "Source [1408, 1760]; uniform Lanczos enlargement/crop to exact 1920x1080 and 864x1080. Not native target-resolution detail."
-  },
-  "production_checks": {
-    "technical": "Both PNGs fully decode, dimensions exact; label boxes in frame. Technical checks are not independent Cosmo QC.",
-    "visual": "Production comparison and limitations documented; not an independent gate verdict.",
-    "originality": "Own generated pixels; uniqueness not established.",
-    "commercial_ip": "No prominent people/logos or artwork focal subject; third-party clearance not legally certified.",
-    "publication": "Candidate handoff only. No approval inferred."
-  },
-  "independent_qc": {
-    "reviewer": "Cosmo",
-    "verdict": "Awaiting review",
-    "exact_pair_required": true
-  },
-  "card_handoff": {
-    "owner": "Cosmo",
-    "placement": "Candidate pipeline, two-format card (16:9/4:5 tabs, both downloads)",
-    "preserve": "caption, scenario, composition, description, status, disclosure, license, search/navigation and country switcher"
-  },
-  "license_badge": "Free · no credit needed",
-  "license_anchor": "#license",
-  "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
-  "reference_evidence": [],
-  "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor G: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/G/ES-01-138.md. r1.",
-  "daylight_variant": {
-    "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
-    "source_night": {
-      "16x9": {
-        "path": "es-01-138-r1-16x9.png",
-        "sha256": "cb9ae9b3d5e1da93fcf22505a61aea618e715e2d2aabe26f823eea1b88f29061"
+  "revision": "cand-r1",
+  "file_9x16": "es-01-138-cand-r1-9x16.png",
+  "evidence_card": "evidence/ES-01-138.json",
+  "land_as": "Candidate",
+  "conditions_record": {
+    "retrieved_local": "2026-10-01T02:21:26.226720+02:00",
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=41.9304079&longitude=2.2538173&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
+    "requested_coordinates": [
+      41.9304079,
+      2.2538173
+    ],
+    "response": {
+      "latitude": 41.9375,
+      "longitude": 2.25,
+      "generationtime_ms": 0.08380413055419922,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 506.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
       },
-      "4x5": {
-        "path": "es-01-138-r1-4x5.png",
-        "sha256": "c4e90c622053e60e5408ddfe8ba45864def438cadce6353f23027140ddb0d205"
+      "current": {
+        "time": "2026-10-01T02:15",
+        "interval": 900,
+        "temperature_2m": 17.4,
+        "weather_code": 45,
+        "cloud_cover": 99,
+        "is_day": 0,
+        "precipitation": 0.0,
+        "wind_speed_10m": 1.6
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T07:47"
+        ],
+        "sunset": [
+          "2026-10-01T19:32"
+        ]
       }
     },
-    "masters": {
-      "16x9": {
-        "path": "es-01-138-daylight-16x9.png",
-        "width": 1920,
-        "height": 1270,
-        "sha256": "d5292647ee231d28592522dfc3542e9c7983ed513f9cc0f1913393af4168ba68"
-      },
-      "4x5": {
-        "path": "es-01-138-daylight-4x5.png",
-        "width": 864,
-        "height": 1270,
-        "sha256": "6f6938cfd6eb7dd8dff2cb3f6dbcbd104b700442ed7f1cd91a5d4d097a0a7f96"
-      }
-    },
-    "on_image_text": [
-      "Old town, Vic",
-      "☀ Daylight variant · derived from the night interpretation",
-      "AI-generated artistic interpretation",
-      "Jason D’s Vision"
-    ],
-    "art50_png_chunks": [
-      "Title",
-      "Description",
-      "Copyright",
-      "Software",
-      "Comment"
-    ],
-    "country": "Spain"
+    "solar": {
+      "method": "NOAA fractional-year geometric approximation, not observation",
+      "elevation_deg": -49.73,
+      "azimuth_deg": 15.87
+    }
   }
 }

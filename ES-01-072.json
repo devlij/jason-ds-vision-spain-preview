@@ -1,193 +1,135 @@
 {
   "entry_id": "ES-01-072",
   "country": "Spain",
-  "city": "Zugarramurdi",
   "region": "Navarre",
+  "city": "Zugarramurdi",
   "caption": "Caves, Zugarramurdi",
-  "revision": "r1",
-  "viewpoint": "the meadow before the cave, looking at the great mouth",
-  "anchors": [
-    "the great cave mouth of Zugarramurdi opening in the hillside",
-    "the stream running through the cavern's green-lit interior",
-    "the village's stone houses clustered below the caves"
-  ],
-  "limitations": "Text-only generation; no photographic input. Exact camera position unverified. Witchcraft associations are stated as local legend, not depicted fact.",
-  "refs": [
-    [
-      "https://en.wikipedia.org/wiki/Zugarramurdi",
-      "Wikipedia — Zugarramurdi, village of the witches' caves"
-    ],
-    [
-      "https://www.visitnavarra.es",
-      "Official Navarre tourism portal — verify the Zugarramurdi listing before use"
-    ]
-  ],
+  "scenario_label": "1 October 2026 · 01:05 Europe/Madrid",
+  "composition": "Night · the long karst gallery of Sorginen Leze · AI-generated artistic interpretation",
+  "alt_text": "AI-generated artistic interpretation of the Zugarramurdi caves at night, a broad irregular karst tunnel with the Infernuko Erreka along the floor.",
+  "description": "The meadow at Zugarramurdi faces the broad irregular mouth of Sorginen Leze. The karst gallery runs back as a long tunnel, the Infernuko Erreka along its floor, and the far mouth is only a small opening deep inside.",
+  "viewpoint": "Meadow before the Cuevas de Zugarramurdi, looking at the great mouth. Exact generated camera correspondence is unverified.",
   "status": "Approved · Cosmo QC 5/5 · Night",
   "approval_state": "approved",
-  "scenario_label": "24 September 2026 · 04:13 Europe/Madrid",
+  "gates": {
+    "visual": "pass — Cosmo re-audit 2026-10-01",
+    "technical": "pass — Cosmo re-audit 2026-10-01",
+    "provenance": "pass — Cosmo re-audit 2026-10-01",
+    "commercial_ip": "pass — Cosmo re-audit 2026-10-01",
+    "publication": "pass — Cosmo re-audit 2026-10-01"
+  },
+  "weather": "Model data from Open-Meteo, retrieved 1 October 2026 01:05:11 Europe/Madrid, valid 01:00 Europe/Madrid — not a verified on-site observation. 16.3°C, WMO 3 overcast, cloud 100%, precipitation 0.0 mm, wind 9.2 km/h. Sunrise 08:03, sunset 19:47. Approximate solar elevation -48.27°, azimuth 340.74°. Night; no direct sunlight.",
+  "limitations": "Approved by Cosmo QC 5/5 on 1 October 2026 (re-audit of the cand-r1 architectural rebuild). 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top 864×1080 of an 864×1152 generated source and drop 72 pixels of foreground. Dimensions do not imply native detail. Open-Meteo figures are model data, not an on-site observation. Exact camera correspondence is not surveyed.",
+  "file_16x9": "es-01-072-cand-r1-16x9.png",
+  "file_4x5": "es-01-072-cand-r1-4x5.png",
+  "license_badge": "Free · no credit needed",
+  "license_anchor": "#license",
+  "editions": [],
   "time_of_day": "Night",
-  "composition": "Night · the cave mouth from the meadow · AI-generated artistic interpretation",
-  "alt_text": "AI-generated artistic interpretation of Caves, Zugarramurdi at night.",
-  "description": "The great mouth of the Zugarramurdi caves opens from the hillside, the cavern's maw dark against the meadow. The stream runs out into the night while the surrounding grass lies still under the stars. The famous witches' cave, more mystery than menace at this hour.",
-  "file_16x9": "es-01-072-r1-16x9.png",
-  "file_4x5": "es-01-072-r1-4x5.png",
+  "revision_lineage": "Full rebuild for wo-spain-architectural-rework-2026-09-30 pack 4. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. Previous masters remain in the repository as superseded bytes.",
+  "review_history": [
+    {
+      "date": "2026-10-01",
+      "previous_status": "Approved · Cosmo QC 5/5 · Night",
+      "previous_approval_state": "approved",
+      "previous_files": {
+        "16x9": "es-01-072-r1-16x9.png",
+        "4x5": "es-01-072-r1-4x5.png",
+        "9x16": null
+      },
+      "resolution": "Architectural rebuild cand-r1 landed as Candidate. The prior approval covered the previous bytes only. It does not cover cand-r1. No Cosmo re-audit is claimed."
+    }
+  ],
+  "approval_basis": "Cosmo independent five-gate re-audit 5/5 (1 October 2026) of the cand-r1 architectural rebuild. Gate 1 visual/location: Caves, Zugarramurdi re-verified after rebuild, documented defect corrected. Gate 2 technical: masters at exact dims with SHA-256 matching the packet, Open-Meteo model data retrieved 1 October 2026 01:05:11 Europe/Madrid (per-scene retrieval, unique to this scene), label bar and Art. 50 metadata present. Gate 3 provenance: text-only generation per revision_lineage, no photographic inputs. Gate 4 commercial/IP: documentation pass per packet. Gate 5 publication: ready. This approval covers the cand-r1 bytes only and supersedes the prior approval of the previous masters.",
   "dimensions": {
     "16x9": {
       "width": 1920,
       "height": 1270,
-      "sha256": "e4341fd49d58ae64788ec1314da71a577b1b2b99dfcdaee8f5fadd96b48bb9cf"
+      "sha256": "ba92b895ad39c1abb31c53ed3cc2281c1cb1aad997abee190d7c10c5b667ca4b",
+      "bytes": 2585057,
+      "source_width": 1280,
+      "source_height": 720,
+      "resampled": true
     },
     "4x5": {
       "width": 864,
       "height": 1270,
-      "sha256": "ea72c5a943f94d1141c6b3c233caf48f7d84e54a919a3c0df3661af118fc62b2"
-    }
-  },
-  "masters": {
-    "16x9": {
-      "file": "es-01-072-r1-16x9.png",
-      "dimensions": [
-        1920,
-        1270
-      ],
-      "byte_length": 2573353,
-      "sha256": "e4341fd49d58ae64788ec1314da71a577b1b2b99dfcdaee8f5fadd96b48bb9cf",
-      "source_file": "es-01-072-r1.png",
-      "source_dimensions": [
-        1408,
-        1760
-      ],
-      "crop_center": [
-        0.5,
-        0.5
-      ],
-      "labels": [
-        "Caves, Zugarramurdi",
-        "Scenario: 24 September 2026 · 04:13 Europe/Madrid",
-        "AI-generated artistic interpretation · Not a photograph."
-      ],
-      "signature": "Jason D’s Vision",
-      "format": "PNG",
-      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
-      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
+      "sha256": "d081b8fd2f041022b9e715b7394d9eac958731387d1f61314db5b55b2a2af36b",
+      "bytes": 1344666,
+      "source_width": 864,
+      "source_height": 1152,
+      "resampled": false
     },
-    "4x5": {
-      "file": "es-01-072-r1-4x5.png",
-      "dimensions": [
-        864,
-        1270
-      ],
-      "byte_length": 1330708,
-      "sha256": "ea72c5a943f94d1141c6b3c233caf48f7d84e54a919a3c0df3661af118fc62b2",
-      "source_file": "es-01-072-r1.png",
-      "source_dimensions": [
-        1408,
-        1760
-      ],
-      "crop_center": [
-        0.5,
-        0.5
-      ],
-      "labels": [
-        "Caves, Zugarramurdi",
-        "Scenario: 24 September 2026 · 04:13 Europe/Madrid",
-        "AI-generated artistic interpretation · Not a photograph."
-      ],
-      "signature": "Jason D’s Vision",
-      "format": "PNG",
-      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
-      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 864x1080. Not native target-resolution detail."
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "1dbe063ce593fdf7a21d53ba78ac4b20942b43a2d2e03899df41f69d4dc27195",
+      "bytes": 2299915,
+      "source_width": 720,
+      "source_height": 1280,
+      "resampled": true
     }
   },
-  "conditions": {
-    "provider": "Open-Meteo",
-    "retrieved": "2026-09-24T04:13:20.571219+02:00",
-    "valid": "2026-09-24T04:00 Europe/Madrid",
-    "note": "Model data — not a verified on-site observation."
-  },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T04:13:20.571219+02:00, valid 2026-09-24T04:00 Europe/Madrid — not a verified on-site observation.",
-  "prompts": {
-    "prompt-r1.txt": "Photorealistic original artistic interpretation (not a photograph) of the caves of Zugarramurdi, Navarre, Spain. Tourist viewpoint: the meadow before the cave, looking at the great mouth. Frame: the great cave mouth of Zugarramurdi opening in the hillside; the stream running through the cavern's green-lit interior; the village's stone houses clustered below the caves. Light and weather: overcast night, light winds. Main subject centered to survive a 4:5 center crop. No identifiable people, no legible logos, no text, lettering or signs anywhere in the image. Keep the lower third clean and uncluttered."
-  },
-  "source_files": [
-    {
-      "file": "es-01-072-r1.png",
-      "sha256": "bb28842cf1210d2e5a5d77fae9833af7d2768c4f218259aa1162286f4a6e373e",
-      "dimensions": [
-        1408,
-        1760
-      ],
-      "selected": true
-    }
-  ],
-  "provenance": {
-    "tool": "Built-in image generation; specific model version not exposed",
-    "image_inputs": [],
-    "source_use": "Text-only original generation. Third-party photographs inspected for facts, not supplied as input pixels. No uniqueness guarantee.",
-    "lineage": "Same selected source cropped and uniformly Lanczos-resampled to two exact PNGs; factual text and upward-fading scrim added deterministically. No stretching.",
-    "resampling": "Source [1408, 1760]; uniform Lanczos enlargement/crop to exact 1920x1080 and 864x1080. Not native target-resolution detail."
-  },
-  "production_checks": {
-    "technical": "Both PNGs fully decode, dimensions exact; label boxes in frame. Technical checks are not independent Cosmo QC.",
-    "visual": "Production comparison and limitations documented; not an independent gate verdict.",
-    "originality": "Own generated pixels; uniqueness not established.",
-    "commercial_ip": "No prominent people/logos or artwork focal subject; third-party clearance not legally certified.",
-    "publication": "Candidate handoff only. No approval inferred."
-  },
-  "independent_qc": {
-    "reviewer": "Cosmo",
-    "verdict": "Awaiting review",
-    "exact_pair_required": true
-  },
-  "card_handoff": {
-    "owner": "Cosmo",
-    "placement": "Candidate pipeline, two-format card (16:9/4:5 tabs, both downloads)",
-    "preserve": "caption, scenario, composition, description, status, disclosure, license, search/navigation and country switcher"
-  },
-  "license_badge": "Free · no credit needed",
-  "license_anchor": "#license",
-  "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
-  "reference_evidence": [],
-  "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor E: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/E/ES-01-072.md. r1.",
-  "daylight_variant": {
-    "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
-    "source_night": {
-      "16x9": {
-        "path": "es-01-072-r1-16x9.png",
-        "sha256": "e4341fd49d58ae64788ec1314da71a577b1b2b99dfcdaee8f5fadd96b48bb9cf"
+  "revision": "cand-r1",
+  "file_9x16": "es-01-072-cand-r1-9x16.png",
+  "evidence_card": "evidence/ES-01-072.json",
+  "land_as": "Candidate",
+  "conditions_record": {
+    "retrieved_local": "2026-10-01T01:05:11.715376+02:00",
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=43.2692&longitude=-1.5436&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
+    "requested_coordinates": [
+      43.2692,
+      -1.5436
+    ],
+    "response": {
+      "latitude": 43.27,
+      "longitude": -1.54,
+      "generationtime_ms": 0.8829832077026367,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 183.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
       },
-      "4x5": {
-        "path": "es-01-072-r1-4x5.png",
-        "sha256": "ea72c5a943f94d1141c6b3c233caf48f7d84e54a919a3c0df3661af118fc62b2"
+      "current": {
+        "time": "2026-10-01T01:00",
+        "interval": 900,
+        "temperature_2m": 16.3,
+        "weather_code": 3,
+        "cloud_cover": 100,
+        "is_day": 0,
+        "precipitation": 0.0,
+        "wind_speed_10m": 9.2
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T08:03"
+        ],
+        "sunset": [
+          "2026-10-01T19:47"
+        ]
       }
     },
-    "masters": {
-      "16x9": {
-        "path": "es-01-072-daylight-16x9.png",
-        "width": 1920,
-        "height": 1270,
-        "sha256": "d4a9de781f176ca9bff07a885d85d9f927c21cad24f60dde7a7da7396a35d0e7"
-      },
-      "4x5": {
-        "path": "es-01-072-daylight-4x5.png",
-        "width": 864,
-        "height": 1270,
-        "sha256": "9c5c6f6239958e13357cb7c035ca8bd0f954479dda6a4f09fb3ad5ab66a096bd"
-      }
-    },
-    "on_image_text": [
-      "Caves, Zugarramurdi",
-      "☀ Daylight variant · derived from the night interpretation",
-      "AI-generated artistic interpretation",
-      "Jason D’s Vision"
-    ],
-    "art50_png_chunks": [
-      "Title",
-      "Description",
-      "Copyright",
-      "Software",
-      "Comment"
-    ],
-    "country": "Spain"
+    "solar": {
+      "method": "NOAA fractional-year geometric approximation, not observation",
+      "elevation_deg": -48.27,
+      "azimuth_deg": 340.74
+    }
   }
 }
