@@ -31,6 +31,7 @@
   "description": "From the pond's edge at night, the ancient Temple of Debod stands floodlit, its Egyptian stones glowing amber against the black sky. The whole temple mirrors in the still water, doubled and shimmering. The park around it is dark and quiet, the 2,200-year-old temple floating on its own reflection.",
   "file_16x9": "es-01-353-r1-16x9.png",
   "file_4x5": "es-01-353-r1-4x5.png",
+  "file_9x16": "es-01-353-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "c1e28257b52c4176d5c79a7a69ca164c11d0a73bfe5cb2d8356299100aa01493"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "3f727cf6d37c51f5bf42eddb3e30e56b7040bf952370961ab8133d435adda939"
     }
   },
   "masters": {

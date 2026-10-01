@@ -31,6 +31,7 @@
   "description": "From the moat path at night, Ceuta's Royal Walls rise moonlit above the dark water of the moat. The massive fortifications catch the moon's light along their bastions while the water below lies black and still. The walls guard the narrow isthmus in silence, moonlight tracing their ancient stone.",
   "file_16x9": "es-01-358-r1-16x9.png",
   "file_4x5": "es-01-358-r1-4x5.png",
+  "file_9x16": "es-01-358-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "2f42d991dedca543c8b365b6a2829ddd72e4ddd210e9c3ed69eca7521097590a"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "88c025ccc459743280ff19f888f8e204a6a43d18e5c6f1689cbc8fbfacb2eeb6"
     }
   },
   "masters": {

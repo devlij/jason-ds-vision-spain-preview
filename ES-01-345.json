@@ -31,6 +31,7 @@
   "description": "From the center of Pamplona's Plaza del Castillo at night, the arcaded façades ring the square in lamplight under a starry sky. Old cafés and balconies glow warm around the edges while the open plaza stretches quiet and empty. The lamps cast their cones of light on the paving, the famous square at rest between festivals.",
   "file_16x9": "es-01-345-r1-16x9.png",
   "file_4x5": "es-01-345-r1-4x5.png",
+  "file_9x16": "es-01-345-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "fe496bbd93ace8d9aeef89d0f6f03adb2ee806a687e8d8b0f0caea7700659e40"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "3eeae5730fb935e7d3fdc52cc5d9ab6f2222b45a5235254cd06150741197361e"
     }
   },
   "masters": {

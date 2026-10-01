@@ -31,6 +31,7 @@
   "description": "From the Paseo del Collado at night, the walled hilltop town of Laguardia glows faintly in moonlight beneath a starry sky. The medieval walls trace the ridge, rooftops clustered dark within, and the Rioja Alavesa vineyards lie black and silent below. The town keeps its watch over the sleeping vineyards.",
   "file_16x9": "es-01-344-r1-16x9.png",
   "file_4x5": "es-01-344-r1-4x5.png",
+  "file_9x16": "es-01-344-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "9444c44a23ac2af470d26ebfe95abd4ce3b27fbc8adbdd0f08b8a46db78b4987"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "ca4688c0bc69103176a63d7f65f6bba185c6e378149d32b29351a05df930b7cb"
     }
   },
   "masters": {
