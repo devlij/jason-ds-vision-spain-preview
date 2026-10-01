@@ -1,199 +1,135 @@
 {
   "entry_id": "ES-01-203",
   "country": "Spain",
-  "city": "Marbella",
   "region": "Andalusia",
+  "city": "Marbella",
   "caption": "Old Town, Marbella",
-  "revision": "r1",
-  "viewpoint": "Plaza de los Naranjos (Orange Square), the old town's central square",
-  "anchors": [
-    "whitewashed Andalusian houses with wrought-iron balconies and flower pots framing the square",
-    "orange trees in the plaza's planters",
-    "historic town hall and the Ermita de Santiago chapel at the square's far edge"
-  ],
-  "limitations": "Text-only generation; no photographic input. Specific lantern and terrace lighting is artistic interpretation. Exact camera position unverified.",
-  "refs": [
-    [
-      "https://www.airial.travel/attractions/spain/marbella/casco-antiguo-old-town-TxeZBSNa",
-      "Travel guide — Casco Antiguo, Plaza de los Naranjos, 'magical at night' with illuminated streets"
-    ],
-    [
-      "https://www.studycountry.com/wiki/what-is-marbella-old-town-called",
-      "Reference — Casco Antiguo de Marbella, Moorish castle, narrow lanes, Alameda park"
-    ]
-  ],
-  "status": "Approved · Cosmo QC 5/5 · Night",
-  "approval_state": "approved",
-  "scenario_label": "24 September 2026 · 01:15 Europe/Madrid",
+  "scenario_label": "1 October 2026 · 03:00 Europe/Madrid",
+  "composition": "Night · the sundial town hall on Plaza de los Naranjos · AI-generated artistic interpretation",
+  "alt_text": "AI-generated artistic interpretation of Plaza de los Naranjos in Marbella at night, with the Renaissance town hall and its wall sundial, the Casa del Corregidor, and the small Ermita de Santiago.",
+  "description": "Plaza de los Naranjos holds the Renaissance Casa Consistorial with its wall sundial, the Casa del Corregidor with a pointed arch in an alfiz, and the small Ermita de Santiago with a tiny bell-cote. Orange trees and a stone fountain fill the square.",
+  "viewpoint": "Plaza de los Naranjos (Orange Square), the old town's central square. Exact generated camera correspondence is unverified.",
+  "status": "Candidate · architectural rebuild · awaiting Cosmo re-audit · Night",
+  "approval_state": "candidate",
+  "gates": {
+    "visual": "pending — Cosmo re-audit; no pass claimed",
+    "technical": "pending — Cosmo re-audit; local dimension and Art.50 checks only",
+    "provenance": "pending — Cosmo re-audit; generation lineage recorded, uniqueness unverified",
+    "commercial_ip": "pending — Cosmo re-audit; not legal certification",
+    "publication": "candidate only — not approved for the gallery"
+  },
+  "weather": "Model data from Open-Meteo, retrieved 1 October 2026 03:12:57 Europe/Madrid, valid 03:00 Europe/Madrid — not a verified on-site observation. 22.3°C, WMO 2 partly cloudy, cloud 49%, precipitation 0.0 mm, wind 4.9 km/h. Sunrise 08:14, sunset 20:03. Approximate solar elevation -54.24°, azimuth 157.93°. Night; no direct sunlight.",
+  "limitations": "Candidate only. No Cosmo QC is claimed for these bytes. 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top 864×1080 of an 864×1152 generated source and drop 72 pixels of foreground. Dimensions do not imply native detail. Open-Meteo figures are model data, not an on-site observation. Exact camera correspondence is not surveyed.",
+  "file_16x9": "es-01-203-cand-r1-16x9.png",
+  "file_4x5": "es-01-203-cand-r1-4x5.png",
+  "license_badge": "Free · no credit needed",
+  "license_anchor": "#license",
+  "editions": [],
   "time_of_day": "Night",
-  "composition": "Night · Orange Square under lantern light · AI-generated artistic interpretation",
-  "alt_text": "AI-generated artistic interpretation of Old Town at night.",
-  "description": "Stand in Marbella's Orange Square after dark, under the lantern light. The plaza's orange trees and whitewashed houses with their wooden balconies wrap around the frame, lamps pooling warm on the cobbles. It feels less like a square than a shared courtyard — the whole old town seems to gather here at night.",
-  "file_16x9": "es-01-203-r1-16x9.png",
-  "file_4x5": "es-01-203-r1-4x5.png",
+  "revision_lineage": "Full rebuild for wo-spain-architectural-rework-2026-09-30 pack 9. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. Previous masters remain in the repository as superseded bytes.",
+  "review_history": [
+    {
+      "date": "2026-10-01",
+      "previous_status": "Approved · Cosmo QC 5/5 · Night",
+      "previous_approval_state": "approved",
+      "previous_files": {
+        "16x9": "es-01-203-r1-16x9.png",
+        "4x5": "es-01-203-r1-4x5.png",
+        "9x16": null
+      },
+      "resolution": "Architectural rebuild cand-r1 landed as Candidate. The prior approval covered the previous bytes only. It does not cover cand-r1. No Cosmo re-audit is claimed."
+    }
+  ],
+  "approval_basis": "Not approved. cand-r1 is an architectural rebuild awaiting Cosmo re-audit. The earlier Cosmo approval applied only to the previous master bytes and is retained in review_history.",
   "dimensions": {
     "16x9": {
       "width": 1920,
       "height": 1270,
-      "sha256": "ba6069f021fe22f8a4c9e2dcfe5dbc3eae709cdb83e5508efa75681d08f1c81a"
+      "sha256": "d186e9be972ef2e570f0ebac3fd08d488284c00078dbf4486ebaef860de99a40",
+      "bytes": 2997756,
+      "source_width": 1280,
+      "source_height": 720,
+      "resampled": true
     },
     "4x5": {
       "width": 864,
       "height": 1270,
-      "sha256": "9780c4f913e917e9952efa74e1ff30113b98d1759f5585c3ebf8cff0b932572f"
-    }
-  },
-  "masters": {
-    "16x9": {
-      "file": "es-01-203-r1-16x9.png",
-      "dimensions": [
-        1920,
-        1270
-      ],
-      "byte_length": 2491636,
-      "sha256": "ba6069f021fe22f8a4c9e2dcfe5dbc3eae709cdb83e5508efa75681d08f1c81a",
-      "source_file": "media-generation-es-01-203-source-0-8a58aa7c-3fad-4554-a9fb-dfb6e810a6e8.png",
-      "source_dimensions": [
-        1408,
-        1760
-      ],
-      "crop_center": [
-        0.5,
-        0.5
-      ],
-      "labels": [
-        "Old Town, Marbella",
-        "Scenario: 24 September 2026 · 01:15 Europe/Madrid",
-        "AI-generated artistic interpretation · Not a photograph."
-      ],
-      "signature": "Jason D’s Vision",
-      "format": "PNG",
-      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
-      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
+      "sha256": "1bdeb3606c99678e2667100b55cd7a3e78787978bbd987c70eabe40916e1a56f",
+      "bytes": 1458327,
+      "source_width": 864,
+      "source_height": 1152,
+      "resampled": false
     },
-    "4x5": {
-      "file": "es-01-203-r1-4x5.png",
-      "dimensions": [
-        864,
-        1270
-      ],
-      "byte_length": 1248977,
-      "sha256": "9780c4f913e917e9952efa74e1ff30113b98d1759f5585c3ebf8cff0b932572f",
-      "source_file": "media-generation-es-01-203-source-0-8a58aa7c-3fad-4554-a9fb-dfb6e810a6e8.png",
-      "source_dimensions": [
-        1408,
-        1760
-      ],
-      "crop_center": [
-        0.5,
-        0.5
-      ],
-      "labels": [
-        "Old Town, Marbella",
-        "Scenario: 24 September 2026 · 01:15 Europe/Madrid",
-        "AI-generated artistic interpretation · Not a photograph."
-      ],
-      "signature": "Jason D’s Vision",
-      "format": "PNG",
-      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
-      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 864x1080. Not native target-resolution detail."
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "2e107b2b0a68b0cc261652b2c46930de5e6f7918dd627a041ad02fb8aa674d30",
+      "bytes": 2627899,
+      "source_width": 720,
+      "source_height": 1280,
+      "resampled": true
     }
   },
-  "conditions": {
-    "retrieved": "2026-09-24T01:13:14+02:00",
-    "valid": "2026-09-24T01:15:17+02:00",
-    "provider": "Open-Meteo",
-    "api": "https://api.open-meteo.com/v1/forecast",
-    "is_day": 0,
-    "temperature_2m": 22.6,
-    "weather_code": 0,
-    "cloud_cover": 0,
-    "wind_speed_10m": 5.9
-  },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T01:13:14+02:00, valid 2026-09-24T01:15:17+02:00 Europe/Madrid — not a verified on-site observation.",
-  "prompts": {
-    "prompt-r1.txt": "Photorealistic original artistic interpretation (not a photograph) of the old town of Marbella, Spain, at night. Tourist viewpoint: Plaza de los Naranjos (Orange Square). Frame: whitewashed Andalusian houses with wrought-iron balconies and flower pots framing the square left and right; orange trees in the plaza's planters; the historic town hall and the Ermita de Santiago chapel at the square's far edge. Night light: warm lantern and cafe lighting on the whitewashed walls, clear sky, 23 degrees C, gentle breeze. Main subject centered to survive a 4:5 center crop. No identifiable people, no legible logos, no text, lettering or signs anywhere. Keep the lower third clean and uncluttered."
-  },
-  "source_files": [
-    {
-      "file": "media-generation-es-01-203-source-0-8a58aa7c-3fad-4554-a9fb-dfb6e810a6e8.png",
-      "sha256": "b445b1bf9b78f0f1178b012933fa06fb0dbe2ddc00f73357fb933dc8b7ecc619",
-      "dimensions": [
-        1408,
-        1760
-      ],
-      "selected": true
-    }
-  ],
-  "provenance": {
-    "tool": "Built-in image generation; specific model version not exposed",
-    "image_inputs": [],
-    "source_use": "Text-only original generation. Third-party photographs inspected for facts, not supplied as input pixels. No uniqueness guarantee.",
-    "lineage": "Same selected source cropped and uniformly Lanczos-resampled to two exact PNGs; factual text and upward-fading scrim added deterministically. No stretching.",
-    "resampling": "Source [1408, 1760]; uniform Lanczos enlargement/crop to exact 1920x1080 and 864x1080. Not native target-resolution detail."
-  },
-  "production_checks": {
-    "technical": "Both PNGs fully decode, dimensions exact; label boxes in frame. Technical checks are not independent Cosmo QC.",
-    "visual": "Production comparison and limitations documented; not an independent gate verdict.",
-    "originality": "Own generated pixels; uniqueness not established.",
-    "commercial_ip": "No prominent people/logos or artwork focal subject; third-party clearance not legally certified.",
-    "publication": "Candidate handoff only. No approval inferred."
-  },
-  "independent_qc": {
-    "reviewer": "Cosmo",
-    "verdict": "Awaiting review",
-    "exact_pair_required": true
-  },
-  "card_handoff": {
-    "owner": "Cosmo",
-    "placement": "Candidate pipeline, two-format card (16:9/4:5 tabs, both downloads)",
-    "preserve": "caption, scenario, composition, description, status, disclosure, license, search/navigation and country switcher"
-  },
-  "license_badge": "Free · no credit needed",
-  "license_anchor": "#license",
-  "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
-  "reference_evidence": [],
-  "approval_basis": "Cosmo five-gate audit, independent re-audit after boilerplate reversion. Gate 1: Marbella old town recognizably depicted — whitewashed façades with wrought-iron balconies, terracotta geranium pots, street lanterns, orange trees lining a plaza, a white church tower with open bell arches and a stone clock-fronted building behind; plausible Plaza de los Naranjos viewpoint; clean framing, no artifacts. Gate 2: 1920x1080 + 864x1080 masters, SHA-256 match packet; caption 'Old Town, Marbella', scenario '24 September 2026 · 01:15 Europe/Madrid', AI disclosure and 'Jason D's Vision' signature verified on-image and legible; Open-Meteo retrieved 01:13:14 valid 01:15:17 — fresh, no stale weather. Gate 3: packet documents text-only generation, no photographic inputs. Gate 4: no identifiable people or logos noted; lantern/terrace lighting disclosed as artistic interpretation. Gate 5: no blockers.",
-  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals).",
-  "daylight_variant": {
-    "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
-    "source_night": {
-      "16x9": {
-        "path": "es-01-203-r1-16x9.png",
-        "sha256": "ba6069f021fe22f8a4c9e2dcfe5dbc3eae709cdb83e5508efa75681d08f1c81a"
+  "revision": "cand-r1",
+  "file_9x16": "es-01-203-cand-r1-9x16.png",
+  "evidence_card": "evidence/ES-01-203.json",
+  "land_as": "Candidate",
+  "conditions_record": {
+    "retrieved_local": "2026-10-01T03:12:57.573564+02:00",
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=36.510425&longitude=-4.885067&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
+    "requested_coordinates": [
+      36.510425,
+      -4.885067
+    ],
+    "response": {
+      "latitude": 36.5,
+      "longitude": -4.875,
+      "generationtime_ms": 0.08738040924072266,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 29.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
       },
-      "4x5": {
-        "path": "es-01-203-r1-4x5.png",
-        "sha256": "9780c4f913e917e9952efa74e1ff30113b98d1759f5585c3ebf8cff0b932572f"
+      "current": {
+        "time": "2026-10-01T03:00",
+        "interval": 900,
+        "temperature_2m": 22.3,
+        "weather_code": 2,
+        "cloud_cover": 49,
+        "is_day": 0,
+        "precipitation": 0.0,
+        "wind_speed_10m": 4.9
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T08:14"
+        ],
+        "sunset": [
+          "2026-10-01T20:03"
+        ]
       }
     },
-    "masters": {
-      "16x9": {
-        "path": "es-01-203-daylight-16x9.png",
-        "width": 1920,
-        "height": 1270,
-        "sha256": "257ae52fa1e970f27b4a8f619390c1a2f8f1c5a621a3d2abf60080f543173b6b"
-      },
-      "4x5": {
-        "path": "es-01-203-daylight-4x5.png",
-        "width": 864,
-        "height": 1270,
-        "sha256": "4f1a926438b8a1dd7f2ad9912fd5bb2f875a1909f26c6748a0506e8a643bb96c"
-      }
-    },
-    "on_image_text": [
-      "Old Town, Marbella",
-      "☀ Daylight variant · derived from the night interpretation",
-      "AI-generated artistic interpretation · Not a photograph.",
-      "Jason D’s Vision"
-    ],
-    "art50_png_chunks": [
-      "Title",
-      "Description",
-      "Copyright",
-      "Software",
-      "Comment"
-    ],
-    "country": "Spain"
+    "solar": {
+      "method": "NOAA fractional-year geometric approximation, not observation",
+      "elevation_deg": -54.24,
+      "azimuth_deg": 157.93
+    }
   }
 }
