@@ -4218,36 +4218,154 @@
       "country": "Spain",
       "region": "Canary Islands",
       "city": "San Bartolomé de Tirajana",
-      "caption": "Maspalomas Dunes, San Bartolomé de Tirajana",
-      "scenario_label": "24 September 2026 · 03:58 Europe/Madrid",
-      "composition": "Night · the dune field and lighthouse · AI-generated artistic interpretation",
-      "alt_text": "AI-generated artistic interpretation of Maspalomas Dunes, San Bartolomé de Tirajana at night.",
-      "status": "Approved · Cosmo QC 5/5 · Night",
-      "approval_state": "approved",
-      "approval_basis": "Five-gate audit passed: Gate 1 visual/location — the Maspalomas lighthouse beside moonlit dune ridges meeting the ocean is recognizably depicted from a plausible elevated tourist viewpoint, clean framing, no artifacts; Gate 2 technical — both masters at exact 1920x1080 and 864x1080 with SHA-256 matching the review packet, exact 'Jason D's Vision' signature, caption, scenario timestamp and AI disclosure all present and legible; Gate 3 provenance — review packet documents built-in text-only generation with no photographic inputs; Gate 4 IP — no visible people, logos, or recognizable private property, documented only; Gate 5 — no open blockers. Scenario label is a modelled night scenario, not a verified capture.",
-      "daylight_16x9": "es-01-042-daylight-16x9.png",
-      "daylight_4x5": "es-01-042-daylight-4x5.png",
-      "daylight_interim": true,
+      "caption": "Faro de Maspalomas, San Bartolomé de Tirajana",
+      "scenario_label": "30 September 2026 · 23:22 Atlantic/Canary",
+      "composition": "Night · Faro de Maspalomas, blue-grey Fataga stone house and tower · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Faro de Maspalomas at night, the keeper's house and truncated-cone tower both in blue-grey Fataga basalt.",
+      "description": "From the dune approach, the keeper's house and the truncated-cone tower of Faro de Maspalomas are one continuous mass of blue-grey Fataga basalt. The walls, corners and window surrounds are the same quarry stone, not a white stucco villa with dark quoins.",
+      "viewpoint": "Public approach to Faro de Maspalomas at the dunes tip. Exact generated camera correspondence is unverified.",
+      "status": "Candidate · architectural rebuild · awaiting Cosmo re-audit · Night",
+      "approval_state": "candidate",
+      "gates": {
+        "visual": "pending — Cosmo re-audit; no pass claimed",
+        "technical": "pending — Cosmo re-audit; local dimension and Art.50 checks only",
+        "provenance": "pending — Cosmo re-audit; generation lineage recorded, uniqueness unverified",
+        "commercial_ip": "pending — Cosmo re-audit; not legal certification",
+        "publication": "candidate only — not approved for the gallery"
+      },
+      "weather": "Model data from Open-Meteo, retrieved 30 September 2026 23:22:56 Atlantic/Canary, valid 23:15 Atlantic/Canary — not a verified on-site observation. 25.7°C, WMO 0 clear, cloud 1%, precipitation 0.0 mm, wind 2.2 km/h. Sunrise 07:54, sunset 19:49. Approximate solar elevation -46.47°, azimuth 118.51°. Night; no direct sunlight.",
+      "limitations": "Candidate only. No Cosmo QC is claimed for these bytes. 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top 864×1080 of a 864×1152 generated source and drop 72 pixels of foreground. Dimensions do not imply native detail. Open-Meteo figures are model data, not an on-site observation. Exact camera correspondence is not surveyed.",
+      "file_16x9": "es-01-042-cand-r1-16x9.png",
+      "file_4x5": "es-01-042-cand-r1-4x5.png",
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "editions": [],
+      "time_of_day": "Night",
+      "revision_lineage": "Full rebuild for wo-spain-architectural-rework-2026-09-30 pack 2. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. Previous masters remain in the repository as superseded bytes.",
+      "review_history": [
+        {
+          "date": "2026-09-30",
+          "previous_status": "Approved · Cosmo QC 5/5 · Night",
+          "previous_approval_state": "approved",
+          "previous_files": {
+            "16x9": "es-01-042-r1-16x9.png",
+            "4x5": "es-01-042-r1-4x5.png",
+            "9x16": null
+          },
+          "resolution": "Architectural rebuild cand-r1 landed as Candidate. The prior approval covered the previous bytes only. It does not cover cand-r1. No Cosmo re-audit is claimed."
+        }
+      ],
+      "approval_basis": "Not approved. cand-r1 is an architectural rebuild awaiting Cosmo re-audit. The earlier Cosmo approval applied only to the previous master bytes and is retained in review_history.",
+      "dimensions": {
+        "16x9": {
+          "width": 1920,
+          "height": 1270,
+          "sha256": "d2ae2043a22fb6b32689936f8922147ed982cef7da657bde64f70d8229effffd",
+          "bytes": 1539027,
+          "source_width": 1280,
+          "source_height": 720,
+          "resampled": true
+        },
+        "4x5": {
+          "width": 864,
+          "height": 1270,
+          "sha256": "b8f505e9f90fda8e90c3238f9760b3e8be8bbe2e456f451507dcf981f8b8f974",
+          "bytes": 996499,
+          "source_width": 864,
+          "source_height": 1152,
+          "resampled": false
+        },
+        "9x16": {
+          "width": 1080,
+          "height": 2110,
+          "sha256": "e29ed18db35e35c29188a260a49fc0ea31f293c4a095427749c572d91b12952d",
+          "bytes": 1558851,
+          "source_width": 720,
+          "source_height": 1280,
+          "resampled": true
+        }
+      },
       "audio": "audio/es-01-042-narration.mp3",
-      "description": "The Maspalomas dunes spread their golden ridges to the sea — a desert by the Atlantic, protected as a natural reserve. A clear night over the town. The old lighthouse stands at the dune field's edge."
+      "file_9x16": "es-01-042-cand-r1-9x16.png",
+      "land_as": "Candidate",
+      "revision": "cand-r1"
     },
     {
       "entry_id": "ES-01-043",
       "country": "Spain",
       "region": "Canary Islands",
       "city": "Teror",
-      "caption": "Teror, Teror",
-      "scenario_label": "24 September 2026 · 04:01 Europe/Madrid",
-      "composition": "Night · the basilica town · AI-generated artistic interpretation",
-      "alt_text": "AI-generated artistic interpretation of Teror, Teror at night.",
-      "status": "Approved · Cosmo QC 5/5 · Night",
-      "approval_state": "approved",
-      "approval_basis": "Five-gate audit passed: Gate 1 visual/location — the Teror basilica facade with its stone bell tower, flanked by historic houses with traditional Canarian wooden balconies and a mountain backdrop, is recognizably depicted from a plausible tourist viewpoint, clean framing, no artifacts; Gate 2 technical — both masters at exact 1920x1080 and 864x1080 with SHA-256 matching the review packet, exact 'Jason D's Vision' signature, caption, scenario timestamp and AI disclosure all present and legible; Gate 3 provenance — review packet documents built-in text-only generation with no photographic inputs; Gate 4 IP — no visible people, logos, or recognizable private property, documented only; Gate 5 — no open blockers. Scenario label is a modelled night scenario, not a verified capture.",
-      "daylight_16x9": "es-01-043-daylight-16x9.png",
-      "daylight_4x5": "es-01-043-daylight-4x5.png",
-      "daylight_interim": true,
+      "caption": "Basílica del Pino, Teror",
+      "scenario_label": "30 September 2026 · 23:22 Atlantic/Canary",
+      "composition": "Night · Torre Amarilla beside the basilica façade · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Basílica del Pino at night, with the yellow octagonal Torre Amarilla on the left of the façade.",
+      "description": "From Plaza del Pino, the Torre Amarilla stands on the left of the basilica: a yellow-stone octagonal bell tower in seven diminishing Manueline stages, with a pyramidal cap. The pale façade beside it has no central clock belfry.",
+      "viewpoint": "Plaza approach to Basílica de Nuestra Señora del Pino, Teror. Exact generated camera correspondence is unverified.",
+      "status": "Candidate · architectural rebuild · awaiting Cosmo re-audit · Night",
+      "approval_state": "candidate",
+      "gates": {
+        "visual": "pending — Cosmo re-audit; no pass claimed",
+        "technical": "pending — Cosmo re-audit; local dimension and Art.50 checks only",
+        "provenance": "pending — Cosmo re-audit; generation lineage recorded, uniqueness unverified",
+        "commercial_ip": "pending — Cosmo re-audit; not legal certification",
+        "publication": "candidate only — not approved for the gallery"
+      },
+      "weather": "Model data from Open-Meteo, retrieved 30 September 2026 23:22:58 Atlantic/Canary, valid 23:15 Atlantic/Canary — not a verified on-site observation. 19.4°C, WMO 1 mainly clear, cloud 49%, precipitation 0.0 mm, wind 1.6 km/h. Sunrise 07:54, sunset 19:49. Approximate solar elevation -46.36°, azimuth 118.86°. Night; no direct sunlight.",
+      "limitations": "Candidate only. No Cosmo QC is claimed for these bytes. 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top 864×1080 of a 864×1152 generated source and drop 72 pixels of foreground. Dimensions do not imply native detail. Open-Meteo figures are model data, not an on-site observation. Exact camera correspondence is not surveyed.",
+      "file_16x9": "es-01-043-cand-r1-16x9.png",
+      "file_4x5": "es-01-043-cand-r1-4x5.png",
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "editions": [],
+      "time_of_day": "Night",
+      "revision_lineage": "Full rebuild for wo-spain-architectural-rework-2026-09-30 pack 2. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. Previous masters remain in the repository as superseded bytes.",
+      "review_history": [
+        {
+          "date": "2026-09-30",
+          "previous_status": "Approved · Cosmo QC 5/5 · Night",
+          "previous_approval_state": "approved",
+          "previous_files": {
+            "16x9": "es-01-043-r1-16x9.png",
+            "4x5": "es-01-043-r1-4x5.png",
+            "9x16": null
+          },
+          "resolution": "Architectural rebuild cand-r1 landed as Candidate. The prior approval covered the previous bytes only. It does not cover cand-r1. No Cosmo re-audit is claimed."
+        }
+      ],
+      "approval_basis": "Not approved. cand-r1 is an architectural rebuild awaiting Cosmo re-audit. The earlier Cosmo approval applied only to the previous master bytes and is retained in review_history.",
+      "dimensions": {
+        "16x9": {
+          "width": 1920,
+          "height": 1270,
+          "sha256": "2db5ed0ae91f69b31be235e1d170026750d4424fcbaa638df04e484c42f167b4",
+          "bytes": 1937977,
+          "source_width": 1280,
+          "source_height": 720,
+          "resampled": true
+        },
+        "4x5": {
+          "width": 864,
+          "height": 1270,
+          "sha256": "a7f1bf63ad031502bd2789884d6ae5a720b2fc5e94fe98289f3b37c56b5a6a1d",
+          "bytes": 1044135,
+          "source_width": 864,
+          "source_height": 1152,
+          "resampled": false
+        },
+        "9x16": {
+          "width": 1080,
+          "height": 2110,
+          "sha256": "cca5dd643358354970705bb6e449fd1dc4a23e5623b45ce66b81e1cfa7f7444d",
+          "bytes": 2077433,
+          "source_width": 720,
+          "source_height": 1280,
+          "resampled": true
+        }
+      },
       "audio": "audio/es-01-043-narration.mp3",
-      "description": "Teror keeps its old town around the basilica of the Virgen del Pino — Gran Canaria's patron — with famous Canarian balconies. A mostly clear night over the town. The Sunday market fills the historic center."
+      "file_9x16": "es-01-043-cand-r1-9x16.png",
+      "land_as": "Candidate",
+      "revision": "cand-r1"
     },
     {
       "entry_id": "ES-01-044",
@@ -4309,17 +4427,76 @@
       "region": "Cantabria",
       "city": "Santillana del Mar",
       "caption": "Altamira Museum, Santillana del Mar",
-      "scenario_label": "24 September 2026 · 04:04 Europe/Madrid",
-      "composition": "Night · the museum building against the cave hill · AI-generated artistic interpretation",
-      "alt_text": "AI-generated artistic interpretation of Altamira Museum, Santillana del Mar at night.",
-      "status": "Approved · Cosmo QC 5/5 · Night",
-      "approval_state": "approved",
-      "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor E: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/E/ES-01-047.md. r1.",
-      "daylight_16x9": "es-01-047-daylight-16x9.png",
-      "daylight_4x5": "es-01-047-daylight-4x5.png",
-      "daylight_interim": true,
+      "scenario_label": "1 October 2026 · 00:23 Europe/Madrid",
+      "composition": "Night · Hillside roofs, contour skylights, ochre and red planes · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the Museo de Altamira at night, with grass roofs following the hill, linear skylights, ochre aluminum and red sectioned surfaces.",
+      "description": "The Museo de Altamira follows the hillside. Grass roofs step with the slope, linear skylights run along the contour, and the walls are ochre aluminum with red sectioned faces over coursed golden ashlar.",
+      "viewpoint": "Exterior approach to Museo de Altamira hillside complex. Exact generated camera correspondence is unverified.",
+      "status": "Candidate · architectural rebuild · awaiting Cosmo re-audit · Night",
+      "approval_state": "candidate",
+      "gates": {
+        "visual": "pending — Cosmo re-audit; no pass claimed",
+        "technical": "pending — Cosmo re-audit; local dimension and Art.50 checks only",
+        "provenance": "pending — Cosmo re-audit; generation lineage recorded, uniqueness unverified",
+        "commercial_ip": "pending — Cosmo re-audit; not legal certification",
+        "publication": "candidate only — not approved for the gallery"
+      },
+      "weather": "Model data from Open-Meteo, retrieved 1 October 2026 00:23:00 Europe/Madrid, valid 00:15 Europe/Madrid — not a verified on-site observation. 16.5°C, WMO 3 overcast, cloud 100%, precipitation 0.0 mm, wind 6.0 km/h. Sunrise 08:13, sunset 19:57. Approximate solar elevation -43.3°, azimuth 143.33°. Night; no direct sunlight.",
+      "limitations": "Candidate only. No Cosmo QC is claimed for these bytes. 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top 864×1080 of a 864×1152 generated source and drop 72 pixels of foreground. Dimensions do not imply native detail. Open-Meteo figures are model data, not an on-site observation. Exact camera correspondence is not surveyed.",
+      "file_16x9": "es-01-047-cand-r1-16x9.png",
+      "file_4x5": "es-01-047-cand-r1-4x5.png",
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "editions": [],
+      "time_of_day": "Night",
+      "revision_lineage": "Full rebuild for wo-spain-architectural-rework-2026-09-30 pack 2. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. Previous masters remain in the repository as superseded bytes.",
+      "review_history": [
+        {
+          "date": "2026-10-01",
+          "previous_status": "Approved · Cosmo QC 5/5 · Night",
+          "previous_approval_state": "approved",
+          "previous_files": {
+            "16x9": "es-01-047-r1-16x9.png",
+            "4x5": "es-01-047-r1-4x5.png",
+            "9x16": null
+          },
+          "resolution": "Architectural rebuild cand-r1 landed as Candidate. The prior approval covered the previous bytes only. It does not cover cand-r1. No Cosmo re-audit is claimed."
+        }
+      ],
+      "approval_basis": "Not approved. cand-r1 is an architectural rebuild awaiting Cosmo re-audit. The earlier Cosmo approval applied only to the previous master bytes and is retained in review_history.",
+      "dimensions": {
+        "16x9": {
+          "width": 1920,
+          "height": 1270,
+          "sha256": "75371088b5e754475e04ab00878a4fd8b1c2f5a1c892fbcca76ee10fd844fcd2",
+          "bytes": 1923662,
+          "source_width": 1280,
+          "source_height": 720,
+          "resampled": true
+        },
+        "4x5": {
+          "width": 864,
+          "height": 1270,
+          "sha256": "c4f5db8e2f650104caf32cf27a32ac555ee03a3aabe8139fb5cd298f1cc2a99f",
+          "bytes": 887276,
+          "source_width": 864,
+          "source_height": 1152,
+          "resampled": false
+        },
+        "9x16": {
+          "width": 1080,
+          "height": 2110,
+          "sha256": "4698dcc7160ddf5395de7f72bb84cbfc5f9a37f6e2a6570a4d2e53c5eb1b287b",
+          "bytes": 1829930,
+          "source_width": 720,
+          "source_height": 1280,
+          "resampled": true
+        }
+      },
       "audio": "audio/es-01-047-narration.mp3",
-      "description": "The Museo de Altamira sits low against the green hillside near Santillana del Mar, its stone-and-glass frontage marking the entrance to the celebrated replica cave. An overcast night over the town. Behind it rises the hill that holds the original Paleolithic cave, closed to protect its paintings."
+      "file_9x16": "es-01-047-cand-r1-9x16.png",
+      "land_as": "Candidate",
+      "revision": "cand-r1"
     },
     {
       "entry_id": "ES-01-048",
@@ -4345,17 +4522,76 @@
       "region": "Cantabria",
       "city": "Castro Urdiales",
       "caption": "Harbor, Castro Urdiales",
-      "scenario_label": "24 September 2026 · 04:05 Europe/Madrid",
-      "composition": "Night · the Gothic church above the fishing harbor · AI-generated artistic interpretation",
-      "alt_text": "AI-generated artistic interpretation of Harbor, Castro Urdiales at night.",
-      "status": "Approved · Cosmo QC 5/5 · Night",
-      "approval_state": "approved",
-      "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor E: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/E/ES-01-049.md. r1.",
-      "daylight_16x9": "es-01-049-daylight-16x9.png",
-      "daylight_4x5": "es-01-049-daylight-4x5.png",
-      "daylight_interim": true,
+      "scenario_label": "1 October 2026 · 00:23 Europe/Madrid",
+      "composition": "Night · Santa María beside the Castillo de Santa Ana lighthouse · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of Castro Urdiales harbor at night, with the Gothic church beside Castillo de Santa Ana and its white cylindrical lighthouse.",
+      "description": "From the harbor quay, Santa María de la Asunción stands on the rocky point immediately beside Castillo de Santa Ana, whose white cylindrical lighthouse rises from the castle above the fishing boats.",
+      "viewpoint": "Harbor / quay view toward the Castro Urdiales headland. Exact generated camera correspondence is unverified.",
+      "status": "Candidate · architectural rebuild · awaiting Cosmo re-audit · Night",
+      "approval_state": "candidate",
+      "gates": {
+        "visual": "pending — Cosmo re-audit; no pass claimed",
+        "technical": "pending — Cosmo re-audit; local dimension and Art.50 checks only",
+        "provenance": "pending — Cosmo re-audit; generation lineage recorded, uniqueness unverified",
+        "commercial_ip": "pending — Cosmo re-audit; not legal certification",
+        "publication": "candidate only — not approved for the gallery"
+      },
+      "weather": "Model data from Open-Meteo, retrieved 1 October 2026 00:23:01 Europe/Madrid, valid 00:15 Europe/Madrid — not a verified on-site observation. 17.0°C, WMO 3 overcast, cloud 100%, precipitation 0.0 mm, wind 5.7 km/h. Sunrise 08:10, sunset 19:54. Approximate solar elevation -43.68°, azimuth 144.46°. Night; no direct sunlight.",
+      "limitations": "Candidate only. No Cosmo QC is claimed for these bytes. 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top 864×1080 of a 864×1152 generated source and drop 72 pixels of foreground. Dimensions do not imply native detail. Open-Meteo figures are model data, not an on-site observation. Exact camera correspondence is not surveyed.",
+      "file_16x9": "es-01-049-cand-r1-16x9.png",
+      "file_4x5": "es-01-049-cand-r1-4x5.png",
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "editions": [],
+      "time_of_day": "Night",
+      "revision_lineage": "Full rebuild for wo-spain-architectural-rework-2026-09-30 pack 2. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. Previous masters remain in the repository as superseded bytes.",
+      "review_history": [
+        {
+          "date": "2026-10-01",
+          "previous_status": "Approved · Cosmo QC 5/5 · Night",
+          "previous_approval_state": "approved",
+          "previous_files": {
+            "16x9": "es-01-049-r1-16x9.png",
+            "4x5": "es-01-049-r1-4x5.png",
+            "9x16": null
+          },
+          "resolution": "Architectural rebuild cand-r1 landed as Candidate. The prior approval covered the previous bytes only. It does not cover cand-r1. No Cosmo re-audit is claimed."
+        }
+      ],
+      "approval_basis": "Not approved. cand-r1 is an architectural rebuild awaiting Cosmo re-audit. The earlier Cosmo approval applied only to the previous master bytes and is retained in review_history.",
+      "dimensions": {
+        "16x9": {
+          "width": 1920,
+          "height": 1270,
+          "sha256": "a1e277b7065f01b606a38e3304bc3b759ec371529ff8251902e1a223b4019a04",
+          "bytes": 2220417,
+          "source_width": 1280,
+          "source_height": 720,
+          "resampled": true
+        },
+        "4x5": {
+          "width": 864,
+          "height": 1270,
+          "sha256": "17d7dba98110b70c265a6cae7cdd78b865568fe6da5b576613c015b2f6afeb7d",
+          "bytes": 1372243,
+          "source_width": 864,
+          "source_height": 1152,
+          "resampled": false
+        },
+        "9x16": {
+          "width": 1080,
+          "height": 2110,
+          "sha256": "873510afddd7556994447dc110f0af0c657e66bb73c14b8814604c299ae22fcf",
+          "bytes": 2687786,
+          "source_width": 720,
+          "source_height": 1280,
+          "resampled": true
+        }
+      },
       "audio": "audio/es-01-049-narration.mp3",
-      "description": "In Castro Urdiales, the Gothic church of Santa María de la Asunción rises directly over the fishing harbor, its stone mass anchoring the waterfront. An overcast night over the town. Colorful boats crowd the quay below, and the old town climbs the hillside behind."
+      "file_9x16": "es-01-049-cand-r1-9x16.png",
+      "land_as": "Candidate",
+      "revision": "cand-r1"
     },
     {
       "entry_id": "ES-01-050",
@@ -4363,17 +4599,76 @@
       "region": "Cantabria",
       "city": "Rionansa",
       "caption": "El Soplao Cave, Rionansa",
-      "scenario_label": "24 September 2026 · 04:05 Europe/Madrid",
-      "composition": "Night · the illuminated cavern along the visitor walkway · AI-generated artistic interpretation",
-      "alt_text": "AI-generated artistic interpretation of El Soplao Cave, Rionansa at night.",
-      "status": "Approved · Cosmo QC 5/5 · Night",
-      "approval_state": "approved",
-      "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor E: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/E/ES-01-050.md. r1.",
-      "daylight_16x9": "es-01-050-daylight-16x9.png",
-      "daylight_4x5": "es-01-050-daylight-4x5.png",
-      "daylight_interim": true,
+      "scenario_label": "1 October 2026 · 00:23 Europe/Madrid",
+      "composition": "Night · Helictite gallery reached by the La Isidra mine train · AI-generated artistic interpretation",
+      "alt_text": "AI-generated artistic interpretation of the interior of El Soplao, with white helictites over a visitor walkway and the La Isidra mine train in a dark tunnel.",
+      "description": "Inside El Soplao, the gallery ceiling is thick with white helictites. The visitor walkway runs beneath them, and the La Isidra mine train sits in a dark tunnel. There is no daylight view out to the hills.",
+      "viewpoint": "Interior helictite gallery of the show cave, on the visitor walkway after the La Isidra mine train. The open daylight cave-mouth vista was the defect removed. Exact generated camera correspondence is unverified.",
+      "status": "Candidate · architectural rebuild · awaiting Cosmo re-audit · Night",
+      "approval_state": "candidate",
+      "gates": {
+        "visual": "pending — Cosmo re-audit; no pass claimed",
+        "technical": "pending — Cosmo re-audit; local dimension and Art.50 checks only",
+        "provenance": "pending — Cosmo re-audit; generation lineage recorded, uniqueness unverified",
+        "commercial_ip": "pending — Cosmo re-audit; not legal certification",
+        "publication": "candidate only — not approved for the gallery"
+      },
+      "weather": "Model data from Open-Meteo, retrieved 1 October 2026 00:23:03 Europe/Madrid, valid 00:15 Europe/Madrid — not a verified on-site observation. 13.9°C, WMO 3 overcast, cloud 100%, precipitation 0.0 mm, wind 5.6 km/h. Sunrise 08:14, sunset 19:58. Approximate solar elevation -43.24°, azimuth 142.94°. Night; no direct sunlight.",
+      "limitations": "Candidate only. No Cosmo QC is claimed for these bytes. 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top 864×1080 of a 864×1152 generated source and drop 72 pixels of foreground. Dimensions do not imply native detail. Open-Meteo figures are model data, not an on-site observation. Exact camera correspondence is not surveyed.",
+      "file_16x9": "es-01-050-cand-r1-16x9.png",
+      "file_4x5": "es-01-050-cand-r1-4x5.png",
+      "license_badge": "Free · no credit needed",
+      "license_anchor": "#license",
+      "editions": [],
+      "time_of_day": "Night",
+      "revision_lineage": "Full rebuild for wo-spain-architectural-rework-2026-09-30 pack 2. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. Previous masters remain in the repository as superseded bytes.",
+      "review_history": [
+        {
+          "date": "2026-10-01",
+          "previous_status": "Approved · Cosmo QC 5/5 · Night",
+          "previous_approval_state": "approved",
+          "previous_files": {
+            "16x9": "es-01-050-r1-16x9.png",
+            "4x5": "es-01-050-r1-4x5.png",
+            "9x16": null
+          },
+          "resolution": "Architectural rebuild cand-r1 landed as Candidate. The prior approval covered the previous bytes only. It does not cover cand-r1. No Cosmo re-audit is claimed."
+        }
+      ],
+      "approval_basis": "Not approved. cand-r1 is an architectural rebuild awaiting Cosmo re-audit. The earlier Cosmo approval applied only to the previous master bytes and is retained in review_history.",
+      "dimensions": {
+        "16x9": {
+          "width": 1920,
+          "height": 1270,
+          "sha256": "d99dc257c2221844d1b882155db77f78a499f2dbb04ff451bf112339b8bfd248",
+          "bytes": 3782132,
+          "source_width": 1280,
+          "source_height": 720,
+          "resampled": true
+        },
+        "4x5": {
+          "width": 864,
+          "height": 1270,
+          "sha256": "ae2178d6bda9dea3c27163b770c3e79f5d914d7be346db61b264fdfa6544ff6a",
+          "bytes": 1855262,
+          "source_width": 864,
+          "source_height": 1152,
+          "resampled": false
+        },
+        "9x16": {
+          "width": 1080,
+          "height": 2110,
+          "sha256": "eb82a4230eeb1a455c75c5436bd2ecf64a4b234f7823753811f5dd3cf4147ffc",
+          "bytes": 3330323,
+          "source_width": 720,
+          "source_height": 1280,
+          "resampled": true
+        }
+      },
       "audio": "audio/es-01-050-narration.mp3",
-      "description": "Inside El Soplao, the visitor walkway threads between extraordinary geological formations — eccentric stalactites glowing under the cave's guided lighting. A clear night over the town. The cavern feels otherworldly, a forest of stone grown over millennia."
+      "file_9x16": "es-01-050-cand-r1-9x16.png",
+      "land_as": "Candidate",
+      "revision": "cand-r1"
     },
     {
       "entry_id": "ES-01-051",

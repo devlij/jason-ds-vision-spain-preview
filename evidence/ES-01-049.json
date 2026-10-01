@@ -1,0 +1,118 @@
+{
+  "scene_id": "ES-01-049",
+  "land_as": "Candidate",
+  "revision": "cand-r1",
+  "work_order": "wo-spain-architectural-rework-2026-09-30",
+  "pack": 2,
+  "defect_corrected": "The castle-lighthouse ensemble is restored beside the church. Santa María de la Asunción and Castillo de Santa Ana, with its white cylindrical lighthouse, share the same rocky point.",
+  "viewpoint": "Harbor / quay view toward the Castro Urdiales headland. Exact generated camera correspondence is unverified.",
+  "reference_links": [
+    {
+      "url": "https://es.wikipedia.org/wiki/Castillo_de_Santa_Ana_(Castro-Urdiales)",
+      "note": "The castle stands on the same promontory as Santa María de la Asunción; a lighthouse was built inside the enceinte in 1853."
+    },
+    {
+      "url": "https://www.360panoramas.co.uk/22/210/Castro_Urdiales_Saint%C2%A0Ann%27s%C2%A0Chapel",
+      "note": "Harbor panorama from the breakwater: the Gothic church is on the headland and the castle-lighthouse is beside it."
+    }
+  ],
+  "geometry_anchors": [
+    "Gothic church of Santa María de la Asunción on the harbor peninsula",
+    "Castillo de Santa Ana immediately beside the church on the same rock",
+    "White cylindrical lighthouse rising from within the castle"
+  ],
+  "art50_comment_date": "2026-10-01",
+  "art50_note": "Comment date is this scene's finish date, 2026-10-01, not a fleet-wide restamp.",
+  "open_meteo": {
+    "retrieved_local": "2026-10-01T00:23:01.911350+02:00",
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=43.3844&longitude=-3.215&current=temperature_2m%2Cweather_code%2Ccloud_cover%2Cis_day%2Cprecipitation%2Cwind_speed_10m&daily=sunrise%2Csunset&timezone=Europe%2FMadrid&forecast_days=1",
+    "requested_coordinates": [
+      43.3844,
+      -3.215
+    ],
+    "response": {
+      "latitude": 43.38,
+      "longitude": -3.21,
+      "generationtime_ms": 0.26619434356689453,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 12.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T00:15",
+        "interval": 900,
+        "temperature_2m": 17.0,
+        "weather_code": 3,
+        "cloud_cover": 100,
+        "is_day": 0,
+        "precipitation": 0.0,
+        "wind_speed_10m": 5.7
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T08:10"
+        ],
+        "sunset": [
+          "2026-10-01T19:54"
+        ]
+      }
+    },
+    "solar": {
+      "method": "NOAA fractional-year geometric approximation, not observation",
+      "elevation_deg": -43.68,
+      "azimuth_deg": 144.46
+    }
+  },
+  "masters": {
+    "16x9": {
+      "file": "es-01-049-cand-r1-16x9.png",
+      "width": 1920,
+      "height": 1270,
+      "sha256": "a1e277b7065f01b606a38e3304bc3b759ec371529ff8251902e1a223b4019a04",
+      "bytes": 2220417,
+      "source": "/opt/cursor/artifacts/assets/src-049-16x9.jpg",
+      "source_width": 1280,
+      "source_height": 720
+    },
+    "4x5": {
+      "file": "es-01-049-cand-r1-4x5.png",
+      "width": 864,
+      "height": 1270,
+      "sha256": "17d7dba98110b70c265a6cae7cdd78b865568fe6da5b576613c015b2f6afeb7d",
+      "bytes": 1372243,
+      "source": "/opt/cursor/artifacts/assets/src-049-34.jpg",
+      "source_width": 864,
+      "source_height": 1152
+    },
+    "9x16": {
+      "file": "es-01-049-cand-r1-9x16.png",
+      "width": 1080,
+      "height": 2110,
+      "sha256": "873510afddd7556994447dc110f0af0c657e66bb73c14b8814604c299ae22fcf",
+      "bytes": 2687786,
+      "source": "/opt/cursor/artifacts/assets/src-049-916.jpg",
+      "source_width": 720,
+      "source_height": 1280
+    }
+  },
+  "producer_check": "Dimensions, label bar, and Art.50 comment date checked locally. This is not Cosmo QC and not an approval.",
+  "independent_verdict": null
+}

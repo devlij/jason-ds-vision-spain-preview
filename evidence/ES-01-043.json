@@ -1,0 +1,118 @@
+{
+  "scene_id": "ES-01-043",
+  "land_as": "Candidate",
+  "revision": "cand-r1",
+  "work_order": "wo-spain-architectural-rework-2026-09-30",
+  "pack": 2,
+  "defect_corrected": "The generic central grey belfry and clock are removed. The Torre Amarilla, a yellow-stone octagonal seven-stage Manueline bell tower, stands beside the façade on the viewer's left.",
+  "viewpoint": "Plaza approach to Basílica de Nuestra Señora del Pino, Teror. Exact generated camera correspondence is unverified.",
+  "reference_links": [
+    {
+      "url": "https://turismo.teror.es/que-ver/",
+      "note": "Municipal tourism page: the Torre Amarilla is octagonal, rises in seven bodies, and is Manueline Portuguese Gothic in local yellow stone."
+    },
+    {
+      "url": "https://alfayomega.es/una-torre-amarilla-y-piedra-de-arucas-para-abrigar-una-aparicion/",
+      "note": "Documents the exterior with the Torre Amarilla on the left of the façade; the rest of the basilica is grey Arucas stone."
+    }
+  ],
+  "geometry_anchors": [
+    "Torre Amarilla on the viewer's left: octagonal yellow-stone tower of seven diminishing stages",
+    "Manueline arched openings, pyramidal cap and cross weather vane",
+    "Pale grey basilica façade beside the tower, without a central clock belfry"
+  ],
+  "art50_comment_date": "2026-09-30",
+  "art50_note": "Comment date is this scene's finish date, 2026-09-30, not a fleet-wide restamp.",
+  "open_meteo": {
+    "retrieved_local": "2026-09-30T23:22:58.266554+01:00",
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=28.0592&longitude=-15.5476&current=temperature_2m%2Cweather_code%2Ccloud_cover%2Cis_day%2Cprecipitation%2Cwind_speed_10m&daily=sunrise%2Csunset&timezone=Atlantic%2FCanary&forecast_days=1",
+    "requested_coordinates": [
+      28.0592,
+      -15.5476
+    ],
+    "response": {
+      "latitude": 28.084358,
+      "longitude": -15.559326,
+      "generationtime_ms": 0.17201900482177734,
+      "utc_offset_seconds": 3600,
+      "timezone": "Atlantic/Canary",
+      "timezone_abbreviation": "GMT+1",
+      "elevation": 601.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-09-30T23:15",
+        "interval": 900,
+        "temperature_2m": 19.4,
+        "weather_code": 1,
+        "cloud_cover": 49,
+        "is_day": 0,
+        "precipitation": 0.0,
+        "wind_speed_10m": 1.6
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-09-30"
+        ],
+        "sunrise": [
+          "2026-09-30T07:54"
+        ],
+        "sunset": [
+          "2026-09-30T19:49"
+        ]
+      }
+    },
+    "solar": {
+      "method": "NOAA fractional-year geometric approximation, not observation",
+      "elevation_deg": -46.36,
+      "azimuth_deg": 118.86
+    }
+  },
+  "masters": {
+    "16x9": {
+      "file": "es-01-043-cand-r1-16x9.png",
+      "width": 1920,
+      "height": 1270,
+      "sha256": "2db5ed0ae91f69b31be235e1d170026750d4424fcbaa638df04e484c42f167b4",
+      "bytes": 1937977,
+      "source": "/opt/cursor/artifacts/assets/src-043-16x9.jpg",
+      "source_width": 1280,
+      "source_height": 720
+    },
+    "4x5": {
+      "file": "es-01-043-cand-r1-4x5.png",
+      "width": 864,
+      "height": 1270,
+      "sha256": "a7f1bf63ad031502bd2789884d6ae5a720b2fc5e94fe98289f3b37c56b5a6a1d",
+      "bytes": 1044135,
+      "source": "/opt/cursor/artifacts/assets/src-043-34.jpg",
+      "source_width": 864,
+      "source_height": 1152
+    },
+    "9x16": {
+      "file": "es-01-043-cand-r1-9x16.png",
+      "width": 1080,
+      "height": 2110,
+      "sha256": "cca5dd643358354970705bb6e449fd1dc4a23e5623b45ce66b81e1cfa7f7444d",
+      "bytes": 2077433,
+      "source": "/opt/cursor/artifacts/assets/src-043-916.jpg",
+      "source_width": 720,
+      "source_height": 1280
+    }
+  },
+  "producer_check": "Dimensions, label bar, and Art.50 comment date checked locally. This is not Cosmo QC and not an approval.",
+  "independent_verdict": null
+}
