@@ -100,17 +100,63 @@
     }
   },
   "conditions": {
-    "retrieved": "2026-09-24T02:29:06+02:00",
-    "valid": "2026-09-24T02:31:18+02:00",
+    "retrieved": "2026-10-01T17:58:44.008230+02:00",
+    "valid": "2026-10-01T17:45+02:00",
     "provider": "Open-Meteo",
     "api": "https://api.open-meteo.com/v1/forecast",
-    "is_day": 0,
-    "temperature_2m": 21.1,
-    "weather_code": 0,
-    "cloud_cover": 0,
-    "wind_speed_10m": 4.3
+    "is_day": 1,
+    "temperature_2m": 29.3,
+    "weather_code": 2,
+    "cloud_cover": 71,
+    "wind_speed_10m": 13.1,
+    "response": {
+      "latitude": 36.6875,
+      "longitude": -6.125,
+      "generationtime_ms": 0.10788440704345703,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 53.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T17:45",
+        "interval": 900,
+        "temperature_2m": 29.3,
+        "weather_code": 2,
+        "cloud_cover": 71,
+        "is_day": 1,
+        "precipitation": 0.0,
+        "wind_speed_10m": 13.1
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T08:19"
+        ],
+        "sunset": [
+          "2026-10-01T20:08"
+        ]
+      }
+    },
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=36.6865&longitude=-6.1361&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1"
   },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T02:29:06+02:00, valid 2026-09-24T02:31:18+02:00 Europe/Madrid — not a verified on-site observation.",
+  "weather": "Model data from Open-Meteo, retrieved 2026-10-01T17:58:44.008230+02:00, valid 2026-10-01T17:45+02:00 Europe/Madrid — not a verified on-site observation.",
   "prompts": {
     "prompt-r1.txt": "Photorealistic original artistic interpretation (not a photograph) of the Alcázar of Jerez, Jerez de la Frontera, Cádiz, Spain, at night. Tourist viewpoint: the courtyard, facing the octagonal tower and mosque-minaret. Frame: the 12th-century Almohad fortress with its octagonal tower centered; the mosque's minaret turned bell tower beside it; the courtyard gardens and walls. Night light: restrained courtyard lighting and moonlight on the tower and walls, starry sky, 21 degrees C. Main subject centered to survive a 4:5 center crop. No identifiable people, no legible logos, no text, lettering or signs anywhere in the image. Keep the lower third clean and uncluttered."
   },

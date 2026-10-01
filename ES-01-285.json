@@ -102,11 +102,64 @@
   "conditions": {
     "provider": "Open-Meteo",
     "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=28.7546&longitude=-15.3818&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
-    "retrieved": "2026-09-24T01:00+02:00",
+    "retrieved": "2026-10-01T18:02:30.525249+02:00",
     "timezone": "Europe/Madrid",
-    "valid": "2026-09-24T01:00+02:00 Europe/Madrid"
+    "valid": "2026-10-01T18:00+02:00 Europe/Madrid",
+    "response": {
+      "latitude": 28.717047,
+      "longitude": -15.41095,
+      "generationtime_ms": 0.15723705291748047,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 0.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T18:00",
+        "interval": 900,
+        "temperature_2m": 25.0,
+        "weather_code": 3,
+        "cloud_cover": 91,
+        "is_day": 1,
+        "precipitation": 0.0,
+        "wind_speed_10m": 24.6
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T08:54"
+        ],
+        "sunset": [
+          "2026-10-01T20:47"
+        ]
+      }
+    },
+    "temperature_2m": 25.0,
+    "weather_code": 3,
+    "cloud_cover": 91,
+    "precipitation": 0.0,
+    "wind_speed_10m": 24.6,
+    "is_day": 1,
+    "sunrise": "08:54",
+    "sunset": "20:47"
   },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T01:00+02:00, valid 2026-09-24T01:00+02:00 Europe/Madrid — not a verified on-site observation.",
+  "weather": "Model data from Open-Meteo, retrieved 2026-10-01T18:02:30.525249+02:00, valid 2026-10-01T18:00+02:00 Europe/Madrid — not a verified on-site observation.",
   "prompts": {
     "prompt-r1.txt": "Photorealistic artistic night interpretation of the Roque de los Muchachos summit ridge on La Palma, Canary Islands: dark jagged caldera rim silhouettes running across the middle distance, a couple of low rounded observatory dome silhouettes along the ridge; a dense starfield with the Milky Way band overhead; pine-forested slopes falling into blackness below; crisp clear night air; no people, no lights other than faint starlight, no text, no logos; subject centered so it survives a center crop; clean uncluttered lower area."
   },

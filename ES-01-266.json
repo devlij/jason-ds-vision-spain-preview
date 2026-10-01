@@ -102,16 +102,61 @@
   "conditions": {
     "provider": "Open-Meteo",
     "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=38.7568&longitude=1.424&current=temperature_2m%2Cweather_code%2Ccloud_cover%2Cis_day%2Cprecipitation%2Cwind_speed_10m&daily=sunrise%2Csunset&timezone=Europe%2FMadrid&forecast_days=1",
-    "retrieved_local": "2026-09-24T01:27+02:00",
-    "valid_local": "2026-09-24T01:15",
-    "temperature_c": 24.6,
-    "weather_code": 0,
-    "weather_word": "clear sky",
-    "cloud_cover_pct": 0,
-    "is_day": 0,
-    "wind_kmh": 3.2
+    "retrieved_local": "2026-10-01T17:59:51.026202+02:00",
+    "valid_local": "2026-10-01T17:45",
+    "temperature_c": 26.4,
+    "weather_code": 3,
+    "weather_word": "overcast",
+    "cloud_cover_pct": 100,
+    "is_day": 1,
+    "wind_kmh": 15.6,
+    "response": {
+      "latitude": 38.6875,
+      "longitude": 1.4375,
+      "generationtime_ms": 1.1740922927856445,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 0.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T17:45",
+        "interval": 900,
+        "temperature_2m": 26.4,
+        "weather_code": 3,
+        "cloud_cover": 100,
+        "is_day": 1,
+        "precipitation": 0.0,
+        "wind_speed_10m": 15.6
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T07:49"
+        ],
+        "sunset": [
+          "2026-10-01T19:37"
+        ]
+      }
+    }
   },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T01:12:51+02:00, valid 2026-09-24T01:15 Europe/Madrid — not a verified on-site observation.",
+  "weather": "Model data from Open-Meteo, retrieved 2026-10-01T17:59:51.026202+02:00, valid 2026-10-01T17:45 Europe/Madrid — not a verified on-site observation.",
   "prompts": {
     "prompt-r1.txt": "Photorealistic artistic interpretation of Ses Illetes beach in Formentera, Balearic Islands, at night, viewed from the northern tip of the peninsula. The narrow white-sand spit runs centered between two stretches of dark sea; the shallow water glows faintly turquoise under a clear starry sky; the distant silhouette of Ibiza lies on the horizon. Thin moonlight on the gentle water; naturally dark-friendly view with no artificial lighting — moonlit long-exposure feel."
   },

@@ -102,16 +102,61 @@
   "conditions": {
     "provider": "Open-Meteo",
     "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=39.5694&longitude=2.648&current=temperature_2m%2Cweather_code%2Ccloud_cover%2Cis_day%2Cprecipitation%2Cwind_speed_10m&daily=sunrise%2Csunset&timezone=Europe%2FMadrid&forecast_days=1",
-    "retrieved_local": "2026-09-24T01:22+02:00",
-    "valid_local": "2026-09-24T01:15",
-    "temperature_c": 21.5,
-    "weather_code": 0,
-    "weather_word": "clear sky",
-    "cloud_cover_pct": 0,
-    "is_day": 0,
-    "wind_kmh": 4.3
+    "retrieved_local": "2026-10-01T17:59:45.027939+02:00",
+    "valid_local": "2026-10-01T17:45",
+    "temperature_c": 27.3,
+    "weather_code": 3,
+    "weather_word": "overcast",
+    "cloud_cover_pct": 92,
+    "is_day": 1,
+    "wind_kmh": 13.7,
+    "response": {
+      "latitude": 39.5625,
+      "longitude": 2.625,
+      "generationtime_ms": 0.10526180267333984,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 23.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T17:45",
+        "interval": 900,
+        "temperature_2m": 27.3,
+        "weather_code": 3,
+        "cloud_cover": 92,
+        "is_day": 1,
+        "precipitation": 0.0,
+        "wind_speed_10m": 13.7
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T07:45"
+        ],
+        "sunset": [
+          "2026-10-01T19:32"
+        ]
+      }
+    }
   },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T01:12:51+02:00, valid 2026-09-24T01:15 Europe/Madrid — not a verified on-site observation.",
+  "weather": "Model data from Open-Meteo, retrieved 2026-10-01T17:59:45.027939+02:00, valid 2026-10-01T17:45 Europe/Madrid — not a verified on-site observation.",
   "prompts": {
     "prompt-r1.txt": "Photorealistic artistic interpretation of Palma Cathedral (La Seu) in Mallorca, Balearic Islands, at night, viewed from the Parc de la Mar esplanade. The Gothic sandstone cathedral with its soaring buttresses and the royal chapel apse rises centered above the dark reflecting pools of the park; warm street lamps wash the golden stone under a clear starry sky; the old town and Almudaina palace flank the scene. Restrained night interpretation — lamp light only, no floodlighting claimed."
   },

@@ -102,16 +102,61 @@
   "conditions": {
     "provider": "Open-Meteo",
     "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=41.9783&longitude=3.0899&current=temperature_2m%2Cweather_code%2Ccloud_cover%2Cis_day%2Cprecipitation%2Cwind_speed_10m&daily=sunrise%2Csunset&timezone=Europe%2FMadrid&forecast_days=1",
-    "retrieved_local": "2026-09-24T01:18+02:00",
-    "valid_local": "2026-09-24T01:15",
-    "temperature_c": 17.2,
-    "weather_code": 45,
-    "weather_word": "fog",
-    "cloud_cover_pct": 51,
-    "is_day": 0,
-    "wind_kmh": 2.4
+    "retrieved_local": "2026-10-01T17:59:40.483249+02:00",
+    "valid_local": "2026-10-01T17:45",
+    "temperature_c": 23.2,
+    "weather_code": 3,
+    "weather_word": "overcast",
+    "cloud_cover_pct": 100,
+    "is_day": 1,
+    "wind_kmh": 22.9,
+    "response": {
+      "latitude": 42.0,
+      "longitude": 3.0625,
+      "generationtime_ms": 0.07426738739013672,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 42.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T17:45",
+        "interval": 900,
+        "temperature_2m": 23.2,
+        "weather_code": 3,
+        "cloud_cover": 100,
+        "is_day": 1,
+        "precipitation": 0.0,
+        "wind_speed_10m": 22.9
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T07:44"
+        ],
+        "sunset": [
+          "2026-10-01T19:29"
+        ]
+      }
+    }
   },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T01:12:51+02:00, valid 2026-09-24T01:15 Europe/Madrid — not a verified on-site observation.",
+  "weather": "Model data from Open-Meteo, retrieved 2026-10-01T17:59:40.483249+02:00, valid 2026-10-01T17:45 Europe/Madrid — not a verified on-site observation.",
   "prompts": {
     "prompt-r1.txt": "Photorealistic artistic interpretation of the medieval old town of Peratallada, Catalonia, at night, viewed from the Plaça de les Voltes. The stone arches of the vaulted arcades and the crenellated keep tower rise centered in the frame; warm lamps glow along the carrer Major, their light pooling on the old stone paving; medieval walls and tiled rooftops crowd the scene under a soft foggy night sky with thin moonlight. Quiet empty street atmosphere."
   },

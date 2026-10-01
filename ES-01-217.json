@@ -94,17 +94,63 @@
     }
   },
   "conditions": {
-    "retrieved": "2026-09-24T01:27:03+02:00",
-    "valid": "2026-09-24T01:28:58+02:00",
+    "retrieved": "2026-10-01T17:58:28.034000+02:00",
+    "valid": "2026-10-01T17:45+02:00",
     "provider": "Open-Meteo",
     "api": "https://api.open-meteo.com/v1/forecast",
-    "is_day": null,
-    "temperature_2m": 22.6,
-    "weather_code": 0,
-    "cloud_cover": 0,
-    "wind_speed_10m": 5.2
+    "is_day": 1,
+    "temperature_2m": 27.9,
+    "weather_code": 3,
+    "cloud_cover": 80,
+    "wind_speed_10m": 6.0,
+    "response": {
+      "latitude": 38.0,
+      "longitude": -3.375,
+      "generationtime_ms": 0.08022785186767578,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 765.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T17:45",
+        "interval": 900,
+        "temperature_2m": 27.9,
+        "weather_code": 3,
+        "cloud_cover": 80,
+        "is_day": 1,
+        "precipitation": 0.0,
+        "wind_speed_10m": 6.0
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T08:09"
+        ],
+        "sunset": [
+          "2026-10-01T19:56"
+        ]
+      }
+    },
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=38.0133&longitude=-3.3705&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1"
   },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T01:27:03+02:00, valid 2026-09-24T01:28:58+02:00 Europe/Madrid — not a verified on-site observation.",
+  "weather": "Model data from Open-Meteo, retrieved 2026-10-01T17:58:28.034000+02:00, valid 2026-10-01T17:45+02:00 Europe/Madrid — not a verified on-site observation.",
   "prompts": {
     "prompt-r1.txt": "Photorealistic original artistic interpretation (not a photograph) of Úbeda, Jaén, Spain, at night. Tourist viewpoint: the garden end of the trapezoidal Plaza Vázquez de Molina, facing the Sacra Capilla del Salvador. ANCHORS: the Sacra Capilla del Salvador with its campanile, Spain's largest civil mausoleum, lit at the center; golden-stone Renaissance palaces — Vázquez de Molina palace and the Dean's Palace — framing both sides; orange-tree gardens and central fountain in the foreground. LIGHTING: monuments lit like beacons, warm street lighting on golden stone, clear night sky. Photorealistic, night architecture, no people, no watermark."
   },

@@ -101,16 +101,62 @@
   },
   "conditions": {
     "provider": "Open-Meteo",
-    "retrieved": "2026-09-24T04:24:44+02:00",
-    "valid": "2026-09-24T04:15+02:00",
-    "temperature_2m_c": 12.2,
-    "weather_code": 1,
-    "cloud_cover_pct": 15,
-    "is_day": 0,
+    "retrieved": "2026-10-01T17:57:53.046660+02:00",
+    "valid": "2026-10-01T17:45+02:00",
+    "temperature_2m_c": 21.3,
+    "weather_code": 3,
+    "cloud_cover_pct": 97,
+    "is_day": 1,
     "precipitation_mm": 0.0,
-    "wind_speed_10m_kmh": 4.4
+    "wind_speed_10m_kmh": 15.7,
+    "response": {
+      "latitude": 41.0,
+      "longitude": -5.6875,
+      "generationtime_ms": 2.7681589126586914,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 815.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T17:45",
+        "interval": 900,
+        "temperature_2m": 21.3,
+        "weather_code": 3,
+        "cloud_cover": 97,
+        "is_day": 1,
+        "precipitation": 0.0,
+        "wind_speed_10m": 15.7
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T08:19"
+        ],
+        "sunset": [
+          "2026-10-01T20:04"
+        ]
+      }
+    },
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=40.9688&longitude=-5.6639&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1"
   },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T04:24+02:00, valid 2026-09-24T04:15 Europe/Madrid — not a verified on-site observation.",
+  "weather": "Model data from Open-Meteo, retrieved 2026-10-01T17:57:53.046660+02:00, valid 2026-10-01T17:45+02:00 Europe/Madrid — not a verified on-site observation.",
   "prompts": {
     "prompt-r1.txt": "Photorealistic original artistic interpretation (not a photograph) of Salamanca's Plaza Mayor, Spain AT NIGHT. Tourist viewpoint: a corner of the plaza, looking across the arcades. Frame: Salamanca's Plaza Mayor with its arcaded galleries and baroque pavilions; the sandstone facades glowing in warm light; the city hall among the arcades. Light and weather: mostly clear night, light air; the plaza warmly lit, sandstone glowing, a few clouds in the night sky. Absolutely no daylight anywhere. Main subject centered to survive a 4:5 center crop. No identifiable people, no legible logos, no text, lettering or signs anywhere in the image. Keep the lower third clean and uncluttered."
   },

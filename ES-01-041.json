@@ -101,16 +101,62 @@
   },
   "conditions": {
     "provider": "Open-Meteo",
-    "retrieved": "2026-09-24T05:20:58+02:00",
-    "valid": "2026-09-24T05:15 Europe/Madrid",
-    "phrase": "A partly cloudy night over the town, warm and nearly calm air.",
+    "retrieved": "2026-10-01T17:57:48.006146+02:00",
+    "valid": "2026-10-01T17:45 Europe/Madrid",
+    "phrase": "Model data: drizzle, 22.1°C, cloud 100%, wind 9.8 km/h, day.",
     "note": "Model data — not a verified on-site observation.",
-    "temperature_2m": "25.8",
-    "weather_code": "2",
-    "cloud_cover": "50",
-    "wind_speed_10m": "1.3"
+    "temperature_2m": "22.1",
+    "weather_code": "53",
+    "cloud_cover": "100",
+    "wind_speed_10m": "9.8",
+    "response": {
+      "latitude": 28.435852,
+      "longitude": -16.363647,
+      "generationtime_ms": 0.11515617370605469,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 559.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T17:45",
+        "interval": 900,
+        "temperature_2m": 22.1,
+        "weather_code": 53,
+        "cloud_cover": 100,
+        "is_day": 1,
+        "precipitation": 0.2,
+        "wind_speed_10m": 9.8
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T08:58"
+        ],
+        "sunset": [
+          "2026-10-01T20:51"
+        ]
+      }
+    },
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=28.4853&longitude=-16.3201&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1"
   },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T05:20:58+02:00, valid 2026-09-24T05:15 Europe/Madrid — not a verified on-site observation.",
+  "weather": "Model data from Open-Meteo, retrieved 2026-10-01T17:57:48.006146+02:00, valid 2026-10-01T17:45 Europe/Madrid — not a verified on-site observation.",
   "prompts": {
     "prompt-r2.txt": "Photorealistic original artistic interpretation (not a photograph) of the old town of San Cristóbal de La Laguna, Tenerife, Canary Islands, Spain, at DEEP ASTRONOMICAL NIGHT (around 5:20 in the morning). Tourist viewpoint: the historic center, looking along a cobbled great-house street toward the cathedral of Nuestra Señora de los Remedios with its twin clock towers and rose window, UNESCO-listed colonial grid. Deep night: pitch-dark star-filled sky, moonlit rooftops, faint warm street lamps and lit windows only. NO daylight, NO sunrise glow, NO blue-hour brightness. Main subject centered. No identifiable people. CRITICAL: absolutely no legible text, lettering, numbers, house-number plaques, signs, menu boards, or doorway plaques anywhere in the image — facades and plaques must be blank."
   },

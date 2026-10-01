@@ -102,11 +102,64 @@
   "conditions": {
     "provider": "Open-Meteo",
     "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=28.1265&longitude=-17.2330&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
-    "retrieved": "2026-09-24T01:15+02:00",
-    "valid": "2026-09-24T01:15+02:00 Europe/Madrid",
-    "timezone": "Europe/Madrid"
+    "retrieved": "2026-10-01T18:02:35.023532+02:00",
+    "valid": "2026-10-01T18:00+02:00 Europe/Madrid",
+    "timezone": "Europe/Madrid",
+    "response": {
+      "latitude": 28.154655,
+      "longitude": -17.205872,
+      "generationtime_ms": 0.11444091796875,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 1161.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T18:00",
+        "interval": 900,
+        "temperature_2m": 18.4,
+        "weather_code": 95,
+        "cloud_cover": 97,
+        "is_day": 1,
+        "precipitation": 0.3,
+        "wind_speed_10m": 15.6
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T09:01"
+        ],
+        "sunset": [
+          "2026-10-01T20:54"
+        ]
+      }
+    },
+    "temperature_2m": 18.4,
+    "weather_code": 95,
+    "cloud_cover": 97,
+    "precipitation": 0.3,
+    "wind_speed_10m": 15.6,
+    "is_day": 1,
+    "sunrise": "09:01",
+    "sunset": "20:54"
   },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T01:15+02:00, valid 2026-09-24T01:15+02:00 Europe/Madrid — not a verified on-site observation.",
+  "weather": "Model data from Open-Meteo, retrieved 2026-10-01T18:02:35.023532+02:00, valid 2026-10-01T18:00+02:00 Europe/Madrid — not a verified on-site observation.",
   "prompts": {
     "prompt-r1.txt": "Photorealistic artistic moonlit night interpretation of the Garajonay laurel forest in La Gomera, Canary Islands: ancient moss-draped laurel trunks arching overhead along a forest trail; low mist drifting between ferns and tree trunks; faint cold moonlight filtering through the canopy in soft shafts; deep greens and blue-greys; no people, no artificial lights, no text, no logos; trail centered so it survives a center crop; clean uncluttered lower area."
   },

@@ -101,16 +101,62 @@
   },
   "conditions": {
     "provider": "Open-Meteo",
-    "retrieved": "2026-09-24T05:20:58+02:00",
-    "valid": "2026-09-24T05:15 Europe/Madrid",
-    "phrase": "A mostly clear night, light breeze over the gorge.",
+    "retrieved": "2026-10-01T17:57:57.001517+02:00",
+    "valid": "2026-10-01T17:45 Europe/Madrid",
+    "phrase": "Model data: overcast, 25.0°C, cloud 96%, wind 13.3 km/h, day.",
     "note": "Model data — not a verified on-site observation.",
-    "temperature_2m": "16.9",
-    "weather_code": "1",
-    "cloud_cover": "17",
-    "wind_speed_10m": "4.8"
+    "temperature_2m": "25.0",
+    "weather_code": "3",
+    "cloud_cover": "96",
+    "wind_speed_10m": "13.3",
+    "response": {
+      "latitude": 39.5625,
+      "longitude": -2.0625,
+      "generationtime_ms": 0.3540515899658203,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 742.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T17:45",
+        "interval": 900,
+        "temperature_2m": 25.0,
+        "weather_code": 3,
+        "cloud_cover": 96,
+        "is_day": 1,
+        "precipitation": 0.0,
+        "wind_speed_10m": 13.3
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T08:04"
+        ],
+        "sunset": [
+          "2026-10-01T19:50"
+        ]
+      }
+    },
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=39.55&longitude=-2.0833&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1"
   },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T05:20:58+02:00, valid 2026-09-24T05:15 Europe/Madrid — not a verified on-site observation.",
+  "weather": "Model data from Open-Meteo, retrieved 2026-10-01T17:57:57.001517+02:00, valid 2026-10-01T17:45 Europe/Madrid — not a verified on-site observation.",
   "prompts": {
     "prompt-r2.txt": "Photorealistic original artistic interpretation (not a photograph) of Alarcón, Castilla-La Mancha, Spain, at DEEP ASTRONOMICAL NIGHT (around 5:20 in the morning). Tourist viewpoint: the gorge viewpoint across the river, looking at the castle crag — the castle of Alarcón on its crag inside the near-complete loop of the Júcar river, the old village within the meander, the dark gorge below. Deep night: pitch-dark star-filled sky, moonlight on the castle walls, the castle-parador's windows warmly lit, dark river. NO daylight, NO dawn glow, NO blue-hour brightness. Main subject centered. No identifiable people. Absolutely no legible text, lettering, numbers, signs or plaques anywhere in the image."
   },

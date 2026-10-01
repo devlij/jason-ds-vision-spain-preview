@@ -101,16 +101,62 @@
   },
   "conditions": {
     "provider": "Open-Meteo",
-    "retrieved": "2026-09-24T05:28:46+02:00",
-    "valid": "2026-09-24T05:15 Europe/Madrid",
-    "phrase": "A clear night over the valley, light air.",
+    "retrieved": "2026-10-01T17:58:11.022005+02:00",
+    "valid": "2026-10-01T17:45 Europe/Madrid",
+    "phrase": "Model data: overcast, 27.4°C, cloud 100%, wind 4.0 km/h, day.",
     "note": "Model data — not a verified on-site observation.",
-    "temperature_2m": "21.0",
-    "weather_code": "0",
-    "cloud_cover": "23",
-    "wind_speed_10m": "3.3"
+    "temperature_2m": "27.4",
+    "weather_code": "3",
+    "cloud_cover": "100",
+    "wind_speed_10m": "4.0",
+    "response": {
+      "latitude": 39.75,
+      "longitude": 2.6875,
+      "generationtime_ms": 0.1888275146484375,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 39.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T17:45",
+        "interval": 900,
+        "temperature_2m": 27.4,
+        "weather_code": 3,
+        "cloud_cover": 100,
+        "is_day": 1,
+        "precipitation": 0.0,
+        "wind_speed_10m": 4.0
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T07:45"
+        ],
+        "sunset": [
+          "2026-10-01T19:31"
+        ]
+      }
+    },
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=39.7662&longitude=2.7152&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1"
   },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T05:28:46+02:00, valid 2026-09-24T05:15 Europe/Madrid — not a verified on-site observation.",
+  "weather": "Model data from Open-Meteo, retrieved 2026-10-01T17:58:11.022005+02:00, valid 2026-10-01T17:45 Europe/Madrid — not a verified on-site observation.",
   "prompts": {
     "prompt-r2.txt": "Photorealistic original artistic interpretation (not a photograph) of the town of Sóller, Mallorca, Balearic Islands, Spain, at DEEP ASTRONOMICAL NIGHT (around 5:30 in the morning). Tourist viewpoint: the old-town overlook, looking at the church and valley — Sóller's rose-windowed church of Sant Bartomeu and the orange groves of the valley, the Puig Major massif dark behind. Deep night: pitch-dark star-filled sky, moonlight, faint warm town lights only. NO daylight, NO dawn glow, NO blue-hour brightness. Main subject centered. No identifiable people. Absolutely no legible text, lettering, numbers, signs or plaques anywhere in the image."
   },

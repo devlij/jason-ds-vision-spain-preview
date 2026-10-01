@@ -101,16 +101,62 @@
   },
   "conditions": {
     "provider": "Open-Meteo",
-    "retrieved": "2026-09-24T05:26:47+02:00",
-    "valid": "2026-09-24T05:15 Europe/Madrid",
-    "phrase": "A mostly clear night over the gorge, light breeze.",
+    "retrieved": "2026-10-01T17:58:04.021032+02:00",
+    "valid": "2026-10-01T17:45 Europe/Madrid",
+    "phrase": "Model data: overcast, 20.2°C, cloud 100%, wind 6.1 km/h, day.",
     "note": "Model data — not a verified on-site observation.",
-    "temperature_2m": "16.9",
-    "weather_code": "1",
-    "cloud_cover": "15",
-    "wind_speed_10m": "3.1"
+    "temperature_2m": "20.2",
+    "weather_code": "3",
+    "cloud_cover": "100",
+    "wind_speed_10m": "6.1",
+    "response": {
+      "latitude": 41.25,
+      "longitude": 0.9375,
+      "generationtime_ms": 0.08153915405273438,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 501.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T17:45",
+        "interval": 900,
+        "temperature_2m": 20.2,
+        "weather_code": 3,
+        "cloud_cover": 100,
+        "is_day": 1,
+        "precipitation": 0.0,
+        "wind_speed_10m": 6.1
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T07:52"
+        ],
+        "sunset": [
+          "2026-10-01T19:38"
+        ]
+      }
+    },
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=41.25&longitude=0.9333&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1"
   },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T05:26:47+02:00, valid 2026-09-24T05:15 Europe/Madrid — not a verified on-site observation.",
+  "weather": "Model data from Open-Meteo, retrieved 2026-10-01T17:58:04.021032+02:00, valid 2026-10-01T17:45 Europe/Madrid — not a verified on-site observation.",
   "prompts": {
     "prompt-r2.txt": "Photorealistic original artistic interpretation (not a photograph) of Siurana, Catalonia, Spain, at DEEP ASTRONOMICAL NIGHT (around 5:30 in the morning). Tourist viewpoint: the castle ledge, looking across the gorge — Siurana's Romanesque church and castle remnants on the cliff edge, the Siurana gorge falling away below, the Montsant range dark behind. Deep night: pitch-dark star-filled sky, moonlight, faint warm village lights only. NO daylight, NO dawn glow, NO blue-hour brightness. Main subject centered. No identifiable people. Absolutely no legible text, lettering, numbers, signs or plaques anywhere in the image."
   },

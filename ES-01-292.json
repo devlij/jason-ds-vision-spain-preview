@@ -102,11 +102,64 @@
   "conditions": {
     "provider": "Open-Meteo",
     "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=27.8104&longitude=-17.9122&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
-    "retrieved": "2026-09-24T01:15+02:00",
-    "valid": "2026-09-24T01:15+02:00 Europe/Madrid",
-    "timezone": "Europe/Madrid"
+    "retrieved": "2026-10-01T18:02:36.036060+02:00",
+    "valid": "2026-10-01T18:00+02:00 Europe/Madrid",
+    "timezone": "Europe/Madrid",
+    "response": {
+      "latitude": 27.803162,
+      "longitude": -17.919037,
+      "generationtime_ms": 0.16629695892333984,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 523.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T18:00",
+        "interval": 900,
+        "temperature_2m": 22.0,
+        "weather_code": 51,
+        "cloud_cover": 89,
+        "is_day": 1,
+        "precipitation": 0.1,
+        "wind_speed_10m": 20.5
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T09:04"
+        ],
+        "sunset": [
+          "2026-10-01T20:57"
+        ]
+      }
+    },
+    "temperature_2m": 22.0,
+    "weather_code": 51,
+    "cloud_cover": 89,
+    "precipitation": 0.1,
+    "wind_speed_10m": 20.5,
+    "is_day": 1,
+    "sunrise": "09:04",
+    "sunset": "20:57"
   },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T01:15+02:00, valid 2026-09-24T01:15+02:00 Europe/Madrid — not a verified on-site observation.",
+  "weather": "Model data from Open-Meteo, retrieved 2026-10-01T18:02:36.036060+02:00, valid 2026-10-01T18:00+02:00 Europe/Madrid — not a verified on-site observation.",
   "prompts": {
     "prompt-r1.txt": "Photorealistic artistic night interpretation from the Mirador de la Pena terrace on El Hierro, Canary Islands: an overcast moonless night with thick cloud overhead, no stars visible; the great dark amphitheatre of the El Golfo valley falling away below into darkness; the Atlantic barely visible beyond the cliff edge; silhouettes of the mirador's volcanic-stone terrace walls framing the left and right foreground; a few faint distant warm lights low in the valley, kept minimal and generic; cool dark palette; no prominent people, no text, no logos; viewpoint centered so it survives a center crop; clean uncluttered lower area."
   },
