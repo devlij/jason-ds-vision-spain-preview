@@ -1,200 +1,135 @@
 {
   "entry_id": "ES-01-245",
   "country": "Spain",
-  "city": "Tarragona",
   "region": "Catalonia",
+  "city": "Tarragona",
   "caption": "Roman Amphitheatre, Tarragona",
-  "revision": "r1",
-  "viewpoint": "Balcó del Mediterrani elevated promenade, slightly elevated, looking down at the arena with the sea behind. Exact camera point approximate.",
-  "anchors": [
-    "Elliptical stone arena with ruined seating terraces in the lower center",
-    "Dark Mediterranean Sea stretches behind the arena to the horizon",
-    "City slope rises to the left of the frame"
-  ],
-  "limitations": "Exact camera point approximate; restrained moonlit interpretation — no floodlighting claimed or depicted; current on-site conditions unverified. Weather retrieval recorded to minute precision from local build evidence.",
-  "refs": [
-    [
-      "https://www.spain.info/en/places-of-interest/roman-amphitheatre/",
-      "spain.info: Roman amphitheatre of Tarragona (UNESCO ensemble of Tarraco)"
-    ],
-    [
-      "https://en.wikipedia.org/wiki/Tarragona_Amphitheatre",
-      "Tarragona Amphitheatre (2nd-century arena by the sea, 130×102 m)"
-    ]
-  ],
-  "status": "Approved · Cosmo QC 5/5 · Night",
-  "approval_state": "approved",
-  "scenario_label": "24 September 2026 · 01:14 Europe/Madrid",
+  "scenario_label": "1 October 2026 · 03:45 Europe/Madrid",
+  "composition": "Night · oval amphitheatre with the ruined church on the arena floor · AI-generated artistic interpretation",
+  "alt_text": "AI-generated artistic interpretation of Tarragona's oval Roman amphitheatre at night, with the ruined church standing on the arena floor and the sea behind.",
+  "description": "From the Balcó del Mediterrani at night, the oval Roman amphitheatre sits above the sea. The ruined walls of Santa Maria del Miracle stand on the arena floor, inside the ring of seats.",
+  "viewpoint": "Balcó del Mediterrani elevated promenade, slightly elevated, looking down at the arena with the sea behind. Exact camera point approximate. Exact generated camera correspondence is unverified.",
+  "status": "Candidate · architectural rebuild · awaiting Cosmo re-audit · Night",
+  "approval_state": "candidate",
+  "gates": {
+    "visual": "pending — Cosmo re-audit; no pass claimed",
+    "technical": "pending — Cosmo re-audit; local dimension and Art.50 checks only",
+    "provenance": "pending — Cosmo re-audit; generation lineage recorded, uniqueness unverified",
+    "commercial_ip": "pending — Cosmo re-audit; not legal certification",
+    "publication": "candidate only — not approved for the gallery"
+  },
+  "weather": "Model data from Open-Meteo, retrieved 1 October 2026 03:51:36 Europe/Madrid, valid 03:45 Europe/Madrid — not a verified on-site observation. 22.8°C, WMO 2 partly cloudy, cloud 74%, precipitation 0.0 mm, wind 4.7 km/h. Sunrise 07:51, sunset 19:37. Approximate solar elevation -43.01°, azimuth 43.23°. Night; no direct sunlight.",
+  "limitations": "Candidate only. No Cosmo QC is claimed for these bytes. 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top 864×1080 of an 864×1152 generated source and drop 72 pixels of foreground. Dimensions do not imply native detail. Open-Meteo figures are model data, not an on-site observation. Exact camera correspondence is not surveyed.",
+  "file_16x9": "es-01-245-cand-r1-16x9.png",
+  "file_4x5": "es-01-245-cand-r1-4x5.png",
+  "license_badge": "Free · no credit needed",
+  "license_anchor": "#license",
+  "editions": [],
   "time_of_day": "Night",
-  "composition": "Night · Moonlit Roman arena between the city slope and the dark sea · AI-generated artistic interpretation",
-  "alt_text": "AI-generated artistic interpretation of Roman Amphitheatre, Tarragona at night.",
-  "description": "Stand between the city slope and the sea at night and take in Tarragona's Roman amphitheatre. The moonlit arena's oval fills the center of the frame, its tiered stones silver in the moonlight, with the city climbing dark on one side and the Mediterranean lying black on the other. Gladiators fought here two thousand years ago.",
-  "file_16x9": "es-01-245-r1-16x9.png",
-  "file_4x5": "es-01-245-r1-4x5.png",
+  "revision_lineage": "Full rebuild for wo-spain-architectural-rework-2026-09-30 pack 11. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. Previous masters remain in the repository as superseded bytes.",
+  "review_history": [
+    {
+      "date": "2026-10-01",
+      "previous_status": "Approved · Cosmo QC 5/5 · Night",
+      "previous_approval_state": "approved",
+      "previous_files": {
+        "16x9": "es-01-245-r1-16x9.png",
+        "4x5": "es-01-245-r1-4x5.png",
+        "9x16": null
+      },
+      "resolution": "Architectural rebuild cand-r1 landed as Candidate. The prior approval covered the previous bytes only. It does not cover cand-r1. Daylight derivatives of those previous night masters are not part of cand-r1. No Cosmo re-audit is claimed."
+    }
+  ],
+  "approval_basis": "Not approved. cand-r1 is an architectural rebuild awaiting Cosmo re-audit. The earlier Cosmo approval applied only to the previous master bytes and is retained in review_history.",
   "dimensions": {
     "16x9": {
       "width": 1920,
       "height": 1270,
-      "sha256": "6fe3220cfccb17b5a2ec8f0a5cc4d04c76b021dafdc6bb90f987ce9c9f0be514"
+      "sha256": "c429c7b5538f73786ccd8422f833ffa22ad1ac122e82a5c2ff8a0ea611081e42",
+      "bytes": 2375453,
+      "source_width": 1280,
+      "source_height": 720,
+      "resampled": true
     },
     "4x5": {
       "width": 864,
       "height": 1270,
-      "sha256": "d07059a0579ad1d45d860b362b72c558947e33b96715dc8644f238a7a9d676a1"
-    }
-  },
-  "masters": {
-    "16x9": {
-      "file": "es-01-245-r1-16x9.png",
-      "dimensions": [
-        1920,
-        1270
-      ],
-      "byte_length": 3187852,
-      "sha256": "6fe3220cfccb17b5a2ec8f0a5cc4d04c76b021dafdc6bb90f987ce9c9f0be514",
-      "source_file": "source-245.png",
-      "source_dimensions": [
-        1120,
-        2240
-      ],
-      "crop_center": [
-        0.5,
-        0.5
-      ],
-      "labels": [
-        "Roman Amphitheatre, Tarragona",
-        "Scenario: 24 September 2026 · 01:14 Europe/Madrid",
-        "AI-generated artistic interpretation · Not a photograph."
-      ],
-      "signature": "Jason D’s Vision",
-      "format": "PNG",
-      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
-      "resampling_disclosure": "Source [1120, 2240]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
+      "sha256": "377c1db595b7ce6bd233c41ae36c185a1613f70053dbf0f87c9877bcd6be73b0",
+      "bytes": 1193809,
+      "source_width": 864,
+      "source_height": 1152,
+      "resampled": false
     },
-    "4x5": {
-      "file": "es-01-245-r1-4x5.png",
-      "dimensions": [
-        864,
-        1270
-      ],
-      "byte_length": 1580664,
-      "sha256": "d07059a0579ad1d45d860b362b72c558947e33b96715dc8644f238a7a9d676a1",
-      "source_file": "source-245.png",
-      "source_dimensions": [
-        1120,
-        2240
-      ],
-      "crop_center": [
-        0.5,
-        0.5
-      ],
-      "labels": [
-        "Roman Amphitheatre, Tarragona",
-        "Scenario: 24 September 2026 · 01:14 Europe/Madrid",
-        "AI-generated artistic interpretation · Not a photograph."
-      ],
-      "signature": "Jason D’s Vision",
-      "format": "PNG",
-      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
-      "resampling_disclosure": "Source [1120, 2240]; uniform Lanczos crop/resample to exact 864x1080. Not native target-resolution detail."
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "fa6f1c43d2c8e9cdddc11895b261e12c650aa63a5d921abbcdfe5df04d5685e9",
+      "bytes": 2262700,
+      "source_width": 720,
+      "source_height": 1280,
+      "resampled": true
     }
   },
-  "conditions": {
-    "provider": "Open-Meteo",
-    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=41.1141&longitude=1.2585&current=temperature_2m%2Cweather_code%2Ccloud_cover%2Cis_day%2Cprecipitation%2Cwind_speed_10m&daily=sunrise%2Csunset&timezone=Europe%2FMadrid&forecast_days=1",
-    "retrieved_local": "2026-09-24T01:14+02:00",
-    "valid_local": "2026-09-24T01:00",
-    "temperature_c": 20.7,
-    "weather_code": 2,
-    "weather_word": "partly cloudy",
-    "cloud_cover_pct": 59,
-    "is_day": 0,
-    "wind_kmh": 6.6
-  },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T01:12:51+02:00, valid 2026-09-24T01:00 Europe/Madrid — not a verified on-site observation.",
-  "prompts": {
-    "prompt-r1.txt": "Photorealistic artistic interpretation of the Roman Amphitheatre of Tarragona, Catalonia, at night, viewed from the elevated Balcó del Mediterrani promenade. The elliptical stone arena with its ruined seating terraces sits in the lower center of the frame; the dark Mediterranean Sea stretches behind it to the horizon; the city slope rises to the left. A restrained moonlit night with broken clouds: cool moonlight on the old stones, no floodlighting, quiet archaeological atmosphere."
-  },
-  "source_files": [
-    {
-      "file": "source-245.png",
-      "sha256": "16af6bd1e323331864af2dab2a8a84da0ad969c518706ef6ef268fc2e0dc3fa2",
-      "dimensions": [
-        1120,
-        2240
-      ],
-      "selected": true
-    }
-  ],
-  "provenance": {
-    "tool": "Built-in image generation; specific model version not exposed",
-    "image_inputs": [],
-    "source_use": "Text-only original generation. Third-party photographs inspected for facts, not supplied as input pixels. No uniqueness guarantee.",
-    "lineage": "Same selected source cropped and uniformly Lanczos-resampled to two exact PNGs; factual text and upward-fading scrim added deterministically. No stretching.",
-    "resampling": "Source [1120, 2240]; uniform Lanczos enlargement/crop to exact 1920x1080 and 864x1080. Not native target-resolution detail."
-  },
-  "production_checks": {
-    "technical": "Both PNGs fully decode, dimensions exact; label boxes in frame. Technical checks are not independent Cosmo QC.",
-    "visual": "Production comparison and limitations documented; not an independent gate verdict.",
-    "originality": "Own generated pixels; uniqueness not established.",
-    "commercial_ip": "No prominent people/logos or artwork focal subject; third-party clearance not legally certified.",
-    "publication": "Candidate handoff only. No approval inferred."
-  },
-  "independent_qc": {
-    "reviewer": "Cosmo",
-    "verdict": "Awaiting review",
-    "exact_pair_required": true
-  },
-  "card_handoff": {
-    "owner": "Cosmo",
-    "placement": "Candidate pipeline, two-format card (16:9/4:5 tabs, both downloads)",
-    "preserve": "caption, scenario, composition, description, status, disclosure, license, search/navigation and country switcher"
-  },
-  "license_badge": "Free · no credit needed",
-  "license_anchor": "#license",
-  "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
-  "reference_evidence": [],
-  "approval_basis": "Night Roman Amphitheatre, Tarragona: the elliptical cavea of stone tiers and arched entryways viewed from above with the moonlit Mediterranean beyond and town buildings at the edge; on-image text verified: caption 'Roman Amphitheatre, Tarragona', scenario '24 September 2026 · 01:14 Europe/Madrid', disclosure 'AI-generated artistic interpretation · Not a photograph.', exact 'Jason D's Vision' signature bottom-right; SHA-256 + 1920×1080/864×1080 match packet; Open-Meteo weather retrieved 2026-09-24T01:12:51+02:00 consistent with scenario hour; packet documents text-only generation, no photographic inputs; no people or logos; restrained moonlit rendering, no floodlighting claimed or depicted per packet limitations (documented only).",
-  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals).",
-  "daylight_variant": {
-    "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
-    "source_night": {
-      "16x9": {
-        "path": "es-01-245-r1-16x9.png",
-        "sha256": "6fe3220cfccb17b5a2ec8f0a5cc4d04c76b021dafdc6bb90f987ce9c9f0be514"
+  "revision": "cand-r1",
+  "file_9x16": "es-01-245-cand-r1-9x16.png",
+  "evidence_card": "evidence/ES-01-245.json",
+  "land_as": "Candidate",
+  "conditions_record": {
+    "retrieved_local": "2026-10-01T03:51:36.828846+02:00",
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=41.11472&longitude=1.25931&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
+    "requested_coordinates": [
+      41.11472,
+      1.25931
+    ],
+    "response": {
+      "latitude": 41.125,
+      "longitude": 1.25,
+      "generationtime_ms": 0.7534027099609375,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 25.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
       },
-      "4x5": {
-        "path": "es-01-245-r1-4x5.png",
-        "sha256": "d07059a0579ad1d45d860b362b72c558947e33b96715dc8644f238a7a9d676a1"
+      "current": {
+        "time": "2026-10-01T03:45",
+        "interval": 900,
+        "temperature_2m": 22.8,
+        "weather_code": 2,
+        "cloud_cover": 74,
+        "is_day": 0,
+        "precipitation": 0.0,
+        "wind_speed_10m": 4.7
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T07:51"
+        ],
+        "sunset": [
+          "2026-10-01T19:37"
+        ]
       }
     },
-    "masters": {
-      "16x9": {
-        "path": "es-01-245-daylight-16x9.png",
-        "width": 1920,
-        "height": 1270,
-        "sha256": "d0fb5d6d06c11cad442f34ee7b12c3eef486b5207499986401fd1504a05015d4"
-      },
-      "4x5": {
-        "path": "es-01-245-daylight-4x5.png",
-        "width": 864,
-        "height": 1270,
-        "sha256": "4510b75b5b85c47c1393e3c647429eaeac0611a35e84d4880279d3dfc6d421a7"
-      }
-    },
-    "on_image_text": [
-      "Roman Amphitheatre, Tarragona",
-      "☀ Daylight variant · derived from the night interpretation",
-      "AI-generated artistic interpretation · Not a photograph.",
-      "Jason D’s Vision"
-    ],
-    "art50_png_chunks": [
-      "Title",
-      "Description",
-      "Copyright",
-      "Software",
-      "Comment"
-    ],
-    "country": "Spain"
+    "solar": {
+      "method": "NOAA fractional-year geometric approximation, not observation",
+      "elevation_deg": -43.01,
+      "azimuth_deg": 43.23
+    }
   }
 }
