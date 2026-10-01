@@ -1,194 +1,135 @@
 {
   "entry_id": "ES-01-155",
   "country": "Spain",
-  "city": "Lorca",
   "region": "Murcia",
+  "city": "Lorca",
   "caption": "Lorca Castle, Lorca",
-  "revision": "r1",
-  "viewpoint": "the old town approach, looking up at the fortress",
-  "anchors": [
-    "the great castle-fortress of Lorca with its walls and towers",
-    "the Alfonsina tower over the old town",
-    "the Guadalentín valley spreading below"
-  ],
-  "limitations": "Text-only generation; no photographic input. Exact camera position unverified.",
-  "refs": [
-    [
-      "https://en.wikipedia.org/wiki/Castle_of_Lorca",
-      "Wikipedia — the Castle of Lorca"
-    ],
-    [
-      "https://www.turismoregiondemurcia.es",
-      "Official Murcia tourism portal — verify the Lorca listing before use"
-    ]
-  ],
-  "status": "Approved · Cosmo QC 5/5 · Night",
-  "approval_state": "approved",
-  "scenario_label": "24 September 2026 · 04:32 Europe/Madrid",
+  "scenario_label": "1 October 2026 · 02:45 Europe/Madrid",
+  "composition": "Night · pyramidal merlons on the Lorca wall walks · AI-generated artistic interpretation",
+  "alt_text": "AI-generated artistic interpretation of Castillo de Lorca at night, the flat-crowned Alfonsina tower above curtain walls lined with upright pyramidal-capped merlons, seen from the old town.",
+  "description": "From the old town, Castillo de Lorca crowns the ridge: the square Alfonsina tower keeps a flat crown, and the wall walks carry a run of upright merlons with small pyramidal caps. The parapets are not a row of giant slanted wedge slabs.",
+  "viewpoint": "The old town approach, looking up at the fortress. Exact generated camera correspondence is unverified.",
+  "status": "Candidate · architectural rebuild · awaiting Cosmo re-audit · Night",
+  "approval_state": "candidate",
+  "gates": {
+    "visual": "pending — Cosmo re-audit; no pass claimed",
+    "technical": "pending — Cosmo re-audit; local dimension and Art.50 checks only",
+    "provenance": "pending — Cosmo re-audit; generation lineage recorded, uniqueness unverified",
+    "commercial_ip": "pending — Cosmo re-audit; not legal certification",
+    "publication": "candidate only — not approved for the gallery"
+  },
+  "weather": "Model data from Open-Meteo, retrieved 1 October 2026 02:57:16 Europe/Madrid, valid 02:45 Europe/Madrid — not a verified on-site observation. 20.8°C, WMO 3 overcast, cloud 100%, precipitation 0.0 mm, wind 2.1 km/h. Sunrise 08:02, sunset 19:49. Approximate solar elevation -53.31°, azimuth 159.43°. Night; no direct sunlight.",
+  "limitations": "Candidate only. No Cosmo QC is claimed for these bytes. 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top 864×1080 of an 864×1152 generated source and drop 72 pixels of foreground. Dimensions do not imply native detail. Open-Meteo figures are model data, not an on-site observation. Exact camera correspondence is not surveyed.",
+  "file_16x9": "es-01-155-cand-r1-16x9.png",
+  "file_4x5": "es-01-155-cand-r1-4x5.png",
+  "license_badge": "Free · no credit needed",
+  "license_anchor": "#license",
+  "editions": [],
   "time_of_day": "Night",
-  "composition": "Night · the fortress over the valley · AI-generated artistic interpretation",
-  "alt_text": "AI-generated artistic interpretation of Lorca Castle at night.",
-  "description": "From the valley at night, Lorca Castle glows along its ridge above the dark town. The frame holds the long fortress line floodlit against the black sky, with Lorca's lights spread below in the Guadalentín valley. The Sun Fortress keeps its valley through the night.",
-  "file_16x9": "es-01-155-r1-16x9.png",
-  "file_4x5": "es-01-155-r1-4x5.png",
+  "revision_lineage": "Full rebuild for wo-spain-architectural-rework-2026-09-30 pack 8. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. Previous masters remain in the repository as superseded bytes.",
+  "review_history": [
+    {
+      "date": "2026-10-01",
+      "previous_status": "Approved · Cosmo QC 5/5 · Night",
+      "previous_approval_state": "approved",
+      "previous_files": {
+        "16x9": "es-01-155-r1-16x9.png",
+        "4x5": "es-01-155-r1-4x5.png",
+        "9x16": null
+      },
+      "resolution": "Architectural rebuild cand-r1 landed as Candidate. The prior approval covered the previous bytes only. It does not cover cand-r1. No Cosmo re-audit is claimed."
+    }
+  ],
+  "approval_basis": "Not approved. cand-r1 is an architectural rebuild awaiting Cosmo re-audit. The earlier Cosmo approval applied only to the previous master bytes and is retained in review_history.",
   "dimensions": {
     "16x9": {
       "width": 1920,
       "height": 1270,
-      "sha256": "c315c7f0d00f4ed6dc6e5a317a3190539717df5de243c349cb7a585a8106daa5"
+      "sha256": "a63538a40c435c58097d2dabf4447b4dd3c1941a0b96a2b76ec49206f5893424",
+      "bytes": 2068028,
+      "source_width": 1280,
+      "source_height": 720,
+      "resampled": true
     },
     "4x5": {
       "width": 864,
       "height": 1270,
-      "sha256": "59b8388df13cd4ef95cf8e9f31359aee4f0bdf824caf43ad932801c8b4822edb"
-    }
-  },
-  "masters": {
-    "16x9": {
-      "file": "es-01-155-r1-16x9.png",
-      "dimensions": [
-        1920,
-        1270
-      ],
-      "byte_length": 2996556,
-      "sha256": "c315c7f0d00f4ed6dc6e5a317a3190539717df5de243c349cb7a585a8106daa5",
-      "source_file": "media-generation-es-01-155-source-0-7ef322fe-a6f1-4e66-b3f3-1aea1e94176d.png",
-      "source_dimensions": [
-        1408,
-        1760
-      ],
-      "crop_center": [
-        0.5,
-        0.5
-      ],
-      "labels": [
-        "Lorca Castle, Lorca",
-        "Scenario: 24 September 2026 · 04:32 Europe/Madrid",
-        "AI-generated artistic interpretation · Not a photograph."
-      ],
-      "signature": "Jason D’s Vision",
-      "format": "PNG",
-      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
-      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
+      "sha256": "084407fdb7c3e7e0a40e43ec629bee2491f1146e94f5286c3fd308d286231bd9",
+      "bytes": 1124275,
+      "source_width": 864,
+      "source_height": 1152,
+      "resampled": false
     },
-    "4x5": {
-      "file": "es-01-155-r1-4x5.png",
-      "dimensions": [
-        864,
-        1270
-      ],
-      "byte_length": 1506651,
-      "sha256": "59b8388df13cd4ef95cf8e9f31359aee4f0bdf824caf43ad932801c8b4822edb",
-      "source_file": "media-generation-es-01-155-source-0-7ef322fe-a6f1-4e66-b3f3-1aea1e94176d.png",
-      "source_dimensions": [
-        1408,
-        1760
-      ],
-      "crop_center": [
-        0.5,
-        0.5
-      ],
-      "labels": [
-        "Lorca Castle, Lorca",
-        "Scenario: 24 September 2026 · 04:32 Europe/Madrid",
-        "AI-generated artistic interpretation · Not a photograph."
-      ],
-      "signature": "Jason D’s Vision",
-      "format": "PNG",
-      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
-      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 864x1080. Not native target-resolution detail."
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "724300ad93bcd8dfadb5fcd2ca7dcc61fe3adafcfed34bf573ebd68861ce3853",
+      "bytes": 2187100,
+      "source_width": 720,
+      "source_height": 1280,
+      "resampled": true
     }
   },
-  "conditions": {
-    "provider": "Open-Meteo",
-    "retrieved": "2026-09-24T04:28:52+02:00",
-    "valid": "2026-09-24T04:15 Europe/Madrid",
-    "phrase": "clear night, light air",
-    "note": "Model data — not a verified on-site observation."
-  },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T04:28:52+02:00, valid 2026-09-24T04:15 Europe/Madrid — not a verified on-site observation.",
-  "prompts": {
-    "prompt-r1.txt": "Photorealistic original artistic interpretation (not a photograph) of Lorca Castle, Murcia, Spain. Tourist viewpoint: the old town approach, looking up at the fortress. Frame: the great castle-fortress of Lorca with its walls and towers; the Alfonsina tower over the old town; the Guadalentín valley spreading below. Light and weather: clear night, light breeze. Main subject centered to survive a 4:5 center crop. No identifiable people, no legible logos, no text, lettering or signs anywhere in the image. Keep the lower third clean and uncluttered."
-  },
-  "source_files": [
-    {
-      "file": "media-generation-es-01-155-source-0-7ef322fe-a6f1-4e66-b3f3-1aea1e94176d.png",
-      "sha256": "30b0aeaf8753f0fb06efc90b492802b3afe207dbda1370336cc7111055b885d1",
-      "dimensions": [
-        1408,
-        1760
-      ],
-      "selected": true
-    }
-  ],
-  "provenance": {
-    "tool": "Built-in image generation; specific model version not exposed",
-    "image_inputs": [],
-    "source_use": "Text-only original generation. Third-party photographs inspected for facts, not supplied as input pixels. No uniqueness guarantee.",
-    "lineage": "Same selected source cropped and uniformly Lanczos-resampled to two exact PNGs; factual text and upward-fading scrim added deterministically. No stretching.",
-    "resampling": "Source [1408, 1760]; uniform Lanczos enlargement/crop to exact 1920x1080 and 864x1080. Not native target-resolution detail."
-  },
-  "production_checks": {
-    "technical": "Both PNGs fully decode, dimensions exact; label boxes in frame. Technical checks are not independent Cosmo QC.",
-    "visual": "Production comparison and limitations documented; not an independent gate verdict.",
-    "originality": "Own generated pixels; uniqueness not established.",
-    "commercial_ip": "No prominent people/logos or artwork focal subject; third-party clearance not legally certified.",
-    "publication": "Candidate handoff only. No approval inferred."
-  },
-  "independent_qc": {
-    "reviewer": "Cosmo",
-    "verdict": "Awaiting review",
-    "exact_pair_required": true
-  },
-  "card_handoff": {
-    "owner": "Cosmo",
-    "placement": "Candidate pipeline, two-format card (16:9/4:5 tabs, both downloads)",
-    "preserve": "caption, scenario, composition, description, status, disclosure, license, search/navigation and country switcher"
-  },
-  "license_badge": "Free · no credit needed",
-  "license_anchor": "#license",
-  "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
-  "reference_evidence": [],
-  "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor G: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/G/ES-01-155.md. r1.",
-  "daylight_variant": {
-    "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
-    "source_night": {
-      "16x9": {
-        "path": "es-01-155-r1-16x9.png",
-        "sha256": "c315c7f0d00f4ed6dc6e5a317a3190539717df5de243c349cb7a585a8106daa5"
+  "revision": "cand-r1",
+  "file_9x16": "es-01-155-cand-r1-9x16.png",
+  "evidence_card": "evidence/ES-01-155.json",
+  "land_as": "Candidate",
+  "conditions_record": {
+    "retrieved_local": "2026-10-01T02:57:16.489562+02:00",
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=37.6774&longitude=-1.706&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
+    "requested_coordinates": [
+      37.6774,
+      -1.706
+    ],
+    "response": {
+      "latitude": 37.6875,
+      "longitude": -1.6875,
+      "generationtime_ms": 0.9484291076660156,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 469.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
       },
-      "4x5": {
-        "path": "es-01-155-r1-4x5.png",
-        "sha256": "59b8388df13cd4ef95cf8e9f31359aee4f0bdf824caf43ad932801c8b4822edb"
+      "current": {
+        "time": "2026-10-01T02:45",
+        "interval": 900,
+        "temperature_2m": 20.8,
+        "weather_code": 3,
+        "cloud_cover": 100,
+        "is_day": 0,
+        "precipitation": 0.0,
+        "wind_speed_10m": 2.1
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T08:02"
+        ],
+        "sunset": [
+          "2026-10-01T19:49"
+        ]
       }
     },
-    "masters": {
-      "16x9": {
-        "path": "es-01-155-daylight-16x9.png",
-        "width": 1920,
-        "height": 1270,
-        "sha256": "e24e7fa88500d95fcd8b9b77f905abf84ce601a48306670230a59d641747bc7b"
-      },
-      "4x5": {
-        "path": "es-01-155-daylight-4x5.png",
-        "width": 864,
-        "height": 1270,
-        "sha256": "011eba0f65ee5adefbed0a9615861d9ddba03771e2137bf1ad87461381e55880"
-      }
-    },
-    "on_image_text": [
-      "Lorca Castle, Lorca",
-      "☀ Daylight variant · derived from the night interpretation",
-      "AI-generated artistic interpretation · Not a photograph.",
-      "Jason D’s Vision"
-    ],
-    "art50_png_chunks": [
-      "Title",
-      "Description",
-      "Copyright",
-      "Software",
-      "Comment"
-    ],
-    "country": "Spain"
+    "solar": {
+      "method": "NOAA fractional-year geometric approximation, not observation",
+      "elevation_deg": -53.31,
+      "azimuth_deg": 159.43
+    }
   }
 }
