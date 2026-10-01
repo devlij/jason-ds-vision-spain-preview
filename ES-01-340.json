@@ -1,168 +1,135 @@
 {
   "entry_id": "ES-01-340",
   "country": "Spain",
-  "city": "Cáceres",
   "region": "Extremadura",
+  "city": "Cáceres",
   "caption": "Old Town, Cáceres",
-  "revision": "r1",
-  "viewpoint": "Plaza de San Jorge, facing the church of San Francisco Javier (approx 39.4736N, 6.3703W)",
-  "anchors": [
-    "Plaza de San Jorge in the Monumental City",
-    "Baroque church of San Francisco Javier with twin towers",
-    "Medieval noble palaces and cobblestones around the square"
-  ],
-  "limitations": "Night lighting of the historic buildings is supported by tour and traveller reports, but is not verified for this specific hour. Church and palace detail are interpretive. Camera point in the Plaza de San Jorge is a conventional viewpoint, not map-verified.",
-  "refs": [
-    [
-      "https://en.wikipedia.org/wiki/Old_Town_of_C%C3%A1ceres",
-      "Encyclopedia: Old Town of Cáceres, UNESCO Monumental City, Plaza de San Jorge, San Francisco Javier"
-    ],
-    [
-      "https://www.tripadvisor.in/ShowUserReviews-g227852-d10038159-r608956296-Plaza_de_San_Jorge-Caceres_Province_of_Caceres_Extremadura.html",
-      "Traveller reviews: Plaza de San Jorge particularly beautiful at night with the buildings illuminated"
-    ]
-  ],
-  "status": "Approved · Cosmo QC 5/5 · Night",
-  "approval_state": "approved",
-  "scenario_label": "24 September 2026 · 03:26 Europe/Madrid",
+  "scenario_label": "1 October 2026 · 05:15 Europe/Madrid",
+  "composition": "Night · San Francisco Javier above the staircase, San Jorge in the hornacina · AI-generated artistic interpretation",
+  "alt_text": "AI-generated artistic interpretation of Plaza de San Jorge in Cáceres at night, the bronze San Jorge set in a niche of the staircase below the church of San Francisco Javier.",
+  "description": "In Plaza de San Jorge at night, the Baroque church of San Francisco Javier closes the head of the granite staircase with its two towers. The bronze San Jorge, on horseback over the dragon, sits inside a hornacina built into the stair.",
+  "viewpoint": "Plaza de San Jorge, facing the church of San Francisco Javier (approx 39.4736N, 6.3703W). Exact generated camera correspondence is unverified.",
+  "status": "Candidate · architectural rebuild · awaiting Cosmo re-audit · Night",
+  "approval_state": "candidate",
+  "gates": {
+    "visual": "pending — Cosmo re-audit; no pass claimed",
+    "technical": "pending — Cosmo re-audit; local dimension and Art.50 checks only",
+    "provenance": "pending — Cosmo re-audit; generation lineage recorded, uniqueness unverified",
+    "commercial_ip": "pending — Cosmo re-audit; not legal certification",
+    "publication": "candidate only — not approved for the gallery"
+  },
+  "weather": "Model data from Open-Meteo, retrieved 1 October 2026 05:20:08 Europe/Madrid, valid 05:15 Europe/Madrid — not a verified on-site observation. 16.4°C, WMO 3 overcast, cloud 100%, precipitation 0.0 mm, wind 6.6 km/h. Sunrise 08:21, sunset 20:08. Approximate solar elevation -35.17°, azimuth 59.73°. Night; no direct sunlight.",
+  "limitations": "Candidate only. No Cosmo QC is claimed for these bytes. 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top 864×1080 of an 864×1152 generated source and drop 72 pixels of foreground. Dimensions do not imply native detail. Open-Meteo figures are model data, not an on-site observation. Exact camera correspondence is not surveyed.",
+  "file_16x9": "es-01-340-cand-r1-16x9.png",
+  "file_4x5": "es-01-340-cand-r1-4x5.png",
+  "license_badge": "Free · no credit needed",
+  "license_anchor": "#license",
+  "editions": [],
   "time_of_day": "Night",
-  "composition": "Night · Plaza de San Jorge, illuminated church above the old stone square · AI-generated artistic interpretation",
-  "alt_text": "AI-generated artistic interpretation of the old town of Cáceres at night.",
-  "description": "Stand in the Plaza de San Jorge in old Cáceres at night, the church rising illuminated above the cobbled square. Its lit façade glows against the dark sky while the surrounding stone houses sit shadowed around the plaza. The old town's honeyed stone holds the lamplight, and the square lies quiet after the day's crowds.",
-  "file_16x9": "es-01-340-r1-16x9.png",
-  "file_4x5": "es-01-340-r1-4x5.png",
+  "revision_lineage": "Full rebuild for wo-spain-architectural-rework-2026-09-30 pack 14. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. Previous masters remain in the repository as superseded bytes.",
+  "review_history": [
+    {
+      "date": "2026-10-01",
+      "previous_status": "Approved · Cosmo QC 5/5 · Night",
+      "previous_approval_state": "approved",
+      "previous_files": {
+        "16x9": "es-01-340-r1-16x9.png",
+        "4x5": "es-01-340-r1-4x5.png",
+        "9x16": null
+      },
+      "resolution": "Architectural rebuild cand-r1 landed as Candidate. The prior approval covered the previous bytes only. It does not cover cand-r1. Daylight derivatives of those previous night masters are not part of cand-r1. No Cosmo re-audit is claimed."
+    }
+  ],
+  "approval_basis": "Not approved. cand-r1 is an architectural rebuild awaiting Cosmo re-audit. The earlier Cosmo approval applied only to the previous master bytes and is retained in review_history.",
   "dimensions": {
     "16x9": {
       "width": 1920,
       "height": 1270,
-      "sha256": "129d2a68233a203484c2e5335085c9e1501a675ddd72301f9407cd9ae4922969"
+      "sha256": "d513029cbd8d2dbced1554d549f0ba116feeb92a3bd56a2890edf894723effd0",
+      "bytes": 2768689,
+      "source_width": 1280,
+      "source_height": 720,
+      "resampled": true
     },
     "4x5": {
       "width": 864,
       "height": 1270,
-      "sha256": "59dc47adaa4098d7025580ddd4958e9608f787cdb93b9a3792408e4f82a17ae0"
-    }
-  },
-  "masters": {
-    "16x9": {
-      "file": "es-01-340-r1-16x9.png",
-      "dimensions": [
-        1920,
-        1270
-      ],
-      "byte_length": 2662364,
-      "sha256": "129d2a68233a203484c2e5335085c9e1501a675ddd72301f9407cd9ae4922969",
-      "source_file": "media-generation-es-01-340-source-0-6a04e329-532e-44d8-a8bc-c50305c1ddee.png",
-      "source_dimensions": [
-        1408,
-        1760
-      ],
-      "crop_center": [
-        0.5,
-        0.5
-      ],
-      "labels": [
-        "Old Town, Cáceres",
-        "Scenario: 24 September 2026 · 03:26 Europe/Madrid",
-        "AI-generated artistic interpretation · Not a photograph."
-      ],
-      "signature": "Jason D’s Vision",
-      "format": "PNG",
-      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
-      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
+      "sha256": "eb1dee7cfcc8292ec612e5afa01075752becaedf9965ee6cd48a42c982dc396b",
+      "bytes": 1374944,
+      "source_width": 864,
+      "source_height": 1152,
+      "resampled": false
     },
-    "4x5": {
-      "file": "es-01-340-r1-4x5.png",
-      "dimensions": [
-        864,
-        1270
-      ],
-      "byte_length": 1350923,
-      "sha256": "59dc47adaa4098d7025580ddd4958e9608f787cdb93b9a3792408e4f82a17ae0",
-      "source_file": "media-generation-es-01-340-source-0-6a04e329-532e-44d8-a8bc-c50305c1ddee.png",
-      "source_dimensions": [
-        1408,
-        1760
-      ],
-      "crop_center": [
-        0.5,
-        0.5
-      ],
-      "labels": [
-        "Old Town, Cáceres",
-        "Scenario: 24 September 2026 · 03:26 Europe/Madrid",
-        "AI-generated artistic interpretation · Not a photograph."
-      ],
-      "signature": "Jason D’s Vision",
-      "format": "PNG",
-      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
-      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 864x1080. Not native target-resolution detail."
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "31ac2d149494e7c1fac68cfa7b79037d514bce9b529c80b04a0992113e56a7e2",
+      "bytes": 2357826,
+      "source_width": 720,
+      "source_height": 1280,
+      "resampled": true
     }
   },
-  "conditions": {
-    "cloud_cover": 1,
-    "is_day": 0,
-    "precipitation": 0.0,
-    "provider": "Open-Meteo",
-    "temperature_2m": 24.6,
-    "weather_code": 0,
-    "wind_speed_10m": 3.0,
-    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=39.4736&longitude=-6.3703&hourly=temperature_2m,weather_code,cloud_cover,precipitation,wind_speed_10m,is_day&daily=sunrise,sunset&timezone=Europe%2FMadrid&past_days=3&forecast_days=1",
-    "retrieved": "2026-09-26T01:43:13+02:00",
-    "valid": "2026-09-24T03:00+02:00 Europe/Madrid",
-    "timezone": "Europe/Madrid",
-    "model_valid_hour": "2026-09-24T03:00+02:00",
-    "scenario_minute": "03:26",
-    "sunrise": "08:14",
-    "sunset": "20:19"
-  },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-26T01:43:13+02:00, valid 2026-09-24T03:00+02:00 Europe/Madrid — not a verified on-site observation. 24.6°C, weather code 0 (clear), cloud 1%, precipitation 0 mm, wind 3 km/h. Sunrise 08:14, sunset 20:19. Scenario minute 03:26 falls inside the 03:00 model-valid hour.",
-  "prompts": {
-    "prompt-r1.txt": "Photorealistic artistic interpretation of the old town of Cáceres, Spain, at night. The Plaza de San Jorge in the Monumental City: the baroque church of San Francisco Javier with its twin towers rises illuminated above the stone square; medieval noble palaces and cobblestones glow warm in the night lighting. Dark starry sky. No identifiable people prominent. Subject centred so it survives a 4:5 centre crop. No text or brand logos anywhere, no on-image text at all."
-  },
-  "source_files": [
-    {
-      "file": "media-generation-es-01-340-source-0-6a04e329-532e-44d8-a8bc-c50305c1ddee.png",
-      "sha256": "371564e47fc8d0de46b7273b114f4b61c8c62d571d5b84e8009449e947e5f0bc",
-      "dimensions": [
-        1408,
-        1760
-      ],
-      "selected": true
+  "revision": "cand-r1",
+  "file_9x16": "es-01-340-cand-r1-9x16.png",
+  "evidence_card": "evidence/ES-01-340.json",
+  "land_as": "Candidate",
+  "conditions_record": {
+    "retrieved_local": "2026-10-01T05:20:08.566724+02:00",
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=39.4736&longitude=-6.3703&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
+    "requested_coordinates": [
+      39.4736,
+      -6.3703
+    ],
+    "response": {
+      "latitude": 39.5,
+      "longitude": -6.375,
+      "generationtime_ms": 25.861263275146484,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 453.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T05:15",
+        "interval": 900,
+        "temperature_2m": 16.4,
+        "weather_code": 3,
+        "cloud_cover": 100,
+        "is_day": 0,
+        "precipitation": 0.0,
+        "wind_speed_10m": 6.6
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T08:21"
+        ],
+        "sunset": [
+          "2026-10-01T20:08"
+        ]
+      }
+    },
+    "solar": {
+      "method": "NOAA fractional-year geometric approximation, not observation",
+      "elevation_deg": -35.17,
+      "azimuth_deg": 59.73
     }
-  ],
-  "provenance": {
-    "tool": "Built-in image generation; specific model version not exposed",
-    "image_inputs": [],
-    "source_use": "Text-only original generation. Third-party photographs inspected for facts, not supplied as input pixels. No uniqueness guarantee.",
-    "lineage": "Same selected source cropped and uniformly Lanczos-resampled to two exact PNGs; factual text and upward-fading scrim added deterministically. No stretching.",
-    "resampling": "Source [1408, 1760]; uniform Lanczos enlargement/crop to exact 1920x1080 and 864x1080. Not native target-resolution detail."
-  },
-  "production_checks": {
-    "technical": "Both PNGs fully decode, dimensions exact; label boxes in frame. Technical checks are not independent Cosmo QC.",
-    "visual": "Production comparison and limitations documented; not an independent gate verdict.",
-    "originality": "Own generated pixels; uniqueness not established.",
-    "commercial_ip": "No prominent people/logos or artwork focal subject; third-party clearance not legally certified.",
-    "publication": "Candidate handoff only. No approval inferred."
-  },
-  "independent_qc": {
-    "reviewer": "Cosmo",
-    "verdict": "Awaiting review",
-    "exact_pair_required": true
-  },
-  "card_handoff": {
-    "owner": "Cosmo",
-    "placement": "Candidate pipeline, two-format card (16:9/4:5 tabs, both downloads)",
-    "preserve": "caption, scenario, composition, description, status, disclosure, license, search/navigation and country switcher"
-  },
-  "license_badge": "Free · no credit needed",
-  "license_anchor": "#license",
-  "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
-  "reference_evidence": [],
-  "qc_notes": [
-    "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nBuilder self-disclosed 2026-09-24: weather metadata retrieved 01:11 UTC was reused across scenario labels 01:32-06:48; the fresh-time/fresh-weather requirement was not met for this block.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals).\nBuilder self-disclosed 2026-09-24: weather metadata retrieved 01:11 UTC was reused across scenario labels 01:32-06:48; the fresh-time/fresh-weather requirement was not met for this block.\nCosmo QC 2026-09-24 ~18:30 EDT (genuine five-gate audit): Gate 1 visual pass: church facade flanked by two tall whitewashed towers with stone quoins (Santa Maria co-cathedral), warm lit windows under a starry night sky; clean framing, no artifacts. Gate 2 technical: both masters 1920x1080/864x1080, SHA-256 match packet; exact caption + 'Scenario: 24 September 2026 - 03:26 Europe/Madrid' + 'AI-generated artistic interpretation - Not a photograph.' disclosure bottom-left on scrim; 'Jason D's Vision' signature bottom-right -- all verified on-image. Gate 2 FAIL: stale/reused weather metadata -- Open-Meteo retrieved 2026-09-24T01:11+02:00 (valid 01:00) but scenario label is 03:26 Europe/Madrid, 2+ hours later; builder self-disclosed this block reused the 01:11 UTC retrieval across scenario labels, fresh-time/fresh-weather requirement not met (ES-01-334-365 lesson). Gate 3 provenance: text-only original generation, image_inputs [], 'third-party photographs inspected for facts, not supplied as input pixels' -- no photographic inputs reported. Gate 4: documented only -- night scenes, no identifiable people or logos; public landmarks; no chain certified clean. Gate 5: OPEN (Gate 2 failure). NOT APPROVED -- stays candidate until fresh scenario-time weather metadata is issued (rebuild/re-label with fresh retrieval).\nCosmo QC 2026-09-24 ~20:20 EDT (independent five-gate audit, 10-scene cap): Gate 1 PASS -- twin-towered stone church facade with arched doorway and lit windows flanked by old town buildings; clean framing, no artifacts. Gate 2 on-image text PASS -- exact caption 'Old Town, Cáceres', exact 'Scenario: 24 September 2026 · 03:26 Europe/Madrid', 'AI-generated artistic interpretation · Not a photograph.' disclosure bottom-left on scrim, exact 'Jason D's Vision' signature bottom-right, all legible. Gate 2 weather cross-check FAIL -- Open-Meteo retrieved 2026-09-24T01:11+02:00 (valid 01:00) but scenario label is 24 September 2026 · 03:26 Europe/Madrid; builder self-disclosed this block reused the 01:11 UTC retrieval across scenario labels (ES-01-334-365 lesson), fresh-time/fresh-weather requirement not met. Gate 3 PASS -- text-only generation, image_inputs [], no photographic inputs reported. Gate 4 DOCUMENTED ONLY -- night scenes, no identifiable people or logos; public landmarks; no chain certified clean. Gate 5 OPEN (Gate 2 failure). NOT APPROVED -- stays candidate until fresh scenario-time weather metadata is issued.\nCosmo QC 2026-09-24 ~22:15 EDT (independent five-gate audit, 10-scene cap): Gate 1 PASS -- Iglesia de San Francisco Javier facade with twin whitewashed towers and stone centre block, warm lit windows, starry night sky; plausible Plaza de San Jorge viewpoint; clean framing. On-image text verified: 'Old Town, Caceres', 'Scenario: 24 September 2026 * 03:26 Europe/Madrid', disclosure, signature -- all legible. Gate 2 weather FAIL -- Open-Meteo retrieved 2026-09-24T01:11+02:00 (valid 2026-09-24T01:00+02:00), reused across scenarios scenario 03:26; builder self-disclosed this block reused the 01:11 retrieval (ES-01-334-365 lesson); fresh-time/fresh-weather requirement not met. Gate 3 PASS -- text-only original generation, image_inputs [], no photographic inputs reported. Gate 4 DOCUMENTED ONLY -- night scene, no identifiable people or logos; public landmark; no chain certified clean. NOT APPROVED -- stays candidate until fresh scenario-time weather metadata is issued.\n[2026-09-25T18:29:23.122003+00:00 — Cosmo QC] Approval withdrawn 2026-09-25 (Cosmo QC): the weather metadata was a shared/batch Open-Meteo retrieval (retrieved 2026-09-24T01:11+02:00 shared across the ES-01-320–350 block), failing Gate 2 under the standing policy — one Open-Meteo HTTP fetch per scene, one recorded retrieval timestamp per scene; identical-to-the-second timestamps across scenes = shared retrieval. The prior approval_basis claiming fresh/non-reused weather was false. Rework: re-land the review packet with a per-scene fresh Open-Meteo retrieval (own HTTP request, own recorded timestamp), scenario hour inside its model-valid hour. Scene stays Candidate until Cosmo QC re-audits.\n[2026-09-26T01:43:13+02:00 — builder weather rework] Per-scene Open-Meteo HTTP retrieval (own GET, HTTP 200). Retrieved 2026-09-26T01:43:13+02:00 Europe/Madrid. Model-valid hour 2026-09-24T03:00+02:00 contains scenario minute 03:26 on 2026-09-24. Model data only; not a verified on-site observation. approval_state left Candidate. Images not regenerated."
-  ],
-  "reverted_approval_basis": "Gate 1: the whitewashed twin-towered Iglesia de San Francisco Javier dominates the frame, stone portico and lit windows glowing under a starry sky — a plausible close night viewpoint on the old-town church. Gate 2: on-image strings read exactly 'Old Town, Cáceres', 'Scenario: 24 September 2026 · 03:26 Europe/Madrid', 'AI-generated artistic interpretation · Not a photograph.' bottom-left, 'Jason D's Vision' bottom-right; mechanical 1920×1080/864×1080, SHA matching packet; weather retrieved 2026-09-24T01:11 valid 01:00 — same night, within ~2.5h of scenario, labeled model data, not reused across dates. Gate 3: built-in text-only generation; no photographic inputs reported. Gate 4: no visible people, no logos, no private-property identifiers; noted only. Gate 5: no open blockers.",
-  "reverted_at": "2026-09-25T18:29:23.122003+00:00",
-  "approval_basis": "Gate 1: recognizably the Cáceres old town at night — lit stone church façade with twin towers, warm glowing windows, starry sky over the historic quarter; plausible viewpoint, clean framing, no artifacts. Gate 2: exact dims and SHA-256 match; exact signature, caption 'Old Town, Cáceres', scenario '24 September 2026 · 03:26 Europe/Madrid', disclosure on-image; weather retrieved 2026-09-26T01:43:13+02:00, valid 2026-09-24T03:00+02:00 covering the scenario minute, timestamp unique to this scene. Gate 3: packet records text-only original generation, no photographic inputs. Gate 4: no visible people, logos, or private property issues. Gate 5: clear — approved."
+  }
 }

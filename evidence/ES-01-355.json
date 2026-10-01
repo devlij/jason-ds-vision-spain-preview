@@ -1,0 +1,118 @@
+{
+  "scene_id": "ES-01-355",
+  "land_as": "Candidate",
+  "revision": "cand-r1",
+  "work_order": "wo-spain-architectural-rework-2026-09-30",
+  "pack": 14,
+  "defect_corrected": "The tall white pier lighthouse with two red bands and a daylight beam is gone. Faro de Getaria is the octagonal stone tower on Monte San Antón; the breakwater has only a small red-topped beacon.",
+  "viewpoint": "Harbor looking up at the town and the Ratón (approx 43.3050N, 2.2014W). Exact generated camera correspondence is unverified.",
+  "reference_links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/San_Anton_(Getaria)",
+      "note": "Wikipedia: Monte San Antón, the Mouse of Getaria, is tied to the port by a breakwater and carries the 1863 lighthouse."
+    },
+    {
+      "url": "https://www.marineradar.com/lighthouse/getaria-16526",
+      "note": "MarineRadar: octagonal masonry tower about 14 m, lantern and double gallery, attached to a two-storey keeper's house on the peninsula."
+    }
+  ],
+  "geometry_anchors": [
+    "short octagonal stone lighthouse on Monte San Antón (El Ratón)",
+    "keeper's house attached to the tower",
+    "breakwater beacon with a small red top, and no banded tower on the pier"
+  ],
+  "art50_comment_date": "2026-10-01",
+  "art50_note": "Comment date is this scene's finish date, 2026-10-01, not a fleet-wide restamp.",
+  "open_meteo": {
+    "retrieved_local": "2026-10-01T05:20:14.237345+02:00",
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=43.305&longitude=-2.2014&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
+    "requested_coordinates": [
+      43.305,
+      -2.2014
+    ],
+    "response": {
+      "latitude": 43.3,
+      "longitude": -2.21,
+      "generationtime_ms": 0.31316280364990234,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 0.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T05:15",
+        "interval": 900,
+        "temperature_2m": 17.8,
+        "weather_code": 3,
+        "cloud_cover": 100,
+        "is_day": 0,
+        "precipitation": 0.0,
+        "wind_speed_10m": 6.6
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T08:06"
+        ],
+        "sunset": [
+          "2026-10-01T19:50"
+        ]
+      }
+    },
+    "solar": {
+      "method": "NOAA fractional-year geometric approximation, not observation",
+      "elevation_deg": -30.56,
+      "azimuth_deg": 61.32
+    }
+  },
+  "masters": {
+    "16x9": {
+      "file": "es-01-355-cand-r1-16x9.png",
+      "width": 1920,
+      "height": 1270,
+      "sha256": "6e967755d20d55d485836d8f6e0fc6330a15639b316799760c8fdccd271c62f6",
+      "bytes": 2141739,
+      "source": "/opt/cursor/artifacts/assets/src-355-16x9.jpg",
+      "source_width": 1280,
+      "source_height": 720
+    },
+    "4x5": {
+      "file": "es-01-355-cand-r1-4x5.png",
+      "width": 864,
+      "height": 1270,
+      "sha256": "b2d3ec41545f1039d37b2d42ec24515dcfa6fb83ceb898bd3a99798d2e62ba7e",
+      "bytes": 935198,
+      "source": "/opt/cursor/artifacts/assets/src-355-34.jpg",
+      "source_width": 864,
+      "source_height": 1152
+    },
+    "9x16": {
+      "file": "es-01-355-cand-r1-9x16.png",
+      "width": 1080,
+      "height": 2110,
+      "sha256": "d4c41036b3178aba429e1359c418eb527f75c70665be95f9e17673a369482180",
+      "bytes": 2007373,
+      "source": "/opt/cursor/artifacts/assets/src-355-916.jpg",
+      "source_width": 720,
+      "source_height": 1280
+    }
+  },
+  "producer_check": "Dimensions, label bar, and Art.50 comment date checked locally. This is not Cosmo QC and not an approval.",
+  "independent_verdict": null
+}

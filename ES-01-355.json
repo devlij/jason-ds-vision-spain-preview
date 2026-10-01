@@ -1,166 +1,135 @@
 {
   "entry_id": "ES-01-355",
   "country": "Spain",
-  "city": "Getaria",
   "region": "Basque Country",
+  "city": "Getaria",
   "caption": "Port, Getaria",
-  "revision": "r1",
-  "viewpoint": "Harbor looking up at the town and the Ratón (approx 43.3050N, 2.2014W)",
-  "anchors": [
-    "Mount San Antón lighthouse throwing its beam over the bay",
-    "Dark town on the rocky cape with scattered warm windows",
-    "Softly glowing fishing port with dock lamps"
-  ],
-  "limitations": "No night floodlighting is claimed — none is documented for this site, so the scene shows only the lighthouse beam, harbor lamps, scattered windows and moonlight; unverified for this specific hour. Hill and harbor detail are interpretive. Camera point at the harbor is a conventional viewpoint, not map-verified.",
-  "refs": [
-    [
-      "https://medium.com/@Life_Addicteds/strolling-through-the-mouse-of-getaria-its-lighthouse-and-the-stone-sentry-boxes-getaria-468e706749cb",
-      "Medium guide: the Mount San Antón lighthouse, one of the prettiest on the Basque coast; 'On full-moon nights the lighthouse and sentry boxes create an almost mystical scene'"
-    ],
-    [
-      "https://en.wikipedia.org/wiki/Getaria,_Spain",
-      "Encyclopedia: Getaria, Urola coast, Gipuzkoa — hometown of Juan Sebastián Elcano, famous for grilled fish and txakoli"
-    ]
-  ],
-  "status": "Approved · Cosmo QC 5/5 · Night",
-  "approval_state": "approved",
-  "scenario_label": "24 September 2026 · 05:28 Europe/Madrid",
+  "scenario_label": "1 October 2026 · 05:15 Europe/Madrid",
+  "composition": "Night · Harbor, the town, and the octagonal lighthouse on El Ratón · AI-generated artistic interpretation",
+  "alt_text": "AI-generated artistic interpretation of Getaria harbor at night, the octagonal stone lighthouse on Monte San Antón and a small red beacon on the breakwater.",
+  "description": "From the harbor at night, the town and mouse-shaped Monte San Antón rise together. The lighthouse is a short octagonal stone tower on the hill, attached to the keeper's house. The breakwater carries only a small red-topped beacon.",
+  "viewpoint": "Harbor looking up at the town and the Ratón (approx 43.3050N, 2.2014W). Exact generated camera correspondence is unverified.",
+  "status": "Candidate · architectural rebuild · awaiting Cosmo re-audit · Night",
+  "approval_state": "candidate",
+  "gates": {
+    "visual": "pending — Cosmo re-audit; no pass claimed",
+    "technical": "pending — Cosmo re-audit; local dimension and Art.50 checks only",
+    "provenance": "pending — Cosmo re-audit; generation lineage recorded, uniqueness unverified",
+    "commercial_ip": "pending — Cosmo re-audit; not legal certification",
+    "publication": "candidate only — not approved for the gallery"
+  },
+  "weather": "Model data from Open-Meteo, retrieved 1 October 2026 05:20:14 Europe/Madrid, valid 05:15 Europe/Madrid — not a verified on-site observation. 17.8°C, WMO 3 overcast, cloud 100%, precipitation 0.0 mm, wind 6.6 km/h. Sunrise 08:06, sunset 19:50. Approximate solar elevation -30.56°, azimuth 61.32°. Night; no direct sunlight.",
+  "limitations": "Candidate only. No Cosmo QC is claimed for these bytes. 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top 864×1080 of an 864×1152 generated source and drop 72 pixels of foreground. Dimensions do not imply native detail. Open-Meteo figures are model data, not an on-site observation. Exact camera correspondence is not surveyed.",
+  "file_16x9": "es-01-355-cand-r1-16x9.png",
+  "file_4x5": "es-01-355-cand-r1-4x5.png",
+  "license_badge": "Free · no credit needed",
+  "license_anchor": "#license",
+  "editions": [],
   "time_of_day": "Night",
-  "composition": "Night · Town from the harbor, lighthouse beam and moonlit bay · AI-generated artistic interpretation",
-  "alt_text": "AI-generated artistic interpretation of Getaria, Basque Country, at night.",
-  "description": "From the harbor at Getaria at night, the town climbs its headland above a moonlit bay, the lighthouse beam sweeping steadily. Moonlight silvers the water while the fishing port's lights twinkle along the quay. The old town rises dark and compact on its promontory, the beam of the lighthouse pacing the night.",
-  "file_16x9": "es-01-355-r1-16x9.png",
-  "file_4x5": "es-01-355-r1-4x5.png",
+  "revision_lineage": "Full rebuild for wo-spain-architectural-rework-2026-09-30 pack 14. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. Previous masters remain in the repository as superseded bytes.",
+  "review_history": [
+    {
+      "date": "2026-10-01",
+      "previous_status": "Approved · Cosmo QC 5/5 · Night",
+      "previous_approval_state": "approved",
+      "previous_files": {
+        "16x9": "es-01-355-r1-16x9.png",
+        "4x5": "es-01-355-r1-4x5.png",
+        "9x16": null
+      },
+      "resolution": "Architectural rebuild cand-r1 landed as Candidate. The prior approval covered the previous bytes only. It does not cover cand-r1. Daylight derivatives of those previous night masters are not part of cand-r1. No Cosmo re-audit is claimed."
+    }
+  ],
+  "approval_basis": "Not approved. cand-r1 is an architectural rebuild awaiting Cosmo re-audit. The earlier Cosmo approval applied only to the previous master bytes and is retained in review_history.",
   "dimensions": {
     "16x9": {
       "width": 1920,
       "height": 1270,
-      "sha256": "e436c242f32a2ee54c4c114630a8b54f0976ea3966f93605009237719f3bb4b7"
+      "sha256": "6e967755d20d55d485836d8f6e0fc6330a15639b316799760c8fdccd271c62f6",
+      "bytes": 2141739,
+      "source_width": 1280,
+      "source_height": 720,
+      "resampled": true
     },
     "4x5": {
       "width": 864,
       "height": 1270,
-      "sha256": "c52fadc4ff0e2ba78b684c236ce2dcbcaf767300f42be71936e139a44327a2e2"
-    }
-  },
-  "masters": {
-    "16x9": {
-      "file": "es-01-355-r1-16x9.png",
-      "dimensions": [
-        1920,
-        1270
-      ],
-      "byte_length": 1834116,
-      "sha256": "e436c242f32a2ee54c4c114630a8b54f0976ea3966f93605009237719f3bb4b7",
-      "source_file": "media-generation-es-01-355-source-0-a24fd006-48eb-4263-b7c2-71c3cf211ded.png",
-      "source_dimensions": [
-        1408,
-        1760
-      ],
-      "crop_center": [
-        0.5,
-        0.5
-      ],
-      "labels": [
-        "Port, Getaria",
-        "Scenario: 24 September 2026 · 05:28 Europe/Madrid",
-        "AI-generated artistic interpretation · Not a photograph."
-      ],
-      "signature": "Jason D’s Vision",
-      "format": "PNG",
-      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
-      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
+      "sha256": "b2d3ec41545f1039d37b2d42ec24515dcfa6fb83ceb898bd3a99798d2e62ba7e",
+      "bytes": 935198,
+      "source_width": 864,
+      "source_height": 1152,
+      "resampled": false
     },
-    "4x5": {
-      "file": "es-01-355-r1-4x5.png",
-      "dimensions": [
-        864,
-        1270
-      ],
-      "byte_length": 949577,
-      "sha256": "c52fadc4ff0e2ba78b684c236ce2dcbcaf767300f42be71936e139a44327a2e2",
-      "source_file": "media-generation-es-01-355-source-0-a24fd006-48eb-4263-b7c2-71c3cf211ded.png",
-      "source_dimensions": [
-        1408,
-        1760
-      ],
-      "crop_center": [
-        0.5,
-        0.5
-      ],
-      "labels": [
-        "Port, Getaria",
-        "Scenario: 24 September 2026 · 05:28 Europe/Madrid",
-        "AI-generated artistic interpretation · Not a photograph."
-      ],
-      "signature": "Jason D’s Vision",
-      "format": "PNG",
-      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
-      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 864x1080. Not native target-resolution detail."
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "d4c41036b3178aba429e1359c418eb527f75c70665be95f9e17673a369482180",
+      "bytes": 2007373,
+      "source_width": 720,
+      "source_height": 1280,
+      "resampled": true
     }
   },
-  "conditions": {
-    "cloud_cover": 100,
-    "is_day": 0,
-    "precipitation": 0.0,
-    "provider": "Open-Meteo",
-    "temperature_2m": 16.4,
-    "weather_code": 3,
-    "wind_speed_10m": 4.5,
-    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=43.3050&longitude=-2.2014&hourly=temperature_2m,weather_code,cloud_cover,precipitation,wind_speed_10m,is_day&daily=sunrise,sunset&timezone=Europe%2FMadrid&past_days=3&forecast_days=1",
-    "retrieved": "2026-09-26T01:43:28+02:00",
-    "valid": "2026-09-24T05:00+02:00 Europe/Madrid",
-    "timezone": "Europe/Madrid",
-    "model_valid_hour": "2026-09-24T05:00+02:00",
-    "scenario_minute": "05:28",
-    "sunrise": "07:58",
-    "sunset": "20:02"
-  },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-26T01:43:28+02:00, valid 2026-09-24T05:00+02:00 Europe/Madrid — not a verified on-site observation. 16.4°C, weather code 3 (overcast), cloud 100%, precipitation 0 mm, wind 4.5 km/h. Sunrise 07:58, sunset 20:02. Scenario minute 05:28 falls inside the 05:00 model-valid hour.",
-  "prompts": {
-    "prompt-r1.txt": "Photorealistic artistic interpretation of the fishing town of Getaria, Basque Country, Spain, at night. IMPORTANT: no invented floodlighting — an honest night treatment. The town lies mostly dark on the rocky cape, with scattered warm windows and harbor streetlights; the Mount San Antón (El Ratón) lighthouse throws its beam across the water; the fishing port glows softly with dock lamps; moonlight on the Bay of Biscay. San Salvador church silhouette. No identifiable people prominent. Subject centred so it survives a 4:5 centre crop. No text or brand logos anywhere, no on-image text at all."
-  },
-  "source_files": [
-    {
-      "file": "media-generation-es-01-355-source-0-a24fd006-48eb-4263-b7c2-71c3cf211ded.png",
-      "sha256": "23e7167e169a6e0f0fb702122cd237e0a69d46ce76fd469fde7cce4f416d1a72",
-      "dimensions": [
-        1408,
-        1760
-      ],
-      "selected": true
+  "revision": "cand-r1",
+  "file_9x16": "es-01-355-cand-r1-9x16.png",
+  "evidence_card": "evidence/ES-01-355.json",
+  "land_as": "Candidate",
+  "conditions_record": {
+    "retrieved_local": "2026-10-01T05:20:14.237345+02:00",
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=43.305&longitude=-2.2014&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
+    "requested_coordinates": [
+      43.305,
+      -2.2014
+    ],
+    "response": {
+      "latitude": 43.3,
+      "longitude": -2.21,
+      "generationtime_ms": 0.31316280364990234,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 0.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T05:15",
+        "interval": 900,
+        "temperature_2m": 17.8,
+        "weather_code": 3,
+        "cloud_cover": 100,
+        "is_day": 0,
+        "precipitation": 0.0,
+        "wind_speed_10m": 6.6
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T08:06"
+        ],
+        "sunset": [
+          "2026-10-01T19:50"
+        ]
+      }
+    },
+    "solar": {
+      "method": "NOAA fractional-year geometric approximation, not observation",
+      "elevation_deg": -30.56,
+      "azimuth_deg": 61.32
     }
-  ],
-  "provenance": {
-    "tool": "Built-in image generation; specific model version not exposed",
-    "image_inputs": [],
-    "source_use": "Text-only original generation. Third-party photographs inspected for facts, not supplied as input pixels. No uniqueness guarantee.",
-    "lineage": "Same selected source cropped and uniformly Lanczos-resampled to two exact PNGs; factual text and upward-fading scrim added deterministically. No stretching.",
-    "resampling": "Source [1408, 1760]; uniform Lanczos enlargement/crop to exact 1920x1080 and 864x1080. Not native target-resolution detail."
-  },
-  "production_checks": {
-    "technical": "Both PNGs fully decode, dimensions exact; label boxes in frame. Technical checks are not independent Cosmo QC.",
-    "visual": "Production comparison and limitations documented; not an independent gate verdict.",
-    "originality": "Own generated pixels; uniqueness not established.",
-    "commercial_ip": "No prominent people/logos or artwork focal subject; third-party clearance not legally certified.",
-    "publication": "Candidate handoff only. No approval inferred."
-  },
-  "independent_qc": {
-    "reviewer": "Cosmo",
-    "verdict": "Awaiting review",
-    "exact_pair_required": true
-  },
-  "card_handoff": {
-    "owner": "Cosmo",
-    "placement": "Candidate pipeline, two-format card (16:9/4:5 tabs, both downloads)",
-    "preserve": "caption, scenario, composition, description, status, disclosure, license, search/navigation and country switcher"
-  },
-  "license_badge": "Free · no credit needed",
-  "license_anchor": "#license",
-  "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
-  "reference_evidence": [],
-  "approval_basis": "Gate 1 PASS: Monte San Anton rising over the port with the lit building at its summit, the San Salvador church spire at left, and the waterfront row glowing along the quay — the signature Getaria view from the sea road. Gate 2 PASS: exact caption 'Port, Getaria', scenario '24 September 2026 · 05:28 Europe/Madrid', AI disclosure and curly-apostrophe signature verified on-image; masters 1920x1080/864x1080, sha256 matched; per-scene Open-Meteo retrieval 2026-09-26T01:43:28+02:00 (valid 05:00, 16.4C overcast 100%) — unique to this scene, replacing the earlier shared-retrieval hold. Gate 3 PASS: text-only generation, no photographic inputs. Gate 4: no people or logos; public site; commercial call stays Jason's. Gate 5: no open blockers.",
-  "qc_notes": [
-    "Gate 2 FAILED (Cosmo QC 2026-09-25): weather metadata reused across ES-01-351..360 and stale vs scenario. Conditions blocks are byte-identical (temp 18.3°C, cloud 80, wind 8.0, is_day 0) for geographically dispersed sites (Madrid ×3, Hondarribia, Getaria, Gaztelugatxe, Vitoria, Ceuta, Melilla, Logroño) — one Open-Meteo fetch reused for all 10. Retrieved 2026-09-24T01:11+02:00 (valid 01:00), scenario timestamps 04:56–06:08 Europe/Madrid — 4–5h stale. ES-01-334–365 lesson applies: refresh weather per scene near its scenario time and re-land.\n[2026-09-26T01:43:28+02:00 — builder weather rework] Per-scene Open-Meteo HTTP retrieval (own GET, HTTP 200). Retrieved 2026-09-26T01:43:28+02:00 Europe/Madrid. Model-valid hour 2026-09-24T05:00+02:00 contains scenario minute 05:28 on 2026-09-24. Model data only; not a verified on-site observation. approval_state left Candidate. Images not regenerated."
-  ]
+  }
 }
