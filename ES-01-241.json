@@ -1,199 +1,135 @@
 {
   "entry_id": "ES-01-241",
   "country": "Spain",
-  "city": "Setenil de las Bodegas",
   "region": "Andalusia",
+  "city": "Setenil de las Bodegas",
   "caption": "Cuevas de la Sombra, Setenil de las Bodegas",
-  "revision": "r1",
-  "viewpoint": "the Calle Cuevas de la Sombra at night, facing the rock overhang",
-  "anchors": [
-    "the massive rock overhang sheltering the cave houses",
-    "the whitewashed dwellings tucked beneath the cliff",
-    "the river and bridge lights of the canyon town"
-  ],
-  "limitations": "Text-only generation; no photographic input. Night lighting is restrained and interpretive. Exact camera position unverified.",
-  "refs": [
-    [
-      "https://www.spain.info/en/places-of-interest/setenil-bodegas/",
-      "Spain.info — Setenil de las Bodegas, cave houses under the rock overhang"
-    ],
-    [
-      "https://www.tripadvisor.com/Attraction_Review-g1224754-d245770-Reviews-Cuevas_de_la_Sombra-Setenil_de_las_Bodegas_Costa_del_Sol_Province_of_Malaga_Andalucia.html",
-      "Tripadvisor — Cuevas de la Sombra, Setenil's rock-overhang street"
-    ]
-  ],
-  "status": "Approved · Cosmo QC 5/5 · Night",
-  "approval_state": "approved",
-  "scenario_label": "24 September 2026 · 02:43 Europe/Madrid",
+  "scenario_label": "1 October 2026 · 03:45 Europe/Madrid",
+  "composition": "Night · enclosed rock-roofed street · AI-generated artistic interpretation",
+  "alt_text": "AI-generated artistic interpretation of Calle Cuevas de la Sombra at night, a street fully roofed by rock with whitewashed fronts on both sides.",
+  "description": "Calle Cuevas de la Sombra at night is a narrow street under a continuous rock roof, with whitewashed fronts on both sides. The gorge and the bridge stay out of this view.",
+  "viewpoint": "Calle Cuevas de la Sombra at night, inside the enclosed rock-roofed street. Exact generated camera correspondence is unverified.",
+  "status": "Candidate · architectural rebuild · awaiting Cosmo re-audit · Night",
+  "approval_state": "candidate",
+  "gates": {
+    "visual": "pending — Cosmo re-audit; no pass claimed",
+    "technical": "pending — Cosmo re-audit; local dimension and Art.50 checks only",
+    "provenance": "pending — Cosmo re-audit; generation lineage recorded, uniqueness unverified",
+    "commercial_ip": "pending — Cosmo re-audit; not legal certification",
+    "publication": "candidate only — not approved for the gallery"
+  },
+  "weather": "Model data from Open-Meteo, retrieved 1 October 2026 03:51:35 Europe/Madrid, valid 03:45 Europe/Madrid — not a verified on-site observation. 17.6°C, WMO 2 partly cloudy, cloud 68%, precipitation 0.0 mm, wind 5.6 km/h. Sunrise 08:15, sunset 20:04. Approximate solar elevation -49.49°, azimuth 38.09°. Night; no direct sunlight.",
+  "limitations": "Candidate only. No Cosmo QC is claimed for these bytes. 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top 864×1080 of an 864×1152 generated source and drop 72 pixels of foreground. Dimensions do not imply native detail. Open-Meteo figures are model data, not an on-site observation. Exact camera correspondence is not surveyed.",
+  "file_16x9": "es-01-241-cand-r1-16x9.png",
+  "file_4x5": "es-01-241-cand-r1-4x5.png",
+  "license_badge": "Free · no credit needed",
+  "license_anchor": "#license",
+  "editions": [],
   "time_of_day": "Night",
-  "composition": "Night · cave-house street under massive rock overhang at night · AI-generated artistic interpretation",
-  "alt_text": "AI-generated artistic interpretation of Cuevas de la Sombra at night.",
-  "description": "On the Calle Cuevas de la Sombra in Setenil at night, the street runs beneath a massive rock overhang that swallows the lamplight. The cave houses tuck into the cliff's shadow, their fronts lit while the great rock looms black overhead. The overhang dwarfs everything, the street cool and cavernous in the dark.",
-  "file_16x9": "es-01-241-r1-16x9.png",
-  "file_4x5": "es-01-241-r1-4x5.png",
+  "revision_lineage": "Full rebuild for wo-spain-architectural-rework-2026-09-30 pack 11. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. Previous masters remain in the repository as superseded bytes.",
+  "review_history": [
+    {
+      "date": "2026-10-01",
+      "previous_status": "Approved · Cosmo QC 5/5 · Night",
+      "previous_approval_state": "approved",
+      "previous_files": {
+        "16x9": "es-01-241-r1-16x9.png",
+        "4x5": "es-01-241-r1-4x5.png",
+        "9x16": null
+      },
+      "resolution": "Architectural rebuild cand-r1 landed as Candidate. The prior approval covered the previous bytes only. It does not cover cand-r1. Daylight derivatives of those previous night masters are not part of cand-r1. No Cosmo re-audit is claimed."
+    }
+  ],
+  "approval_basis": "Not approved. cand-r1 is an architectural rebuild awaiting Cosmo re-audit. The earlier Cosmo approval applied only to the previous master bytes and is retained in review_history.",
   "dimensions": {
     "16x9": {
       "width": 1920,
       "height": 1270,
-      "sha256": "13d83b721c9ed04da7fde92add84dc21ff5da5febfe5c5cd52e0c1095b7333c3"
+      "sha256": "1c2e833f212183b56354e387b5a247b5c611309fc5ac6a68a8622ad9ba5eadaa",
+      "bytes": 2882089,
+      "source_width": 1280,
+      "source_height": 720,
+      "resampled": true
     },
     "4x5": {
       "width": 864,
       "height": 1270,
-      "sha256": "d62eab9814750cb6352108e5b9d3348402323667c1efa86b7cd2c4e39b9c277b"
-    }
-  },
-  "masters": {
-    "16x9": {
-      "file": "es-01-241-r1-16x9.png",
-      "dimensions": [
-        1920,
-        1270
-      ],
-      "byte_length": 3213361,
-      "sha256": "13d83b721c9ed04da7fde92add84dc21ff5da5febfe5c5cd52e0c1095b7333c3",
-      "source_file": "media-generation-es-01-241-source-0-b94f9f75-34c0-4397-b27d-10568c3acbe6.png",
-      "source_dimensions": [
-        1920,
-        1280
-      ],
-      "crop_center": [
-        0.5,
-        0.5
-      ],
-      "labels": [
-        "Cuevas de la Sombra, Setenil de las Bodegas",
-        "Scenario: 24 September 2026 · 02:43 Europe/Madrid",
-        "AI-generated artistic interpretation · Not a photograph."
-      ],
-      "signature": "Jason D’s Vision",
-      "format": "PNG",
-      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
-      "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
+      "sha256": "f03edfb9dab108ce240dac790257d81827b14c823143c969628f77d2dc631acd",
+      "bytes": 1354717,
+      "source_width": 864,
+      "source_height": 1152,
+      "resampled": false
     },
-    "4x5": {
-      "file": "es-01-241-r1-4x5.png",
-      "dimensions": [
-        864,
-        1270
-      ],
-      "byte_length": 1571412,
-      "sha256": "d62eab9814750cb6352108e5b9d3348402323667c1efa86b7cd2c4e39b9c277b",
-      "source_file": "media-generation-es-01-241-source-0-b94f9f75-34c0-4397-b27d-10568c3acbe6.png",
-      "source_dimensions": [
-        1920,
-        1280
-      ],
-      "crop_center": [
-        0.5,
-        0.5
-      ],
-      "labels": [
-        "Cuevas de la Sombra, Setenil de las Bodegas",
-        "Scenario: 24 September 2026 · 02:43 Europe/Madrid",
-        "AI-generated artistic interpretation · Not a photograph."
-      ],
-      "signature": "Jason D’s Vision",
-      "format": "PNG",
-      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
-      "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 864x1080. Not native target-resolution detail."
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "6385141168f08f03783de92435aa0c358e019cb6c220b2b6ac7d9c2717d5eb94",
+      "bytes": 2546353,
+      "source_width": 720,
+      "source_height": 1280,
+      "resampled": true
     }
   },
-  "conditions": {
-    "retrieved": "2026-09-24T02:42:10+02:00",
-    "valid": "2026-09-24T02:43:29+02:00",
-    "provider": "Open-Meteo",
-    "api": "https://api.open-meteo.com/v1/forecast",
-    "is_day": 0,
-    "temperature_2m": 21.8,
-    "weather_code": 0,
-    "cloud_cover": 2,
-    "wind_speed_10m": 9.2
-  },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T02:42:10+02:00, valid 2026-09-24T02:43:29+02:00 Europe/Madrid — not a verified on-site observation.",
-  "prompts": {
-    "prompt-r1.txt": "Photorealistic original artistic interpretation (not a photograph) of the Cuevas de la Sombra, Setenil de las Bodegas, Cádiz, Spain, at night. Tourist viewpoint: the street, facing the rock overhang. Frame: the massive rock overhang sheltering the cave houses, centered; the whitewashed dwellings tucked beneath the cliff; the river and bridge lights of the canyon town. Night light: restrained street lighting and moonlight under the overhang, starry sky, 22 degrees C. Main subject centered to survive a 4:5 center crop. No identifiable people, no legible logos, no text, lettering or signs anywhere in the image. Keep the lower third clean and uncluttered."
-  },
-  "source_files": [
-    {
-      "file": "media-generation-es-01-241-source-0-b94f9f75-34c0-4397-b27d-10568c3acbe6.png",
-      "sha256": "adf6732b922b432511a96b4ce2788946ab61b59f21c618c886cb6ac683b31b49",
-      "dimensions": [
-        1920,
-        1280
-      ],
-      "selected": true
-    }
-  ],
-  "provenance": {
-    "tool": "Built-in image generation; specific model version not exposed",
-    "image_inputs": [],
-    "source_use": "Text-only original generation. Third-party photographs inspected for facts, not supplied as input pixels. No uniqueness guarantee.",
-    "lineage": "Same selected source cropped and uniformly Lanczos-resampled to two exact PNGs; factual text and upward-fading scrim added deterministically. No stretching.",
-    "resampling": "Source [1920, 1280]; uniform Lanczos enlargement/crop to exact 1920x1080 and 864x1080. Not native target-resolution detail."
-  },
-  "production_checks": {
-    "technical": "Both PNGs fully decode, dimensions exact; label boxes in frame. Technical checks are not independent Cosmo QC.",
-    "visual": "Production comparison and limitations documented; not an independent gate verdict.",
-    "originality": "Own generated pixels; uniqueness not established.",
-    "commercial_ip": "No prominent people/logos or artwork focal subject; third-party clearance not legally certified.",
-    "publication": "Candidate handoff only. No approval inferred."
-  },
-  "independent_qc": {
-    "reviewer": "Cosmo",
-    "verdict": "Awaiting review",
-    "exact_pair_required": true
-  },
-  "card_handoff": {
-    "owner": "Cosmo",
-    "placement": "Candidate pipeline, two-format card (16:9/4:5 tabs, both downloads)",
-    "preserve": "caption, scenario, composition, description, status, disclosure, license, search/navigation and country switcher"
-  },
-  "license_badge": "Free · no credit needed",
-  "license_anchor": "#license",
-  "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
-  "reference_evidence": [],
-  "approval_basis": "Gates: (1) The massive rock overhang of the Cuevas de la Sombra sheltering the whitewashed cave houses of Setenil de las Bodegas, flower pots and lit windows under the cliff, river bridge with lamps and the canyon town's lights beyond, crescent moon overhead; plausible tourist viewpoint, clean framing, no artifacts. (2) Both masters 1920x1080/864x1080, SHA-256 match; on-image caption 'Cuevas de la Sombra, Setenil de las Bodegas', scenario '24 September 2026 · 02:43 Europe/Madrid', AI-disclosure 'Not a photograph' bottom-left on scrim, legible; 'Jason D's Vision' (curly apostrophe) bottom-right. Weather retrieval 2026-09-24T02:42:10+02:00 matches the 02:43 scenario (minutes fresh). (3) Packet documents text-only generation, image_inputs: [], third-party photos inspected for facts only. (4) IP: no people, no logos, no recognizable private property; documented only. (5) No blockers — publication-ready.",
-  "qc_notes": "Reverted to candidate 2026-09-24 ~02:35 EDT: the ~01:25 UTC QC run approved 25 scenes (ES-01-236..241, ES-01-347..365) with byte-identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals; copy-pasted approval text is invalid and must be reverted).",
-  "daylight_variant": {
-    "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
-    "source_night": {
-      "16x9": {
-        "path": "es-01-241-r1-16x9.png",
-        "sha256": "13d83b721c9ed04da7fde92add84dc21ff5da5febfe5c5cd52e0c1095b7333c3"
+  "revision": "cand-r1",
+  "file_9x16": "es-01-241-cand-r1-9x16.png",
+  "evidence_card": "evidence/ES-01-241.json",
+  "land_as": "Candidate",
+  "conditions_record": {
+    "retrieved_local": "2026-10-01T03:51:35.004547+02:00",
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=36.8636&longitude=-5.1812&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
+    "requested_coordinates": [
+      36.8636,
+      -5.1812
+    ],
+    "response": {
+      "latitude": 36.875,
+      "longitude": -5.1875,
+      "generationtime_ms": 0.8383989334106445,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 558.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
       },
-      "4x5": {
-        "path": "es-01-241-r1-4x5.png",
-        "sha256": "d62eab9814750cb6352108e5b9d3348402323667c1efa86b7cd2c4e39b9c277b"
+      "current": {
+        "time": "2026-10-01T03:45",
+        "interval": 900,
+        "temperature_2m": 17.6,
+        "weather_code": 2,
+        "cloud_cover": 68,
+        "is_day": 0,
+        "precipitation": 0.0,
+        "wind_speed_10m": 5.6
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T08:15"
+        ],
+        "sunset": [
+          "2026-10-01T20:04"
+        ]
       }
     },
-    "masters": {
-      "16x9": {
-        "path": "es-01-241-daylight-16x9.png",
-        "width": 1920,
-        "height": 1270,
-        "sha256": "64316558699943d17e380bb6e4757874126b215634136ca0c13ce29571a0b766"
-      },
-      "4x5": {
-        "path": "es-01-241-daylight-4x5.png",
-        "width": 864,
-        "height": 1270,
-        "sha256": "f39e2e039013d5ceb8ef3c81e6e0d97b59992aa389c507d00bd23c134679ac6f"
-      }
-    },
-    "on_image_text": [
-      "Cuevas de la Sombra, Setenil de las Bodegas",
-      "☀ Daylight variant · derived from the night interpretation",
-      "AI-generated artistic interpretation · Not a photograph.",
-      "Jason D’s Vision"
-    ],
-    "art50_png_chunks": [
-      "Title",
-      "Description",
-      "Copyright",
-      "Software",
-      "Comment"
-    ],
-    "country": "Spain"
+    "solar": {
+      "method": "NOAA fractional-year geometric approximation, not observation",
+      "elevation_deg": -49.49,
+      "azimuth_deg": 38.09
+    }
   }
 }

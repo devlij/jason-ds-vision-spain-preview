@@ -1,0 +1,118 @@
+{
+  "scene_id": "ES-01-237",
+  "land_as": "Candidate",
+  "revision": "cand-r1",
+  "work_order": "wo-spain-architectural-rework-2026-09-30",
+  "pack": 11,
+  "defect_corrected": "The twin-towered cathedral terminus is gone. The promenade is an open wall walk over olive groves and distant sierras.",
+  "viewpoint": "The old wall promenade at night, looking out over the olive groves and distant sierras. Exact generated camera correspondence is unverified.",
+  "reference_links": [
+    {
+      "url": "https://en.andalucia.org/listing/paseo-de-las-murallas-antonio-machado/23989101/",
+      "note": "Andalucía.org — Paseo de las Murallas / Antonio Machado, the wall walk at Baeza."
+    },
+    {
+      "url": "http://redjaen.es/francis/?m=c&o=87297",
+      "note": "Red Jaén — Mirador de Antonio Machado looks over the olive sea, the Guadalquivir, Sierra Mágina, and Cazorla."
+    }
+  ],
+  "geometry_anchors": [
+    "crenellated stone parapet of the wall promenade",
+    "rows of olive trees covering the valley",
+    "distant sierra silhouette, with no church closing the axis"
+  ],
+  "art50_comment_date": "2026-10-01",
+  "art50_note": "Comment date is this scene's finish date, 2026-10-01, not a fleet-wide restamp.",
+  "open_meteo": {
+    "retrieved_local": "2026-10-01T03:51:33.184293+02:00",
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=37.9909&longitude=-3.4692&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
+    "requested_coordinates": [
+      37.9909,
+      -3.4692
+    ],
+    "response": {
+      "latitude": 38.0,
+      "longitude": -3.5,
+      "generationtime_ms": 0.09822845458984375,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 756.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T03:45",
+        "interval": 900,
+        "temperature_2m": 20.2,
+        "weather_code": 2,
+        "cloud_cover": 79,
+        "is_day": 0,
+        "precipitation": 0.0,
+        "wind_speed_10m": 1.3
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T08:09"
+        ],
+        "sunset": [
+          "2026-10-01T19:57"
+        ]
+      }
+    },
+    "solar": {
+      "method": "NOAA fractional-year geometric approximation, not observation",
+      "elevation_deg": -47.76,
+      "azimuth_deg": 39.53
+    }
+  },
+  "masters": {
+    "16x9": {
+      "file": "es-01-237-cand-r1-16x9.png",
+      "width": 1920,
+      "height": 1270,
+      "sha256": "d68b0a57aecd9a16ea70773d1c9a70f26ea04f15635a0c1d05d63fbdf5eff9eb",
+      "bytes": 1635654,
+      "source": "/opt/cursor/artifacts/assets/src-237-16x9.jpg",
+      "source_width": 1280,
+      "source_height": 720
+    },
+    "4x5": {
+      "file": "es-01-237-cand-r1-4x5.png",
+      "width": 864,
+      "height": 1270,
+      "sha256": "aaee313bbf0e6cceee1f423e067ae51be02a4ff18caed750dc42a01a8fd89a2f",
+      "bytes": 777136,
+      "source": "/opt/cursor/artifacts/assets/src-237-34.jpg",
+      "source_width": 864,
+      "source_height": 1152
+    },
+    "9x16": {
+      "file": "es-01-237-cand-r1-9x16.png",
+      "width": 1080,
+      "height": 2110,
+      "sha256": "e06ac1683fe0f75921013107023279cc2a4a3f1e04a96ff37cec88042e55d602",
+      "bytes": 2172402,
+      "source": "/opt/cursor/artifacts/assets/src-237-916.jpg",
+      "source_width": 720,
+      "source_height": 1280
+    }
+  },
+  "producer_check": "Dimensions, label bar, and Art.50 comment date checked locally. This is not Cosmo QC and not an approval.",
+  "independent_verdict": null
+}

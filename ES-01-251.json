@@ -1,200 +1,135 @@
 {
   "entry_id": "ES-01-251",
   "country": "Spain",
-  "city": "Sitges",
   "region": "Catalonia",
+  "city": "Sitges",
   "caption": "Sant Bartomeu i Santa Tecla, Sitges",
-  "revision": "r1",
-  "viewpoint": "Passeig de la Ribera seafront promenade, eye-level, facing the Baluard. Exact camera point approximate.",
-  "anchors": [
-    "Pale twin bell towers rise centered on the Baluard promontory",
-    "Whitewashed old town walls flank the baroque church",
-    "Dark Mediterranean and sandy beach in the foreground"
-  ],
-  "limitations": "Exact camera point approximate; lighting is street-lamp and window light only — no claim about the church's actual night illumination; current conditions unverified. Weather retrieval recorded to minute precision from local build evidence.",
-  "refs": [
-    [
-      "https://aroundus.com/p/10161569-sant-bartomeu-i-santa-tecla-de-sitges",
-      "Sant Bartomeu i Santa Tecla de Sitges (baroque church on the Baluard)"
-    ],
-    [
-      "https://www.odysseytraveller.com/articles/sitges-spain/",
-      "Sitges guide (old town, Baluard, seafront promenade)"
-    ]
-  ],
-  "status": "Approved · Cosmo QC 5/5 · Night",
-  "approval_state": "approved",
-  "scenario_label": "24 September 2026 · 01:18 Europe/Madrid",
+  "scenario_label": "1 October 2026 · 03:45 Europe/Madrid",
+  "composition": "Night · octagonal campanar crowned by a white cupola and the Purísima · AI-generated artistic interpretation",
+  "alt_text": "AI-generated artistic interpretation of Sant Bartomeu i Santa Tecla at night, the octagonal tower crowned by a white cupola and the Purísima statue.",
+  "description": "From the Passeig de la Ribera at night, the octagonal campanar of Sant Bartomeu i Santa Tecla rises over the Baluard, crowned by a white neoclassical cupola and the statue of the Purísima.",
+  "viewpoint": "Passeig de la Ribera seafront promenade, eye-level, facing the Baluard. Exact camera point approximate. Exact generated camera correspondence is unverified.",
+  "status": "Candidate · architectural rebuild · awaiting Cosmo re-audit · Night",
+  "approval_state": "candidate",
+  "gates": {
+    "visual": "pending — Cosmo re-audit; no pass claimed",
+    "technical": "pending — Cosmo re-audit; local dimension and Art.50 checks only",
+    "provenance": "pending — Cosmo re-audit; generation lineage recorded, uniqueness unverified",
+    "commercial_ip": "pending — Cosmo re-audit; not legal certification",
+    "publication": "candidate only — not approved for the gallery"
+  },
+  "weather": "Model data from Open-Meteo, retrieved 1 October 2026 03:51:38 Europe/Madrid, valid 03:45 Europe/Madrid — not a verified on-site observation. 22.5°C, WMO 3 overcast, cloud 97%, precipitation 0.0 mm, wind 6.1 km/h. Sunrise 07:49, sunset 19:34. Approximate solar elevation -42.64°, azimuth 43.79°. Night; no direct sunlight.",
+  "limitations": "Candidate only. No Cosmo QC is claimed for these bytes. 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top 864×1080 of an 864×1152 generated source and drop 72 pixels of foreground. Dimensions do not imply native detail. Open-Meteo figures are model data, not an on-site observation. Exact camera correspondence is not surveyed.",
+  "file_16x9": "es-01-251-cand-r1-16x9.png",
+  "file_4x5": "es-01-251-cand-r1-4x5.png",
+  "license_badge": "Free · no credit needed",
+  "license_anchor": "#license",
+  "editions": [],
   "time_of_day": "Night",
-  "composition": "Night · Baroque twin towers over the Baluard, seen from the beach · AI-generated artistic interpretation",
-  "alt_text": "AI-generated artistic interpretation of Sant Bartomeu i Santa Tecla, Sitges at night.",
-  "description": "From the beach at night, look up at Sitges's Sant Bartomeu i Santa Tecla. The baroque church's twin towers rise over the Baluard at center frame, floodlit against the black sky, with the old quarter's houses spreading left and right along the shore. The sea laps dark at the foot of the walls.",
-  "file_16x9": "es-01-251-r1-16x9.png",
-  "file_4x5": "es-01-251-r1-4x5.png",
+  "revision_lineage": "Full rebuild for wo-spain-architectural-rework-2026-09-30 pack 11. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. Previous masters remain in the repository as superseded bytes.",
+  "review_history": [
+    {
+      "date": "2026-10-01",
+      "previous_status": "Approved · Cosmo QC 5/5 · Night",
+      "previous_approval_state": "approved",
+      "previous_files": {
+        "16x9": "es-01-251-r1-16x9.png",
+        "4x5": "es-01-251-r1-4x5.png",
+        "9x16": null
+      },
+      "resolution": "Architectural rebuild cand-r1 landed as Candidate. The prior approval covered the previous bytes only. It does not cover cand-r1. Daylight derivatives of those previous night masters are not part of cand-r1. No Cosmo re-audit is claimed."
+    }
+  ],
+  "approval_basis": "Not approved. cand-r1 is an architectural rebuild awaiting Cosmo re-audit. The earlier Cosmo approval applied only to the previous master bytes and is retained in review_history.",
   "dimensions": {
     "16x9": {
       "width": 1920,
       "height": 1270,
-      "sha256": "4083a1cdf3f88840be81cbce3c584aa8068151e583e9bd9c4dbbe5d627418547"
+      "sha256": "94bb8307da254ce546c3bb6ffed91804fbdaef6ad29c7c2b3492940fb43b4ed7",
+      "bytes": 1540588,
+      "source_width": 1280,
+      "source_height": 720,
+      "resampled": true
     },
     "4x5": {
       "width": 864,
       "height": 1270,
-      "sha256": "67165b134b1e54a0852077f1fa499cb9c53baced2b230f8891ba2e95f102f824"
-    }
-  },
-  "masters": {
-    "16x9": {
-      "file": "es-01-251-r1-16x9.png",
-      "dimensions": [
-        1920,
-        1270
-      ],
-      "byte_length": 2052653,
-      "sha256": "4083a1cdf3f88840be81cbce3c584aa8068151e583e9bd9c4dbbe5d627418547",
-      "source_file": "source-251.png",
-      "source_dimensions": [
-        1408,
-        1760
-      ],
-      "crop_center": [
-        0.5,
-        0.5
-      ],
-      "labels": [
-        "Sant Bartomeu i Santa Tecla, Sitges",
-        "Scenario: 24 September 2026 · 01:18 Europe/Madrid",
-        "AI-generated artistic interpretation · Not a photograph."
-      ],
-      "signature": "Jason D’s Vision",
-      "format": "PNG",
-      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
-      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
+      "sha256": "6c7e1202c4778a24f123cc0c07f32b4f90dda23ffa1e6e0167852a71bf414d94",
+      "bytes": 807790,
+      "source_width": 864,
+      "source_height": 1152,
+      "resampled": false
     },
-    "4x5": {
-      "file": "es-01-251-r1-4x5.png",
-      "dimensions": [
-        864,
-        1270
-      ],
-      "byte_length": 1152888,
-      "sha256": "67165b134b1e54a0852077f1fa499cb9c53baced2b230f8891ba2e95f102f824",
-      "source_file": "source-251.png",
-      "source_dimensions": [
-        1408,
-        1760
-      ],
-      "crop_center": [
-        0.5,
-        0.5
-      ],
-      "labels": [
-        "Sant Bartomeu i Santa Tecla, Sitges",
-        "Scenario: 24 September 2026 · 01:18 Europe/Madrid",
-        "AI-generated artistic interpretation · Not a photograph."
-      ],
-      "signature": "Jason D’s Vision",
-      "format": "PNG",
-      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
-      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 864x1080. Not native target-resolution detail."
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "30e62b06a8bb9eefd5243d73c6ce466a3b597e7f7e525d0d735fa8eb3c56e40d",
+      "bytes": 1716594,
+      "source_width": 720,
+      "source_height": 1280,
+      "resampled": true
     }
   },
-  "conditions": {
-    "provider": "Open-Meteo",
-    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=41.2357&longitude=1.809&current=temperature_2m%2Cweather_code%2Ccloud_cover%2Cis_day%2Cprecipitation%2Cwind_speed_10m&daily=sunrise%2Csunset&timezone=Europe%2FMadrid&forecast_days=1",
-    "retrieved_local": "2026-09-24T01:18+02:00",
-    "valid_local": "2026-09-24T01:15",
-    "temperature_c": 20.1,
-    "weather_code": 0,
-    "weather_word": "clear sky",
-    "cloud_cover_pct": 22,
-    "is_day": 0,
-    "wind_kmh": 7.6
-  },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T01:12:51+02:00, valid 2026-09-24T01:15 Europe/Madrid — not a verified on-site observation.",
-  "prompts": {
-    "prompt-r1.txt": "Photorealistic artistic interpretation of the church of Sant Bartomeu i Santa Tecla in Sitges, Catalonia, at night, viewed from the Passeig de la Ribera seafront. The baroque church with its pale twin bell towers rises centered on the Baluard promontory; the dark Mediterranean laps the beach in the foreground; the whitewashed old town walls and warm seafront lamps flank the scene under a clear starry sky."
-  },
-  "source_files": [
-    {
-      "file": "source-251.png",
-      "sha256": "d9feb8a5fa03d49016e36bbec205301a8b79749f287b3946e366ce8ab023baf8",
-      "dimensions": [
-        1408,
-        1760
-      ],
-      "selected": true
-    }
-  ],
-  "provenance": {
-    "tool": "Built-in image generation; specific model version not exposed",
-    "image_inputs": [],
-    "source_use": "Text-only original generation. Third-party photographs inspected for facts, not supplied as input pixels. No uniqueness guarantee.",
-    "lineage": "Same selected source cropped and uniformly Lanczos-resampled to two exact PNGs; factual text and upward-fading scrim added deterministically. No stretching.",
-    "resampling": "Source [1408, 1760]; uniform Lanczos enlargement/crop to exact 1920x1080 and 864x1080. Not native target-resolution detail."
-  },
-  "production_checks": {
-    "technical": "Both PNGs fully decode, dimensions exact; label boxes in frame. Technical checks are not independent Cosmo QC.",
-    "visual": "Production comparison and limitations documented; not an independent gate verdict.",
-    "originality": "Own generated pixels; uniqueness not established.",
-    "commercial_ip": "No prominent people/logos or artwork focal subject; third-party clearance not legally certified.",
-    "publication": "Candidate handoff only. No approval inferred."
-  },
-  "independent_qc": {
-    "reviewer": "Cosmo",
-    "verdict": "Awaiting review",
-    "exact_pair_required": true
-  },
-  "card_handoff": {
-    "owner": "Cosmo",
-    "placement": "Candidate pipeline, two-format card (16:9/4:5 tabs, both downloads)",
-    "preserve": "caption, scenario, composition, description, status, disclosure, license, search/navigation and country switcher"
-  },
-  "license_badge": "Free · no credit needed",
-  "license_anchor": "#license",
-  "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
-  "reference_evidence": [],
-  "approval_basis": "Gate 1: Sant Bartomeu i Santa Tecla recognizable — seaside church silhouette with clock tower, open bell tower, oculus window and whitewashed fortress-like walls, promenade lamps glowing along the water; plausible tourist viewpoint from the passeig; clean framing, no artifacts. Gate 2: sweep verified 1920x1080 + 864x1080 and SHA-256 match; on-image caption, Scenario 24 September 2026 01:18 Europe/Madrid, AI disclosure bottom-left on gradient scrim, exact Jason Ds Vision signature (curly apostrophe) bottom-right; weather retrieved 01:12:51 valid 01:15 — fresh. Gate 3: packet documents image_inputs empty, text-only original generation, third-party photographs inspected for facts only. Gate 4: no people, logos, or recognizable private property visible — documented only. Gate 5: no open blockers.",
-  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals).",
-  "daylight_variant": {
-    "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
-    "source_night": {
-      "16x9": {
-        "path": "es-01-251-r1-16x9.png",
-        "sha256": "4083a1cdf3f88840be81cbce3c584aa8068151e583e9bd9c4dbbe5d627418547"
+  "revision": "cand-r1",
+  "file_9x16": "es-01-251-cand-r1-9x16.png",
+  "evidence_card": "evidence/ES-01-251.json",
+  "land_as": "Candidate",
+  "conditions_record": {
+    "retrieved_local": "2026-10-01T03:51:38.651260+02:00",
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=41.23505&longitude=1.8115&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
+    "requested_coordinates": [
+      41.23505,
+      1.8115
+    ],
+    "response": {
+      "latitude": 41.25,
+      "longitude": 1.8125,
+      "generationtime_ms": 0.18608570098876953,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 18.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
       },
-      "4x5": {
-        "path": "es-01-251-r1-4x5.png",
-        "sha256": "67165b134b1e54a0852077f1fa499cb9c53baced2b230f8891ba2e95f102f824"
+      "current": {
+        "time": "2026-10-01T03:45",
+        "interval": 900,
+        "temperature_2m": 22.5,
+        "weather_code": 3,
+        "cloud_cover": 97,
+        "is_day": 0,
+        "precipitation": 0.0,
+        "wind_speed_10m": 6.1
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T07:49"
+        ],
+        "sunset": [
+          "2026-10-01T19:34"
+        ]
       }
     },
-    "masters": {
-      "16x9": {
-        "path": "es-01-251-daylight-16x9.png",
-        "width": 1920,
-        "height": 1270,
-        "sha256": "c637e6196908ff8d3cb8006e4677ffabe67baebfbee548f1d8be88cf72110b76"
-      },
-      "4x5": {
-        "path": "es-01-251-daylight-4x5.png",
-        "width": 864,
-        "height": 1270,
-        "sha256": "40424bfcca5a5cb6f9988624c9348332505dc5007dda50a36c313aba08137fde"
-      }
-    },
-    "on_image_text": [
-      "Sant Bartomeu i Santa Tecla, Sitges",
-      "☀ Daylight variant · derived from the night interpretation",
-      "AI-generated artistic interpretation · Not a photograph.",
-      "Jason D’s Vision"
-    ],
-    "art50_png_chunks": [
-      "Title",
-      "Description",
-      "Copyright",
-      "Software",
-      "Comment"
-    ],
-    "country": "Spain"
+    "solar": {
+      "method": "NOAA fractional-year geometric approximation, not observation",
+      "elevation_deg": -42.64,
+      "azimuth_deg": 43.79
+    }
   }
 }

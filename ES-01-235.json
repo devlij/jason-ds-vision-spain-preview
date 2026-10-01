@@ -1,199 +1,135 @@
 {
   "entry_id": "ES-01-235",
   "country": "Spain",
-  "city": "Cádiz",
   "region": "Andalusia",
+  "city": "Cádiz",
   "caption": "Cádiz Cathedral, Cádiz",
-  "revision": "r1",
-  "viewpoint": "the square before the cathedral, facing its twin towers and golden dome",
-  "anchors": [
-    "the baroque-neoclassical cathedral with its two towers and golden tiled dome",
-    "the Torre del Reloj facing the Plaza de la Catedral",
-    "the Atlantic night at the edge of the old island city"
-  ],
-  "limitations": "Text-only generation; no photographic input. Night-time lighting of the cathedral is restrained and interpretive, not verified. Exact camera position unverified.",
-  "refs": [
-    [
-      "https://www.spain.info/en/places-of-interest/cadiz-cathedral/",
-      "Spain.info — Cádiz Cathedral, baroque-neoclassical, golden tiled dome"
-    ],
-    [
-      "https://www.tripadvisor.com/Attraction_Review-g187430-d248939-Reviews-Catedral_de_Cadiz-Cadiz_Costa_de_la_Luz_Andalucia.html",
-      "Tripadvisor — Cádiz Cathedral, the New Cathedral of the old island city"
-    ]
-  ],
-  "status": "Approved · Cosmo QC 5/5 · Night",
-  "approval_state": "approved",
-  "scenario_label": "24 September 2026 · 02:19 Europe/Madrid",
+  "scenario_label": "1 October 2026 · 03:45 Europe/Madrid",
+  "composition": "Night · two façade towers and the golden-tiled dome · AI-generated artistic interpretation",
+  "alt_text": "AI-generated artistic interpretation of Cádiz Cathedral at night, two façade towers and a golden-tiled dome, with no third clock tower.",
+  "description": "From Plaza de la Catedral at night, Cádiz Cathedral shows its two façade towers and the golden-tiled dome between them. The clock is on one of those towers. No separate clock tower stands beside the church.",
+  "viewpoint": "The square before the cathedral, facing its twin towers and golden dome. Exact generated camera correspondence is unverified.",
+  "status": "Candidate · architectural rebuild · awaiting Cosmo re-audit · Night",
+  "approval_state": "candidate",
+  "gates": {
+    "visual": "pending — Cosmo re-audit; no pass claimed",
+    "technical": "pending — Cosmo re-audit; local dimension and Art.50 checks only",
+    "provenance": "pending — Cosmo re-audit; generation lineage recorded, uniqueness unverified",
+    "commercial_ip": "pending — Cosmo re-audit; not legal certification",
+    "publication": "candidate only — not approved for the gallery"
+  },
+  "weather": "Model data from Open-Meteo, retrieved 1 October 2026 03:51:31 Europe/Madrid, valid 03:45 Europe/Madrid — not a verified on-site observation. 22.4°C, WMO 2 partly cloudy, cloud 73%, precipitation 0.0 mm, wind 2.9 km/h. Sunrise 08:20, sunset 20:08. Approximate solar elevation -50.30°, azimuth 36.82°. Night; no direct sunlight.",
+  "limitations": "Candidate only. No Cosmo QC is claimed for these bytes. 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source. The 4:5 master is a center crop of a 1024×1024 generated source to 819×1024, then a Lanczos resize to 864×1080. Dimensions do not imply native detail. Open-Meteo figures are model data, not an on-site observation. Exact camera correspondence is not surveyed.",
+  "file_16x9": "es-01-235-cand-r1-16x9.png",
+  "file_4x5": "es-01-235-cand-r1-4x5.png",
+  "license_badge": "Free · no credit needed",
+  "license_anchor": "#license",
+  "editions": [],
   "time_of_day": "Night",
-  "composition": "Night · golden-domed cathedral and square at night · AI-generated artistic interpretation",
-  "alt_text": "AI-generated artistic interpretation of Cádiz Cathedral at night.",
-  "description": "In the square before Cádiz cathedral at night, the golden dome glows above the great church, floodlit against the dark sky. The plaza lies quiet around it, lamplight washing the paving stones. The cathedral's Baroque towers flank the dome, the whole mass luminous in the heart of the old town.",
-  "file_16x9": "es-01-235-r1-16x9.png",
-  "file_4x5": "es-01-235-r1-4x5.png",
+  "revision_lineage": "Full rebuild for wo-spain-architectural-rework-2026-09-30 pack 11. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. Previous masters remain in the repository as superseded bytes.",
+  "review_history": [
+    {
+      "date": "2026-10-01",
+      "previous_status": "Approved · Cosmo QC 5/5 · Night",
+      "previous_approval_state": "approved",
+      "previous_files": {
+        "16x9": "es-01-235-r1-16x9.png",
+        "4x5": "es-01-235-r1-4x5.png",
+        "9x16": null
+      },
+      "resolution": "Architectural rebuild cand-r1 landed as Candidate. The prior approval covered the previous bytes only. It does not cover cand-r1. Daylight derivatives of those previous night masters are not part of cand-r1. No Cosmo re-audit is claimed."
+    }
+  ],
+  "approval_basis": "Not approved. cand-r1 is an architectural rebuild awaiting Cosmo re-audit. The earlier Cosmo approval applied only to the previous master bytes and is retained in review_history.",
   "dimensions": {
     "16x9": {
       "width": 1920,
       "height": 1270,
-      "sha256": "259ea67fa451b4ebd5e92cd96925f2ac3d719c0f20f6a155744ff412286aa483"
+      "sha256": "982ca075ede232de121bbad015727201f0266f6e079d9ea9df8f19f3e097d271",
+      "bytes": 2366772,
+      "source_width": 1280,
+      "source_height": 720,
+      "resampled": true
     },
     "4x5": {
       "width": 864,
       "height": 1270,
-      "sha256": "c463e0e2ebf37fade588d2129bba0fc8447875f9d7417aaeb8cd4139c7c52382"
-    }
-  },
-  "masters": {
-    "16x9": {
-      "file": "es-01-235-r1-16x9.png",
-      "dimensions": [
-        1920,
-        1270
-      ],
-      "byte_length": 2634589,
-      "sha256": "259ea67fa451b4ebd5e92cd96925f2ac3d719c0f20f6a155744ff412286aa483",
-      "source_file": "media-generation-es-01-235-source-0-fa7e2980-82ed-4b6c-9601-74cf2170889f.png",
-      "source_dimensions": [
-        1920,
-        1280
-      ],
-      "crop_center": [
-        0.5,
-        0.5
-      ],
-      "labels": [
-        "Cádiz Cathedral, Cádiz",
-        "Scenario: 24 September 2026 · 02:19 Europe/Madrid",
-        "AI-generated artistic interpretation · Not a photograph."
-      ],
-      "signature": "Jason D’s Vision",
-      "format": "PNG",
-      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
-      "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
+      "sha256": "ca0fd95c4021bbaf9673a98716becbe57cf78326abb9b5eef62695079f1b92b9",
+      "bytes": 1201288,
+      "source_width": 1024,
+      "source_height": 1024,
+      "resampled": true
     },
-    "4x5": {
-      "file": "es-01-235-r1-4x5.png",
-      "dimensions": [
-        864,
-        1270
-      ],
-      "byte_length": 1336953,
-      "sha256": "c463e0e2ebf37fade588d2129bba0fc8447875f9d7417aaeb8cd4139c7c52382",
-      "source_file": "media-generation-es-01-235-source-0-fa7e2980-82ed-4b6c-9601-74cf2170889f.png",
-      "source_dimensions": [
-        1920,
-        1280
-      ],
-      "crop_center": [
-        0.5,
-        0.5
-      ],
-      "labels": [
-        "Cádiz Cathedral, Cádiz",
-        "Scenario: 24 September 2026 · 02:19 Europe/Madrid",
-        "AI-generated artistic interpretation · Not a photograph."
-      ],
-      "signature": "Jason D’s Vision",
-      "format": "PNG",
-      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
-      "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 864x1080. Not native target-resolution detail."
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "0dffab97bc5f04f21c8f6fe546a152349fb11c5fafbfb7f5f610cd3eb5c0d1e5",
+      "bytes": 2578149,
+      "source_width": 720,
+      "source_height": 1280,
+      "resampled": true
     }
   },
-  "conditions": {
-    "retrieved": "2026-09-24T02:17:08+02:00",
-    "valid": "2026-09-24T02:19:34+02:00",
-    "provider": "Open-Meteo",
-    "api": "https://api.open-meteo.com/v1/forecast",
-    "is_day": 0,
-    "temperature_2m": 24.0,
-    "weather_code": 0,
-    "cloud_cover": 0,
-    "wind_speed_10m": 15.1
-  },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T02:17:08+02:00, valid 2026-09-24T02:19:34+02:00 Europe/Madrid — not a verified on-site observation.",
-  "prompts": {
-    "prompt-r1.txt": "Photorealistic original artistic interpretation (not a photograph) of the Cádiz Cathedral, Cádiz, Spain, at night. Tourist viewpoint: the square before the cathedral, facing its twin towers and golden dome. Frame: the baroque-neoclassical cathedral with its golden tiled dome centered; the twin towers and the Torre del Reloj flanking the view; the square stretching before. Night light: restrained square lighting and moonlight on the stone and golden dome, starry sky, 24 degrees C, sea breeze. Main subject centered to survive a 4:5 center crop. No identifiable people, no legible logos, no text, lettering or signs anywhere in the image. Keep the lower third clean and uncluttered."
-  },
-  "source_files": [
-    {
-      "file": "media-generation-es-01-235-source-0-fa7e2980-82ed-4b6c-9601-74cf2170889f.png",
-      "sha256": "4628cb347901c0722464d4402aa4cd201a7af91ce9d438fed2d9b5d8491f01c4",
-      "dimensions": [
-        1920,
-        1280
-      ],
-      "selected": true
-    }
-  ],
-  "provenance": {
-    "tool": "Built-in image generation; specific model version not exposed",
-    "image_inputs": [],
-    "source_use": "Text-only original generation. Third-party photographs inspected for facts, not supplied as input pixels. No uniqueness guarantee.",
-    "lineage": "Same selected source cropped and uniformly Lanczos-resampled to two exact PNGs; factual text and upward-fading scrim added deterministically. No stretching.",
-    "resampling": "Source [1920, 1280]; uniform Lanczos enlargement/crop to exact 1920x1080 and 864x1080. Not native target-resolution detail."
-  },
-  "production_checks": {
-    "technical": "Both PNGs fully decode, dimensions exact; label boxes in frame. Technical checks are not independent Cosmo QC.",
-    "visual": "Production comparison and limitations documented; not an independent gate verdict.",
-    "originality": "Own generated pixels; uniqueness not established.",
-    "commercial_ip": "No prominent people/logos or artwork focal subject; third-party clearance not legally certified.",
-    "publication": "Candidate handoff only. No approval inferred."
-  },
-  "independent_qc": {
-    "reviewer": "Cosmo",
-    "verdict": "Awaiting review",
-    "exact_pair_required": true
-  },
-  "card_handoff": {
-    "owner": "Cosmo",
-    "placement": "Candidate pipeline, two-format card (16:9/4:5 tabs, both downloads)",
-    "preserve": "caption, scenario, composition, description, status, disclosure, license, search/navigation and country switcher"
-  },
-  "license_badge": "Free · no credit needed",
-  "license_anchor": "#license",
-  "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
-  "reference_evidence": [],
-  "approval_basis": "Gate 1: Cádiz Cathedral recognizably depicted — golden-tiled dome, twin towers, stone façade and plaza, plausible tourist viewpoint, clean framing, no artifacts. Gate 2: both masters exact dimensions with SHA-256 matching packet, exact 'Jason D's Vision' signature bottom-right, exact caption, scenario timestamp and AI disclosure bottom-left on gradient scrim, legible. Gate 3: packet documents text-only generation, image_inputs: [], no photographic inputs. Gate 4: no people, logos, or private property visible — public cathedral only; documented only. Gate 5: no open blockers.",
-  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.",
-  "daylight_variant": {
-    "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
-    "source_night": {
-      "16x9": {
-        "path": "es-01-235-r1-16x9.png",
-        "sha256": "259ea67fa451b4ebd5e92cd96925f2ac3d719c0f20f6a155744ff412286aa483"
+  "revision": "cand-r1",
+  "file_9x16": "es-01-235-cand-r1-9x16.png",
+  "evidence_card": "evidence/ES-01-235.json",
+  "land_as": "Candidate",
+  "conditions_record": {
+    "retrieved_local": "2026-10-01T03:51:31.357957+02:00",
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=36.5295&longitude=-6.2946&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
+    "requested_coordinates": [
+      36.5295,
+      -6.2946
+    ],
+    "response": {
+      "latitude": 36.5,
+      "longitude": -6.3125,
+      "generationtime_ms": 0.09691715240478516,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 15.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
       },
-      "4x5": {
-        "path": "es-01-235-r1-4x5.png",
-        "sha256": "c463e0e2ebf37fade588d2129bba0fc8447875f9d7417aaeb8cd4139c7c52382"
+      "current": {
+        "time": "2026-10-01T03:45",
+        "interval": 900,
+        "temperature_2m": 22.4,
+        "weather_code": 2,
+        "cloud_cover": 73,
+        "is_day": 0,
+        "precipitation": 0.0,
+        "wind_speed_10m": 2.9
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T08:20"
+        ],
+        "sunset": [
+          "2026-10-01T20:08"
+        ]
       }
     },
-    "masters": {
-      "16x9": {
-        "path": "es-01-235-daylight-16x9.png",
-        "width": 1920,
-        "height": 1270,
-        "sha256": "ca31bc88a2fe494b28b8e23252d7c57e40a744a06aa7c3968826b5b08fc9a581"
-      },
-      "4x5": {
-        "path": "es-01-235-daylight-4x5.png",
-        "width": 864,
-        "height": 1270,
-        "sha256": "bb51ba32974e3971659fe30838f99e306fad8c779f8e06ec5d6b5733d9efcf07"
-      }
-    },
-    "on_image_text": [
-      "Cádiz Cathedral, Cádiz",
-      "☀ Daylight variant · derived from the night interpretation",
-      "AI-generated artistic interpretation · Not a photograph.",
-      "Jason D’s Vision"
-    ],
-    "art50_png_chunks": [
-      "Title",
-      "Description",
-      "Copyright",
-      "Software",
-      "Comment"
-    ],
-    "country": "Spain"
+    "solar": {
+      "method": "NOAA fractional-year geometric approximation, not observation",
+      "elevation_deg": -50.3,
+      "azimuth_deg": 36.82
+    }
   }
 }

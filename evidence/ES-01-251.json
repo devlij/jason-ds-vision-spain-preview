@@ -1,0 +1,118 @@
+{
+  "scene_id": "ES-01-251",
+  "land_as": "Candidate",
+  "revision": "cand-r1",
+  "work_order": "wo-spain-architectural-rework-2026-09-30",
+  "pack": 11,
+  "defect_corrected": "The open arched belfry crown is gone. The octagonal campanar ends in a white multi-tier neoclassical cupola topped by the Purísima statue.",
+  "viewpoint": "Passeig de la Ribera seafront promenade, eye-level, facing the Baluard. Exact camera point approximate. Exact generated camera correspondence is unverified.",
+  "reference_links": [
+    {
+      "url": "https://patrimonicultural.diba.cat/element/esglesia-parroquial-de-sant-bartomeu-i-santa-tecla",
+      "note": "Mapes de Patrimoni — octagonal campanar of three stacked bodies on the right of the façade."
+    },
+    {
+      "url": "https://www.catalunyareligio.cat/sites/default/files/2026-02/Presentaci%C3%B3%20Campanar%20Sant%20Bartomeu%20i%20Santa%20Tecla.pdf",
+      "note": "Parish campanar study — 1863 crown is a hemispherical cupola topped by the Immaculada."
+    }
+  ],
+  "geometry_anchors": [
+    "octagonal campanar of three stacked stages",
+    "white multi-tier neoclassical cupola on that tower",
+    "statue of the Purísima above the cupola"
+  ],
+  "art50_comment_date": "2026-10-01",
+  "art50_note": "Comment date is this scene's finish date, 2026-10-01, not a fleet-wide restamp.",
+  "open_meteo": {
+    "retrieved_local": "2026-10-01T03:51:38.651260+02:00",
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=41.23505&longitude=1.8115&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
+    "requested_coordinates": [
+      41.23505,
+      1.8115
+    ],
+    "response": {
+      "latitude": 41.25,
+      "longitude": 1.8125,
+      "generationtime_ms": 0.18608570098876953,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 18.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T03:45",
+        "interval": 900,
+        "temperature_2m": 22.5,
+        "weather_code": 3,
+        "cloud_cover": 97,
+        "is_day": 0,
+        "precipitation": 0.0,
+        "wind_speed_10m": 6.1
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T07:49"
+        ],
+        "sunset": [
+          "2026-10-01T19:34"
+        ]
+      }
+    },
+    "solar": {
+      "method": "NOAA fractional-year geometric approximation, not observation",
+      "elevation_deg": -42.64,
+      "azimuth_deg": 43.79
+    }
+  },
+  "masters": {
+    "16x9": {
+      "file": "es-01-251-cand-r1-16x9.png",
+      "width": 1920,
+      "height": 1270,
+      "sha256": "94bb8307da254ce546c3bb6ffed91804fbdaef6ad29c7c2b3492940fb43b4ed7",
+      "bytes": 1540588,
+      "source": "/opt/cursor/artifacts/assets/src-251-16x9.jpg",
+      "source_width": 1280,
+      "source_height": 720
+    },
+    "4x5": {
+      "file": "es-01-251-cand-r1-4x5.png",
+      "width": 864,
+      "height": 1270,
+      "sha256": "6c7e1202c4778a24f123cc0c07f32b4f90dda23ffa1e6e0167852a71bf414d94",
+      "bytes": 807790,
+      "source": "/opt/cursor/artifacts/assets/src-251-34.jpg",
+      "source_width": 864,
+      "source_height": 1152
+    },
+    "9x16": {
+      "file": "es-01-251-cand-r1-9x16.png",
+      "width": 1080,
+      "height": 2110,
+      "sha256": "30e62b06a8bb9eefd5243d73c6ce466a3b597e7f7e525d0d735fa8eb3c56e40d",
+      "bytes": 1716594,
+      "source": "/opt/cursor/artifacts/assets/src-251-916.jpg",
+      "source_width": 720,
+      "source_height": 1280
+    }
+  },
+  "producer_check": "Dimensions, label bar, and Art.50 comment date checked locally. This is not Cosmo QC and not an approval.",
+  "independent_verdict": null
+}
