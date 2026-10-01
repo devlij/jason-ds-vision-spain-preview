@@ -31,6 +31,7 @@
   "description": "From the Praza da Leña, the old square glows under its lamps — the stone cross standing at the center with the arcaded houses of Pontevedra's historic quarter ranged around it. Warm light fills the little plaza, catching the granite facades and the cross's carved detail. This is one of Galicia's most beloved squares, and on a quiet night it feels like the whole old town is holding its breath.",
   "file_16x9": "es-01-310-r1-16x9.png",
   "file_4x5": "es-01-310-r1-4x5.png",
+  "file_9x16": "es-01-310-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "1f7ac01c0c2df20e53df0ed0af620da97f6bc90becfc248767876f19248780cf"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "3861084af53c9fd1589e96ef916384c159c444c34d303f2014bb01f32498dc30"
     }
   },
   "masters": {

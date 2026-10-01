@@ -31,6 +31,7 @@
   "description": "From the old town's lanes, Ourense's stone facades glow under the street lamps — granite houses and church towers lit warm against the night, with the narrow streets running between them. The lamplight catches the wet stone and the carved doorways, and the old quarter hums quietly. Ourense is Galicia's city of hot springs and old stone; by night its granite heart glows.",
   "file_16x9": "es-01-309-r1-16x9.png",
   "file_4x5": "es-01-309-r1-4x5.png",
+  "file_9x16": "es-01-309-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "e9e5bcd219052c9b2feead2edc00f257993e88a2d89fb90e81d12b2f318a0988"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "2e517f8b03f61adbf9fcd69620a1d068166bc63075448ff3a4c348f50bac1b61"
     }
   },
   "masters": {

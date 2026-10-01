@@ -31,6 +31,7 @@
   "description": "From the cathedral square, the west facade rises before you — twin towers framing the great rose window, the whole frontage softly lit against the night. The carved portals sit in shadow and light at ground level while the towers climb past the lit tracery of the rose. León's cathedral is famed for its glass; even at night, the stonework's elegance shines through under the lamps.",
   "file_16x9": "es-01-327-r2-16x9.png",
   "file_4x5": "es-01-327-r2-4x5.png",
+  "file_9x16": "es-01-327-r2-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "7ab2acf1dc1cee0bc981ea27df7739943d987ea0b00dece892ead027db2598da"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "05915dbc5205c361770c80d97c1e7634f902e2c308ae35ef024e0d601fcd714f"
     }
   },
   "masters": {

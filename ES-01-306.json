@@ -31,6 +31,7 @@
   "description": "From the sand, the great stone arches of Playa de las Catedrales rise in the moonlight — the natural buttresses and vaults of the cliffs standing like a Gothic nave while clouds drift across the moon. The arches catch silver light on their edges, with the sea washing dark at their feet. At low tide this beach is a cathedral of rock; by night, under a veiled moon, it's pure drama.",
   "file_16x9": "es-01-306-r1-16x9.png",
   "file_4x5": "es-01-306-r1-4x5.png",
+  "file_9x16": "es-01-306-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "98d9c70fe375f76a604a2a6090c7d9798a6474acc6a7975172abc603b4df27bf"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "29b1f05f861cc4fc2aca5d741325110bd41c6542373e5939a130374b01414787"
     }
   },
   "masters": {

@@ -31,6 +31,7 @@
   "description": "From the beach at Suances on a late September night, the moonlit sand runs pale between the dark sea and the headland. Distant town lights scatter across the hillside above while moonlight silvers the surf. The waves break softly along the empty shore, the night sky wide and clear overhead.",
   "file_16x9": "es-01-322-r1-16x9.png",
   "file_4x5": "es-01-322-r1-4x5.png",
+  "file_9x16": "es-01-322-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "377a028564f54476cd3b7b19b3d2db3a187b3f9c875a57530ccf5ad99791e536"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "406457ddb65e35b193859a145e7c79deebee31a6f290cd44d5021bec1cf13345"
     }
   },
   "masters": {

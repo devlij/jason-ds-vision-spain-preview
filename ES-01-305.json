@@ -31,6 +31,7 @@
   "description": "From the headland, the Tower of Hercules rises against the night — the ancient Roman lighthouse floodlit, its beacon glowing from the top while the Atlantic lies black around the point. The two-thousand-year-old tower stands at the frame's center, waves breaking faintly on the rocks below. The oldest working lighthouse in the world, still guiding ships after twenty centuries.",
   "file_16x9": "es-01-305-r2-16x9.png",
   "file_4x5": "es-01-305-r2-4x5.png",
+  "file_9x16": "es-01-305-r2-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "684708c323f06d6099aac87feeb5bc7484b4661b7b5f8e48ddd8ff8574b05ea3"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "8ed3de2b3e9e592517565d2eb39755c0b68b561d8577dcf5759cb17111208eac"
     }
   },
   "masters": {

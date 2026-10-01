@@ -31,6 +31,7 @@
   "description": "From the bay, Baiona's town lights reflect in the moonlit water — the old town's glow spread along the shore with the castle-topped peninsula dark against the sky. The moon lays a silver path across the bay while the harbor lamps twinkle along the waterfront. Baiona is where the Pinta brought the news of the New World; tonight its bay lies peaceful under the moon.",
   "file_16x9": "es-01-311-r1-16x9.png",
   "file_4x5": "es-01-311-r1-4x5.png",
+  "file_9x16": "es-01-311-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "790674cd3a7d10c71ba50724738e965c3b3547998763add83858e533e4324ae8"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "710df34b1e2688e0820dccfe9a51c1dff19c8fe76f6a73e398c60ef6de1321b7"
     }
   },
   "masters": {

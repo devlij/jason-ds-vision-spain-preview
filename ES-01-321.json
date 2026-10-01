@@ -31,6 +31,7 @@
   "description": "Stand by the harbor in Castro Urdiales at night, where the Gothic church of Santa María rises above the old medieval bridge. Floodlights pick out the church's stonework while the arches of the bridge darken against the sea below. The Gothic profile and the old bridge frame one of Cantabria's most storied waterfront views.",
   "file_16x9": "es-01-321-r1-16x9.png",
   "file_4x5": "es-01-321-r1-4x5.png",
+  "file_9x16": "es-01-321-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "c0c644224a4bd0976d72e4c9c2a0724d6ff54da46acb460f9c3129d1d7ab42a3"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "e740bc147d65c208e8a3af64c385a93ee59f6c33d4d05b57a424c40fef0f2160"
     }
   },
   "masters": {

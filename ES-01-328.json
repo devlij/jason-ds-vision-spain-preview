@@ -31,6 +31,7 @@
   "description": "From the Cuatro Postes viewpoint across the valley, the city walls sweep across the frame — eighty-eight towers and crenellated ramparts floodlit golden against the black sky. The walls run the length of the ridge with the old town's lights glowing behind them, and the dark plain falls away below. Ávila's walls are the most complete medieval circuit in Spain, and by night they look every inch the fortress.",
   "file_16x9": "es-01-328-r1-16x9.png",
   "file_4x5": "es-01-328-r1-4x5.png",
+  "file_9x16": "es-01-328-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "ca5e127d1fe70915ad04d180de8d1eb1897cbf5b12295749e543e63214e79be5"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "4e6a4eebfcc62ff7aecf2ab31092282dd0985613c3c3df4a0d7720a223cb09ad"
     }
   },
   "masters": {

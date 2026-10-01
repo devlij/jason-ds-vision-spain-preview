@@ -3332,6 +3332,10 @@
       <image:loc>https://spain.jdvision.org/es-01-303-r1-4x5.png</image:loc>
       <image:title>Betancuria, Fuerteventura — Betancuria, Fuerteventura</image:title>
     </image:image>
+        <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-303-r1-9x16.png</image:loc>
+      <image:title>Betancuria, Fuerteventura — Betancuria, Fuerteventura</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-304</loc>
@@ -3341,6 +3345,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-304-r1-4x5.png</image:loc>
+      <image:title>Cathedral, Santiago de Compostela — Cathedral, Santiago de Compostela</image:title>
+    </image:image>
+        <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-304-r1-9x16.png</image:loc>
       <image:title>Cathedral, Santiago de Compostela — Cathedral, Santiago de Compostela</image:title>
     </image:image>
   </url>
@@ -3354,6 +3362,10 @@
       <image:loc>https://spain.jdvision.org/es-01-305-r2-4x5.png</image:loc>
       <image:title>Tower of Hercules, A Coruña — Tower of Hercules, A Coruña</image:title>
     </image:image>
+        <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-305-r2-9x16.png</image:loc>
+      <image:title>Tower of Hercules, A Coruña — Tower of Hercules, A Coruña</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-306</loc>
@@ -3363,6 +3375,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-306-r1-4x5.png</image:loc>
+      <image:title>Playa de las Catedrales, Ribadeo — Playa de las Catedrales, Ribadeo</image:title>
+    </image:image>
+        <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-306-r1-9x16.png</image:loc>
       <image:title>Playa de las Catedrales, Ribadeo — Playa de las Catedrales, Ribadeo</image:title>
     </image:image>
   </url>
@@ -3376,6 +3392,10 @@
       <image:loc>https://spain.jdvision.org/es-01-307-r1-4x5.png</image:loc>
       <image:title>Cabo Fisterra, Galicia — Cabo Fisterra, Fisterra</image:title>
     </image:image>
+        <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-307-r1-9x16.png</image:loc>
+      <image:title>Cabo Fisterra, Galicia — Cabo Fisterra, Fisterra</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-308</loc>
@@ -3385,6 +3405,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-308-r1-4x5.png</image:loc>
+      <image:title>Roman Walls, Lugo — Roman Walls, Lugo</image:title>
+    </image:image>
+        <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-308-r1-9x16.png</image:loc>
       <image:title>Roman Walls, Lugo — Roman Walls, Lugo</image:title>
     </image:image>
   </url>
@@ -3398,6 +3422,10 @@
       <image:loc>https://spain.jdvision.org/es-01-309-r1-4x5.png</image:loc>
       <image:title>Ourense, Galicia — Ourense, Ourense</image:title>
     </image:image>
+        <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-309-r1-9x16.png</image:loc>
+      <image:title>Ourense, Galicia — Ourense, Ourense</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-310</loc>
@@ -3407,6 +3435,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-310-r1-4x5.png</image:loc>
+      <image:title>Pontevedra, Galicia — Pontevedra, Pontevedra</image:title>
+    </image:image>
+        <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-310-r1-9x16.png</image:loc>
       <image:title>Pontevedra, Galicia — Pontevedra, Pontevedra</image:title>
     </image:image>
   </url>
@@ -3420,6 +3452,10 @@
       <image:loc>https://spain.jdvision.org/es-01-311-r1-4x5.png</image:loc>
       <image:title>Baiona, Galicia — Baiona, Baiona</image:title>
     </image:image>
+        <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-311-r1-9x16.png</image:loc>
+      <image:title>Baiona, Galicia — Baiona, Baiona</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-312</loc>
@@ -3429,6 +3465,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-312-r1-4x5.png</image:loc>
+      <image:title>Cathedral, Oviedo — Cathedral, Oviedo</image:title>
+    </image:image>
+        <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-312-r1-9x16.png</image:loc>
       <image:title>Cathedral, Oviedo — Cathedral, Oviedo</image:title>
     </image:image>
   </url>
@@ -3453,6 +3493,10 @@
       <image:loc>https://spain.jdvision.org/es-01-314-r1-4x5.png</image:loc>
       <image:title>Lagos de Covadonga, Asturias — Lagos de Covadonga, Asturias</image:title>
     </image:image>
+        <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-314-r1-9x16.png</image:loc>
+      <image:title>Lagos de Covadonga, Asturias — Lagos de Covadonga, Asturias</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-315</loc>
@@ -3462,6 +3506,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-315-r1-4x5.png</image:loc>
+      <image:title>Cudillero, Asturias — Cudillero, Cudillero</image:title>
+    </image:image>
+        <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-315-r1-9x16.png</image:loc>
       <image:title>Cudillero, Asturias — Cudillero, Cudillero</image:title>
     </image:image>
   </url>
@@ -3475,6 +3523,10 @@
       <image:loc>https://spain.jdvision.org/es-01-316-r1-4x5.png</image:loc>
       <image:title>Santander Bay, Cantabria — Santander Bay, Santander</image:title>
     </image:image>
+        <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-316-r1-9x16.png</image:loc>
+      <image:title>Santander Bay, Cantabria — Santander Bay, Santander</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-317</loc>
@@ -3484,6 +3536,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-317-r1-4x5.png</image:loc>
+      <image:title>Santillana del Mar, Cantabria — Santillana del Mar, Santillana del Mar</image:title>
+    </image:image>
+        <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-317-r1-9x16.png</image:loc>
       <image:title>Santillana del Mar, Cantabria — Santillana del Mar, Santillana del Mar</image:title>
     </image:image>
   </url>
@@ -3508,6 +3564,10 @@
       <image:loc>https://spain.jdvision.org/es-01-319-r1-4x5.png</image:loc>
       <image:title>Laredo, Cantabria — Laredo, Laredo</image:title>
     </image:image>
+        <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-319-r1-9x16.png</image:loc>
+      <image:title>Laredo, Cantabria — Laredo, Laredo</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-320</loc>
@@ -3517,6 +3577,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-320-r1-4x5.png</image:loc>
+      <image:title>San Vicente de la Barquera, Cantabria — San Vicente de la Barquera, San Vicente de la Barquera</image:title>
+    </image:image>
+        <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-320-r1-9x16.png</image:loc>
       <image:title>San Vicente de la Barquera, Cantabria — San Vicente de la Barquera, San Vicente de la Barquera</image:title>
     </image:image>
   </url>
@@ -3530,6 +3594,10 @@
       <image:loc>https://spain.jdvision.org/es-01-321-r1-4x5.png</image:loc>
       <image:title>Castro Urdiales, Cantabria — Castro Urdiales, Castro Urdiales</image:title>
     </image:image>
+        <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-321-r1-9x16.png</image:loc>
+      <image:title>Castro Urdiales, Cantabria — Castro Urdiales, Castro Urdiales</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-322</loc>
@@ -3539,6 +3607,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-322-r1-4x5.png</image:loc>
+      <image:title>Suances, Cantabria — Suances, Suances</image:title>
+    </image:image>
+        <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-322-r1-9x16.png</image:loc>
       <image:title>Suances, Cantabria — Suances, Suances</image:title>
     </image:image>
   </url>
@@ -3563,6 +3635,10 @@
       <image:loc>https://spain.jdvision.org/es-01-324-r1-4x5.png</image:loc>
       <image:title>Cathedral, Santander — Cathedral, Santander</image:title>
     </image:image>
+        <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-324-r1-9x16.png</image:loc>
+      <image:title>Cathedral, Santander — Cathedral, Santander</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-325</loc>
@@ -3572,6 +3648,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-325-r1-4x5.png</image:loc>
+      <image:title>Plaza Mayor, Salamanca — Plaza Mayor, Salamanca</image:title>
+    </image:image>
+        <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-325-r1-9x16.png</image:loc>
       <image:title>Plaza Mayor, Salamanca — Plaza Mayor, Salamanca</image:title>
     </image:image>
   </url>
@@ -3585,6 +3665,10 @@
       <image:loc>https://spain.jdvision.org/es-01-326-r1-4x5.png</image:loc>
       <image:title>Cathedral, Burgos — Cathedral, Burgos</image:title>
     </image:image>
+        <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-326-r1-9x16.png</image:loc>
+      <image:title>Cathedral, Burgos — Cathedral, Burgos</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-327</loc>
@@ -3594,6 +3678,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-327-r2-4x5.png</image:loc>
+      <image:title>Cathedral, León — Cathedral, León</image:title>
+    </image:image>
+        <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-327-r2-9x16.png</image:loc>
       <image:title>Cathedral, León — Cathedral, León</image:title>
     </image:image>
   </url>
@@ -3607,6 +3695,10 @@
       <image:loc>https://spain.jdvision.org/es-01-328-r1-4x5.png</image:loc>
       <image:title>City walls, Ávila — City walls, Ávila</image:title>
     </image:image>
+        <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-328-r1-9x16.png</image:loc>
+      <image:title>City walls, Ávila — City walls, Ávila</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-329</loc>
@@ -3616,6 +3708,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-329-r1-4x5.png</image:loc>
+      <image:title>Alcázar, Segovia — Alcázar, Segovia</image:title>
+    </image:image>
+        <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-329-r1-9x16.png</image:loc>
       <image:title>Alcázar, Segovia — Alcázar, Segovia</image:title>
     </image:image>
   </url>
@@ -3629,6 +3725,10 @@
       <image:loc>https://spain.jdvision.org/es-01-330-r3-4x5.png</image:loc>
       <image:title>Royal Palace, La Granja de San Ildefonso — Royal Palace, San Ildefonso</image:title>
     </image:image>
+        <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-330-r3-9x16.png</image:loc>
+      <image:title>Royal Palace, La Granja de San Ildefonso — Royal Palace, San Ildefonso</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-331</loc>
@@ -3638,6 +3738,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-331-r1-4x5.png</image:loc>
+      <image:title>Templar Castle, Ponferrada — Templar Castle, Ponferrada</image:title>
+    </image:image>
+        <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-331-r1-9x16.png</image:loc>
       <image:title>Templar Castle, Ponferrada — Templar Castle, Ponferrada</image:title>
     </image:image>
   </url>
@@ -3651,6 +3755,10 @@
       <image:loc>https://spain.jdvision.org/es-01-333-r2-4x5.png</image:loc>
       <image:title>Las Médulas — Las Médulas, Ponferrada</image:title>
     </image:image>
+        <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-333-r2-9x16.png</image:loc>
+      <image:title>Las Médulas — Las Médulas, Ponferrada</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-334</loc>
@@ -3662,6 +3770,10 @@
       <image:loc>https://spain.jdvision.org/es-01-334-r1-4x5.png</image:loc>
       <image:title>Hanging Houses, Cuenca — Hanging Houses, Cuenca</image:title>
     </image:image>
+        <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-334-r1-9x16.png</image:loc>
+      <image:title>Hanging Houses, Cuenca — Hanging Houses, Cuenca</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-335</loc>
@@ -3671,6 +3783,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-335-r1-4x5.png</image:loc>
+      <image:title>Windmills, Consuegra — Windmills, Consuegra</image:title>
+    </image:image>
+        <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-335-r1-9x16.png</image:loc>
       <image:title>Windmills, Consuegra — Windmills, Consuegra</image:title>
     </image:image>
   </url>
@@ -3858,6 +3974,10 @@
     </image:image>
     <image:image>
       <image:loc>https://spain.jdvision.org/es-01-332-r1-4x5.png</image:loc>
+      <image:title>Castle, Cuéllar — Castle, Cuéllar</image:title>
+    </image:image>
+        <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-332-r1-9x16.png</image:loc>
       <image:title>Castle, Cuéllar — Castle, Cuéllar</image:title>
     </image:image>
   </url>
