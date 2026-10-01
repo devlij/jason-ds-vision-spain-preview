@@ -22,6 +22,7 @@
   "limitations": "Cosmo QC 5/5 approval relayed by Jason on 23 September 2026. The earlier Jason review attribution was incorrect and remains withdrawn. Originality and third-party commercial/IP clearance are not legally certified.",
   "file_16x9": "es-01-001-daylight-r4-16x9.png",
   "file_4x5": "es-01-001-daylight-r4-4x5.png",
+  "file_9x16": "es-01-001-daylight-r4-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "editions": [
@@ -90,6 +91,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "e0ecb1da0489543a942641798c0080df6c2fe9e9ebdb6b5e81f9a7a60ce36a6f"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "02cd0c3cc210281f0fabb4a1dec073d57fe3dde997d532289ff0bdf7d956dd4b"
     }
   }
 }

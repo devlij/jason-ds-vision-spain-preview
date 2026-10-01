@@ -75,6 +75,7 @@
       "weather": "Historical provider report: mostly clear, about 20°C — not a verified on-site observation.",
       "file_16x9": "es-01-018-16x9.png",
       "file_4x5": "es-01-018-4x5.png",
+      "file_9x16": "es-01-018-9x16.png",
       "license_badge": "Free · no credit needed",
       "license_anchor": "#license",
       "editions": [
@@ -110,6 +111,11 @@
           "width": 864,
           "height": 1270,
           "sha256": "c6215c00c8be6f90bff6677ea7c5b8080062b5b5a7784678691d6e981192c00a"
+        },
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "0afae14ab9d2a17aa733d3f3eb174fd35e3a19a709c56c21623cab4564024d22"
         }
       },
       "file_naming_note": "Canonical ES-01 filenames are byte-identical copies. ES-AN filenames are retained only as compatibility aliases for historical links.",
@@ -142,6 +148,7 @@
       "limitations": "Cosmo QC 5/5, approved 23 September 2026.",
       "file_16x9": "es-01-001-daylight-r4-16x9.png",
       "file_4x5": "es-01-001-daylight-r4-4x5.png",
+      "file_9x16": "es-01-001-daylight-r4-9x16.png",
       "license_badge": "Free · no credit needed",
       "license_anchor": "#license",
       "editions": [
@@ -210,6 +217,11 @@
           "width": 864,
           "height": 1270,
           "sha256": "e0ecb1da0489543a942641798c0080df6c2fe9e9ebdb6b5e81f9a7a60ce36a6f"
+        },
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "02cd0c3cc210281f0fabb4a1dec073d57fe3dde997d532289ff0bdf7d956dd4b"
         }
       },
       "audio": "audio/es-01-001-narration.mp3"
@@ -295,6 +307,7 @@
       "limitations": "Cosmo QC 5/5, approved 23 September 2026.",
       "file_16x9": "es-01-003-16x9.png",
       "file_4x5": "es-01-003-4x5.png",
+      "file_9x16": "es-01-003-9x16.png",
       "license_badge": "Free · no credit needed",
       "license_anchor": "#license",
       "editions": [],
@@ -337,6 +350,11 @@
           "width": 864,
           "height": 1270,
           "sha256": "aeda8d5d56a046c40652e3e148b3cdb5be4837abcfbdf676ea8c3c1ab3134473"
+        },
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "a4b2e1de4adc6e3a333cd7fead3232e56b019395f11b7bccaaf39c3d5cc8d45e"
         }
       },
       "audio": "audio/es-01-003-narration.mp3"
@@ -365,6 +383,7 @@
       "limitations": "Approved as an AI-generated artistic interpretation. Fine masonry, vegetation and transient details are generated rather than photographed on site.",
       "file_16x9": "es-01-004-r2-16x9.png",
       "file_4x5": "es-01-004-r2-4x5.png",
+      "file_9x16": "es-01-004-r2-9x16.png",
       "license_badge": "Free · no credit needed",
       "license_anchor": "#license",
       "editions": [
@@ -410,6 +429,11 @@
           "width": 864,
           "height": 1270,
           "sha256": "feb9c8f8eb6bacf4a4e75bd406d018fdcf10252e09dd651ef3081947e275ba78"
+        },
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "824bcc945d39a3543b062048dd4550fd6ee597c435518f821877fdbce914a5cd"
         }
       },
       "audio": "audio/es-01-004-narration.mp3"
@@ -425,6 +449,7 @@
       "alt_text": "AI-generated artistic interpretation of the Mezquita-Catedral bell tower and Puerta del Perdón from the orange-tree courtyard in clear early-afternoon daylight",
       "file_16x9": "es-01-005-r3-16x9.png",
       "file_4x5": "es-01-005-r3-4x5.png",
+      "file_9x16": "es-01-005-r3-9x16.png",
       "license_badge": "Free · no credit needed",
       "license_anchor": "#license",
       "status": "Approved · Cosmo QC 5/5 · Daylight",
@@ -472,6 +497,11 @@
           "height": 1270,
           "sha256": "1b2cce15a32fbec0d778d57a440fd22335c88516a8369e8f99572d7d3a3f0a15",
           "bytes": 1240432
+        },
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "371a9d0bf5c59d84b79e17bd903360b5ebded4a8529cee81905fbf7fa2ccf414"
         }
       },
       "audio": "audio/es-01-005-narration.mp3"
@@ -519,6 +549,11 @@
           "source_width": 1672,
           "source_height": 941,
           "resampled": true
+        },
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "fa854d4ea54789283b126fa979f420db7737a32f7f9b38db37cbfe47bbd0ca30"
         }
       },
       "gates": {
@@ -530,6 +565,7 @@
       },
       "file_16x9": "es-01-006-r2-16x9.png",
       "file_4x5": "es-01-006-r2-4x5.png",
+      "file_9x16": "es-01-006-r2-9x16.png",
       "review_history": [
         {
           "date": "2026-09-23",
@@ -670,7 +706,15 @@
       "daylight_16x9": "es-01-009-daylight-16x9.png",
       "daylight_4x5": "es-01-009-daylight-4x5.png",
       "daylight_interim": true,
-      "audio": "audio/es-01-009-narration.mp3"
+      "audio": "audio/es-01-009-narration.mp3",
+      "file_9x16": "es-01-009-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "60d2eabfddf0e40eaf598ff051cd9f44d0d9a71ddb6170f862642c5f50a50f1b"
+        }
+      }
     },
     {
       "entry_id": "ES-01-010",
@@ -688,7 +732,15 @@
       "daylight_4x5": "es-01-010-daylight-4x5.png",
       "daylight_interim": true,
       "audio": "audio/es-01-010-narration.mp3",
-      "description": "Curved titanium volumes gather around the central atrium, with the bridge and detached openwork tower to the left."
+      "description": "Curved titanium volumes gather around the central atrium, with the bridge and detached openwork tower to the left.",
+      "file_9x16": "es-01-010-r2-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "6686e9329b1cc33f99af9fa47d63d7c164e8d95bbfdc5bb8a46dba65bd5234e0"
+        }
+      }
     },
     {
       "entry_id": "ES-01-011",
@@ -706,7 +758,15 @@
       "daylight_16x9": "es-01-011-daylight-16x9.png",
       "daylight_4x5": "es-01-011-daylight-4x5.png",
       "daylight_interim": true,
-      "audio": "audio/es-01-011-narration.mp3"
+      "audio": "audio/es-01-011-narration.mp3",
+      "file_9x16": "es-01-011-r2-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "46c01c4256c2b30c555d2487ee024be31ff09a8754f28907c52e6f690f777f07"
+        }
+      }
     },
     {
       "entry_id": "ES-01-012",
@@ -724,7 +784,15 @@
       "daylight_16x9": "es-01-012-daylight-16x9.png",
       "daylight_4x5": "es-01-012-daylight-4x5.png",
       "daylight_interim": true,
-      "audio": "audio/es-01-012-narration.mp3"
+      "audio": "audio/es-01-012-narration.mp3",
+      "file_9x16": "es-01-012-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "dd94992c2b6b8ab80b07164cf9e8272b0706885f4e0a84b3788bb1d152b5f586"
+        }
+      }
     },
     {
       "entry_id": "ES-01-013",
@@ -742,7 +810,15 @@
       "daylight_16x9": "es-01-013-daylight-16x9.png",
       "daylight_4x5": "es-01-013-daylight-4x5.png",
       "daylight_interim": true,
-      "audio": "audio/es-01-013-narration.mp3"
+      "audio": "audio/es-01-013-narration.mp3",
+      "file_9x16": "es-01-013-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "a94c9f7bcb145ffacd1d0c56c81409a3c6a8e148dfc3226925b48531640fa1da"
+        }
+      }
     },
     {
       "entry_id": "ES-01-014",
@@ -760,7 +836,15 @@
       "daylight_16x9": "es-01-014-daylight-16x9.png",
       "daylight_4x5": "es-01-014-daylight-4x5.png",
       "daylight_interim": true,
-      "audio": "audio/es-01-014-narration.mp3"
+      "audio": "audio/es-01-014-narration.mp3",
+      "file_9x16": "es-01-014-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "150ad0cfd3f625cc453998b659033d04a8986d7b4dc7f45bb4c62db7b0f5500c"
+        }
+      }
     },
     {
       "entry_id": "ES-01-015",
@@ -778,7 +862,15 @@
       "daylight_16x9": "es-01-015-daylight-16x9.png",
       "daylight_4x5": "es-01-015-daylight-4x5.png",
       "daylight_interim": true,
-      "audio": "audio/es-01-015-narration.mp3"
+      "audio": "audio/es-01-015-narration.mp3",
+      "file_9x16": "es-01-015-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "43df2fdbab66e882bd47a7b1a135494e56c4408a230ac79de43493877107c08f"
+        }
+      }
     },
     {
       "entry_id": "ES-01-016",
@@ -814,7 +906,15 @@
       "daylight_16x9": "es-01-019-daylight-16x9.png",
       "daylight_4x5": "es-01-019-daylight-4x5.png",
       "daylight_interim": true,
-      "audio": "audio/es-01-019-narration.mp3"
+      "audio": "audio/es-01-019-narration.mp3",
+      "file_9x16": "es-01-019-r2-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "0fc68b7b2882af758fa950c0a4ad03a507fede02bfbbb11eb35836e878684cb6"
+        }
+      }
     },
     {
       "entry_id": "ES-01-020",
@@ -832,7 +932,15 @@
       "daylight_16x9": "es-01-020-daylight-16x9.png",
       "daylight_4x5": "es-01-020-daylight-4x5.png",
       "daylight_interim": true,
-      "audio": "audio/es-01-020-narration.mp3"
+      "audio": "audio/es-01-020-narration.mp3",
+      "file_9x16": "es-01-020-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "88e297196fff7fdf5da661225e9e895a2a6978dce059ade44edf163732e6460d"
+        }
+      }
     },
     {
       "entry_id": "ES-01-021",
@@ -850,7 +958,15 @@
       "daylight_16x9": "es-01-021-daylight-16x9.png",
       "daylight_4x5": "es-01-021-daylight-4x5.png",
       "daylight_interim": true,
-      "audio": "audio/es-01-021-narration.mp3"
+      "audio": "audio/es-01-021-narration.mp3",
+      "file_9x16": "es-01-021-r3-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "6ee060686964828b91b74f93cffd1179cc2f3121e3a486835e2012185a07db9f"
+        }
+      }
     },
     {
       "entry_id": "ES-01-022",
@@ -868,7 +984,15 @@
       "daylight_16x9": "es-01-022-daylight-16x9.png",
       "daylight_4x5": "es-01-022-daylight-4x5.png",
       "daylight_interim": true,
-      "audio": "audio/es-01-022-narration.mp3"
+      "audio": "audio/es-01-022-narration.mp3",
+      "file_9x16": "es-01-022-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "e32b20fd7929f0030e7d50756e5678aa4710d36267ccfeee39879ac75799a846"
+        }
+      }
     },
     {
       "entry_id": "ES-01-023",
@@ -886,7 +1010,15 @@
       "daylight_16x9": "es-01-023-daylight-16x9.png",
       "daylight_4x5": "es-01-023-daylight-4x5.png",
       "daylight_interim": true,
-      "audio": "audio/es-01-023-narration.mp3"
+      "audio": "audio/es-01-023-narration.mp3",
+      "file_9x16": "es-01-023-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "276d9ad71d59a0f2913639548761d4cb763a795204c09493f0bc2c03e9d5c4fd"
+        }
+      }
     },
     {
       "entry_id": "ES-01-024",
@@ -904,7 +1036,15 @@
       "daylight_16x9": "es-01-024-daylight-16x9.png",
       "daylight_4x5": "es-01-024-daylight-4x5.png",
       "daylight_interim": true,
-      "audio": "audio/es-01-024-narration.mp3"
+      "audio": "audio/es-01-024-narration.mp3",
+      "file_9x16": "es-01-024-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "3cf987952c498400a74fccddcc9f79680c4efd1034d0eb21b1f55cc6507f3cf5"
+        }
+      }
     },
     {
       "entry_id": "ES-01-025",
@@ -922,7 +1062,15 @@
       "daylight_16x9": "es-01-025-daylight-16x9.png",
       "daylight_4x5": "es-01-025-daylight-4x5.png",
       "daylight_interim": true,
-      "audio": "audio/es-01-025-narration.mp3"
+      "audio": "audio/es-01-025-narration.mp3",
+      "file_9x16": "es-01-025-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "35377179e6851d54317fe8c6a43d41feb6868be854d279b0863639582cd901f4"
+        }
+      }
     },
     {
       "entry_id": "ES-01-026",
@@ -940,7 +1088,15 @@
       "daylight_4x5": "es-01-026-daylight-4x5.png",
       "daylight_interim": true,
       "audio": "audio/es-01-026-narration.mp3",
-      "description": "Single tall Gothic tower on viewer right; Low three-bay pointed porch with small upper central traceried window; Flat broad stone plaza and flanking historic buildings."
+      "description": "Single tall Gothic tower on viewer right; Low three-bay pointed porch with small upper central traceried window; Flat broad stone plaza and flanking historic buildings.",
+      "file_9x16": "es-01-026-r2-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "415a50ab1be50867c716c7a7581d9da63cda74dc422b35ad42b45347bdefc2ff"
+        }
+      }
     },
     {
       "entry_id": "ES-01-027",
@@ -958,7 +1114,15 @@
       "daylight_4x5": "es-01-027-daylight-4x5.png",
       "daylight_interim": true,
       "audio": "audio/es-01-027-narration.mp3",
-      "description": "Twin square pink-limestone bell towers with pointed pyramid roofs; Lower central Romanesque gable and round arches; Stone esplanade and steep wooded mountain backdrop."
+      "description": "Twin square pink-limestone bell towers with pointed pyramid roofs; Lower central Romanesque gable and round arches; Stone esplanade and steep wooded mountain backdrop.",
+      "file_9x16": "es-01-027-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "034da80d11978212f65cd79b23e0b24119a438c6c2cc561b0bd540c44546f7f8"
+        }
+      }
     },
     {
       "entry_id": "ES-01-028",
@@ -976,7 +1140,15 @@
       "daylight_4x5": "es-01-028-daylight-4x5.png",
       "daylight_interim": true,
       "audio": "audio/es-01-028-narration.mp3",
-      "description": "Low rocky and grassy lake shore in foreground; Compact lake basin flanked by rounded limestone and grass slopes; Saddle between lower ridges, without jagged high alpine peaks."
+      "description": "Low rocky and grassy lake shore in foreground; Compact lake basin flanked by rounded limestone and grass slopes; Saddle between lower ridges, without jagged high alpine peaks.",
+      "file_9x16": "es-01-028-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "5ad799cffe4061768e3c3ab5bd7a1e53a92324e3c31a6c24469bd2fdff800873"
+        }
+      }
     },
     {
       "entry_id": "ES-01-029",
@@ -994,7 +1166,15 @@
       "daylight_4x5": "es-01-029-daylight-4x5.png",
       "daylight_interim": true,
       "audio": "audio/es-01-029-narration.mp3",
-      "description": "San Pedro church with one square belfry and pointed tile roof; Church stands on stone seawall at western beach end, town behind left; Cantabrian water and shallow breaking surf on right with sandy foreground."
+      "description": "San Pedro church with one square belfry and pointed tile roof; Church stands on stone seawall at western beach end, town behind left; Cantabrian water and shallow breaking surf on right with sandy foreground.",
+      "file_9x16": "es-01-029-r3-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "ac1db02e33c72cadda9f65f812c1cc83966334e60afa89e28bfdbdc2b6a35bee"
+        }
+      }
     },
     {
       "entry_id": "ES-01-030",
@@ -1012,7 +1192,15 @@
       "daylight_4x5": "es-01-030-daylight-4x5.png",
       "daylight_interim": true,
       "audio": "audio/es-01-030-narration.mp3",
-      "description": "Long honey-stone Gothic south wall with repeated tall buttresses and pinnacles; Large eastern rose window and layered flying-buttress geometry toward viewer right; Raised city wall and palms above the Parc de la Mar reflecting pool."
+      "description": "Long honey-stone Gothic south wall with repeated tall buttresses and pinnacles; Large eastern rose window and layered flying-buttress geometry toward viewer right; Raised city wall and palms above the Parc de la Mar reflecting pool.",
+      "file_9x16": "es-01-030-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "786ef4a6546be3dade1febe7f8ead971316804397b62d3ed061b91f1a2b7c3a6"
+        }
+      }
     },
     {
       "entry_id": "ES-01-031",
@@ -1030,7 +1218,15 @@
       "daylight_4x5": "es-01-031-daylight-4x5.png",
       "daylight_interim": true,
       "audio": "audio/es-01-031-narration.mp3",
-      "description": "Dense ochre-grey stone village houses with irregular terracotta roofs stepping uphill; Cartoixa church complex rising above the roofs with a single green-glazed Baroque bell tower; Dark wooded Serra de Tramuntana slopes enclosing the village."
+      "description": "Dense ochre-grey stone village houses with irregular terracotta roofs stepping uphill; Cartoixa church complex rising above the roofs with a single green-glazed Baroque bell tower; Dark wooded Serra de Tramuntana slopes enclosing the village.",
+      "file_9x16": "es-01-031-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "b6ec3b6ec9ea8d167c2d9eb8194a34c422136d5c512a27a6d374dca4f30de1ec"
+        }
+      }
     },
     {
       "entry_id": "ES-01-032",
@@ -1048,7 +1244,15 @@
       "daylight_4x5": "es-01-032-daylight-4x5.png",
       "daylight_interim": true,
       "audio": "audio/es-01-032-narration.mp3",
-      "description": "Pale rounded pebble-and-gravel beach foreground; Two sheer orange-grey limestone walls narrowing sharply inland; Sparse scrub clinging to fractured rock with a dark channel floor between cliffs."
+      "description": "Pale rounded pebble-and-gravel beach foreground; Two sheer orange-grey limestone walls narrowing sharply inland; Sparse scrub clinging to fractured rock with a dark channel floor between cliffs.",
+      "file_9x16": "es-01-032-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "b0dba3d32f177a909f85e83e310ef2ecf9af55a3cfae1e5565c0c792155be1cc"
+        }
+      }
     },
     {
       "entry_id": "ES-01-033",
@@ -1066,7 +1270,15 @@
       "daylight_4x5": "es-01-033-daylight-4x5.png",
       "daylight_interim": true,
       "audio": "audio/es-01-033-narration.mp3",
-      "description": "Ochre limestone houses stepping up a steep terraced hillside; Sant Joan Baptista church and bell tower crowning the village; Dark Serra de Tramuntana rock and olive terraces enclosing the settlement."
+      "description": "Ochre limestone houses stepping up a steep terraced hillside; Sant Joan Baptista church and bell tower crowning the village; Dark Serra de Tramuntana rock and olive terraces enclosing the settlement.",
+      "file_9x16": "es-01-033-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "cf0ed2602e95e66bd9d7868139dbec6a6f33e63c64443a7f8484e90a8a7711d9"
+        }
+      }
     },
     {
       "entry_id": "ES-01-034",
@@ -1084,7 +1296,15 @@
       "daylight_4x5": "es-01-034-daylight-4x5.png",
       "daylight_interim": true,
       "audio": "audio/es-01-034-narration.mp3",
-      "description": "Long paved Plaça des Born with its slender nineteenth-century obelisk; Sandstone town hall/former royal fortress closing the western square edge; Warm ochre stately façades and narrow old-town streets beyond."
+      "description": "Long paved Plaça des Born with its slender nineteenth-century obelisk; Sandstone town hall/former royal fortress closing the western square edge; Warm ochre stately façades and narrow old-town streets beyond.",
+      "file_9x16": "es-01-034-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "1c0b858670bad286b4551e3ec88793a9e95f029ce38e61b6d712b80938371d62"
+        }
+      }
     },
     {
       "entry_id": "ES-01-035",
@@ -1102,7 +1322,15 @@
       "daylight_4x5": "es-01-035-daylight-4x5.png",
       "daylight_interim": true,
       "audio": "audio/es-01-035-narration.mp3",
-      "description": "Single compact inverted-boat funerary monument of massive dry-laid limestone blocks; Small low rectangular entrance in the flat end wall; Open dry Menorcan field with low scrub and a simple visitor path."
+      "description": "Single compact inverted-boat funerary monument of massive dry-laid limestone blocks; Small low rectangular entrance in the flat end wall; Open dry Menorcan field with low scrub and a simple visitor path.",
+      "file_9x16": "es-01-035-r1-9x16.png",
+      "dimensions": {
+        "9x16": {
+          "width": 608,
+          "height": 1270,
+          "sha256": "6ce7e794153d46730b681089066b5c9ca5967485d9953963dfa8899e942623b2"
+        }
+      }
     },
     {
       "entry_id": "ES-01-036",

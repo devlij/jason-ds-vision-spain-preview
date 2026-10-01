@@ -21,7 +21,11 @@
       <image:loc>https://spain.jdvision.org/es-01-018-4x5.png</image:loc>
       <image:title>Roman Bridge, Córdoba — Roman Bridge, Córdoba</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-018-9x16.png</image:loc>
+      <image:title>Roman Bridge, Córdoba — Roman Bridge, Córdoba</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-001</loc>
     <image:image>
@@ -32,7 +36,11 @@
       <image:loc>https://spain.jdvision.org/es-01-001-daylight-r4-4x5.png</image:loc>
       <image:title>Sagrada Família, Barcelona — Sagrada Família, Barcelona</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-001-daylight-r4-9x16.png</image:loc>
+      <image:title>Sagrada Família, Barcelona — Sagrada Família, Barcelona</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-002</loc>
     <image:image>
@@ -54,7 +62,11 @@
       <image:loc>https://spain.jdvision.org/es-01-003-4x5.png</image:loc>
       <image:title>Casa Batlló, Barcelona — Casa Batlló, Barcelona</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-003-9x16.png</image:loc>
+      <image:title>Casa Batlló, Barcelona — Casa Batlló, Barcelona</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-004</loc>
     <image:image>
@@ -65,7 +77,11 @@
       <image:loc>https://spain.jdvision.org/es-01-004-r2-4x5.png</image:loc>
       <image:title>Alhambra, Granada — Alhambra, Granada</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-004-r2-9x16.png</image:loc>
+      <image:title>Alhambra, Granada — Alhambra, Granada</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-005</loc>
     <image:image>
@@ -76,7 +92,11 @@
       <image:loc>https://spain.jdvision.org/es-01-005-r3-4x5.png</image:loc>
       <image:title>Mezquita-Catedral, Córdoba — Mezquita-Catedral, Córdoba</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-005-r3-9x16.png</image:loc>
+      <image:title>Mezquita-Catedral, Córdoba — Mezquita-Catedral, Córdoba</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-006</loc>
     <image:image>
@@ -87,7 +107,11 @@
       <image:loc>https://spain.jdvision.org/es-01-006-r2-4x5.png</image:loc>
       <image:title>Seville Cathedral and Giralda, Seville — Seville Cathedral and Giralda, Seville</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-006-r2-9x16.png</image:loc>
+      <image:title>Seville Cathedral and Giralda, Seville — Seville Cathedral and Giralda, Seville</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-008</loc>
     <image:image>
@@ -120,7 +144,11 @@
       <image:loc>https://spain.jdvision.org/es-01-009-r1-4x5.png</image:loc>
       <image:title>Plaza Mayor, Madrid — Plaza Mayor, Madrid</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-009-r1-9x16.png</image:loc>
+      <image:title>Plaza Mayor, Madrid — Plaza Mayor, Madrid</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-010</loc>
     <image:image>
@@ -131,7 +159,11 @@
       <image:loc>https://spain.jdvision.org/es-01-010-r2-4x5.png</image:loc>
       <image:title>Guggenheim Museum, Bilbao — Guggenheim Museum, Bilbao</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-010-r2-9x16.png</image:loc>
+      <image:title>Guggenheim Museum, Bilbao — Guggenheim Museum, Bilbao</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-011</loc>
     <image:image>
@@ -142,7 +174,11 @@
       <image:loc>https://spain.jdvision.org/es-01-011-r2-4x5.png</image:loc>
       <image:title>Cathedral, Santiago de Compostela — Cathedral, Santiago de Compostela</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-011-r2-9x16.png</image:loc>
+      <image:title>Cathedral, Santiago de Compostela — Cathedral, Santiago de Compostela</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-012</loc>
     <image:image>
@@ -153,7 +189,11 @@
       <image:loc>https://spain.jdvision.org/es-01-012-r1-4x5.png</image:loc>
       <image:title>Roman Aqueduct, Segovia — Roman Aqueduct, Segovia</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-012-r1-9x16.png</image:loc>
+      <image:title>Roman Aqueduct, Segovia — Roman Aqueduct, Segovia</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-013</loc>
     <image:image>
@@ -164,7 +204,11 @@
       <image:loc>https://spain.jdvision.org/es-01-013-r1-4x5.png</image:loc>
       <image:title>Old Town and Alcázar, Toledo — Old Town and Alcázar, Toledo</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-013-r1-9x16.png</image:loc>
+      <image:title>Old Town and Alcázar, Toledo — Old Town and Alcázar, Toledo</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-014</loc>
     <image:image>
@@ -175,7 +219,11 @@
       <image:loc>https://spain.jdvision.org/es-01-014-r1-4x5.png</image:loc>
       <image:title>Puente Nuevo, Ronda — Puente Nuevo, Ronda</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-014-r1-9x16.png</image:loc>
+      <image:title>Puente Nuevo, Ronda — Puente Nuevo, Ronda</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-015</loc>
     <image:image>
@@ -186,7 +234,11 @@
       <image:loc>https://spain.jdvision.org/es-01-015-r1-4x5.png</image:loc>
       <image:title>La Concha Bay, San Sebastián — La Concha Bay, San Sebastián</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-015-r1-9x16.png</image:loc>
+      <image:title>La Concha Bay, San Sebastián — La Concha Bay, San Sebastián</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-016</loc>
     <image:image>
@@ -208,7 +260,11 @@
       <image:loc>https://spain.jdvision.org/es-01-019-r2-4x5.png</image:loc>
       <image:title>Puerta del León, Seville — Puerta del León, Seville</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-019-r2-9x16.png</image:loc>
+      <image:title>Puerta del León, Seville — Puerta del León, Seville</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-020</loc>
     <image:image>
@@ -219,7 +275,11 @@
       <image:loc>https://spain.jdvision.org/es-01-020-r1-4x5.png</image:loc>
       <image:title>Carrera del Darro, Granada — Carrera del Darro, Granada</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-020-r1-9x16.png</image:loc>
+      <image:title>Carrera del Darro, Granada — Carrera del Darro, Granada</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-021</loc>
     <image:image>
@@ -230,7 +290,11 @@
       <image:loc>https://spain.jdvision.org/es-01-021-r3-4x5.png</image:loc>
       <image:title>Alcazaba, Málaga — Alcazaba, Málaga</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-021-r3-9x16.png</image:loc>
+      <image:title>Alcazaba, Málaga — Alcazaba, Málaga</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-022</loc>
     <image:image>
@@ -241,7 +305,11 @@
       <image:loc>https://spain.jdvision.org/es-01-022-r1-4x5.png</image:loc>
       <image:title>Campo del Sur, Cádiz — Campo del Sur, Cádiz</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-022-r1-9x16.png</image:loc>
+      <image:title>Campo del Sur, Cádiz — Campo del Sur, Cádiz</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-023</loc>
     <image:image>
@@ -252,7 +320,11 @@
       <image:loc>https://spain.jdvision.org/es-01-023-r1-4x5.png</image:loc>
       <image:title>Basílica del Pilar, Zaragoza — Basílica del Pilar, Zaragoza</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-023-r1-9x16.png</image:loc>
+      <image:title>Basílica del Pilar, Zaragoza — Basílica del Pilar, Zaragoza</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-024</loc>
     <image:image>
@@ -263,7 +335,11 @@
       <image:loc>https://spain.jdvision.org/es-01-024-r1-4x5.png</image:loc>
       <image:title>Old town, Albarracín — Old town, Albarracín</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-024-r1-9x16.png</image:loc>
+      <image:title>Old town, Albarracín — Old town, Albarracín</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-025</loc>
     <image:image>
@@ -274,7 +350,11 @@
       <image:loc>https://spain.jdvision.org/es-01-025-r1-4x5.png</image:loc>
       <image:title>Valle de Ordesa, Torla-Ordesa — Valle de Ordesa, Torla-Ordesa</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-025-r1-9x16.png</image:loc>
+      <image:title>Valle de Ordesa, Torla-Ordesa — Valle de Ordesa, Torla-Ordesa</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-026</loc>
     <image:image>
@@ -285,7 +365,11 @@
       <image:loc>https://spain.jdvision.org/es-01-026-r2-4x5.png</image:loc>
       <image:title>Cathedral, Oviedo — Cathedral, Oviedo</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-026-r2-9x16.png</image:loc>
+      <image:title>Cathedral, Oviedo — Cathedral, Oviedo</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-027</loc>
     <image:image>
@@ -296,7 +380,11 @@
       <image:loc>https://spain.jdvision.org/es-01-027-r1-4x5.png</image:loc>
       <image:title>Basílica, Covadonga — Basílica, Covadonga</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-027-r1-9x16.png</image:loc>
+      <image:title>Basílica, Covadonga — Basílica, Covadonga</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-028</loc>
     <image:image>
@@ -307,7 +395,11 @@
       <image:loc>https://spain.jdvision.org/es-01-028-r1-4x5.png</image:loc>
       <image:title>Lago Enol, Covadonga — Lago Enol, Covadonga</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-028-r1-9x16.png</image:loc>
+      <image:title>Lago Enol, Covadonga — Lago Enol, Covadonga</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-029</loc>
     <image:image>
@@ -318,7 +410,11 @@
       <image:loc>https://spain.jdvision.org/es-01-029-r3-4x5.png</image:loc>
       <image:title>Playa de San Lorenzo, Gijón — Playa de San Lorenzo, Gijón</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-029-r3-9x16.png</image:loc>
+      <image:title>Playa de San Lorenzo, Gijón — Playa de San Lorenzo, Gijón</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-030</loc>
     <image:image>
@@ -329,7 +425,11 @@
       <image:loc>https://spain.jdvision.org/es-01-030-r1-4x5.png</image:loc>
       <image:title>La Seu, Palma — La Seu, Palma</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-030-r1-9x16.png</image:loc>
+      <image:title>La Seu, Palma — La Seu, Palma</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-031</loc>
     <image:image>
@@ -340,7 +440,11 @@
       <image:loc>https://spain.jdvision.org/es-01-031-r1-4x5.png</image:loc>
       <image:title>Cartoixa, Valldemossa — Cartoixa, Valldemossa</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-031-r1-9x16.png</image:loc>
+      <image:title>Cartoixa, Valldemossa — Cartoixa, Valldemossa</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-032</loc>
     <image:image>
@@ -351,7 +455,11 @@
       <image:loc>https://spain.jdvision.org/es-01-032-r1-4x5.png</image:loc>
       <image:title>Torrent de Pareis, Sa Calobra — Torrent de Pareis, Sa Calobra</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-032-r1-9x16.png</image:loc>
+      <image:title>Torrent de Pareis, Sa Calobra — Torrent de Pareis, Sa Calobra</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-228</loc>
     <image:image>
@@ -373,7 +481,11 @@
       <image:loc>https://spain.jdvision.org/es-01-033-r1-4x5.png</image:loc>
       <image:title>Village, Deià — Village, Deià</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-033-r1-9x16.png</image:loc>
+      <image:title>Village, Deià — Village, Deià</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-035</loc>
     <image:image>
@@ -384,7 +496,11 @@
       <image:loc>https://spain.jdvision.org/es-01-035-r1-4x5.png</image:loc>
       <image:title>Naveta des Tudons, Ciutadella — Naveta des Tudons, Ciutadella</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-035-r1-9x16.png</image:loc>
+      <image:title>Naveta des Tudons, Ciutadella — Naveta des Tudons, Ciutadella</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-036</loc>
     <image:image>
@@ -428,7 +544,11 @@
       <image:loc>https://spain.jdvision.org/es-01-034-r1-4x5.png</image:loc>
       <image:title>Old town, Ciutadella — Old town, Ciutadella</image:title>
     </image:image>
-  </url>
+      <image:image>
+      <image:loc>https://spain.jdvision.org/es-01-034-r1-9x16.png</image:loc>
+      <image:title>Old town, Ciutadella — Old town, Ciutadella</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://spain.jdvision.org/#ES-01-229</loc>
     <image:image>

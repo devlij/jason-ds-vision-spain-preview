@@ -35,6 +35,7 @@
   "description": "Low rocky and grassy lake shore in foreground; Compact lake basin flanked by rounded limestone and grass slopes; Saddle between lower ridges, without jagged high alpine peaks.",
   "file_16x9": "es-01-028-r1-16x9.png",
   "file_4x5": "es-01-028-r1-4x5.png",
+  "file_9x16": "es-01-028-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -45,6 +46,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "bffcc2518cffd1a27512b0873afb22d031d73ab93f5b637071b4f528f12985ad"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "5ad799cffe4061768e3c3ab5bd7a1e53a92324e3c31a6c24469bd2fdff800873"
     }
   },
   "masters": {

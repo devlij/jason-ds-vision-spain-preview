@@ -43,6 +43,7 @@
   "description": "Twin square pink-limestone bell towers with pointed pyramid roofs; Lower central Romanesque gable and round arches; Stone esplanade and steep wooded mountain backdrop.",
   "file_16x9": "es-01-027-r1-16x9.png",
   "file_4x5": "es-01-027-r1-4x5.png",
+  "file_9x16": "es-01-027-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -53,6 +54,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "02ff2978a4b43373e3ae285b0cb286ef953e79079e3b1ca4887ef0995f44f415"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "034da80d11978212f65cd79b23e0b24119a438c6c2cc561b0bd540c44546f7f8"
     }
   },
   "masters": {

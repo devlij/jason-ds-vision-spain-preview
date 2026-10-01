@@ -38,6 +38,11 @@
       "source_width": 1672,
       "source_height": 941,
       "resampled": true
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "6686e9329b1cc33f99af9fa47d63d7c164e8d95bbfdc5bb8a46dba65bd5234e0"
     }
   },
   "gates": {
@@ -49,6 +54,7 @@
   },
   "file_16x9": "es-01-010-r2-16x9.png",
   "file_4x5": "es-01-010-r2-4x5.png",
+  "file_9x16": "es-01-010-r2-9x16.png",
   "references": [
     {
       "title": "Official museum",

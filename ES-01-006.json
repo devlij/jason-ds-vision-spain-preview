@@ -41,6 +41,11 @@
       "source_width": 1672,
       "source_height": 941,
       "resampled": true
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "fa854d4ea54789283b126fa979f420db7737a32f7f9b38db37cbfe47bbd0ca30"
     }
   },
   "gates": {
@@ -52,6 +57,7 @@
   },
   "file_16x9": "es-01-006-r2-16x9.png",
   "file_4x5": "es-01-006-r2-4x5.png",
+  "file_9x16": "es-01-006-r2-9x16.png",
   "review_history": [
     {
       "date": "2026-09-23",

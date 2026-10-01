@@ -39,10 +39,16 @@
       "source_width": 1672,
       "source_height": 940,
       "resampled": true
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "276d9ad71d59a0f2913639548761d4cb763a795204c09493f0bc2c03e9d5c4fd"
     }
   },
   "file_16x9": "es-01-023-r1-16x9.png",
   "file_4x5": "es-01-023-r1-4x5.png",
+  "file_9x16": "es-01-023-r1-9x16.png",
   "references": [
     {
       "title": "Aragón Tourism — Pilar Basilica",

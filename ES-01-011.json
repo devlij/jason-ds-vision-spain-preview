@@ -38,6 +38,11 @@
       "source_width": 1672,
       "source_height": 941,
       "resampled": true
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "46c01c4256c2b30c555d2487ee024be31ff09a8754f28907c52e6f690f777f07"
     }
   },
   "gates": {
@@ -49,6 +54,7 @@
   },
   "file_16x9": "es-01-011-r2-16x9.png",
   "file_4x5": "es-01-011-r2-4x5.png",
+  "file_9x16": "es-01-011-r2-9x16.png",
   "references": [
     {
       "title": "Official cathedral",

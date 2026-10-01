@@ -22,6 +22,7 @@
   "limitations": "Editorially approved as an AI-generated artistic interpretation. Fine masonry, vegetation and transient details are generated rather than on-site observations. Originality and third-party commercial/IP clearance are not legally certified.",
   "file_16x9": "es-01-004-r2-16x9.png",
   "file_4x5": "es-01-004-r2-4x5.png",
+  "file_9x16": "es-01-004-r2-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "editions": [
@@ -67,6 +68,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "feb9c8f8eb6bacf4a4e75bd406d018fdcf10252e09dd651ef3081947e275ba78"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "824bcc945d39a3543b062048dd4550fd6ee597c435518f821877fdbce914a5cd"
     }
   }
 }
