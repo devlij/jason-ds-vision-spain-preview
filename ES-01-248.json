@@ -102,16 +102,61 @@
   "conditions": {
     "provider": "Open-Meteo",
     "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=42.2886&longitude=3.2779&current=temperature_2m%2Cweather_code%2Ccloud_cover%2Cis_day%2Cprecipitation%2Cwind_speed_10m&daily=sunrise%2Csunset&timezone=Europe%2FMadrid&forecast_days=1",
-    "retrieved_local": "2026-09-24T01:16+02:00",
-    "valid_local": "2026-09-24T01:15",
-    "temperature_c": 19.3,
-    "weather_code": 0,
-    "weather_word": "clear sky",
-    "cloud_cover_pct": 19,
-    "is_day": 0,
-    "wind_kmh": 3.1
+    "retrieved_local": "2026-10-01T17:58:51.037862+02:00",
+    "valid_local": "2026-10-01T17:45",
+    "temperature_c": 23.6,
+    "weather_code": 3,
+    "weather_word": "overcast",
+    "cloud_cover_pct": 100,
+    "is_day": 1,
+    "wind_kmh": 18.1,
+    "response": {
+      "latitude": 42.29,
+      "longitude": 3.2799997,
+      "generationtime_ms": 0.6514787673950195,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 5.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T17:45",
+        "interval": 900,
+        "temperature_2m": 23.6,
+        "weather_code": 3,
+        "cloud_cover": 100,
+        "is_day": 1,
+        "precipitation": 0.0,
+        "wind_speed_10m": 18.1
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T07:43"
+        ],
+        "sunset": [
+          "2026-10-01T19:28"
+        ]
+      }
+    }
   },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T01:12:51+02:00, valid 2026-09-24T01:15 Europe/Madrid — not a verified on-site observation.",
+  "weather": "Model data from Open-Meteo, retrieved 2026-10-01T17:58:51.037862+02:00, valid 2026-10-01T17:45 Europe/Madrid — not a verified on-site observation.",
   "prompts": {
     "prompt-r1.txt": "Photorealistic artistic interpretation of the Cadaqués waterfront in Catalonia at night, viewed from the promenade along the bay. The whitewashed old town with the Església de Santa Maria bell tower rises centered above the harbor; fishing boats rest on the still dark water reflecting the warm lights of the seafront buildings; the rocky headlands of Cap de Creus frame the dark bay on both sides under a starry clear sky."
   },

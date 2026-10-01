@@ -94,17 +94,63 @@
     }
   },
   "conditions": {
-    "retrieved": "2026-09-24T01:23:32+02:00",
-    "valid": "2026-09-24T01:24:36+02:00",
+    "retrieved": "2026-10-01T17:58:24.003613+02:00",
+    "valid": "2026-10-01T17:45+02:00",
     "provider": "Open-Meteo",
     "api": "https://api.open-meteo.com/v1/forecast",
-    "is_day": null,
-    "temperature_2m": 23.1,
-    "weather_code": 0,
-    "cloud_cover": 2,
-    "wind_speed_10m": 9.8
+    "is_day": 1,
+    "temperature_2m": 29.5,
+    "weather_code": 3,
+    "cloud_cover": 99,
+    "wind_speed_10m": 10.5,
+    "response": {
+      "latitude": 36.8125,
+      "longitude": -5.375,
+      "generationtime_ms": 1.268625259399414,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 442.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T17:45",
+        "interval": 900,
+        "temperature_2m": 29.5,
+        "weather_code": 3,
+        "cloud_cover": 99,
+        "is_day": 1,
+        "precipitation": 0.0,
+        "wind_speed_10m": 10.5
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T08:16"
+        ],
+        "sunset": [
+          "2026-10-01T20:04"
+        ]
+      }
+    },
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=36.8333&longitude=-5.3833&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1"
   },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T01:23:32+02:00, valid 2026-09-24T01:24:36+02:00 Europe/Madrid — not a verified on-site observation.",
+  "weather": "Model data from Open-Meteo, retrieved 2026-10-01T17:58:24.003613+02:00, valid 2026-10-01T17:45+02:00 Europe/Madrid — not a verified on-site observation.",
   "prompts": {
     "prompt-r1.txt": "Photorealistic original artistic interpretation (not a photograph) of Zahara de la Sierra, Spain, at night. Tourist viewpoint: the village plaza below, looking up past whitewashed houses to the castle ruins on the peak. ANCHORS: the Torre del Homenaje and ruined castle walls silhouetted on the peak, moonlit; whitewashed houses cascading down the hillside with scattered warm windows; the dark reservoir glinting at the foot of the mountains behind. LIGHTING: moonlight on the ruined walls and the water, warm village windows below, clear starry sky. Photorealistic, night landscape, no people, no watermark."
   },

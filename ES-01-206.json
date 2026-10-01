@@ -100,17 +100,63 @@
     }
   },
   "conditions": {
-    "retrieved": "2026-09-24T01:13:14+02:00",
-    "valid": "2026-09-24T01:17:29+02:00",
+    "retrieved": "2026-10-01T17:58:18.022474+02:00",
+    "valid": "2026-10-01T17:45+02:00",
     "provider": "Open-Meteo",
     "api": "https://api.open-meteo.com/v1/forecast",
-    "is_day": 0,
-    "temperature_2m": 21.1,
-    "weather_code": 0,
-    "cloud_cover": 0,
-    "wind_speed_10m": 4.0
+    "is_day": 1,
+    "temperature_2m": 25.2,
+    "weather_code": 3,
+    "cloud_cover": 99,
+    "wind_speed_10m": 7.1,
+    "response": {
+      "latitude": 36.625,
+      "longitude": -4.5625,
+      "generationtime_ms": 1.366257667541504,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 261.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T17:45",
+        "interval": 900,
+        "temperature_2m": 25.2,
+        "weather_code": 3,
+        "cloud_cover": 99,
+        "is_day": 1,
+        "precipitation": 0.0,
+        "wind_speed_10m": 7.1
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T08:13"
+        ],
+        "sunset": [
+          "2026-10-01T20:01"
+        ]
+      }
+    },
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=36.5961&longitude=-4.5727&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1"
   },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T01:13:14+02:00, valid 2026-09-24T01:17:29+02:00 Europe/Madrid — not a verified on-site observation.",
+  "weather": "Model data from Open-Meteo, retrieved 2026-10-01T17:58:18.022474+02:00, valid 2026-10-01T17:45+02:00 Europe/Madrid — not a verified on-site observation.",
   "prompts": {
     "prompt-r1.txt": "Photorealistic original artistic interpretation (not a photograph) of Castillo de Colomares in Benalmadena, Spain, at night. Tourist viewpoint: the monument grounds, from the lower terrace looking up. Frame: the fairy-tale monument centered — a jumble of towers and spires mixing Neo-Gothic, Neo-Romanesque, Neo-Byzantine and Mudejar styles; the stone ship of La Nina represented at the very top of the structure; gardens and cypress trees framing the monument with the scattered lights of the Costa del Sol beyond. Night light: soft floodlighting on the monument facades, gardens dark, clear sky, 21 degrees C, light breeze; illumination is an artistic interpretation. Main subject centered to survive a 4:5 center crop. No identifiable people, no legible logos, no text, lettering or signs anywhere. Keep the lower third clean and uncluttered."
   },

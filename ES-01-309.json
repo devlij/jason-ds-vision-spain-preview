@@ -102,11 +102,64 @@
   "conditions": {
     "provider": "Open-Meteo",
     "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=42.3360&longitude=-7.8640&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
-    "retrieved": "2026-09-24T01:30+02:00",
-    "valid": "2026-09-24T01:30+02:00 Europe/Madrid",
-    "timezone": "Europe/Madrid"
+    "retrieved": "2026-10-01T18:02:51.041631+02:00",
+    "valid": "2026-10-01T18:00+02:00 Europe/Madrid",
+    "timezone": "Europe/Madrid",
+    "response": {
+      "latitude": 42.3125,
+      "longitude": -7.875,
+      "generationtime_ms": 4.617929458618164,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 149.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T18:00",
+        "interval": 900,
+        "temperature_2m": 22.0,
+        "weather_code": 0,
+        "cloud_cover": 3,
+        "is_day": 1,
+        "precipitation": 0.0,
+        "wind_speed_10m": 12.1
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T08:28"
+        ],
+        "sunset": [
+          "2026-10-01T20:13"
+        ]
+      }
+    },
+    "temperature_2m": 22.0,
+    "weather_code": 0,
+    "cloud_cover": 3,
+    "precipitation": 0.0,
+    "wind_speed_10m": 12.1,
+    "is_day": 1,
+    "sunrise": "08:28",
+    "sunset": "20:13"
   },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T01:30+02:00, valid 2026-09-24T01:30+02:00 Europe/Madrid — not a verified on-site observation.",
+  "weather": "Model data from Open-Meteo, retrieved 2026-10-01T18:02:51.041631+02:00, valid 2026-10-01T18:00+02:00 Europe/Madrid — not a verified on-site observation.",
   "prompts": {
     "prompt-r1.txt": "Photorealistic artistic night interpretation of the old town of Ourense in Galicia: historic stone facades and balconies around a quiet square, lit only by ordinary warm street lamps, no floodlighting; a few lit windows; clear starry sky above; no prominent people, no text, no logos; old town centered so it survives a center crop; clean uncluttered lower area."
   },

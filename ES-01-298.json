@@ -102,11 +102,64 @@
   "conditions": {
     "provider": "Open-Meteo",
     "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=27.7480&longitude=-17.9020&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
-    "retrieved": "2026-09-24T01:15+02:00",
-    "valid": "2026-09-24T01:15+02:00 Europe/Madrid",
-    "timezone": "Europe/Madrid"
+    "retrieved": "2026-10-01T18:02:41.032932+02:00",
+    "valid": "2026-10-01T18:00+02:00 Europe/Madrid",
+    "timezone": "Europe/Madrid",
+    "response": {
+      "latitude": 27.803162,
+      "longitude": -17.919037,
+      "generationtime_ms": 0.13458728790283203,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 0.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T18:00",
+        "interval": 900,
+        "temperature_2m": 25.4,
+        "weather_code": 51,
+        "cloud_cover": 89,
+        "is_day": 1,
+        "precipitation": 0.1,
+        "wind_speed_10m": 20.5
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T09:04"
+        ],
+        "sunset": [
+          "2026-10-01T20:57"
+        ]
+      }
+    },
+    "temperature_2m": 25.4,
+    "weather_code": 51,
+    "cloud_cover": 89,
+    "precipitation": 0.1,
+    "wind_speed_10m": 20.5,
+    "is_day": 1,
+    "sunrise": "09:04",
+    "sunset": "20:57"
   },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T01:15+02:00, valid 2026-09-24T01:15+02:00 Europe/Madrid — not a verified on-site observation.",
+  "weather": "Model data from Open-Meteo, retrieved 2026-10-01T18:02:41.032932+02:00, valid 2026-10-01T18:00+02:00 Europe/Madrid — not a verified on-site observation.",
   "prompts": {
     "prompt-r1.txt": "Photorealistic artistic night interpretation of Charco Azul natural pool in El Hierro, Canary Islands: an overcast night with thick cloud, no stars, no moon; the turquoise natural pool rendered in very low light with faint diffuse ambient glow; dark lava rock formations around the pool; the dark Atlantic beyond; cool dark palette; no prominent people, no text, no logos; pool centered so it survives a center crop; clean uncluttered lower area."
   },

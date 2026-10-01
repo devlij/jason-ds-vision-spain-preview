@@ -108,13 +108,13 @@
     }
   },
   "conditions": {
-    "retrieved_utc": "2026-09-23T23:15:00.235240+00:00",
-    "retrieved_local": "2026-09-24T01:15:00.235240+02:00",
+    "retrieved_utc": "2026-10-01T15:57:47.036068+00:00",
+    "retrieved_local": "2026-10-01T17:57:47.036068+02:00",
     "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=38.759&longitude=1.43&current=temperature_2m%2Cweather_code%2Ccloud_cover%2Cis_day%2Cprecipitation%2Cwind_speed_10m&daily=sunrise%2Csunset&timezone=Europe%2FMadrid&forecast_days=1",
     "response": {
       "latitude": 38.6875,
       "longitude": 1.4375,
-      "generationtime_ms": 0.3886222839355469,
+      "generationtime_ms": 0.5584955215454102,
       "utc_offset_seconds": 7200,
       "timezone": "Europe/Madrid",
       "timezone_abbreviation": "GMT+2",
@@ -130,14 +130,14 @@
         "wind_speed_10m": "km/h"
       },
       "current": {
-        "time": "2026-09-24T01:15",
+        "time": "2026-10-01T17:45",
         "interval": 900,
-        "temperature_2m": 24.6,
-        "weather_code": 0,
-        "cloud_cover": 0,
-        "is_day": 0,
+        "temperature_2m": 26.4,
+        "weather_code": 3,
+        "cloud_cover": 100,
+        "is_day": 1,
         "precipitation": 0.0,
-        "wind_speed_10m": 3.2
+        "wind_speed_10m": 15.6
       },
       "daily_units": {
         "time": "iso8601",
@@ -146,13 +146,13 @@
       },
       "daily": {
         "time": [
-          "2026-09-24"
+          "2026-10-01"
         ],
         "sunrise": [
-          "2026-09-24T07:43"
+          "2026-10-01T07:49"
         ],
         "sunset": [
-          "2026-09-24T19:48"
+          "2026-10-01T19:37"
         ]
       }
     },
@@ -172,13 +172,21 @@
       "azimuth_deg": 347.57
     },
     "lighting_stage": "Night",
-    "sunrise_local": "2026-09-24T07:43:00+02:00",
-    "sunset_local": "2026-09-24T19:48:00+02:00",
+    "sunrise_local": "2026-10-01T07:49:00+02:00",
+    "sunset_local": "2026-10-01T19:37:00+02:00",
     "twilight_window_minutes": 45,
     "generation_allowed": true,
-    "disclaimer": "Model data from Open-Meteo; not a verified on-site observation."
+    "disclaimer": "Model data from Open-Meteo; not a verified on-site observation.",
+    "temperature_2m": 26.4,
+    "weather_code": 3,
+    "cloud_cover": 100,
+    "precipitation": 0.0,
+    "wind_speed_10m": 15.6,
+    "is_day": 1,
+    "sunrise": "07:49",
+    "sunset": "19:37"
   },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T01:15:00.235240+02:00, valid 2026-09-24T01:15 Europe/Madrid — not a verified on-site observation.",
+  "weather": "Model data from Open-Meteo, retrieved 2026-10-01T17:57:47.036068+02:00, valid 2026-10-01T17:45+02:00 Europe/Madrid — not a verified on-site observation.",
   "prompts": {
     "prompt-r1.txt": "Use case: photorealistic-natural. Asset: Spain gallery documentary master. Create a wide 16:9 natural night photograph of Ses Illetes, Formentera at 01:15 local time on 24 September 2026. Public protected-access approach on the western side of Punta des Trucadors, low eye-level looking north along the narrow pale-sand shoreline. Key anchors: a long slender strand with calm shallow water on the west; low dunes and sparse grasses with a simple rope-and-post access edge entering from foreground; a few small dark offshore islets near the northern horizon. Clear dry night rendered with deep navy-black sky and faint natural ambient blue light, no artificial beach illumination. No moon, visible stars, Milky Way, boats, beach clubs, umbrellas, loungers, people, buildings, boardwalk fantasy, glowing water, wet sand claim, text, logos or watermark. Honest subdued low-light photography. Keep shoreline and islets centered for a coherent 4:5 crop.\n",
     "prompt-r2.txt": "Edit only the sky and natural ambient lighting of source-r1. Preserve the exact Ses Illetes beach, shoreline, water, dunes, rope fence, offshore islets, viewpoint, camera framing and all geometry unchanged. Remove every visible star and the Milky Way completely. Replace the sky with a clean featureless deep navy-black clear night sky with a subtle natural horizon gradient and no moon. Reduce implied celestial illumination so water and sand remain readable only as a restrained long-exposure ambient-night interpretation. Add no objects, people, boats, buildings, text, logos or watermark.\n"

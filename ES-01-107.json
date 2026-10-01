@@ -101,16 +101,62 @@
   },
   "conditions": {
     "provider": "Open-Meteo",
-    "retrieved": "2026-09-24T04:26:20+02:00",
-    "valid": "2026-09-24T04:15+02:00",
-    "temperature_2m_c": 21.0,
-    "weather_code": 2,
-    "cloud_cover_pct": 43,
-    "is_day": 0,
+    "retrieved": "2026-10-01T17:57:54.049904+02:00",
+    "valid": "2026-10-01T17:45+02:00",
+    "temperature_2m_c": 23.9,
+    "weather_code": 3,
+    "cloud_cover_pct": 100,
+    "is_day": 1,
     "precipitation_mm": 0.0,
-    "wind_speed_10m_kmh": 2.2
+    "wind_speed_10m_kmh": 3.1,
+    "response": {
+      "latitude": 40.6875,
+      "longitude": -3.8125,
+      "generationtime_ms": 0.14317035675048828,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 911.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T17:45",
+        "interval": 900,
+        "temperature_2m": 23.9,
+        "weather_code": 3,
+        "cloud_cover": 100,
+        "is_day": 1,
+        "precipitation": 0.0,
+        "wind_speed_10m": 3.1
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T08:11"
+        ],
+        "sunset": [
+          "2026-10-01T19:57"
+        ]
+      }
+    },
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=40.7263&longitude=-3.8626&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1"
   },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T04:26+02:00, valid 2026-09-24T04:15 Europe/Madrid — not a verified on-site observation.",
+  "weather": "Model data from Open-Meteo, retrieved 2026-10-01T17:57:54.049904+02:00, valid 2026-10-01T17:45+02:00 Europe/Madrid — not a verified on-site observation.",
   "prompts": {
     "prompt-r1.txt": "Photorealistic original artistic interpretation (not a photograph) of the New Castle of Manzanares el Real, Madrid, Spain AT NIGHT. Tourist viewpoint: the esplanade before the castle, looking at the keep. Frame: the New Castle of Manzanares el Real, the Mendoza fortress; the castle's towers and the gallery of the main front; the Sierra de Guadarrama dark around the castle. Light and weather: partly cloudy night, calm air; the castle softly lit, a few clouds in the night sky, the sierra dark beyond. Absolutely no daylight anywhere. Main subject centered to survive a 4:5 center crop. No identifiable people, no legible logos, no text, lettering or signs anywhere in the image. Keep the lower third clean and uncluttered."
   },
