@@ -31,6 +31,7 @@
   "description": "Standing in the center of the square, the eye is drawn to the Ayuntamiento pavilion glowing under lantern light, its arcaded facade and clock tower rising over the uniform colonnade that rings the plaza. Lamplight washes the sandstone a deep gold, and the arcades stretch left and right in a perfect baroque rectangle. Plaza Mayor is called Spain's most beautiful square — at night, under the lanterns, it's easy to see why.",
   "file_16x9": "es-01-325-r1-16x9.png",
   "file_4x5": "es-01-325-r1-4x5.png",
+  "file_9x16": "es-01-325-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "e01c4850e8711eee075566b9de783ef9ac36bf3a0ab44b6cad7476ce70b70b6c"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "42722d1b9fd642624e77a8c3b37e1951832f369b04d84b93f1dc437824be9005"
     }
   },
   "masters": {

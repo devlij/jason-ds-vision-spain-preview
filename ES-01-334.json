@@ -31,6 +31,7 @@
   "description": "From the Puente de San Pablo, the Hanging Houses cling to the cliff edge across the gorge — their wooden balconies jutting over the drop, windows glowing warm against the night. The gorge falls away dark below the bridge, with the old town's lights scattered along the far rim. Cuenca's casas colgadas are Spain's most famous cliff dwellings, and lit from within they hang over the void like lanterns.",
   "file_16x9": "es-01-334-r1-16x9.png",
   "file_4x5": "es-01-334-r1-4x5.png",
+  "file_9x16": "es-01-334-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "f682840e1bacad84aa29a76e628a7aa6e56f8ae3be373a743ef6c3f7d44675e9"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "5faa1b8571a7e5ecfe30383aa79cec4a6cbca5dd0ec21193c023becb25fb8057"
     }
   },
   "masters": {

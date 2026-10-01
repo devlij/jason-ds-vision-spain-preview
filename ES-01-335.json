@@ -31,6 +31,7 @@
   "description": "From the slope below, the windmill ridge stands out against the starry sky — the great white mills floodlit on the hilltop, their sails dark against the light. The mills march along the ridge line with the castle ruins behind them, lamps glowing at their doors. These are the giants Don Quixote tilted at, and by night on the Cerro Calderico they keep their timeless watch over La Mancha.",
   "file_16x9": "es-01-335-r1-16x9.png",
   "file_4x5": "es-01-335-r1-4x5.png",
+  "file_9x16": "es-01-335-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "48e2f7103be2a8433441b0ad9a2290d70cbad14f5a95ca38e5734c6a9bf61643"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "76d4c13d357463f48e7ae282edc1f168ac09dbbabd0ce761275af3cad6b17f36"
     }
   },
   "masters": {

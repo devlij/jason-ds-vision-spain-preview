@@ -31,6 +31,7 @@
   "description": "From the shore of the estuary, look up at San Vicente de la Barquera's old town crowning its hill against the night sky. Warm lights cluster along the ridgeline while the dark water below mirrors a few scattered reflections. The old stone town sits high above the calm tidal flats, quiet and watchful at night.",
   "file_16x9": "es-01-320-r1-16x9.png",
   "file_4x5": "es-01-320-r1-4x5.png",
+  "file_9x16": "es-01-320-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "6d1694896143403bf08b2b6f8f221c5436b7eccba7c161f976a28a6d50b05cc0"
+    },
+    "9x16": {
+      "width": 608,
+      "height": 1270,
+      "sha256": "cff549bcad342aa2dab642e307b67b34fa10f56fc5d7dbaf1372d2230b7de43d"
     }
   },
   "masters": {
