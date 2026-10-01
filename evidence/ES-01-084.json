@@ -1,0 +1,118 @@
+{
+  "scene_id": "ES-01-084",
+  "land_as": "Candidate",
+  "revision": "cand-r1",
+  "work_order": "wo-spain-architectural-rework-2026-09-30",
+  "pack": 4,
+  "defect_corrected": "The cliff-top multi-tower citadel and zig-zag battlement wall are gone. The port town shows later houses, the circular Torreón integrated into the town, and only a modest wall fragment.",
+  "viewpoint": "Port waterfront, looking up at the walled old town. Exact generated camera correspondence is unverified.",
+  "reference_links": [
+    {
+      "url": "https://es.wikipedia.org/wiki/Torre%C3%B3n_de_Llanes",
+      "note": "The 13th-century circular Torreón stands in the medieval wall and now serves as the tourist office."
+    },
+    {
+      "url": "https://turispain.es/llanes-la-villa-asturiana-que-mejor-conserva-su-pasado-medieval/",
+      "note": "The best-preserved wall is the northern stretch; other fragments are built into later houses, including a tower on the quay."
+    }
+  ],
+  "geometry_anchors": [
+    "harbor quay and houses of the old town, not a cliff citadel",
+    "one circular Torreón integrated into the later town",
+    "Cubos de la Memoria on the breakwater and a short wall fragment"
+  ],
+  "art50_comment_date": "2026-10-01",
+  "art50_note": "Comment date is this scene's finish date, 2026-10-01, not a fleet-wide restamp.",
+  "open_meteo": {
+    "retrieved_local": "2026-10-01T01:05:17.241215+02:00",
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=43.4203&longitude=-4.7528&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
+    "requested_coordinates": [
+      43.4203,
+      -4.7528
+    ],
+    "response": {
+      "latitude": 43.42,
+      "longitude": -4.75,
+      "generationtime_ms": 1.8874406814575195,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 11.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T01:00",
+        "interval": 900,
+        "temperature_2m": 17.5,
+        "weather_code": 3,
+        "cloud_cover": 100,
+        "is_day": 0,
+        "precipitation": 0.0,
+        "wind_speed_10m": 13.8
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T08:16"
+        ],
+        "sunset": [
+          "2026-10-01T20:00"
+        ]
+      }
+    },
+    "solar": {
+      "method": "NOAA fractional-year geometric approximation, not observation",
+      "elevation_deg": -47.28,
+      "azimuth_deg": 336.24
+    }
+  },
+  "masters": {
+    "16x9": {
+      "file": "es-01-084-cand-r1-16x9.png",
+      "width": 1920,
+      "height": 1270,
+      "sha256": "12ba41113188bac6abc2f3f943193b4f104d0918b7a716fe21d40203256c9f9a",
+      "bytes": 2354956,
+      "source": "/opt/cursor/artifacts/assets/src-084-16x9.jpg",
+      "source_width": 1280,
+      "source_height": 720
+    },
+    "4x5": {
+      "file": "es-01-084-cand-r1-4x5.png",
+      "width": 864,
+      "height": 1270,
+      "sha256": "ce7eed2c5760608a36dff5113bb4034c3e39506c37cd462569f3a1f342ead366",
+      "bytes": 1390444,
+      "source": "/opt/cursor/artifacts/assets/src-084-34.jpg",
+      "source_width": 864,
+      "source_height": 1152
+    },
+    "9x16": {
+      "file": "es-01-084-cand-r1-9x16.png",
+      "width": 1080,
+      "height": 2110,
+      "sha256": "07cbcfa6347f2d078d2b71174ce17ea33cdc705eb75e0f7460535c94a2876e75",
+      "bytes": 2181730,
+      "source": "/opt/cursor/artifacts/assets/src-084-916.jpg",
+      "source_width": 720,
+      "source_height": 1280
+    }
+  },
+  "producer_check": "Dimensions, label bar, and Art.50 comment date checked locally. This is not Cosmo QC and not an approval.",
+  "independent_verdict": null
+}

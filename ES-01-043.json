@@ -1,135 +1,193 @@
 {
   "entry_id": "ES-01-043",
   "country": "Spain",
-  "region": "Canary Islands",
   "city": "Teror",
-  "caption": "Basílica del Pino, Teror",
-  "scenario_label": "30 September 2026 · 23:22 Atlantic/Canary",
-  "composition": "Night · Torre Amarilla beside the basilica façade · AI-generated artistic interpretation",
-  "alt_text": "AI-generated artistic interpretation of the Basílica del Pino at night, with the yellow octagonal Torre Amarilla on the left of the façade.",
-  "description": "From Plaza del Pino, the Torre Amarilla stands on the left of the basilica: a yellow-stone octagonal bell tower in seven diminishing Manueline stages, with a pyramidal cap. The pale façade beside it has no central clock belfry.",
-  "viewpoint": "Plaza approach to Basílica de Nuestra Señora del Pino, Teror. Exact generated camera correspondence is unverified.",
-  "status": "Candidate · architectural rebuild · awaiting Cosmo re-audit · Night",
-  "approval_state": "candidate",
-  "gates": {
-    "visual": "pending — Cosmo re-audit; no pass claimed",
-    "technical": "pending — Cosmo re-audit; local dimension and Art.50 checks only",
-    "provenance": "pending — Cosmo re-audit; generation lineage recorded, uniqueness unverified",
-    "commercial_ip": "pending — Cosmo re-audit; not legal certification",
-    "publication": "candidate only — not approved for the gallery"
-  },
-  "weather": "Model data from Open-Meteo, retrieved 30 September 2026 23:22:58 Atlantic/Canary, valid 23:15 Atlantic/Canary — not a verified on-site observation. 19.4°C, WMO 1 mainly clear, cloud 49%, precipitation 0.0 mm, wind 1.6 km/h. Sunrise 07:54, sunset 19:49. Approximate solar elevation -46.36°, azimuth 118.86°. Night; no direct sunlight.",
-  "limitations": "Candidate only. No Cosmo QC is claimed for these bytes. 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top 864×1080 of a 864×1152 generated source and drop 72 pixels of foreground. Dimensions do not imply native detail. Open-Meteo figures are model data, not an on-site observation. Exact camera correspondence is not surveyed.",
-  "file_16x9": "es-01-043-cand-r1-16x9.png",
-  "file_4x5": "es-01-043-cand-r1-4x5.png",
-  "license_badge": "Free · no credit needed",
-  "license_anchor": "#license",
-  "editions": [],
-  "time_of_day": "Night",
-  "revision_lineage": "Full rebuild for wo-spain-architectural-rework-2026-09-30 pack 2. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. Previous masters remain in the repository as superseded bytes.",
-  "review_history": [
-    {
-      "date": "2026-09-30",
-      "previous_status": "Approved · Cosmo QC 5/5 · Night",
-      "previous_approval_state": "approved",
-      "previous_files": {
-        "16x9": "es-01-043-r1-16x9.png",
-        "4x5": "es-01-043-r1-4x5.png",
-        "9x16": null
-      },
-      "resolution": "Architectural rebuild cand-r1 landed as Candidate. The prior approval covered the previous bytes only. It does not cover cand-r1. No Cosmo re-audit is claimed."
-    }
+  "region": "Canary Islands",
+  "caption": "Teror, Teror",
+  "revision": "r1",
+  "viewpoint": "the historic center, looking toward the basilica",
+  "anchors": [
+    "Teror's old town with the basilica of Nuestra Señora del Pino",
+    "the Canarian balconies of the historic center",
+    "the pine forests around the town"
   ],
-  "approval_basis": "Not approved. cand-r1 is an architectural rebuild awaiting Cosmo re-audit. The earlier Cosmo approval applied only to the previous master bytes and is retained in review_history.",
+  "limitations": "Text-only generation; no photographic input. Exact camera position unverified. Replacement for a duplicate site — independently written.",
+  "refs": [
+    [
+      "https://en.wikipedia.org/wiki/Teror",
+      "Wikipedia — Teror, Gran Canaria"
+    ],
+    [
+      "https://www.hellocanaryislands.com",
+      "Official Canary Islands tourism portal — verify the Teror listing before use"
+    ]
+  ],
+  "status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_state": "approved",
+  "scenario_label": "24 September 2026 · 04:01 Europe/Madrid",
+  "time_of_day": "Night",
+  "composition": "Night · the basilica town · AI-generated artistic interpretation",
+  "alt_text": "AI-generated artistic interpretation of Teror, Teror at night.",
+  "description": "Teror keeps its old town around the basilica of the Virgen del Pino — Gran Canaria's patron — with famous Canarian balconies. A mostly clear night over the town. The Sunday market fills the historic center.",
+  "file_16x9": "es-01-043-r1-16x9.png",
+  "file_4x5": "es-01-043-r1-4x5.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
       "height": 1270,
-      "sha256": "2db5ed0ae91f69b31be235e1d170026750d4424fcbaa638df04e484c42f167b4",
-      "bytes": 1937977,
-      "source_width": 1280,
-      "source_height": 720,
-      "resampled": true
+      "sha256": "56ffd48c4b2277a307e236be646f9cfefb6c76559cab3febc664708b60f6f248"
     },
     "4x5": {
       "width": 864,
       "height": 1270,
-      "sha256": "a7f1bf63ad031502bd2789884d6ae5a720b2fc5e94fe98289f3b37c56b5a6a1d",
-      "bytes": 1044135,
-      "source_width": 864,
-      "source_height": 1152,
-      "resampled": false
-    },
-    "9x16": {
-      "width": 1080,
-      "height": 2110,
-      "sha256": "cca5dd643358354970705bb6e449fd1dc4a23e5623b45ce66b81e1cfa7f7444d",
-      "bytes": 2077433,
-      "source_width": 720,
-      "source_height": 1280,
-      "resampled": true
+      "sha256": "9c08b77c7dba80f1bc13f0f97a52f256340bf7bc3e730fb80ca010a5d5e07b03"
     }
   },
-  "revision": "cand-r1",
-  "file_9x16": "es-01-043-cand-r1-9x16.png",
-  "evidence_card": "evidence/ES-01-043.json",
-  "land_as": "Candidate",
-  "conditions_record": {
-    "retrieved_local": "2026-09-30T23:22:58.266554+01:00",
-    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=28.0592&longitude=-15.5476&current=temperature_2m%2Cweather_code%2Ccloud_cover%2Cis_day%2Cprecipitation%2Cwind_speed_10m&daily=sunrise%2Csunset&timezone=Atlantic%2FCanary&forecast_days=1",
-    "requested_coordinates": [
-      28.0592,
-      -15.5476
-    ],
-    "response": {
-      "latitude": 28.084358,
-      "longitude": -15.559326,
-      "generationtime_ms": 0.17201900482177734,
-      "utc_offset_seconds": 3600,
-      "timezone": "Atlantic/Canary",
-      "timezone_abbreviation": "GMT+1",
-      "elevation": 601.0,
-      "current_units": {
-        "time": "iso8601",
-        "interval": "seconds",
-        "temperature_2m": "°C",
-        "weather_code": "wmo code",
-        "cloud_cover": "%",
-        "is_day": "",
-        "precipitation": "mm",
-        "wind_speed_10m": "km/h"
+  "masters": {
+    "16x9": {
+      "file": "es-01-043-r1-16x9.png",
+      "dimensions": [
+        1920,
+        1270
+      ],
+      "byte_length": 2599554,
+      "sha256": "56ffd48c4b2277a307e236be646f9cfefb6c76559cab3febc664708b60f6f248",
+      "source_file": "es-01-043-r1.png",
+      "source_dimensions": [
+        1408,
+        1760
+      ],
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "labels": [
+        "Teror, Teror",
+        "Scenario: 24 September 2026 · 04:01 Europe/Madrid",
+        "AI-generated artistic interpretation · Not a photograph."
+      ],
+      "signature": "Jason D’s Vision",
+      "format": "PNG",
+      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
+      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
+    },
+    "4x5": {
+      "file": "es-01-043-r1-4x5.png",
+      "dimensions": [
+        864,
+        1270
+      ],
+      "byte_length": 1305814,
+      "sha256": "9c08b77c7dba80f1bc13f0f97a52f256340bf7bc3e730fb80ca010a5d5e07b03",
+      "source_file": "es-01-043-r1.png",
+      "source_dimensions": [
+        1408,
+        1760
+      ],
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "labels": [
+        "Teror, Teror",
+        "Scenario: 24 September 2026 · 04:01 Europe/Madrid",
+        "AI-generated artistic interpretation · Not a photograph."
+      ],
+      "signature": "Jason D’s Vision",
+      "format": "PNG",
+      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
+      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 864x1080. Not native target-resolution detail."
+    }
+  },
+  "conditions": {
+    "provider": "Open-Meteo",
+    "retrieved": "2026-09-24T04:01:26.088179+02:00",
+    "valid": "2026-09-24T04:00 Europe/Madrid",
+    "note": "Model data — not a verified on-site observation."
+  },
+  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T04:01:26.088179+02:00, valid 2026-09-24T04:00 Europe/Madrid — not a verified on-site observation.",
+  "prompts": {
+    "prompt-r1.txt": "Photorealistic original artistic interpretation (not a photograph) of Teror, Gran Canaria, Canary Islands, Spain. Tourist viewpoint: the historic center, looking toward the basilica. Frame: Teror's old town with the basilica of Nuestra Señora del Pino; the Canarian balconies of the historic center; the pine forests around the town. Light and weather: mostly clear night, light winds. Main subject centered to survive a 4:5 center crop. No identifiable people, no legible logos, no text, lettering or signs anywhere in the image. Keep the lower third clean and uncluttered."
+  },
+  "source_files": [
+    {
+      "file": "es-01-043-r1.png",
+      "sha256": "985a609dbe0c61f6cdfd3426feceda8381584fbbbc7e896bedf72d485c83633f",
+      "dimensions": [
+        1408,
+        1760
+      ],
+      "selected": true
+    }
+  ],
+  "provenance": {
+    "tool": "Built-in image generation; specific model version not exposed",
+    "image_inputs": [],
+    "source_use": "Text-only original generation. Third-party photographs inspected for facts, not supplied as input pixels. No uniqueness guarantee.",
+    "lineage": "Same selected source cropped and uniformly Lanczos-resampled to two exact PNGs; factual text and upward-fading scrim added deterministically. No stretching.",
+    "resampling": "Source [1408, 1760]; uniform Lanczos enlargement/crop to exact 1920x1080 and 864x1080. Not native target-resolution detail."
+  },
+  "production_checks": {
+    "technical": "Both PNGs fully decode, dimensions exact; label boxes in frame. Technical checks are not independent Cosmo QC.",
+    "visual": "Production comparison and limitations documented; not an independent gate verdict.",
+    "originality": "Own generated pixels; uniqueness not established.",
+    "commercial_ip": "No prominent people/logos or artwork focal subject; third-party clearance not legally certified.",
+    "publication": "Candidate handoff only. No approval inferred."
+  },
+  "independent_qc": {
+    "reviewer": "Cosmo",
+    "verdict": "Awaiting review",
+    "exact_pair_required": true
+  },
+  "card_handoff": {
+    "owner": "Cosmo",
+    "placement": "Candidate pipeline, two-format card (16:9/4:5 tabs, both downloads)",
+    "preserve": "caption, scenario, composition, description, status, disclosure, license, search/navigation and country switcher"
+  },
+  "license_badge": "Free · no credit needed",
+  "license_anchor": "#license",
+  "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
+  "reference_evidence": [],
+  "approval_basis": "Five-gate audit passed: Gate 1 visual/location — the Teror basilica facade with its stone bell tower, flanked by historic houses with traditional Canarian wooden balconies and a mountain backdrop, is recognizably depicted from a plausible tourist viewpoint, clean framing, no artifacts; Gate 2 technical — both masters at exact 1920x1080 and 864x1080 with SHA-256 matching the review packet, exact 'Jason D's Vision' signature, caption, scenario timestamp and AI disclosure all present and legible; Gate 3 provenance — review packet documents built-in text-only generation with no photographic inputs; Gate 4 IP — no visible people, logos, or recognizable private property, documented only; Gate 5 — no open blockers. Scenario label is a modelled night scenario, not a verified capture.",
+  "daylight_variant": {
+    "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
+    "source_night": {
+      "16x9": {
+        "path": "es-01-043-r1-16x9.png",
+        "sha256": "56ffd48c4b2277a307e236be646f9cfefb6c76559cab3febc664708b60f6f248"
       },
-      "current": {
-        "time": "2026-09-30T23:15",
-        "interval": 900,
-        "temperature_2m": 19.4,
-        "weather_code": 1,
-        "cloud_cover": 49,
-        "is_day": 0,
-        "precipitation": 0.0,
-        "wind_speed_10m": 1.6
-      },
-      "daily_units": {
-        "time": "iso8601",
-        "sunrise": "iso8601",
-        "sunset": "iso8601"
-      },
-      "daily": {
-        "time": [
-          "2026-09-30"
-        ],
-        "sunrise": [
-          "2026-09-30T07:54"
-        ],
-        "sunset": [
-          "2026-09-30T19:49"
-        ]
+      "4x5": {
+        "path": "es-01-043-r1-4x5.png",
+        "sha256": "9c08b77c7dba80f1bc13f0f97a52f256340bf7bc3e730fb80ca010a5d5e07b03"
       }
     },
-    "solar": {
-      "method": "NOAA fractional-year geometric approximation, not observation",
-      "elevation_deg": -46.36,
-      "azimuth_deg": 118.86
-    }
+    "masters": {
+      "16x9": {
+        "path": "es-01-043-daylight-16x9.png",
+        "width": 1920,
+        "height": 1270,
+        "sha256": "fce1db3c6c02f3276f0e16d0272979e922ed7e2c5e7eaabcb821a96f943d1927"
+      },
+      "4x5": {
+        "path": "es-01-043-daylight-4x5.png",
+        "width": 864,
+        "height": 1270,
+        "sha256": "45fdab35775a0973538c50f17b2951b1ced075ed0db054b4f0a8ac67cf87fcbe"
+      }
+    },
+    "on_image_text": [
+      "Teror, Teror",
+      "☀ Daylight variant · derived from the night interpretation",
+      "AI-generated artistic interpretation",
+      "Jason D’s Vision"
+    ],
+    "art50_png_chunks": [
+      "Title",
+      "Description",
+      "Copyright",
+      "Software",
+      "Comment"
+    ],
+    "country": "Spain"
   }
 }

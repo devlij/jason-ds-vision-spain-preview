@@ -4,16 +4,16 @@
   "region": "Andalusia",
   "city": "Córdoba",
   "caption": "Puerta del Puente, Córdoba",
-  "scenario_label": "30 September 2026 · 23:56 Europe/Madrid",
-  "composition": "Night · Puerta del Puente from Plaza del Triunfo toward the Roman Bridge · AI-generated artistic interpretation",
-  "alt_text": "AI-generated artistic interpretation of Puerta del Puente in Córdoba at night, with two warriors and the Crown of Spain shield in the circular pediment above the Philip II inscription, and the Roman Bridge beyond.",
-  "description": "The unfinished circular pediment carries two warriors displaying the Crown of Spain shield. Beneath it is the Philip II dedicatory inscription. The Roman Bridge shows through the passage from Plaza del Triunfo.",
+  "scenario_label": "23 September 2026 · 02:36 Europe/Madrid",
+  "composition": "Night · The freestanding Renaissance gate viewed from Plaza del Triunfo toward the Roman Bridge · AI-generated artistic interpretation",
+  "alt_text": "AI-generated artistic interpretation of Puerta del Puente in Córdoba at night, with the bridge visible through its opening.",
+  "description": "Pale stone columns frame the rectangular passage at the northern end of the Roman Bridge. This early Spain scene looks through the gate from Plaza del Triunfo toward the river crossing. Former entry ID: ES-AN-001.",
   "viewpoint": "Plaza del Triunfo, looking toward the bridge. Exact camera point remains provisional.",
-  "status": "Candidate · architectural rebuild · awaiting Cosmo re-audit · Night",
-  "limitations": "Candidate only. No Cosmo QC is claimed for these bytes. 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top of a 864×1152 generated source and drop foreground. Dimensions do not imply native detail. Open-Meteo figures are model data, not an on-site observation. Exact camera correspondence is not surveyed. Generated glyphs on the tablet were not the documented wording. The four lines were typeset onto the generated stone tablet from the Wikipedia transcription of the monument. The warrior relief, shield, columns, and bridge are part of the generated rebuild.",
-  "weather": "Model data from Open-Meteo, retrieved 30 September 2026 23:56:56 Europe/Madrid, valid 23:45 Europe/Madrid — not a verified on-site observation. 24.3°C, WMO 3 overcast, cloud 78%, precipitation 0.0 mm, wind 2.2 km/h. Sunrise 08:13, sunset 20:03. Approximate solar elevation -43.61°, azimuth 311.33°. Night; no direct sunlight.",
-  "file_16x9": "es-01-017-cand-r1-16x9.png",
-  "file_4x5": "es-01-017-cand-r1-4x5.png",
+  "status": "Approved · Cosmo QC 5/5 · Night",
+  "limitations": "Cosmo approval relayed by Jason; no new independent audit claimed. Historical provenance and weather limitations retained. Internal approval does not certify third-party rights.",
+  "weather": "Historical provider report: mostly clear, about 20°C. Not a verified on-site observation. Retrieval/valid-time detail does not meet the new Open-Meteo requirement.",
+  "file_16x9": "es-01-017-16x9.png",
+  "file_4x5": "es-01-017-4x5.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "editions": [
@@ -30,42 +30,25 @@
   "legacy_ids": [
     "ES-AN-001"
   ],
-  "approval_state": "candidate",
+  "approval_state": "approved",
   "gates": {
-    "visual": "pending — Cosmo re-audit; no pass claimed",
-    "technical": "pending — Cosmo re-audit; local dimension and Art.50 checks only",
-    "provenance": "pending — Cosmo re-audit; generation lineage recorded, uniqueness unverified",
-    "commercial_ip": "pending — Cosmo re-audit; not legal certification",
-    "publication": "candidate only — not approved for the gallery"
+    "visual": "pass",
+    "technical": "pass",
+    "provenance": "pass",
+    "commercial_ip": "pass",
+    "publication": "pass"
   },
-  "approval_basis": "Not approved. cand-r1 is an architectural rebuild awaiting Cosmo re-audit. The earlier Cosmo approval applied only to the previous master bytes and is retained in review_history.",
+  "approval_basis": "Cosmo QC: 5/5 approved, relayed and authorized by Jason on 23 September 2026. Internal review, not legal certification.",
   "dimensions": {
     "16x9": {
       "width": 1920,
       "height": 1270,
-      "sha256": "6e8b9202332934d92e61c00d31728f8288e96fefb6037afebffc69186ed257da",
-      "bytes": 2125512,
-      "source_width": 1280,
-      "source_height": 720,
-      "resampled": true
+      "sha256": "bc9f0972a563a4e1f1fdf97291d5c701e26710f1ba08a2cc9fb6796d8e1cea67"
     },
     "4x5": {
       "width": 864,
       "height": 1270,
-      "sha256": "1a14ad5f3ff7949656eafd989d2e744b800617ad0a20892a752b1c27d969e9d0",
-      "bytes": 1154288,
-      "source_width": 864,
-      "source_height": 1152,
-      "resampled": true
-    },
-    "9x16": {
-      "width": 1080,
-      "height": 2110,
-      "sha256": "c6c2e2d639a18f648dac07ecfb493e5cea325eb05b3fa35d5e0a44a6be9fa20a",
-      "bytes": 2097300,
-      "source_width": 720,
-      "source_height": 1280,
-      "resampled": true
+      "sha256": "4c97ccf9bc2ca331d4149da420567ff9d7a207159c480c665a57dd853fa7176a"
     }
   },
   "file_naming_note": "Canonical ES-01 filenames are byte-identical copies. ES-AN filenames are retained only as compatibility aliases for historical links.",
@@ -108,83 +91,6 @@
       "Software",
       "Comment"
     ],
-    "country": "Spain",
-    "candidate_note": "Historical daylight derivative. Not part of cand-r1. The candidate masters are the night 16:9, 4:5, and 9:16 files named in file_16x9, file_4x5, and file_9x16."
-  },
-  "revision": "cand-r1",
-  "revision_lineage": "Full rebuild for wo-spain-architectural-rework-2026-09-30 pack 1. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. Previous masters remain in the repository as superseded bytes.",
-  "file_9x16": "es-01-017-cand-r1-9x16.png",
-  "review_history": [
-    {
-      "date": "2026-09-30",
-      "previous_status": "Approved · Cosmo QC 5/5 · Night",
-      "previous_approval_state": "approved",
-      "previous_files": {
-        "16x9": "es-01-017-16x9.png",
-        "4x5": "es-01-017-4x5.png",
-        "9x16": null
-      },
-      "resolution": "Architectural rebuild cand-r1 landed as Candidate on 30 September 2026. The prior approval covered the previous bytes only. It does not cover cand-r1. No Cosmo re-audit is claimed."
-    }
-  ],
-  "evidence_card": "evidence/ES-01-017.json",
-  "land_as": "Candidate",
-  "conditions_record": {
-    "retrieved_local": "2026-09-30T23:56:56.347787+02:00",
-    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=37.8778&longitude=-4.7794&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
-    "requested_coordinates": [
-      37.8778,
-      -4.7794
-    ],
-    "response": {
-      "latitude": 37.875,
-      "longitude": -4.75,
-      "generationtime_ms": 1.7529726028442383,
-      "utc_offset_seconds": 7200,
-      "timezone": "Europe/Madrid",
-      "timezone_abbreviation": "GMT+2",
-      "elevation": 112.0,
-      "current_units": {
-        "time": "iso8601",
-        "interval": "seconds",
-        "temperature_2m": "°C",
-        "weather_code": "wmo code",
-        "cloud_cover": "%",
-        "is_day": "",
-        "precipitation": "mm",
-        "wind_speed_10m": "km/h"
-      },
-      "current": {
-        "time": "2026-09-30T23:45",
-        "interval": 900,
-        "temperature_2m": 24.3,
-        "weather_code": 3,
-        "cloud_cover": 78,
-        "is_day": 0,
-        "precipitation": 0.0,
-        "wind_speed_10m": 2.2
-      },
-      "daily_units": {
-        "time": "iso8601",
-        "sunrise": "iso8601",
-        "sunset": "iso8601"
-      },
-      "daily": {
-        "time": [
-          "2026-09-30"
-        ],
-        "sunrise": [
-          "2026-09-30T08:13"
-        ],
-        "sunset": [
-          "2026-09-30T20:03"
-        ]
-      }
-    },
-    "solar": {
-      "method": "NOAA fractional-year geometric approximation, not observation",
-      "elevation_deg": -43.61,
-      "azimuth_deg": 311.33
-    }
+    "country": "Spain"
   }
 }

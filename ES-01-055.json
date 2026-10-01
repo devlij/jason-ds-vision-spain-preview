@@ -1,135 +1,198 @@
 {
   "entry_id": "ES-01-055",
   "country": "Spain",
-  "region": "La Rioja",
   "city": "Logroño",
+  "region": "La Rioja",
   "caption": "Calle Laurel, Logroño",
-  "scenario_label": "1 October 2026 · 00:38 Europe/Madrid",
-  "composition": "Night · the tavern street opening onto its cross street, not a church front · AI-generated artistic interpretation",
-  "alt_text": "AI-generated artistic interpretation of Calle Laurel in Logroño at night, a tavern street that opens onto a cross street rather than a church façade.",
-  "description": "Calle Laurel at night is a narrow pedestrian street of tavern doorways. It runs between Capitán Gallarza and Travesía del Laurel and opens onto that crossing; it does not end at a church façade.",
-  "viewpoint": "Pedestrian Calle Laurel itself, looking along its tavern-lined length. Exact generated camera correspondence is unverified.",
-  "status": "Candidate · architectural rebuild · awaiting Cosmo re-audit · Night",
-  "approval_state": "candidate",
-  "gates": {
-    "visual": "pending — Cosmo re-audit; no pass claimed",
-    "technical": "pending — Cosmo re-audit; local dimension and Art.50 checks only",
-    "provenance": "pending — Cosmo re-audit; generation lineage recorded, uniqueness unverified",
-    "commercial_ip": "pending — Cosmo re-audit; not legal certification",
-    "publication": "candidate only — not approved for the gallery"
-  },
-  "weather": "Model data from Open-Meteo, retrieved 1 October 2026 00:38:36 Europe/Madrid, valid 00:30 Europe/Madrid — not a verified on-site observation. 19.2°C, WMO 2 partly cloudy, cloud 57%, precipitation 0.0 mm, wind 9.0 km/h. Sunrise 08:06, sunset 19:51. Approximate solar elevation -46.28°, azimuth 150.02°. Night; no direct sunlight.",
-  "limitations": "Candidate only. No Cosmo QC is claimed for these bytes. 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top 864×1080 of an 864×1152 generated source and drop 72 pixels of foreground. Dimensions do not imply native detail. Open-Meteo figures are model data, not an on-site observation. Exact camera correspondence is not surveyed.",
-  "file_16x9": "es-01-055-cand-r1-16x9.png",
-  "file_4x5": "es-01-055-cand-r1-4x5.png",
-  "license_badge": "Free · no credit needed",
-  "license_anchor": "#license",
-  "editions": [],
-  "time_of_day": "Night",
-  "revision_lineage": "Full rebuild for wo-spain-architectural-rework-2026-09-30 pack 3. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. Previous masters remain in the repository as superseded bytes.",
-  "review_history": [
-    {
-      "date": "2026-10-01",
-      "previous_status": "Approved · Cosmo QC 5/5 · Night",
-      "previous_approval_state": "approved",
-      "previous_files": {
-        "16x9": "es-01-055-r2-16x9.png",
-        "4x5": "es-01-055-r2-4x5.png",
-        "9x16": null
-      },
-      "resolution": "Architectural rebuild cand-r1 landed as Candidate. The prior approval covered the previous bytes only. It does not cover cand-r1. No Cosmo re-audit is claimed."
-    }
+  "revision": "r2",
+  "viewpoint": "the pedestrian street itself, looking along its tavern-lined length",
+  "anchors": [
+    "the lively Calle Laurel with its tavern-lined pedestrian street",
+    "Logroño's old-town stone façades and the church of San Bartolomé",
+    "the Ebro riverfront with the Stone Bridge nearby"
   ],
-  "approval_basis": "Not approved. cand-r1 is an architectural rebuild awaiting Cosmo re-audit. The earlier Cosmo approval applied only to the previous master bytes and is retained in review_history.",
+  "limitations": "Text-only generation; no photographic input. Exact camera position unverified. Crowd levels are illustrative — no identifiable people depicted. Revision r2: regenerated with a fresh source image after r1 audit FAIL; no r1 pixels reused.",
+  "refs": [
+    [
+      "https://en.wikipedia.org/wiki/Logro%C3%B1o",
+      "Wikipedia — Logroño, capital of La Rioja"
+    ],
+    [
+      "https://www.spain.info/en/region/la-rioja/",
+      "spain.info — official Spain tourism, La Rioja region page (official lariojaturismo.com unreachable from builder network)"
+    ]
+  ],
+  "status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_state": "approved",
+  "scenario_label": "24 September 2026 · 05:20 Europe/Madrid",
+  "time_of_day": "Night",
+  "composition": "Night · the tavern street in the old town · AI-generated artistic interpretation",
+  "alt_text": "AI-generated artistic interpretation of Calle Laurel, Logroño at night.",
+  "description": "You stand on Calle Laurel in Logroño's old town, the famous tavern street, its bars' lights and signs glowing along the narrow lane. Shutters and balconies rise on both sides, with the street disappearing into shadow at either end. By day this lane is the capital of Rioja tapas; at night it holds its breath.",
+  "file_16x9": "es-01-055-r2-16x9.png",
+  "file_4x5": "es-01-055-r2-4x5.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
       "height": 1270,
-      "sha256": "8a33558b82f67b3eb1deacd2b92f9c7df0f38c7478f59a9cb135ce114266d3f1",
-      "bytes": 2818481,
-      "source_width": 1280,
-      "source_height": 720,
-      "resampled": true
+      "sha256": "62476b0c595f33d8df1547ea0062ea4829de62b43411af82d8ce4773be962f89"
     },
     "4x5": {
       "width": 864,
       "height": 1270,
-      "sha256": "79fb34790b5780cc726314ef49666c14551b0cc739cb69b3cd4946670446917c",
-      "bytes": 1549872,
-      "source_width": 864,
-      "source_height": 1152,
-      "resampled": false
-    },
-    "9x16": {
-      "width": 1080,
-      "height": 2110,
-      "sha256": "5edaf7eb528e385a22d81bc68872518f835bcbd27177590f40e4eb0e2275bc0b",
-      "bytes": 2953946,
-      "source_width": 720,
-      "source_height": 1280,
-      "resampled": true
+      "sha256": "7541911ecf17038ec7cf9cc2c1f7bb0adaecc50360e7dd8079637ed76b11d8c7"
     }
   },
-  "revision": "cand-r1",
-  "file_9x16": "es-01-055-cand-r1-9x16.png",
-  "evidence_card": "evidence/ES-01-055.json",
-  "land_as": "Candidate",
-  "conditions_record": {
-    "retrieved_local": "2026-10-01T00:38:36.601355+02:00",
-    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=42.46551&longitude=-2.44846&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
-    "requested_coordinates": [
-      42.46551,
-      -2.44846
-    ],
-    "response": {
-      "latitude": 42.47,
-      "longitude": -2.4499998,
-      "generationtime_ms": 34.63292121887207,
-      "utc_offset_seconds": 7200,
-      "timezone": "Europe/Madrid",
-      "timezone_abbreviation": "GMT+2",
-      "elevation": 395.0,
-      "current_units": {
-        "time": "iso8601",
-        "interval": "seconds",
-        "temperature_2m": "°C",
-        "weather_code": "wmo code",
-        "cloud_cover": "%",
-        "is_day": "",
-        "precipitation": "mm",
-        "wind_speed_10m": "km/h"
+  "masters": {
+    "16x9": {
+      "file": "es-01-055-r2-16x9.png",
+      "dimensions": [
+        1920,
+        1270
+      ],
+      "byte_length": 2460317,
+      "sha256": "62476b0c595f33d8df1547ea0062ea4829de62b43411af82d8ce4773be962f89",
+      "source_file": "media-generation-es-01-055-r2-source-0-83177819-f00c-47ed-90db-310d0cd8b3c3.png",
+      "source_dimensions": [
+        1920,
+        1280
+      ],
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "labels": [
+        "Calle Laurel, Logroño",
+        "Scenario: 24 September 2026 · 05:20 Europe/Madrid",
+        "AI-generated artistic interpretation · Not a photograph."
+      ],
+      "signature": "Jason D’s Vision",
+      "format": "PNG",
+      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
+      "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
+    },
+    "4x5": {
+      "file": "es-01-055-r2-4x5.png",
+      "dimensions": [
+        864,
+        1270
+      ],
+      "byte_length": 1216049,
+      "sha256": "7541911ecf17038ec7cf9cc2c1f7bb0adaecc50360e7dd8079637ed76b11d8c7",
+      "source_file": "media-generation-es-01-055-r2-source-0-83177819-f00c-47ed-90db-310d0cd8b3c3.png",
+      "source_dimensions": [
+        1920,
+        1280
+      ],
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "labels": [
+        "Calle Laurel, Logroño",
+        "Scenario: 24 September 2026 · 05:20 Europe/Madrid",
+        "AI-generated artistic interpretation · Not a photograph."
+      ],
+      "signature": "Jason D’s Vision",
+      "format": "PNG",
+      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
+      "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 864x1080. Not native target-resolution detail."
+    }
+  },
+  "conditions": {
+    "provider": "Open-Meteo",
+    "retrieved": "2026-09-24T05:20:58+02:00",
+    "valid": "2026-09-24T05:15 Europe/Madrid",
+    "phrase": "A clear night over the old town, light air.",
+    "note": "Model data — not a verified on-site observation.",
+    "temperature_2m": "16.8",
+    "weather_code": "0",
+    "cloud_cover": "0",
+    "wind_speed_10m": "5.1"
+  },
+  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T05:20:58+02:00, valid 2026-09-24T05:15 Europe/Madrid — not a verified on-site observation.",
+  "prompts": {
+    "prompt-r2.txt": "Photorealistic original artistic interpretation (not a photograph) of Calle Laurel in Logroño, La Rioja, Spain, at DEEP ASTRONOMICAL NIGHT (around 5:20 in the morning). Tourist viewpoint: the pedestrian street itself, looking along its tavern-lined length — stone facades, open tavern doorways with warm interiors, the sculpted portal and bell tower of the church of San Bartolomé closing the lane. Deep night: pitch-dark star-filled sky, moonlight, warm tavern light spilling from doorways only. NO daylight, NO blue-hour brightness. Main subject centered. No identifiable people. CRITICAL: absolutely no legible text, lettering, signs, signboards, menu boards, or door plaques anywhere in the image — every sign surface must be blank."
+  },
+  "source_files": [
+    {
+      "file": "media-generation-es-01-055-r2-source-0-83177819-f00c-47ed-90db-310d0cd8b3c3.png",
+      "sha256": "4b61cf4e75739ecec4dc7132a753e47b19196e318a71b2f7998ade22c2b402a4",
+      "dimensions": [
+        1920,
+        1280
+      ],
+      "selected": true
+    }
+  ],
+  "provenance": {
+    "tool": "Built-in image generation; specific model version not exposed",
+    "image_inputs": [],
+    "source_use": "Text-only original generation. Third-party photographs inspected for facts, not supplied as input pixels. No uniqueness guarantee.",
+    "lineage": "Same selected source cropped and uniformly Lanczos-resampled to two exact PNGs; factual text and upward-fading scrim added deterministically. No stretching.",
+    "resampling": "Source [1920, 1280]; uniform Lanczos enlargement/crop to exact 1920x1080 and 864x1080. Not native target-resolution detail."
+  },
+  "production_checks": {
+    "technical": "Both PNGs fully decode, dimensions exact; label boxes in frame. Technical checks are not independent Cosmo QC.",
+    "visual": "Production comparison and limitations documented; not an independent gate verdict.",
+    "originality": "Own generated pixels; uniqueness not established.",
+    "commercial_ip": "No prominent people/logos or artwork focal subject; third-party clearance not legally certified.",
+    "publication": "Candidate handoff only. No approval inferred."
+  },
+  "independent_qc": {
+    "reviewer": "Cosmo",
+    "verdict": "Awaiting review",
+    "exact_pair_required": true
+  },
+  "card_handoff": {
+    "owner": "Cosmo",
+    "placement": "Candidate pipeline, two-format card (16:9/4:5 tabs, both downloads)",
+    "preserve": "caption, scenario, composition, description, status, disclosure, license, search/navigation and country switcher"
+  },
+  "license_badge": "Free · no credit needed",
+  "license_anchor": "#license",
+  "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
+  "reference_evidence": [],
+  "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor E: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/E/ES-01-055.md. r2 rebuild (legible-text defect fixed).",
+  "daylight_variant": {
+    "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
+    "source_night": {
+      "16x9": {
+        "path": "es-01-055-r2-16x9.png",
+        "sha256": "62476b0c595f33d8df1547ea0062ea4829de62b43411af82d8ce4773be962f89"
       },
-      "current": {
-        "time": "2026-10-01T00:30",
-        "interval": 900,
-        "temperature_2m": 19.2,
-        "weather_code": 2,
-        "cloud_cover": 57,
-        "is_day": 0,
-        "precipitation": 0.0,
-        "wind_speed_10m": 9.0
-      },
-      "daily_units": {
-        "time": "iso8601",
-        "sunrise": "iso8601",
-        "sunset": "iso8601"
-      },
-      "daily": {
-        "time": [
-          "2026-10-01"
-        ],
-        "sunrise": [
-          "2026-10-01T08:06"
-        ],
-        "sunset": [
-          "2026-10-01T19:51"
-        ]
+      "4x5": {
+        "path": "es-01-055-r2-4x5.png",
+        "sha256": "7541911ecf17038ec7cf9cc2c1f7bb0adaecc50360e7dd8079637ed76b11d8c7"
       }
     },
-    "solar": {
-      "method": "NOAA fractional-year geometric approximation, not observation",
-      "elevation_deg": -46.28,
-      "azimuth_deg": 150.02
-    }
+    "masters": {
+      "16x9": {
+        "path": "es-01-055-daylight-16x9.png",
+        "width": 1920,
+        "height": 1270,
+        "sha256": "d02efe2b0ef88539f97d64077543e4aca5dcb89ff979a398190741d2fdfb137f"
+      },
+      "4x5": {
+        "path": "es-01-055-daylight-4x5.png",
+        "width": 864,
+        "height": 1270,
+        "sha256": "551561861e9f9e621b8093d61141685fb839f0035f6a8923f32e36376d3c6a43"
+      }
+    },
+    "on_image_text": [
+      "Calle Laurel, Logroño",
+      "☀ Daylight variant · derived from the night interpretation",
+      "AI-generated artistic interpretation",
+      "Jason D’s Vision"
+    ],
+    "art50_png_chunks": [
+      "Title",
+      "Description",
+      "Copyright",
+      "Software",
+      "Comment"
+    ],
+    "country": "Spain"
   }
 }

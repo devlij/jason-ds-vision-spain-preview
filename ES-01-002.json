@@ -4,29 +4,29 @@
   "region": "Catalonia",
   "city": "Barcelona",
   "caption": "Park Güell, Barcelona",
-  "scenario_label": "30 September 2026 · 23:56 Europe/Madrid",
-  "composition": "Night · Entrance pavilions from the Dragon Stairway, checkered tower on the left · AI-generated artistic interpretation",
-  "alt_text": "AI-generated artistic interpretation of Park Güell at night from the Dragon Stairway, with the blue-and-white checkered Casa del Guarda tower on the viewer's left and the shorter pavilion on the right.",
-  "description": "Looking downhill south-southeast, the eastern Casa del Guarda and its blue-and-white checkered tower stand on the viewer's left. The shorter western reception pavilion stands on the right. The trencadís salamander sits on the stair between them.",
+  "scenario_label": "23 September 2026 · 09:33 Europe/Madrid",
+  "composition": "Morning daylight · Entrance pavilions from the Dragon Stairway · AI-generated artistic interpretation",
+  "alt_text": "AI-generated artistic interpretation of Park Güell entrance pavilions seen downhill from the staircase in morning daylight.",
+  "description": "The larger entrance pavilion stands left, with the smaller pavilion and its checkerboard cross-topped tower to the right. Both formats retain the complete pavilions and tower crown. Approved following Cosmo QC 5/5, relayed by Jason on 23 September 2026.",
   "viewpoint": "Dragon Stairway upper landing, looking downhill approximately south-southeast. Exact generated camera correspondence is unverified.",
-  "status": "Candidate · architectural rebuild · awaiting Cosmo re-audit · Night",
-  "approval_state": "candidate",
+  "status": "Approved · Cosmo QC 5/5 · Morning daylight",
+  "approval_state": "approved",
   "gates": {
-    "visual": "pending — Cosmo re-audit; no pass claimed",
-    "technical": "pending — Cosmo re-audit; local dimension and Art.50 checks only",
-    "provenance": "pending — Cosmo re-audit; generation lineage recorded, uniqueness unverified",
-    "commercial_ip": "pending — Cosmo re-audit; not legal certification",
-    "publication": "candidate only — not approved for the gallery"
+    "visual": "pass — Cosmo QC relayed by Jason",
+    "technical": "pass — Cosmo QC relayed by Jason",
+    "provenance": "pass — Cosmo QC relayed by Jason",
+    "commercial_ip": "pass — Cosmo QC relayed by Jason",
+    "publication": "pass — Cosmo QC relayed by Jason"
   },
-  "weather": "Model data from Open-Meteo, retrieved 30 September 2026 23:56:49 Europe/Madrid, valid 23:45 Europe/Madrid — not a verified on-site observation. 22.3°C, WMO 3 overcast, cloud 100%, precipitation 0.0 mm, wind 2.1 km/h. Sunrise 07:47, sunset 19:35. Approximate solar elevation -44.7°, azimuth 321.85°. Night; no direct sunlight.",
-  "limitations": "Candidate only. No Cosmo QC is claimed for these bytes. 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top of a 864×1152 generated source and drop foreground. Dimensions do not imply native detail. Open-Meteo figures are model data, not an on-site observation. Exact camera correspondence is not surveyed.",
-  "file_16x9": "es-01-002-cand-r1-16x9.png",
-  "file_4x5": "es-01-002-cand-r1-4x5.png",
+  "weather": "Model data from Open-Meteo, retrieved 23 September 2026 09:33:41 Europe/Madrid, valid 09:30 Europe/Madrid — not a verified on-site observation. 19.9°C, mainly clear, cloud 12%. Sunrise 07:39, sunset 19:47; morning daylight.",
+  "limitations": "Cosmo approval relayed by Jason; no new independent audit claimed. Historical research and generation lineage retained. Internal QC approval does not establish uniqueness or third-party commercial/IP clearance.",
+  "file_16x9": "es-01-002-16x9.png",
+  "file_4x5": "es-01-002-4x5.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "editions": [],
-  "time_of_day": "Night",
-  "revision_lineage": "Full rebuild for wo-spain-architectural-rework-2026-09-30 pack 1. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. Previous masters remain in the repository as superseded bytes.",
+  "time_of_day": "Morning daylight",
+  "revision_lineage": "Text-only built-in image generation followed by one own-image framing edit. Same-source crop and gradient text exports. No photographic image inputs.",
   "review_history": [
     {
       "previous_status": "Candidate · foreground and architectural detail require QC · not approved",
@@ -38,109 +38,19 @@
         "publication": "candidate pipeline only"
       },
       "resolution": "Superseded for editorial gallery placement by Cosmo QC APPROVED 5/5, relayed and authorized by Jason on 2026-09-23. Historical internal concerns retained."
-    },
-    {
-      "date": "2026-09-30",
-      "previous_status": "Approved · Cosmo QC 5/5 · Morning daylight",
-      "previous_approval_state": "approved",
-      "previous_files": {
-        "16x9": "es-01-002-16x9.png",
-        "4x5": "es-01-002-4x5.png",
-        "9x16": null
-      },
-      "resolution": "Architectural rebuild cand-r1 landed as Candidate on 30 September 2026. The prior approval covered the previous bytes only. It does not cover cand-r1. No Cosmo re-audit is claimed."
     }
   ],
-  "approval_basis": "Not approved. cand-r1 is an architectural rebuild awaiting Cosmo re-audit. The earlier Cosmo approval applied only to the previous master bytes and is retained in review_history.",
+  "approval_basis": "Cosmo QC APPROVED 5/5, 2026-09-23, relayed by Jason: honest 09:33 morning daylight; both pavilions and cross-topped tower fully framed in both formats; text and signature clean. Internal QC, not legal certification.",
   "dimensions": {
     "16x9": {
       "width": 1920,
       "height": 1270,
-      "sha256": "c748b41373c2e63858b943f68aaf49c09fda2a169fc9db31de7bf4b868b90354",
-      "bytes": 2398167,
-      "source_width": 1280,
-      "source_height": 720,
-      "resampled": true
+      "sha256": "3ecaf5c41455e66f969b80d39e7fe63f6e1b2cf5858b42629f2482ae82a87311"
     },
     "4x5": {
       "width": 864,
       "height": 1270,
-      "sha256": "8d0937a0697b5c040de4d55ae470b28129687a0068e9b5d1c75eb89f9bbda1d3",
-      "bytes": 1460323,
-      "source_width": 864,
-      "source_height": 1152,
-      "resampled": true
-    },
-    "9x16": {
-      "width": 1080,
-      "height": 2110,
-      "sha256": "4355ecb134204e259a70227d0a2d6b8b98b358851c9fd81e78a8119171eed0ef",
-      "bytes": 2413714,
-      "source_width": 720,
-      "source_height": 1280,
-      "resampled": true
-    }
-  },
-  "revision": "cand-r1",
-  "file_9x16": "es-01-002-cand-r1-9x16.png",
-  "evidence_card": "evidence/ES-01-002.json",
-  "land_as": "Candidate",
-  "conditions_record": {
-    "retrieved_local": "2026-09-30T23:56:49.072695+02:00",
-    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=41.4145&longitude=2.1527&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
-    "requested_coordinates": [
-      41.4145,
-      2.1527
-    ],
-    "response": {
-      "latitude": 41.4375,
-      "longitude": 2.125,
-      "generationtime_ms": 0.11992454528808594,
-      "utc_offset_seconds": 7200,
-      "timezone": "Europe/Madrid",
-      "timezone_abbreviation": "GMT+2",
-      "elevation": 176.0,
-      "current_units": {
-        "time": "iso8601",
-        "interval": "seconds",
-        "temperature_2m": "°C",
-        "weather_code": "wmo code",
-        "cloud_cover": "%",
-        "is_day": "",
-        "precipitation": "mm",
-        "wind_speed_10m": "km/h"
-      },
-      "current": {
-        "time": "2026-09-30T23:45",
-        "interval": 900,
-        "temperature_2m": 22.3,
-        "weather_code": 3,
-        "cloud_cover": 100,
-        "is_day": 0,
-        "precipitation": 0.0,
-        "wind_speed_10m": 2.1
-      },
-      "daily_units": {
-        "time": "iso8601",
-        "sunrise": "iso8601",
-        "sunset": "iso8601"
-      },
-      "daily": {
-        "time": [
-          "2026-09-30"
-        ],
-        "sunrise": [
-          "2026-09-30T07:47"
-        ],
-        "sunset": [
-          "2026-09-30T19:35"
-        ]
-      }
-    },
-    "solar": {
-      "method": "NOAA fractional-year geometric approximation, not observation",
-      "elevation_deg": -44.7,
-      "azimuth_deg": 321.85
+      "sha256": "5e82301250a2b90ac4cf356322f132a4a9f18a3d23826b47439a4ce3872ab2c7"
     }
   }
 }

@@ -1,135 +1,193 @@
 {
   "entry_id": "ES-01-052",
   "country": "Spain",
-  "region": "Cantabria",
   "city": "Los Tojos",
+  "region": "Cantabria",
   "caption": "Bárcena Mayor, Los Tojos",
-  "scenario_label": "1 October 2026 · 00:38 Europe/Madrid",
-  "composition": "Night · the squat three-body campanario of Santa María with its terracotta hip roof · AI-generated artistic interpretation",
-  "alt_text": "AI-generated artistic interpretation of Bárcena Mayor at night, with the squat square three-body campanario of Santa María under a low terracotta hip roof and an iron cross.",
-  "description": "Along the main street of Bárcena Mayor at night, stone houses with wooden balconies lead to the church of Santa María. Its squat square campanario is three stone bodies under a low terracotta hip roof, finished with a wrought-iron cross and weather-vane.",
-  "viewpoint": "Main village street of Bárcena Mayor, looking along its length. Exact generated camera correspondence is unverified.",
-  "status": "Candidate · architectural rebuild · awaiting Cosmo re-audit · Night",
-  "approval_state": "candidate",
-  "gates": {
-    "visual": "pending — Cosmo re-audit; no pass claimed",
-    "technical": "pending — Cosmo re-audit; local dimension and Art.50 checks only",
-    "provenance": "pending — Cosmo re-audit; generation lineage recorded, uniqueness unverified",
-    "commercial_ip": "pending — Cosmo re-audit; not legal certification",
-    "publication": "candidate only — not approved for the gallery"
-  },
-  "weather": "Model data from Open-Meteo, retrieved 1 October 2026 00:38:32 Europe/Madrid, valid 00:30 Europe/Madrid — not a verified on-site observation. 13.9°C, WMO 3 overcast, cloud 100%, precipitation 0.0 mm, wind 2.8 km/h. Sunrise 08:14, sunset 19:58. Approximate solar elevation -45.03°, azimuth 148.05°. Night; no direct sunlight.",
-  "limitations": "Candidate only. No Cosmo QC is claimed for these bytes. 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top 864×1080 of an 864×1152 generated source and drop 72 pixels of foreground. Dimensions do not imply native detail. Open-Meteo figures are model data, not an on-site observation. Exact camera correspondence is not surveyed.",
-  "file_16x9": "es-01-052-cand-r1-16x9.png",
-  "file_4x5": "es-01-052-cand-r1-4x5.png",
-  "license_badge": "Free · no credit needed",
-  "license_anchor": "#license",
-  "editions": [],
-  "time_of_day": "Night",
-  "revision_lineage": "Full rebuild for wo-spain-architectural-rework-2026-09-30 pack 3. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. Previous masters remain in the repository as superseded bytes.",
-  "review_history": [
-    {
-      "date": "2026-10-01",
-      "previous_status": "Approved · Cosmo QC 5/5 · Night",
-      "previous_approval_state": "approved",
-      "previous_files": {
-        "16x9": "es-01-052-r1-16x9.png",
-        "4x5": "es-01-052-r1-4x5.png",
-        "9x16": null
-      },
-      "resolution": "Architectural rebuild cand-r1 landed as Candidate. The prior approval covered the previous bytes only. It does not cover cand-r1. No Cosmo re-audit is claimed."
-    }
+  "revision": "r1",
+  "viewpoint": "the main village street, looking along its length",
+  "anchors": [
+    "stone houses with wooden balconies lining the single main street",
+    "the Saja river valley's green slopes rising on both sides",
+    "the village's quiet plaza with its old church"
   ],
-  "approval_basis": "Not approved. cand-r1 is an architectural rebuild awaiting Cosmo re-audit. The earlier Cosmo approval applied only to the previous master bytes and is retained in review_history.",
+  "limitations": "Text-only generation; no photographic input. Exact camera position unverified. House details are representative of the village's vernacular architecture.",
+  "refs": [
+    [
+      "https://en.wikipedia.org/wiki/Los_Tojos",
+      "Wikipedia — Los Tojos municipality, including Bárcena Mayor"
+    ],
+    [
+      "https://turismodecantabria.com",
+      "Official Cantabria tourism portal — verify the Bárcena Mayor listing before use"
+    ]
+  ],
+  "status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_state": "approved",
+  "scenario_label": "24 September 2026 · 04:06 Europe/Madrid",
+  "time_of_day": "Night",
+  "composition": "Night · the historic village street in its valley · AI-generated artistic interpretation",
+  "alt_text": "AI-generated artistic interpretation of Bárcena Mayor, Los Tojos at night.",
+  "description": "Walk the historic village street of Bárcena Mayor at night, its old stone houses dark and silent along the lane. Lamplight touches the cobbles while the valley's wooded slopes close in black around the village. The mountain village sleeps, its centuries-old street empty under the stars.",
+  "file_16x9": "es-01-052-r1-16x9.png",
+  "file_4x5": "es-01-052-r1-4x5.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
       "height": 1270,
-      "sha256": "4ef639327a367ceae614e0c45b8fef13deedf6d11b472969b4a8b0348693510c",
-      "bytes": 2766296,
-      "source_width": 1280,
-      "source_height": 720,
-      "resampled": true
+      "sha256": "cee87cd1e8a58721c6ac3c92c25b0425eb6a35d445ac3f01557e35c8fa8474f1"
     },
     "4x5": {
       "width": 864,
       "height": 1270,
-      "sha256": "5feed7c13e01c4eedd85c518143fab043e7538562a3fe2d9ebbb35afff1654e0",
-      "bytes": 1353895,
-      "source_width": 864,
-      "source_height": 1152,
-      "resampled": false
-    },
-    "9x16": {
-      "width": 1080,
-      "height": 2110,
-      "sha256": "670a9aa669e971615eec6fc92f6df0d66af0aba13d479af89225f83039562ad7",
-      "bytes": 2825232,
-      "source_width": 720,
-      "source_height": 1280,
-      "resampled": true
+      "sha256": "cb8f070e57be59e9fdd4a209dc76df2c3c77e89b54188a9fa20d290f3bb42d7c"
     }
   },
-  "revision": "cand-r1",
-  "file_9x16": "es-01-052-cand-r1-9x16.png",
-  "evidence_card": "evidence/ES-01-052.json",
-  "land_as": "Candidate",
-  "conditions_record": {
-    "retrieved_local": "2026-10-01T00:38:32.843330+02:00",
-    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=43.1436&longitude=-4.1935&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
-    "requested_coordinates": [
-      43.1436,
-      -4.1935
-    ],
-    "response": {
-      "latitude": 43.14,
-      "longitude": -4.2000003,
-      "generationtime_ms": 1.9869804382324219,
-      "utc_offset_seconds": 7200,
-      "timezone": "Europe/Madrid",
-      "timezone_abbreviation": "GMT+2",
-      "elevation": 500.0,
-      "current_units": {
-        "time": "iso8601",
-        "interval": "seconds",
-        "temperature_2m": "°C",
-        "weather_code": "wmo code",
-        "cloud_cover": "%",
-        "is_day": "",
-        "precipitation": "mm",
-        "wind_speed_10m": "km/h"
+  "masters": {
+    "16x9": {
+      "file": "es-01-052-r1-16x9.png",
+      "dimensions": [
+        1920,
+        1270
+      ],
+      "byte_length": 2448485,
+      "sha256": "cee87cd1e8a58721c6ac3c92c25b0425eb6a35d445ac3f01557e35c8fa8474f1",
+      "source_file": "es-01-052-r1.png",
+      "source_dimensions": [
+        1408,
+        1760
+      ],
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "labels": [
+        "Bárcena Mayor, Los Tojos",
+        "Scenario: 24 September 2026 · 04:06 Europe/Madrid",
+        "AI-generated artistic interpretation · Not a photograph."
+      ],
+      "signature": "Jason D’s Vision",
+      "format": "PNG",
+      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
+      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
+    },
+    "4x5": {
+      "file": "es-01-052-r1-4x5.png",
+      "dimensions": [
+        864,
+        1270
+      ],
+      "byte_length": 1343298,
+      "sha256": "cb8f070e57be59e9fdd4a209dc76df2c3c77e89b54188a9fa20d290f3bb42d7c",
+      "source_file": "es-01-052-r1.png",
+      "source_dimensions": [
+        1408,
+        1760
+      ],
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "labels": [
+        "Bárcena Mayor, Los Tojos",
+        "Scenario: 24 September 2026 · 04:06 Europe/Madrid",
+        "AI-generated artistic interpretation · Not a photograph."
+      ],
+      "signature": "Jason D’s Vision",
+      "format": "PNG",
+      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
+      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 864x1080. Not native target-resolution detail."
+    }
+  },
+  "conditions": {
+    "provider": "Open-Meteo",
+    "retrieved": "2026-09-24T04:06:04.077454+02:00",
+    "valid": "2026-09-24T04:00 Europe/Madrid",
+    "note": "Model data — not a verified on-site observation."
+  },
+  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T04:06:04.077454+02:00, valid 2026-09-24T04:00 Europe/Madrid — not a verified on-site observation.",
+  "prompts": {
+    "prompt-r1.txt": "Photorealistic original artistic interpretation (not a photograph) of Bárcena Mayor in Los Tojos, Cantabria, Spain. Tourist viewpoint: the main village street, looking along its length. Frame: stone houses with wooden balconies lining the single main street; the Saja river valley's green slopes rising on both sides; the village's quiet plaza with its old church. Light and weather: clear night, light winds. Main subject centered to survive a 4:5 center crop. No identifiable people, no legible logos, no text, lettering or signs anywhere in the image. Keep the lower third clean and uncluttered."
+  },
+  "source_files": [
+    {
+      "file": "es-01-052-r1.png",
+      "sha256": "2f68bc328cf435f01e07c3f8b9622efdc0c73520c29fd0cf5bbf60f5b16b4cde",
+      "dimensions": [
+        1408,
+        1760
+      ],
+      "selected": true
+    }
+  ],
+  "provenance": {
+    "tool": "Built-in image generation; specific model version not exposed",
+    "image_inputs": [],
+    "source_use": "Text-only original generation. Third-party photographs inspected for facts, not supplied as input pixels. No uniqueness guarantee.",
+    "lineage": "Same selected source cropped and uniformly Lanczos-resampled to two exact PNGs; factual text and upward-fading scrim added deterministically. No stretching.",
+    "resampling": "Source [1408, 1760]; uniform Lanczos enlargement/crop to exact 1920x1080 and 864x1080. Not native target-resolution detail."
+  },
+  "production_checks": {
+    "technical": "Both PNGs fully decode, dimensions exact; label boxes in frame. Technical checks are not independent Cosmo QC.",
+    "visual": "Production comparison and limitations documented; not an independent gate verdict.",
+    "originality": "Own generated pixels; uniqueness not established.",
+    "commercial_ip": "No prominent people/logos or artwork focal subject; third-party clearance not legally certified.",
+    "publication": "Candidate handoff only. No approval inferred."
+  },
+  "independent_qc": {
+    "reviewer": "Cosmo",
+    "verdict": "Awaiting review",
+    "exact_pair_required": true
+  },
+  "card_handoff": {
+    "owner": "Cosmo",
+    "placement": "Candidate pipeline, two-format card (16:9/4:5 tabs, both downloads)",
+    "preserve": "caption, scenario, composition, description, status, disclosure, license, search/navigation and country switcher"
+  },
+  "license_badge": "Free · no credit needed",
+  "license_anchor": "#license",
+  "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
+  "reference_evidence": [],
+  "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor E: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/E/ES-01-052.md. r1.",
+  "daylight_variant": {
+    "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
+    "source_night": {
+      "16x9": {
+        "path": "es-01-052-r1-16x9.png",
+        "sha256": "cee87cd1e8a58721c6ac3c92c25b0425eb6a35d445ac3f01557e35c8fa8474f1"
       },
-      "current": {
-        "time": "2026-10-01T00:30",
-        "interval": 900,
-        "temperature_2m": 13.9,
-        "weather_code": 3,
-        "cloud_cover": 100,
-        "is_day": 0,
-        "precipitation": 0.0,
-        "wind_speed_10m": 2.8
-      },
-      "daily_units": {
-        "time": "iso8601",
-        "sunrise": "iso8601",
-        "sunset": "iso8601"
-      },
-      "daily": {
-        "time": [
-          "2026-10-01"
-        ],
-        "sunrise": [
-          "2026-10-01T08:14"
-        ],
-        "sunset": [
-          "2026-10-01T19:58"
-        ]
+      "4x5": {
+        "path": "es-01-052-r1-4x5.png",
+        "sha256": "cb8f070e57be59e9fdd4a209dc76df2c3c77e89b54188a9fa20d290f3bb42d7c"
       }
     },
-    "solar": {
-      "method": "NOAA fractional-year geometric approximation, not observation",
-      "elevation_deg": -45.03,
-      "azimuth_deg": 148.05
-    }
+    "masters": {
+      "16x9": {
+        "path": "es-01-052-daylight-16x9.png",
+        "width": 1920,
+        "height": 1270,
+        "sha256": "ab8f7fd39d69a644030cf39748d477c885948bfa9b4d6d7907b641e1d1941a0d"
+      },
+      "4x5": {
+        "path": "es-01-052-daylight-4x5.png",
+        "width": 864,
+        "height": 1270,
+        "sha256": "c4cd231dd34bff085750470d761ec37031d9bbc62fde5661fd19478cabc8a633"
+      }
+    },
+    "on_image_text": [
+      "Bárcena Mayor, Los Tojos",
+      "☀ Daylight variant · derived from the night interpretation",
+      "AI-generated artistic interpretation",
+      "Jason D’s Vision"
+    ],
+    "art50_png_chunks": [
+      "Title",
+      "Description",
+      "Copyright",
+      "Software",
+      "Comment"
+    ],
+    "country": "Spain"
   }
 }

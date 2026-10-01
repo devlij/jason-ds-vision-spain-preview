@@ -1,135 +1,193 @@
 {
   "entry_id": "ES-01-059",
   "country": "Spain",
-  "region": "La Rioja",
   "city": "Briones",
+  "region": "La Rioja",
   "caption": "Briones, Briones",
-  "scenario_label": "1 October 2026 · 00:38 Europe/Madrid",
-  "composition": "Night · the Beratúa tower, square base to octagonal stages and spire · AI-generated artistic interpretation",
-  "alt_text": "AI-generated artistic interpretation of Briones at night, the hilltop church crowned by a Baroque tower with a square base, octagonal stages and a tapering spire.",
-  "description": "From the valley below Briones, the hilltop church of Nuestra Señora de la Asunción is crowned by its Baroque Riojan tower: a square stone shaft, ornate octagonal stages, and a tapering spire.",
-  "viewpoint": "Valley approach below the village, looking up at the hilltop. Exact generated camera correspondence is unverified.",
-  "status": "Candidate · architectural rebuild · awaiting Cosmo re-audit · Night",
-  "approval_state": "candidate",
-  "gates": {
-    "visual": "pending — Cosmo re-audit; no pass claimed",
-    "technical": "pending — Cosmo re-audit; local dimension and Art.50 checks only",
-    "provenance": "pending — Cosmo re-audit; generation lineage recorded, uniqueness unverified",
-    "commercial_ip": "pending — Cosmo re-audit; not legal certification",
-    "publication": "candidate only — not approved for the gallery"
-  },
-  "weather": "Model data from Open-Meteo, retrieved 1 October 2026 00:38:38 Europe/Madrid, valid 00:30 Europe/Madrid — not a verified on-site observation. 16.5°C, WMO 3 overcast, cloud 100%, precipitation 0.0 mm, wind 10.8 km/h. Sunrise 08:08, sunset 19:52. Approximate solar elevation -46.09°, azimuth 149.63°. Night; no direct sunlight.",
-  "limitations": "Candidate only. No Cosmo QC is claimed for these bytes. 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top 864×1080 of an 864×1152 generated source and drop 72 pixels of foreground. Dimensions do not imply native detail. Open-Meteo figures are model data, not an on-site observation. Exact camera correspondence is not surveyed.",
-  "file_16x9": "es-01-059-cand-r1-16x9.png",
-  "file_4x5": "es-01-059-cand-r1-4x5.png",
-  "license_badge": "Free · no credit needed",
-  "license_anchor": "#license",
-  "editions": [],
-  "time_of_day": "Night",
-  "revision_lineage": "Full rebuild for wo-spain-architectural-rework-2026-09-30 pack 3. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. Previous masters remain in the repository as superseded bytes.",
-  "review_history": [
-    {
-      "date": "2026-10-01",
-      "previous_status": "Approved · Cosmo QC 5/5 · Night",
-      "previous_approval_state": "approved",
-      "previous_files": {
-        "16x9": "es-01-059-r1-16x9.png",
-        "4x5": "es-01-059-r1-4x5.png",
-        "9x16": null
-      },
-      "resolution": "Architectural rebuild cand-r1 landed as Candidate. The prior approval covered the previous bytes only. It does not cover cand-r1. No Cosmo re-audit is claimed."
-    }
+  "revision": "r1",
+  "viewpoint": "the valley approach below the village, looking up at the hilltop",
+  "anchors": [
+    "the hilltop village of Briones with its stone houses",
+    "the church of Nuestra Señora de la Asunción above the rooftops",
+    "the Ebro valley and vineyards spreading below"
   ],
-  "approval_basis": "Not approved. cand-r1 is an architectural rebuild awaiting Cosmo re-audit. The earlier Cosmo approval applied only to the previous master bytes and is retained in review_history.",
+  "limitations": "Text-only generation; no photographic input. Exact camera position unverified.",
+  "refs": [
+    [
+      "https://en.wikipedia.org/wiki/Briones,_La_Rioja",
+      "Wikipedia — Briones, hilltop village in La Rioja"
+    ],
+    [
+      "https://www.spain.info/en/region/la-rioja/",
+      "spain.info — official Spain tourism, La Rioja region page (official lariojaturismo.com unreachable from builder network)"
+    ]
+  ],
+  "status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_state": "approved",
+  "scenario_label": "24 September 2026 · 04:09 Europe/Madrid",
+  "time_of_day": "Night",
+  "composition": "Night · the hilltop village over the Ebro valley · AI-generated artistic interpretation",
+  "alt_text": "AI-generated artistic interpretation of Briones, Briones at night.",
+  "description": "The hilltop village of Briones stands over the Ebro valley, its stone houses and church silhouetted above the plain. Lights cluster along the ridge while the great dark valley stretches away beneath. One of Rioja's most beautifully placed villages, seen from its best side.",
+  "file_16x9": "es-01-059-r1-16x9.png",
+  "file_4x5": "es-01-059-r1-4x5.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
       "height": 1270,
-      "sha256": "47706a15fcd0917fefddffa86a29360c59e7ce6e15139ca0bb298ecd1170df52",
-      "bytes": 1655503,
-      "source_width": 1280,
-      "source_height": 720,
-      "resampled": true
+      "sha256": "7ef67161ebfa2c29e719f8d8bbcbcdd37d19fa9d70ea2a26c25c02bd2093d3d3"
     },
     "4x5": {
       "width": 864,
       "height": 1270,
-      "sha256": "280f75fce14168ec495d163c015733fce15a85c6013fb7582bb10f40ac4ec0e0",
-      "bytes": 1355238,
-      "source_width": 864,
-      "source_height": 1152,
-      "resampled": false
-    },
-    "9x16": {
-      "width": 1080,
-      "height": 2110,
-      "sha256": "ee10883a84164120351f91d0a5d409946f481f080ee36673e3ca753c242e3f3b",
-      "bytes": 2633990,
-      "source_width": 720,
-      "source_height": 1280,
-      "resampled": true
+      "sha256": "e7c2c9f9780a0e68526189549ec5c0f6ba8017d6f1d06011fe4fcb0e178f87c9"
     }
   },
-  "revision": "cand-r1",
-  "file_9x16": "es-01-059-cand-r1-9x16.png",
-  "evidence_card": "evidence/ES-01-059.json",
-  "land_as": "Candidate",
-  "conditions_record": {
-    "retrieved_local": "2026-10-01T00:38:38.486323+02:00",
-    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=42.544&longitude=-2.785&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
-    "requested_coordinates": [
-      42.544,
-      -2.785
-    ],
-    "response": {
-      "latitude": 42.54,
-      "longitude": -2.7799997,
-      "generationtime_ms": 0.39637088775634766,
-      "utc_offset_seconds": 7200,
-      "timezone": "Europe/Madrid",
-      "timezone_abbreviation": "GMT+2",
-      "elevation": 505.0,
-      "current_units": {
-        "time": "iso8601",
-        "interval": "seconds",
-        "temperature_2m": "°C",
-        "weather_code": "wmo code",
-        "cloud_cover": "%",
-        "is_day": "",
-        "precipitation": "mm",
-        "wind_speed_10m": "km/h"
+  "masters": {
+    "16x9": {
+      "file": "es-01-059-r1-16x9.png",
+      "dimensions": [
+        1920,
+        1270
+      ],
+      "byte_length": 2461148,
+      "sha256": "7ef67161ebfa2c29e719f8d8bbcbcdd37d19fa9d70ea2a26c25c02bd2093d3d3",
+      "source_file": "es-01-059-r1.png",
+      "source_dimensions": [
+        1408,
+        1760
+      ],
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "labels": [
+        "Briones, Briones",
+        "Scenario: 24 September 2026 · 04:09 Europe/Madrid",
+        "AI-generated artistic interpretation · Not a photograph."
+      ],
+      "signature": "Jason D’s Vision",
+      "format": "PNG",
+      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
+      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
+    },
+    "4x5": {
+      "file": "es-01-059-r1-4x5.png",
+      "dimensions": [
+        864,
+        1270
+      ],
+      "byte_length": 1243599,
+      "sha256": "e7c2c9f9780a0e68526189549ec5c0f6ba8017d6f1d06011fe4fcb0e178f87c9",
+      "source_file": "es-01-059-r1.png",
+      "source_dimensions": [
+        1408,
+        1760
+      ],
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "labels": [
+        "Briones, Briones",
+        "Scenario: 24 September 2026 · 04:09 Europe/Madrid",
+        "AI-generated artistic interpretation · Not a photograph."
+      ],
+      "signature": "Jason D’s Vision",
+      "format": "PNG",
+      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
+      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 864x1080. Not native target-resolution detail."
+    }
+  },
+  "conditions": {
+    "provider": "Open-Meteo",
+    "retrieved": "2026-09-24T04:09:20.649051+02:00",
+    "valid": "2026-09-24T04:00 Europe/Madrid",
+    "note": "Model data — not a verified on-site observation."
+  },
+  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T04:09:20.649051+02:00, valid 2026-09-24T04:00 Europe/Madrid — not a verified on-site observation.",
+  "prompts": {
+    "prompt-r1.txt": "Photorealistic original artistic interpretation (not a photograph) of Briones, La Rioja, Spain. Tourist viewpoint: the valley approach below the village, looking up at the hilltop. Frame: the hilltop village of Briones with its stone houses; the church of Nuestra Señora de la Asunción above the rooftops; the Ebro valley and vineyards spreading below. Light and weather: clear night, light winds. Main subject centered to survive a 4:5 center crop. No identifiable people, no legible logos, no text, lettering or signs anywhere in the image. Keep the lower third clean and uncluttered."
+  },
+  "source_files": [
+    {
+      "file": "es-01-059-r1.png",
+      "sha256": "8926c402fa4a2545c7755df9a3c8fa2acf1cd828409777bb7262e698959c9ff6",
+      "dimensions": [
+        1408,
+        1760
+      ],
+      "selected": true
+    }
+  ],
+  "provenance": {
+    "tool": "Built-in image generation; specific model version not exposed",
+    "image_inputs": [],
+    "source_use": "Text-only original generation. Third-party photographs inspected for facts, not supplied as input pixels. No uniqueness guarantee.",
+    "lineage": "Same selected source cropped and uniformly Lanczos-resampled to two exact PNGs; factual text and upward-fading scrim added deterministically. No stretching.",
+    "resampling": "Source [1408, 1760]; uniform Lanczos enlargement/crop to exact 1920x1080 and 864x1080. Not native target-resolution detail."
+  },
+  "production_checks": {
+    "technical": "Both PNGs fully decode, dimensions exact; label boxes in frame. Technical checks are not independent Cosmo QC.",
+    "visual": "Production comparison and limitations documented; not an independent gate verdict.",
+    "originality": "Own generated pixels; uniqueness not established.",
+    "commercial_ip": "No prominent people/logos or artwork focal subject; third-party clearance not legally certified.",
+    "publication": "Candidate handoff only. No approval inferred."
+  },
+  "independent_qc": {
+    "reviewer": "Cosmo",
+    "verdict": "Awaiting review",
+    "exact_pair_required": true
+  },
+  "card_handoff": {
+    "owner": "Cosmo",
+    "placement": "Candidate pipeline, two-format card (16:9/4:5 tabs, both downloads)",
+    "preserve": "caption, scenario, composition, description, status, disclosure, license, search/navigation and country switcher"
+  },
+  "license_badge": "Free · no credit needed",
+  "license_anchor": "#license",
+  "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
+  "reference_evidence": [],
+  "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor E: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/E/ES-01-059.md. r1.",
+  "daylight_variant": {
+    "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
+    "source_night": {
+      "16x9": {
+        "path": "es-01-059-r1-16x9.png",
+        "sha256": "7ef67161ebfa2c29e719f8d8bbcbcdd37d19fa9d70ea2a26c25c02bd2093d3d3"
       },
-      "current": {
-        "time": "2026-10-01T00:30",
-        "interval": 900,
-        "temperature_2m": 16.5,
-        "weather_code": 3,
-        "cloud_cover": 100,
-        "is_day": 0,
-        "precipitation": 0.0,
-        "wind_speed_10m": 10.8
-      },
-      "daily_units": {
-        "time": "iso8601",
-        "sunrise": "iso8601",
-        "sunset": "iso8601"
-      },
-      "daily": {
-        "time": [
-          "2026-10-01"
-        ],
-        "sunrise": [
-          "2026-10-01T08:08"
-        ],
-        "sunset": [
-          "2026-10-01T19:52"
-        ]
+      "4x5": {
+        "path": "es-01-059-r1-4x5.png",
+        "sha256": "e7c2c9f9780a0e68526189549ec5c0f6ba8017d6f1d06011fe4fcb0e178f87c9"
       }
     },
-    "solar": {
-      "method": "NOAA fractional-year geometric approximation, not observation",
-      "elevation_deg": -46.09,
-      "azimuth_deg": 149.63
-    }
+    "masters": {
+      "16x9": {
+        "path": "es-01-059-daylight-16x9.png",
+        "width": 1920,
+        "height": 1270,
+        "sha256": "d474a40f289d045183d3980b1cf4445dcb30cf3a336d0b0711f7cabeebec8737"
+      },
+      "4x5": {
+        "path": "es-01-059-daylight-4x5.png",
+        "width": 864,
+        "height": 1270,
+        "sha256": "90ad2ba1e58319ee1b3e95158b9646278939fecfb1ea6f7aa0bddce993dae21d"
+      }
+    },
+    "on_image_text": [
+      "Briones, Briones",
+      "☀ Daylight variant · derived from the night interpretation",
+      "AI-generated artistic interpretation",
+      "Jason D’s Vision"
+    ],
+    "art50_png_chunks": [
+      "Title",
+      "Description",
+      "Copyright",
+      "Software",
+      "Comment"
+    ],
+    "country": "Spain"
   }
 }

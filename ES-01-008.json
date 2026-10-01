@@ -4,20 +4,20 @@
   "region": "Madrid",
   "city": "Madrid",
   "caption": "Royal Palace, Madrid",
-  "scenario_label": "30 September 2026 · 23:56 Europe/Madrid",
-  "composition": "Night · South façade from Plaza de la Armería · AI-generated artistic interpretation",
-  "alt_text": "AI-generated artistic interpretation of the Royal Palace of Madrid south façade at night, with four Doric columns on the central balcony beneath the clock and royal arms.",
-  "description": "From Plaza de la Armería the south façade centers on four Doric columns at the throne-room balcony, beneath the clock and the royal arms. The capitals are plain Doric, not Corinthian.",
+  "scenario_label": "23 September 2026 · 18:03 Europe/Madrid",
+  "composition": "Daylight · South façade and Plaza de la Armería forecourt · AI-generated artistic interpretation",
+  "alt_text": "AI-generated artistic interpretation of the Royal Palace of Madrid south façade and courtyard, with a modest central clock, in partly cloudy afternoon daylight.",
+  "description": "The principal south façade faces the Plaza de la Armería. Pale limestone and granite, repeated giant-order columns and a small central clock define the palace frontage. The open forecourt and part of its right-side arcade are in frame.",
   "viewpoint": "Public Plaza de la Armería at approximately 40.416583, -3.714444, looking toward the south façade at eye level. Coordinates are reported for a historical reference photo; generated camera correspondence is approximate, not surveyed.",
-  "weather": "Model data from Open-Meteo, retrieved 30 September 2026 23:56:52 Europe/Madrid, valid 23:45 Europe/Madrid — not a verified on-site observation. 21.4°C, WMO 2 partly cloudy, cloud 47%, precipitation 0.0 mm, wind 4.6 km/h. Sunrise 08:10, sunset 19:58. Approximate solar elevation -42.48°, azimuth 314.25°. Night; no direct sunlight.",
-  "status": "Candidate · architectural rebuild · awaiting Cosmo re-audit · Night",
-  "approval_state": "candidate",
-  "approval_basis": "Not approved. cand-r1 is an architectural rebuild awaiting Cosmo re-audit. The earlier Cosmo approval applied only to the previous master bytes and is retained in review_history.",
-  "time_of_day": "Night",
+  "weather": "Model data from Open-Meteo, retrieved 23 September 2026 18:03:25 Europe/Madrid, valid 18:00 Europe/Madrid — not a verified on-site observation. 33.0°C, WMO 2 partly cloudy, cloud 62%, precipitation 0 mm, wind 6.5 km/h. Sunrise 08:03, sunset 20:10. Approximate solar elevation 23.17°, azimuth 248.91°.",
+  "status": "Approved · Cosmo QC 5/5 · Daylight",
+  "approval_state": "approved",
+  "approval_basis": "Cosmo APPROVED 5/5 for ES-01-008 r2, relayed by Jason on 23 September 2026 after review of the exact packet. The review confirms the restrained central clock, facade proportions, right-side arcade and late-afternoon light direction. This is not a Jason review or publishing-agent verdict.",
+  "time_of_day": "Daylight",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
-  "limitations": "Candidate only. No Cosmo QC is claimed for these bytes. 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top of a 864×1152 generated source and drop foreground. Dimensions do not imply native detail. Open-Meteo figures are model data, not an on-site observation. Exact camera correspondence is not surveyed.",
-  "revision_lineage": "Full rebuild for wo-spain-architectural-rework-2026-09-30 pack 1. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. Previous masters remain in the repository as superseded bytes.",
+  "limitations": "Cosmo APPROVED 5/5 relayed by Jason for this exact r2 pair. Palace bay spacing, balcony/roof statuary and solar shadows remain generated interpretations. The portrait crops the outer wings while retaining the central entrance and clock. Exact-size exports are upscaled from a 1672x941 generated source; dimensions do not imply native detail. Model weather is not an on-site observation. Third-party rights and uniqueness are not legally certified.",
+  "revision_lineage": "Built-in text-only image generation, then a targeted own-image edit to reduce an exaggerated clock structure. No photographic pixels supplied. Both final masters derive from the corrected 1672×941 source via uniform Lanczos resampling/crop and deterministic gradient/text. Initial source retained privately. Model version not exposed.",
   "historical_editions": [
     "r1 source rejected for an exaggerated clock structure above the roofline; preserved privately"
   ],
@@ -26,118 +26,36 @@
     "16x9": {
       "width": 1920,
       "height": 1270,
-      "sha256": "8b4b8165662c1ca1328df07f37c34ea44cc9176cbaa84d82618c20d5913e955f",
-      "bytes": 2480121,
-      "source_width": 1280,
-      "source_height": 720,
+      "sha256": "2165067ced61bff35d43ac60ef7e381224ec36bc93ca9924ad5439cd86fbda1b",
+      "bytes": 2734882,
+      "source_width": 1672,
+      "source_height": 941,
       "resampled": true
     },
     "4x5": {
       "width": 864,
       "height": 1270,
-      "sha256": "dbb7af58d949503c39fe9ab9c06f0418f4c889246e5a8d309e03192e5d6327fe",
-      "bytes": 1140234,
-      "source_width": 864,
-      "source_height": 1152,
-      "resampled": true
-    },
-    "9x16": {
-      "width": 1080,
-      "height": 2110,
-      "sha256": "fee84a17c0308e1dbacf13e368a9dcc1461771ad8424ade3c159d582b7cdcdce",
-      "bytes": 2251835,
-      "source_width": 720,
-      "source_height": 1280,
+      "sha256": "3d3e2f6d819f14cb35dd59d25c02b0cd6d7893458438fda9d6ae732eb161bf29",
+      "bytes": 1227946,
+      "source_width": 1672,
+      "source_height": 941,
       "resampled": true
     }
   },
   "gates": {
-    "visual": "pending — Cosmo re-audit; no pass claimed",
-    "technical": "pending — Cosmo re-audit; local dimension and Art.50 checks only",
-    "provenance": "pending — Cosmo re-audit; generation lineage recorded, uniqueness unverified",
-    "commercial_ip": "pending — Cosmo re-audit; not legal certification",
-    "publication": "candidate only — not approved for the gallery"
+    "visual": "Cosmo QC APPROVED 5/5, relayed by Jason; no new agent review",
+    "technical": "Local PNGs fully decoded and visually opened; dimensions and SHA-256 recorded; same-source crop and overlays checked",
+    "provenance": "Built-in text-only generation and one own-image correction recorded; uniqueness unverified",
+    "commercial_ip": "Unverified; internal review is not legal certification",
+    "publication": "Approved gallery authorized by relayed Cosmo verdict; live status requires successful deployment"
   },
-  "file_16x9": "es-01-008-cand-r1-16x9.png",
-  "file_4x5": "es-01-008-cand-r1-4x5.png",
+  "file_16x9": "es-01-008-r2-16x9.png",
+  "file_4x5": "es-01-008-r2-4x5.png",
   "review_history": [
     {
       "date": "2026-09-23",
       "previous_status": "Awaiting Cosmo QC · Daylight",
       "resolution": "Cosmo APPROVED 5/5 for ES-01-008 r2, relayed by Jason on 23 September 2026 after review of the exact packet. The review confirms the restrained central clock, facade proportions, right-side arcade and late-afternoon light direction. This is not a Jason review or publishing-agent verdict."
-    },
-    {
-      "date": "2026-09-30",
-      "previous_status": "Approved · Cosmo QC 5/5 · Daylight",
-      "previous_approval_state": "approved",
-      "previous_files": {
-        "16x9": "es-01-008-r2-16x9.png",
-        "4x5": "es-01-008-r2-4x5.png",
-        "9x16": null
-      },
-      "resolution": "Architectural rebuild cand-r1 landed as Candidate on 30 September 2026. The prior approval covered the previous bytes only. It does not cover cand-r1. No Cosmo re-audit is claimed."
     }
-  ],
-  "revision": "cand-r1",
-  "file_9x16": "es-01-008-cand-r1-9x16.png",
-  "evidence_card": "evidence/ES-01-008.json",
-  "land_as": "Candidate",
-  "conditions_record": {
-    "retrieved_local": "2026-09-30T23:56:52.719667+02:00",
-    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=40.416583&longitude=-3.714444&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
-    "requested_coordinates": [
-      40.416583,
-      -3.714444
-    ],
-    "response": {
-      "latitude": 40.4375,
-      "longitude": -3.6875,
-      "generationtime_ms": 0.09822845458984375,
-      "utc_offset_seconds": 7200,
-      "timezone": "Europe/Madrid",
-      "timezone_abbreviation": "GMT+2",
-      "elevation": 636.0,
-      "current_units": {
-        "time": "iso8601",
-        "interval": "seconds",
-        "temperature_2m": "°C",
-        "weather_code": "wmo code",
-        "cloud_cover": "%",
-        "is_day": "",
-        "precipitation": "mm",
-        "wind_speed_10m": "km/h"
-      },
-      "current": {
-        "time": "2026-09-30T23:45",
-        "interval": 900,
-        "temperature_2m": 21.4,
-        "weather_code": 2,
-        "cloud_cover": 47,
-        "is_day": 0,
-        "precipitation": 0.0,
-        "wind_speed_10m": 4.6
-      },
-      "daily_units": {
-        "time": "iso8601",
-        "sunrise": "iso8601",
-        "sunset": "iso8601"
-      },
-      "daily": {
-        "time": [
-          "2026-09-30"
-        ],
-        "sunrise": [
-          "2026-09-30T08:10"
-        ],
-        "sunset": [
-          "2026-09-30T19:58"
-        ]
-      }
-    },
-    "solar": {
-      "method": "NOAA fractional-year geometric approximation, not observation",
-      "elevation_deg": -42.48,
-      "azimuth_deg": 314.25
-    }
-  }
+  ]
 }

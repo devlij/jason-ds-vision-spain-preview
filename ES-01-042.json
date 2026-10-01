@@ -1,135 +1,193 @@
 {
   "entry_id": "ES-01-042",
   "country": "Spain",
-  "region": "Canary Islands",
   "city": "San Bartolomé de Tirajana",
-  "caption": "Faro de Maspalomas, San Bartolomé de Tirajana",
-  "scenario_label": "30 September 2026 · 23:22 Atlantic/Canary",
-  "composition": "Night · Faro de Maspalomas, blue-grey Fataga stone house and tower · AI-generated artistic interpretation",
-  "alt_text": "AI-generated artistic interpretation of Faro de Maspalomas at night, the keeper's house and truncated-cone tower both in blue-grey Fataga basalt.",
-  "description": "From the dune approach, the keeper's house and the truncated-cone tower of Faro de Maspalomas are one continuous mass of blue-grey Fataga basalt. The walls, corners and window surrounds are the same quarry stone, not a white stucco villa with dark quoins.",
-  "viewpoint": "Public approach to Faro de Maspalomas at the dunes tip. Exact generated camera correspondence is unverified.",
-  "status": "Candidate · architectural rebuild · awaiting Cosmo re-audit · Night",
-  "approval_state": "candidate",
-  "gates": {
-    "visual": "pending — Cosmo re-audit; no pass claimed",
-    "technical": "pending — Cosmo re-audit; local dimension and Art.50 checks only",
-    "provenance": "pending — Cosmo re-audit; generation lineage recorded, uniqueness unverified",
-    "commercial_ip": "pending — Cosmo re-audit; not legal certification",
-    "publication": "candidate only — not approved for the gallery"
-  },
-  "weather": "Model data from Open-Meteo, retrieved 30 September 2026 23:22:56 Atlantic/Canary, valid 23:15 Atlantic/Canary — not a verified on-site observation. 25.7°C, WMO 0 clear, cloud 1%, precipitation 0.0 mm, wind 2.2 km/h. Sunrise 07:54, sunset 19:49. Approximate solar elevation -46.47°, azimuth 118.51°. Night; no direct sunlight.",
-  "limitations": "Candidate only. No Cosmo QC is claimed for these bytes. 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top 864×1080 of a 864×1152 generated source and drop 72 pixels of foreground. Dimensions do not imply native detail. Open-Meteo figures are model data, not an on-site observation. Exact camera correspondence is not surveyed.",
-  "file_16x9": "es-01-042-cand-r1-16x9.png",
-  "file_4x5": "es-01-042-cand-r1-4x5.png",
-  "license_badge": "Free · no credit needed",
-  "license_anchor": "#license",
-  "editions": [],
-  "time_of_day": "Night",
-  "revision_lineage": "Full rebuild for wo-spain-architectural-rework-2026-09-30 pack 2. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. Previous masters remain in the repository as superseded bytes.",
-  "review_history": [
-    {
-      "date": "2026-09-30",
-      "previous_status": "Approved · Cosmo QC 5/5 · Night",
-      "previous_approval_state": "approved",
-      "previous_files": {
-        "16x9": "es-01-042-r1-16x9.png",
-        "4x5": "es-01-042-r1-4x5.png",
-        "9x16": null
-      },
-      "resolution": "Architectural rebuild cand-r1 landed as Candidate. The prior approval covered the previous bytes only. It does not cover cand-r1. No Cosmo re-audit is claimed."
-    }
+  "region": "Canary Islands",
+  "caption": "Maspalomas Dunes, San Bartolomé de Tirajana",
+  "revision": "r1",
+  "viewpoint": "the dune field edge, looking across the ridges to the sea",
+  "anchors": [
+    "the great golden dunes of Maspalomas",
+    "the dune ridges running to the sea",
+    "the old lighthouse at the dune field's edge"
   ],
-  "approval_basis": "Not approved. cand-r1 is an architectural rebuild awaiting Cosmo re-audit. The earlier Cosmo approval applied only to the previous master bytes and is retained in review_history.",
+  "limitations": "Text-only generation; no photographic input. Exact camera position unverified. This spec replaces the retired agent's ES-01-042 package — do not reuse its packet.",
+  "refs": [
+    [
+      "https://en.wikipedia.org/wiki/Maspalomas_Dunes",
+      "Wikipedia — the Maspalomas Dunes natural reserve"
+    ],
+    [
+      "https://www.hellocanaryislands.com",
+      "Official Canary Islands tourism portal — verify the Maspalomas listing before use"
+    ]
+  ],
+  "status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_state": "approved",
+  "scenario_label": "24 September 2026 · 03:58 Europe/Madrid",
+  "time_of_day": "Night",
+  "composition": "Night · the dune field and lighthouse · AI-generated artistic interpretation",
+  "alt_text": "AI-generated artistic interpretation of Maspalomas Dunes, San Bartolomé de Tirajana at night.",
+  "description": "The Maspalomas dunes spread their golden ridges to the sea — a desert by the Atlantic, protected as a natural reserve. A clear night over the town. The old lighthouse stands at the dune field's edge.",
+  "file_16x9": "es-01-042-r1-16x9.png",
+  "file_4x5": "es-01-042-r1-4x5.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
       "height": 1270,
-      "sha256": "d2ae2043a22fb6b32689936f8922147ed982cef7da657bde64f70d8229effffd",
-      "bytes": 1539027,
-      "source_width": 1280,
-      "source_height": 720,
-      "resampled": true
+      "sha256": "1e7d11cc19d0b729e54269281e410f20635578d40d04502eb53d7643530cfb7d"
     },
     "4x5": {
       "width": 864,
       "height": 1270,
-      "sha256": "b8f505e9f90fda8e90c3238f9760b3e8be8bbe2e456f451507dcf981f8b8f974",
-      "bytes": 996499,
-      "source_width": 864,
-      "source_height": 1152,
-      "resampled": false
-    },
-    "9x16": {
-      "width": 1080,
-      "height": 2110,
-      "sha256": "e29ed18db35e35c29188a260a49fc0ea31f293c4a095427749c572d91b12952d",
-      "bytes": 1558851,
-      "source_width": 720,
-      "source_height": 1280,
-      "resampled": true
+      "sha256": "822d1ab67c1c3c5f7df545dff08964e5c2f91e0721da54ec0afaf165c552fcce"
     }
   },
-  "revision": "cand-r1",
-  "file_9x16": "es-01-042-cand-r1-9x16.png",
-  "evidence_card": "evidence/ES-01-042.json",
-  "land_as": "Candidate",
-  "conditions_record": {
-    "retrieved_local": "2026-09-30T23:22:56.398090+01:00",
-    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=27.735&longitude=-15.5992&current=temperature_2m%2Cweather_code%2Ccloud_cover%2Cis_day%2Cprecipitation%2Cwind_speed_10m&daily=sunrise%2Csunset&timezone=Atlantic%2FCanary&forecast_days=1",
-    "requested_coordinates": [
-      27.735,
-      -15.5992
-    ],
-    "response": {
-      "latitude": 27.803162,
-      "longitude": -15.590576,
-      "generationtime_ms": 1.6264915466308594,
-      "utc_offset_seconds": 3600,
-      "timezone": "Atlantic/Canary",
-      "timezone_abbreviation": "GMT+1",
-      "elevation": 6.0,
-      "current_units": {
-        "time": "iso8601",
-        "interval": "seconds",
-        "temperature_2m": "°C",
-        "weather_code": "wmo code",
-        "cloud_cover": "%",
-        "is_day": "",
-        "precipitation": "mm",
-        "wind_speed_10m": "km/h"
+  "masters": {
+    "16x9": {
+      "file": "es-01-042-r1-16x9.png",
+      "dimensions": [
+        1920,
+        1270
+      ],
+      "byte_length": 1458898,
+      "sha256": "1e7d11cc19d0b729e54269281e410f20635578d40d04502eb53d7643530cfb7d",
+      "source_file": "es-01-042-r1.png",
+      "source_dimensions": [
+        1408,
+        1760
+      ],
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "labels": [
+        "Maspalomas Dunes, San Bartolomé de Tirajana",
+        "Scenario: 24 September 2026 · 03:58 Europe/Madrid",
+        "AI-generated artistic interpretation · Not a photograph."
+      ],
+      "signature": "Jason D’s Vision",
+      "format": "PNG",
+      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
+      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
+    },
+    "4x5": {
+      "file": "es-01-042-r1-4x5.png",
+      "dimensions": [
+        864,
+        1270
+      ],
+      "byte_length": 940300,
+      "sha256": "822d1ab67c1c3c5f7df545dff08964e5c2f91e0721da54ec0afaf165c552fcce",
+      "source_file": "es-01-042-r1.png",
+      "source_dimensions": [
+        1408,
+        1760
+      ],
+      "crop_center": [
+        0.5,
+        0.5
+      ],
+      "labels": [
+        "Maspalomas Dunes, San Bartolomé de Tirajana",
+        "Scenario: 24 September 2026 · 03:58 Europe/Madrid",
+        "AI-generated artistic interpretation · Not a photograph."
+      ],
+      "signature": "Jason D’s Vision",
+      "format": "PNG",
+      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
+      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 864x1080. Not native target-resolution detail."
+    }
+  },
+  "conditions": {
+    "provider": "Open-Meteo",
+    "retrieved": "2026-09-24T03:58:52.886753+02:00",
+    "valid": "2026-09-24T03:45 Europe/Madrid",
+    "note": "Model data — not a verified on-site observation."
+  },
+  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T03:58:52.886753+02:00, valid 2026-09-24T03:45 Europe/Madrid — not a verified on-site observation.",
+  "prompts": {
+    "prompt-r1.txt": "Photorealistic original artistic interpretation (not a photograph) of the Maspalomas Dunes, Gran Canaria, Canary Islands, Spain. Tourist viewpoint: the dune field edge, looking across the ridges to the sea. Frame: the great golden dunes of Maspalomas; the dune ridges running to the sea; the old lighthouse at the dune field's edge. Light and weather: clear night, light winds. Main subject centered to survive a 4:5 center crop. No identifiable people, no legible logos, no text, lettering or signs anywhere in the image. Keep the lower third clean and uncluttered."
+  },
+  "source_files": [
+    {
+      "file": "es-01-042-r1.png",
+      "sha256": "0d35ce4e8c9c7812e9c54888ffab9af5c0e31342a0f9e9ca22eb17eaca2d7530",
+      "dimensions": [
+        1408,
+        1760
+      ],
+      "selected": true
+    }
+  ],
+  "provenance": {
+    "tool": "Built-in image generation; specific model version not exposed",
+    "image_inputs": [],
+    "source_use": "Text-only original generation. Third-party photographs inspected for facts, not supplied as input pixels. No uniqueness guarantee.",
+    "lineage": "Same selected source cropped and uniformly Lanczos-resampled to two exact PNGs; factual text and upward-fading scrim added deterministically. No stretching.",
+    "resampling": "Source [1408, 1760]; uniform Lanczos enlargement/crop to exact 1920x1080 and 864x1080. Not native target-resolution detail."
+  },
+  "production_checks": {
+    "technical": "Both PNGs fully decode, dimensions exact; label boxes in frame. Technical checks are not independent Cosmo QC.",
+    "visual": "Production comparison and limitations documented; not an independent gate verdict.",
+    "originality": "Own generated pixels; uniqueness not established.",
+    "commercial_ip": "No prominent people/logos or artwork focal subject; third-party clearance not legally certified.",
+    "publication": "Candidate handoff only. No approval inferred."
+  },
+  "independent_qc": {
+    "reviewer": "Cosmo",
+    "verdict": "Awaiting review",
+    "exact_pair_required": true
+  },
+  "card_handoff": {
+    "owner": "Cosmo",
+    "placement": "Candidate pipeline, two-format card (16:9/4:5 tabs, both downloads)",
+    "preserve": "caption, scenario, composition, description, status, disclosure, license, search/navigation and country switcher"
+  },
+  "license_badge": "Free · no credit needed",
+  "license_anchor": "#license",
+  "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
+  "reference_evidence": [],
+  "approval_basis": "Five-gate audit passed: Gate 1 visual/location — the Maspalomas lighthouse beside moonlit dune ridges meeting the ocean is recognizably depicted from a plausible elevated tourist viewpoint, clean framing, no artifacts; Gate 2 technical — both masters at exact 1920x1080 and 864x1080 with SHA-256 matching the review packet, exact 'Jason D's Vision' signature, caption, scenario timestamp and AI disclosure all present and legible; Gate 3 provenance — review packet documents built-in text-only generation with no photographic inputs; Gate 4 IP — no visible people, logos, or recognizable private property, documented only; Gate 5 — no open blockers. Scenario label is a modelled night scenario, not a verified capture.",
+  "daylight_variant": {
+    "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
+    "source_night": {
+      "16x9": {
+        "path": "es-01-042-r1-16x9.png",
+        "sha256": "1e7d11cc19d0b729e54269281e410f20635578d40d04502eb53d7643530cfb7d"
       },
-      "current": {
-        "time": "2026-09-30T23:15",
-        "interval": 900,
-        "temperature_2m": 25.7,
-        "weather_code": 0,
-        "cloud_cover": 1,
-        "is_day": 0,
-        "precipitation": 0.0,
-        "wind_speed_10m": 2.2
-      },
-      "daily_units": {
-        "time": "iso8601",
-        "sunrise": "iso8601",
-        "sunset": "iso8601"
-      },
-      "daily": {
-        "time": [
-          "2026-09-30"
-        ],
-        "sunrise": [
-          "2026-09-30T07:54"
-        ],
-        "sunset": [
-          "2026-09-30T19:49"
-        ]
+      "4x5": {
+        "path": "es-01-042-r1-4x5.png",
+        "sha256": "822d1ab67c1c3c5f7df545dff08964e5c2f91e0721da54ec0afaf165c552fcce"
       }
     },
-    "solar": {
-      "method": "NOAA fractional-year geometric approximation, not observation",
-      "elevation_deg": -46.47,
-      "azimuth_deg": 118.51
-    }
+    "masters": {
+      "16x9": {
+        "path": "es-01-042-daylight-16x9.png",
+        "width": 1920,
+        "height": 1270,
+        "sha256": "27135dd84ee06f83fc1a33b6fe7c28af0bfab8e90ebd01b55b33458a0d56194d"
+      },
+      "4x5": {
+        "path": "es-01-042-daylight-4x5.png",
+        "width": 864,
+        "height": 1270,
+        "sha256": "44598c566533d6ea86c3453118494afd528cf65c392db0b70ce975880a15b3e1"
+      }
+    },
+    "on_image_text": [
+      "Maspalomas Dunes, San Bartolomé de Tirajana",
+      "☀ Daylight variant · derived from the night interpretation",
+      "AI-generated artistic interpretation",
+      "Jason D’s Vision"
+    ],
+    "art50_png_chunks": [
+      "Title",
+      "Description",
+      "Copyright",
+      "Software",
+      "Comment"
+    ],
+    "country": "Spain"
   }
 }
