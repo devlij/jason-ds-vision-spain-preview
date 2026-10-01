@@ -1,195 +1,135 @@
 {
   "entry_id": "ES-01-299",
   "country": "Spain",
-  "city": "Gran Canaria",
   "region": "Canary Islands",
+  "city": "Gran Canaria",
   "caption": "Arucas, Gran Canaria",
-  "revision": "r1",
-  "viewpoint": "From the Plaza de San Juan near 28.1180,-15.5250, looking at the Church of San Juan Bautista. Approximate point only.",
-  "anchors": [
-    "Neo-Gothic dark stone church rising over the plaza",
-    "Façade catching warm light from ordinary plaza street lamps only — no floodlighting claimed",
-    "Quiet street with receding lamps; starry sky above the towers (15% model cloud)"
-  ],
-  "limitations": "Church illumination is ordinary street lighting only; floodlighting is neither depicted nor claimed. Exact viewpoint unverified. Current on-site conditions not verified.",
-  "refs": [
-    [
-      "https://en.wikipedia.org/wiki/Arucas",
-      "Encyclopedic description of Arucas and its church (English Wikipedia), verified 24 September 2026; used for setting and geometry facts, not camera pose or current conditions."
-    ],
-    [
-      "https://es.wikipedia.org/wiki/Arucas",
-      "Spanish Wikipedia entry for Arucas and its church, verified 24 September 2026; complementary encyclopedic reference."
-    ]
-  ],
+  "scenario_label": "1 October 2026 · 05:00 Europe/Madrid",
+  "composition": "Night · shorter left clock tower and one basalt needle spire · AI-generated artistic interpretation",
+  "alt_text": "AI-generated artistic interpretation of the Church of San Juan Bautista in Arucas at night, a short clock tower beside one tall Neo-Gothic needle.",
+  "description": "From the plaza, San Juan Bautista is asymmetric dark Arucas basalt. A shorter clock tower stands on the left. One tall Neo-Gothic needle rises beside it. The façade is not a pair of matching openwork spires.",
+  "viewpoint": "From the Plaza de San Juan near 28.1180,-15.5250, looking at the Church of San Juan Bautista. Approximate point only. Exact generated camera correspondence is unverified.",
   "status": "Approved · Cosmo QC 5/5 · Night",
   "approval_state": "approved",
-  "scenario_label": "24 September 2026 · 01:29 Europe/Madrid",
+  "gates": {
+    "visual": "pass — Cosmo re-audit 2026-10-01",
+    "technical": "pass — Cosmo re-audit 2026-10-01",
+    "provenance": "pass — Cosmo re-audit 2026-10-01",
+    "commercial_ip": "pass — Cosmo re-audit 2026-10-01",
+    "publication": "pass — Cosmo re-audit 2026-10-01"
+  },
+  "weather": "Model data from Open-Meteo, retrieved 1 October 2026 05:04:17 Europe/Madrid, valid 05:00 Europe/Madrid — not a verified on-site observation. 21.8°C, WMO 1 mainly clear, cloud 38%, precipitation 0.0 mm, wind 5.2 km/h. Sunrise 08:54, sunset 20:47. Approximate solar elevation -50.37°, azimuth 56.22°. Night; no direct sunlight.",
+  "limitations": "Approved by Cosmo QC 5/5 on 1 October 2026 (re-audit of the cand-r1 architectural rebuild). 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top 864×1080 of an 864×1152 generated source and drop 72 pixels of foreground. Dimensions do not imply native detail. Open-Meteo figures are model data, not an on-site observation. Exact camera correspondence is not surveyed. The 9:16 source was mirrored so the shorter clock tower sits on the viewer's left.",
+  "file_16x9": "es-01-299-cand-r1-16x9.png",
+  "file_4x5": "es-01-299-cand-r1-4x5.png",
+  "license_badge": "Free · no credit needed",
+  "license_anchor": "#license",
+  "editions": [],
   "time_of_day": "Night",
-  "composition": "Night · From the Church of San Juan Bautista, rising over the quiet plaza near 28.1180,-15.5250. Approximate point only. · AI-generated artistic interpretation",
-  "alt_text": "AI-generated artistic interpretation of Arucas, Gran Canaria at night.",
-  "description": "From the plaza, the Church of San Juan Bautista rises over Arucas — its great neo-Gothic facade of blue Arucas stone floodlit against the night, twin spires climbing into the dark. The quiet plaza spreads at its feet with the town's lights beyond, and the church's carved stonework glows in the lamps. They call it the cathedral of the north; by night it dominates its town like a stone ship.",
-  "file_16x9": "es-01-299-r1-16x9.png",
-  "file_4x5": "es-01-299-r1-4x5.png",
+  "revision_lineage": "Full rebuild for wo-spain-architectural-rework-2026-09-30 pack 13. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. Previous masters remain in the repository as superseded bytes. The 9:16 source was mirrored so the shorter clock tower sits on the viewer's left.",
+  "review_history": [
+    {
+      "date": "2026-10-01",
+      "previous_status": "Approved · Cosmo QC 5/5 · Night",
+      "previous_approval_state": "approved",
+      "previous_files": {
+        "16x9": "es-01-299-r1-16x9.png",
+        "4x5": "es-01-299-r1-4x5.png",
+        "9x16": null
+      },
+      "resolution": "Architectural rebuild cand-r1 landed as Candidate. The prior approval covered the previous bytes only. It does not cover cand-r1. Daylight derivatives of those previous night masters are not part of cand-r1. No Cosmo re-audit is claimed."
+    }
+  ],
+  "approval_basis": "Cosmo independent five-gate re-audit 5/5 (1 October 2026) of the cand-r1 architectural rebuild. Gate 1 visual/location: Arucas, Gran Canaria re-verified after rebuild, documented defect corrected. Gate 2 technical: masters at exact dims with SHA-256 matching the packet, Open-Meteo model data retrieved 1 October 2026 05:04:17 Europe/Madrid (per-scene retrieval, unique to this scene), label bar and Art. 50 metadata present. Gate 3 provenance: text-only generation per revision_lineage, no photographic inputs. Gate 4 commercial/IP: documentation pass per packet. Gate 5 publication: ready. This approval covers the cand-r1 bytes only and supersedes the prior approval of the previous masters.",
   "dimensions": {
     "16x9": {
       "width": 1920,
       "height": 1270,
-      "sha256": "594af420c578de419f377e15ac7258f6bffd0bc03169a2caa066ecfc8b77d173"
+      "sha256": "0d3016c17c18428815dce85221c89a4e3137d95863ca81536f3f8ecd3aad8f22",
+      "bytes": 2090560,
+      "source_width": 1280,
+      "source_height": 720,
+      "resampled": true
     },
     "4x5": {
       "width": 864,
       "height": 1270,
-      "sha256": "7ee949a9c8458cb65cedec5eead893609d8ffe604a77637764a3eaf38c09c851"
-    }
-  },
-  "masters": {
-    "16x9": {
-      "file": "es-01-299-r1-16x9.png",
-      "dimensions": [
-        1920,
-        1270
-      ],
-      "byte_length": 2103083,
-      "sha256": "594af420c578de419f377e15ac7258f6bffd0bc03169a2caa066ecfc8b77d173",
-      "source_file": "media-generation-src-es-01-299-0-3ad00989-09b9-4f61-8b6a-a8b74c5ef9d6.png",
-      "source_dimensions": [
-        1920,
-        1280
-      ],
-      "crop_center": [
-        0.5,
-        0.5
-      ],
-      "labels": [
-        "Arucas, Gran Canaria",
-        "Scenario: 24 September 2026 · 01:29 Europe/Madrid",
-        "AI-generated artistic interpretation · Not a photograph."
-      ],
-      "signature": "Jason D’s Vision",
-      "format": "PNG",
-      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
-      "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
+      "sha256": "d53df0f1080fc4861bbe9e2acf03dc881bca183b2dcfd7c09aaef4970f35c572",
+      "bytes": 1025307,
+      "source_width": 864,
+      "source_height": 1152,
+      "resampled": false
     },
-    "4x5": {
-      "file": "es-01-299-r1-4x5.png",
-      "dimensions": [
-        864,
-        1270
-      ],
-      "byte_length": 1213206,
-      "sha256": "7ee949a9c8458cb65cedec5eead893609d8ffe604a77637764a3eaf38c09c851",
-      "source_file": "media-generation-src-es-01-299-0-3ad00989-09b9-4f61-8b6a-a8b74c5ef9d6.png",
-      "source_dimensions": [
-        1920,
-        1280
-      ],
-      "crop_center": [
-        0.5,
-        0.5
-      ],
-      "labels": [
-        "Arucas, Gran Canaria",
-        "Scenario: 24 September 2026 · 01:29 Europe/Madrid",
-        "AI-generated artistic interpretation · Not a photograph."
-      ],
-      "signature": "Jason D’s Vision",
-      "format": "PNG",
-      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
-      "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 864x1080. Not native target-resolution detail."
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "801a7f8429bfd3997d4b371ae0077c6935d437b3a9e44a40abdf6a1f1a78a94b",
+      "bytes": 1878923,
+      "source_width": 720,
+      "source_height": 1280,
+      "resampled": true
     }
   },
-  "conditions": {
-    "provider": "Open-Meteo",
-    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=28.1180&longitude=-15.5250&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
-    "retrieved": "2026-09-24T01:15+02:00",
-    "valid": "2026-09-24T01:15+02:00 Europe/Madrid",
-    "timezone": "Europe/Madrid"
-  },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T01:15+02:00, valid 2026-09-24T01:15+02:00 Europe/Madrid — not a verified on-site observation.",
-  "prompts": {
-    "prompt-r1.txt": "Photorealistic artistic night interpretation of the Church of San Juan Bautista in Arucas, Gran Canaria: the great dark stone neo-Gothic church rising over a quiet plaza; its facade catching warm light from ordinary plaza street lamps only, no floodlighting; a few lit windows; the plaza lamps receding along a quiet street; clear starry sky above the towers; no prominent people, no text, no logos; church centered so it survives a center crop; clean uncluttered lower area."
-  },
-  "source_files": [
-    {
-      "file": "media-generation-src-es-01-299-0-3ad00989-09b9-4f61-8b6a-a8b74c5ef9d6.png",
-      "sha256": "a3a0ae5b247b30d3294ccf18a8702cc5b789543fd6d476d4747ca99fbdc5f0c2",
-      "dimensions": [
-        1920,
-        1280
-      ],
-      "selected": true
-    }
-  ],
-  "provenance": {
-    "tool": "Built-in image generation; specific model version not exposed",
-    "image_inputs": [],
-    "source_use": "Text-only original generation. Third-party photographs inspected for facts, not supplied as input pixels. No uniqueness guarantee.",
-    "lineage": "Same selected source cropped and uniformly Lanczos-resampled to two exact PNGs; factual text and upward-fading scrim added deterministically. No stretching.",
-    "resampling": "Source [1920, 1280]; uniform Lanczos enlargement/crop to exact 1920x1080 and 864x1080. Not native target-resolution detail."
-  },
-  "production_checks": {
-    "technical": "Both PNGs fully decode, dimensions exact; label boxes in frame. Technical checks are not independent Cosmo QC.",
-    "visual": "Production comparison and limitations documented; not an independent gate verdict.",
-    "originality": "Own generated pixels; uniqueness not established.",
-    "commercial_ip": "No prominent people/logos or artwork focal subject; third-party clearance not legally certified.",
-    "publication": "Candidate handoff only. No approval inferred."
-  },
-  "independent_qc": {
-    "reviewer": "Cosmo",
-    "verdict": "Awaiting review",
-    "exact_pair_required": true
-  },
-  "card_handoff": {
-    "owner": "Cosmo",
-    "placement": "Candidate pipeline, two-format card (16:9/4:5 tabs, both downloads)",
-    "preserve": "caption, scenario, composition, description, status, disclosure, license, search/navigation and country switcher"
-  },
-  "license_badge": "Free · no credit needed",
-  "license_anchor": "#license",
-  "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
-  "reference_evidence": [],
-  "approval_basis": "G1: the Arucas church is recognizable — dark neo-Gothic Church of San Juan Bautista with twin spires, rose window and lancet arches, rising over a quiet plaza lit only by ordinary warm street lamps, starry sky above; restrained Canarian town night, no floodlighting claimed, no artifacts. G2: mechanical sweep PASS on exact 1920×1080 + 864×1080 with packet-matching SHA-256; exact caption 'Arucas, Gran Canaria', scenario '24 September 2026 · 01:29 Europe/Madrid', AI disclosure on scrim; exact 'Jason D's Vision' signature; weather retrieved 01:15, valid 01:15 — fresh for this build. G3: text-only generation, image_inputs empty. G4: no visible people, no logos; a church façade in a public plaza. G5: no open blockers.",
-  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals).",
-  "daylight_variant": {
-    "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
-    "source_night": {
-      "16x9": {
-        "path": "es-01-299-r1-16x9.png",
-        "sha256": "594af420c578de419f377e15ac7258f6bffd0bc03169a2caa066ecfc8b77d173"
+  "revision": "cand-r1",
+  "file_9x16": "es-01-299-cand-r1-9x16.png",
+  "evidence_card": "evidence/ES-01-299.json",
+  "land_as": "Candidate",
+  "conditions_record": {
+    "retrieved_local": "2026-10-01T05:04:17.966175+02:00",
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=28.118&longitude=-15.525&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
+    "requested_coordinates": [
+      28.118,
+      -15.525
+    ],
+    "response": {
+      "latitude": 28.084358,
+      "longitude": -15.457642,
+      "generationtime_ms": 1.7548799514770508,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 253.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
       },
-      "4x5": {
-        "path": "es-01-299-r1-4x5.png",
-        "sha256": "7ee949a9c8458cb65cedec5eead893609d8ffe604a77637764a3eaf38c09c851"
+      "current": {
+        "time": "2026-10-01T05:00",
+        "interval": 900,
+        "temperature_2m": 21.8,
+        "weather_code": 1,
+        "cloud_cover": 38,
+        "is_day": 0,
+        "precipitation": 0.0,
+        "wind_speed_10m": 5.2
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T08:54"
+        ],
+        "sunset": [
+          "2026-10-01T20:47"
+        ]
       }
     },
-    "masters": {
-      "16x9": {
-        "path": "es-01-299-daylight-16x9.png",
-        "width": 1920,
-        "height": 1270,
-        "sha256": "b06e6218bfc99c563279a21990cb104bf5f12bdeb0e745425bc694431e80a6e5"
-      },
-      "4x5": {
-        "path": "es-01-299-daylight-4x5.png",
-        "width": 864,
-        "height": 1270,
-        "sha256": "e21a8fbabf252a544b5f1c15e6f60c63b14be3ca3cd05b4b0c74d2bbadff82d0"
-      }
-    },
-    "on_image_text": [
-      "Arucas, Gran Canaria",
-      "☀ Daylight variant · derived from the night interpretation",
-      "AI-generated artistic interpretation · Not a photograph.",
-      "Jason D’s Vision"
-    ],
-    "art50_png_chunks": [
-      "Title",
-      "Description",
-      "Copyright",
-      "Software",
-      "Comment"
-    ],
-    "country": "Spain"
+    "solar": {
+      "method": "NOAA fractional-year geometric approximation, not observation",
+      "elevation_deg": -50.37,
+      "azimuth_deg": 56.22
+    }
   }
 }

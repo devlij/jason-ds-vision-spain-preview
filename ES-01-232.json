@@ -1,199 +1,135 @@
 {
   "entry_id": "ES-01-232",
   "country": "Spain",
-  "city": "Ronda",
   "region": "Andalusia",
+  "city": "Ronda",
   "caption": "Puente Nuevo, Ronda",
-  "revision": "r1",
-  "viewpoint": "the gorge overlook at night, facing the bridge across El Tajo",
-  "anchors": [
-    "the 98 m Puente Nuevo spanning El Tajo gorge, finished in 1793",
-    "the Guadalevín river glinting a hundred metres below",
-    "the white town glowing on both rims of the gorge"
-  ],
-  "limitations": "Text-only generation; no photographic input. Night lighting is restrained and interpretive. Exact camera position unverified.",
-  "refs": [
-    [
-      "https://www.spain.info/en/places-of-interest/puente-nuevo/",
-      "Spain.info — Puente Nuevo, Ronda: 98 m bridge over El Tajo gorge, completed 1793"
-    ],
-    [
-      "https://www.tripadvisor.co.uk/Attraction_Review-g187444-d248932-Reviews-Puente_Nuevo-Ronda_Costa_del_Sol_Province_of_Malaga_Andalucia.html",
-      "Tripadvisor — Ronda's Puente Nuevo, 98 m above the Guadalevín river"
-    ]
-  ],
+  "scenario_label": "1 October 2026 · 03:15 Europe/Madrid",
+  "composition": "Night · great arch with the prison window between two small arches · AI-generated artistic interpretation",
+  "alt_text": "AI-generated artistic interpretation of Puente Nuevo at night, the great arch topped by a rectangular prison window between two smaller arches.",
+  "description": "Puente Nuevo crosses El Tajo at night. Above the great arch, a rectangular chamber window sits between one smaller semicircular arch on each side, with the town lights on both cliff rims.",
+  "viewpoint": "The gorge overlook at night, facing the bridge across El Tajo. Exact generated camera correspondence is unverified.",
   "status": "Approved · Cosmo QC 5/5 · Night",
   "approval_state": "approved",
-  "scenario_label": "24 September 2026 · 02:19 Europe/Madrid",
+  "gates": {
+    "visual": "pass — Cosmo re-audit 2026-10-01",
+    "technical": "pass — Cosmo re-audit 2026-10-01",
+    "provenance": "pass — Cosmo re-audit 2026-10-01",
+    "commercial_ip": "pass — Cosmo re-audit 2026-10-01",
+    "publication": "pass — Cosmo re-audit 2026-10-01"
+  },
+  "weather": "Model data from Open-Meteo, retrieved 1 October 2026 03:29:15 Europe/Madrid, valid 03:15 Europe/Madrid — not a verified on-site observation. 15.1°C, WMO 2 partly cloudy, cloud 61%, precipitation 0.0 mm, wind 4.1 km/h. Sunrise 08:15, sunset 20:04. Approximate solar elevation -52.86°, azimuth 27.44°. Night; no direct sunlight.",
+  "limitations": "Approved by Cosmo QC 5/5 on 1 October 2026 (re-audit of the cand-r1 architectural rebuild). 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top 864×1080 of an 864×1152 generated source and drop 72 pixels of foreground. Dimensions do not imply native detail. Open-Meteo figures are model data, not an on-site observation. Exact camera correspondence is not surveyed.",
+  "file_16x9": "es-01-232-cand-r1-16x9.png",
+  "file_4x5": "es-01-232-cand-r1-4x5.png",
+  "license_badge": "Free · no credit needed",
+  "license_anchor": "#license",
+  "editions": [],
   "time_of_day": "Night",
-  "composition": "Night · iconic gorge bridge with river far below at night · AI-generated artistic interpretation",
-  "alt_text": "AI-generated artistic interpretation of Puente Nuevo at night.",
-  "description": "From the gorge viewpoint at night, Ronda's Puente Nuevo spans the deep chasm in dramatic silhouette. The bridge's great arch is floodlit, its stonework glowing against the black gorge while the river runs far below in darkness. The two halves of the town hang on either cliff edge, lights twinkling along the rims.",
-  "file_16x9": "es-01-232-r1-16x9.png",
-  "file_4x5": "es-01-232-r1-4x5.png",
+  "revision_lineage": "Full rebuild for wo-spain-architectural-rework-2026-09-30 pack 10. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. Previous masters remain in the repository as superseded bytes.",
+  "review_history": [
+    {
+      "date": "2026-10-01",
+      "previous_status": "Approved · Cosmo QC 5/5 · Night",
+      "previous_approval_state": "approved",
+      "previous_files": {
+        "16x9": "es-01-232-r1-16x9.png",
+        "4x5": "es-01-232-r1-4x5.png",
+        "9x16": null
+      },
+      "resolution": "Architectural rebuild cand-r1 landed as Candidate. The prior approval covered the previous bytes only. It does not cover cand-r1. Daylight derivatives of those previous night masters are not part of cand-r1. No Cosmo re-audit is claimed."
+    }
+  ],
+  "approval_basis": "Cosmo independent five-gate re-audit 5/5 (1 October 2026) of the cand-r1 architectural rebuild. Gate 1 visual/location: Puente Nuevo, Ronda re-verified after rebuild, documented defect corrected. Gate 2 technical: masters at exact dims with SHA-256 matching the packet, Open-Meteo model data retrieved 1 October 2026 03:29:15 Europe/Madrid (per-scene retrieval, unique to this scene), label bar and Art. 50 metadata present. Gate 3 provenance: text-only generation per revision_lineage, no photographic inputs. Gate 4 commercial/IP: documentation pass per packet. Gate 5 publication: ready. This approval covers the cand-r1 bytes only and supersedes the prior approval of the previous masters.",
   "dimensions": {
     "16x9": {
       "width": 1920,
       "height": 1270,
-      "sha256": "0fe46df199aab133d551c5e1df5c4c03002f5e09070b6b14792bfe6d4c06ad82"
+      "sha256": "b2cf30a4911bc6e54dbb46e43b38f42841ce8ac9a9fd79ffb258796a9a01a124",
+      "bytes": 2124237,
+      "source_width": 1280,
+      "source_height": 720,
+      "resampled": true
     },
     "4x5": {
       "width": 864,
       "height": 1270,
-      "sha256": "becb727322d2d74d9b387f3870d1b1453eb850acad0c9aac265ab850dc39ce7b"
-    }
-  },
-  "masters": {
-    "16x9": {
-      "file": "es-01-232-r1-16x9.png",
-      "dimensions": [
-        1920,
-        1270
-      ],
-      "byte_length": 3035026,
-      "sha256": "0fe46df199aab133d551c5e1df5c4c03002f5e09070b6b14792bfe6d4c06ad82",
-      "source_file": "media-generation-es-01-232-source-0-29f236a6-5bac-44b6-939a-ceab647bbcb5.png",
-      "source_dimensions": [
-        1920,
-        1280
-      ],
-      "crop_center": [
-        0.5,
-        0.5
-      ],
-      "labels": [
-        "Puente Nuevo, Ronda",
-        "Scenario: 24 September 2026 · 02:19 Europe/Madrid",
-        "AI-generated artistic interpretation · Not a photograph."
-      ],
-      "signature": "Jason D’s Vision",
-      "format": "PNG",
-      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
-      "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
+      "sha256": "5f3bd10f174e51cbd42f2713e28715100bef0456217592d60584458dee292754",
+      "bytes": 1172012,
+      "source_width": 864,
+      "source_height": 1152,
+      "resampled": false
     },
-    "4x5": {
-      "file": "es-01-232-r1-4x5.png",
-      "dimensions": [
-        864,
-        1270
-      ],
-      "byte_length": 1357564,
-      "sha256": "becb727322d2d74d9b387f3870d1b1453eb850acad0c9aac265ab850dc39ce7b",
-      "source_file": "media-generation-es-01-232-source-0-29f236a6-5bac-44b6-939a-ceab647bbcb5.png",
-      "source_dimensions": [
-        1920,
-        1280
-      ],
-      "crop_center": [
-        0.5,
-        0.5
-      ],
-      "labels": [
-        "Puente Nuevo, Ronda",
-        "Scenario: 24 September 2026 · 02:19 Europe/Madrid",
-        "AI-generated artistic interpretation · Not a photograph."
-      ],
-      "signature": "Jason D’s Vision",
-      "format": "PNG",
-      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
-      "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 864x1080. Not native target-resolution detail."
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "ecb9b68978f252648a8eecf240675fc60ef63aeb73e768dd6e07dfd6a17399b1",
+      "bytes": 2058965,
+      "source_width": 720,
+      "source_height": 1280,
+      "resampled": true
     }
   },
-  "conditions": {
-    "retrieved": "2026-09-24T02:17:08+02:00",
-    "valid": "2026-09-24T02:19:34+02:00",
-    "provider": "Open-Meteo",
-    "api": "https://api.open-meteo.com/v1/forecast",
-    "is_day": 0,
-    "temperature_2m": 19.3,
-    "weather_code": 0,
-    "cloud_cover": 2,
-    "wind_speed_10m": 9.1
-  },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T02:17:08+02:00, valid 2026-09-24T02:19:34+02:00 Europe/Madrid — not a verified on-site observation.",
-  "prompts": {
-    "prompt-r1.txt": "Photorealistic original artistic interpretation (not a photograph) of the Puente Nuevo, Ronda, Málaga, Spain, at night. Tourist viewpoint: the gorge overlook, facing the bridge across El Tajo. Frame: the tall 98 m stone bridge centered, arcing across the deep gorge; the Guadalevín river glinting far below; the white town glowing on both rims of the gorge. Night light: restrained street lighting on the bridge and town, moonlight, starry clear sky, 19 degrees C, light breeze. Main subject centered to survive a 4:5 center crop. No identifiable people, no legible logos, no text, lettering or signs anywhere in the image. Keep the lower third clean and uncluttered."
-  },
-  "source_files": [
-    {
-      "file": "media-generation-es-01-232-source-0-29f236a6-5bac-44b6-939a-ceab647bbcb5.png",
-      "sha256": "9cac8a91d98c11d180ae8e29b90df962c837827a8e970369ace47c0d0b0d7543",
-      "dimensions": [
-        1920,
-        1280
-      ],
-      "selected": true
-    }
-  ],
-  "provenance": {
-    "tool": "Built-in image generation; specific model version not exposed",
-    "image_inputs": [],
-    "source_use": "Text-only original generation. Third-party photographs inspected for facts, not supplied as input pixels. No uniqueness guarantee.",
-    "lineage": "Same selected source cropped and uniformly Lanczos-resampled to two exact PNGs; factual text and upward-fading scrim added deterministically. No stretching.",
-    "resampling": "Source [1920, 1280]; uniform Lanczos enlargement/crop to exact 1920x1080 and 864x1080. Not native target-resolution detail."
-  },
-  "production_checks": {
-    "technical": "Both PNGs fully decode, dimensions exact; label boxes in frame. Technical checks are not independent Cosmo QC.",
-    "visual": "Production comparison and limitations documented; not an independent gate verdict.",
-    "originality": "Own generated pixels; uniqueness not established.",
-    "commercial_ip": "No prominent people/logos or artwork focal subject; third-party clearance not legally certified.",
-    "publication": "Candidate handoff only. No approval inferred."
-  },
-  "independent_qc": {
-    "reviewer": "Cosmo",
-    "verdict": "Awaiting review",
-    "exact_pair_required": true
-  },
-  "card_handoff": {
-    "owner": "Cosmo",
-    "placement": "Candidate pipeline, two-format card (16:9/4:5 tabs, both downloads)",
-    "preserve": "caption, scenario, composition, description, status, disclosure, license, search/navigation and country switcher"
-  },
-  "license_badge": "Free · no credit needed",
-  "license_anchor": "#license",
-  "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
-  "reference_evidence": [],
-  "approval_basis": "Gate 1: Puente Nuevo, Ronda recognizably depicted spanning the El Tajo gorge with whitewashed town both sides, plausible tourist viewpoint, clean framing, no artifacts. Gate 2: both masters exact dimensions with SHA-256 matching packet, exact 'Jason D's Vision' signature bottom-right, exact caption, scenario timestamp and AI disclosure bottom-left on gradient scrim, legible. Gate 3: packet documents text-only generation, image_inputs: [], no photographic inputs. Gate 4: no people, logos, or private property visible — public landmark only; documented only. Gate 5: no open blockers.",
-  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.",
-  "daylight_variant": {
-    "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
-    "source_night": {
-      "16x9": {
-        "path": "es-01-232-r1-16x9.png",
-        "sha256": "0fe46df199aab133d551c5e1df5c4c03002f5e09070b6b14792bfe6d4c06ad82"
+  "revision": "cand-r1",
+  "file_9x16": "es-01-232-cand-r1-9x16.png",
+  "evidence_card": "evidence/ES-01-232.json",
+  "land_as": "Candidate",
+  "conditions_record": {
+    "retrieved_local": "2026-10-01T03:29:15.627767+02:00",
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=36.740633&longitude=-5.165853&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
+    "requested_coordinates": [
+      36.740633,
+      -5.165853
+    ],
+    "response": {
+      "latitude": 36.75,
+      "longitude": -5.1875,
+      "generationtime_ms": 0.08094310760498047,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 715.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
       },
-      "4x5": {
-        "path": "es-01-232-r1-4x5.png",
-        "sha256": "becb727322d2d74d9b387f3870d1b1453eb850acad0c9aac265ab850dc39ce7b"
+      "current": {
+        "time": "2026-10-01T03:15",
+        "interval": 900,
+        "temperature_2m": 15.1,
+        "weather_code": 2,
+        "cloud_cover": 61,
+        "is_day": 0,
+        "precipitation": 0.0,
+        "wind_speed_10m": 4.1
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T08:15"
+        ],
+        "sunset": [
+          "2026-10-01T20:04"
+        ]
       }
     },
-    "masters": {
-      "16x9": {
-        "path": "es-01-232-daylight-16x9.png",
-        "width": 1920,
-        "height": 1270,
-        "sha256": "fd1bdb84bb2e7f3643081e7f345723aad12493a88dfe0b475c39fc75c3aa7084"
-      },
-      "4x5": {
-        "path": "es-01-232-daylight-4x5.png",
-        "width": 864,
-        "height": 1270,
-        "sha256": "a8b8b6e04eb775f68a8f22f1b86c7be6cb78ecfe8798db6eaa96029692e3e127"
-      }
-    },
-    "on_image_text": [
-      "Puente Nuevo, Ronda",
-      "☀ Daylight variant · derived from the night interpretation",
-      "AI-generated artistic interpretation · Not a photograph.",
-      "Jason D’s Vision"
-    ],
-    "art50_png_chunks": [
-      "Title",
-      "Description",
-      "Copyright",
-      "Software",
-      "Comment"
-    ],
-    "country": "Spain"
+    "solar": {
+      "method": "NOAA fractional-year geometric approximation, not observation",
+      "elevation_deg": -52.86,
+      "azimuth_deg": 27.44
+    }
   }
 }

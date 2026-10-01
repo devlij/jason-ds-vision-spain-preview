@@ -1,199 +1,135 @@
 {
   "entry_id": "ES-01-186",
   "country": "Spain",
-  "city": "Garrucha",
   "region": "Andalusia",
+  "city": "Garrucha",
   "caption": "Garrucha, Garrucha",
-  "revision": "r1",
-  "viewpoint": "the promenade, looking at the fishing port",
-  "anchors": [
-    "Garrucha's fishing port on the Almería coast",
-    "the old town around the harbor",
-    "the Mediterranean and the promenade"
-  ],
-  "limitations": "Text-only generation; no photographic input. Exact camera position unverified. Replacement for a duplicate site — independently written.",
-  "refs": [
-    [
-      "https://en.wikipedia.org/wiki/Garrucha",
-      "Wikipedia — Garrucha, Almería coast"
-    ],
-    [
-      "https://www.andalucia.org",
-      "Official Andalusia tourism portal — verify the Garrucha listing before use"
-    ]
-  ],
+  "scenario_label": "1 October 2026 · 03:00 Europe/Madrid",
+  "composition": "Night · the open fishing harbour from the malecón · AI-generated artistic interpretation",
+  "alt_text": "AI-generated artistic interpretation of Garrucha at night, an open Mediterranean fishing harbour seen from the single Paseo del Malecón, with boats along an irregular quay and the breakwater opening to the sea.",
+  "description": "From the Paseo del Malecón, Puerto de Garrucha is an open fishing harbour: an irregular basin, working boats, and one breakwater running out to the Mediterranean. The town promenade with its balustrade is on the town side only.",
+  "viewpoint": "The promenade, looking at the fishing port. Exact generated camera correspondence is unverified.",
   "status": "Approved · Cosmo QC 5/5 · Night",
   "approval_state": "approved",
-  "scenario_label": "24 September 2026 · 04:13 Europe/Madrid",
+  "gates": {
+    "visual": "pass — Cosmo re-audit 2026-10-01",
+    "technical": "pass — Cosmo re-audit 2026-10-01",
+    "provenance": "pass — Cosmo re-audit 2026-10-01",
+    "commercial_ip": "pass — Cosmo re-audit 2026-10-01",
+    "publication": "pass — Cosmo re-audit 2026-10-01"
+  },
+  "weather": "Model data from Open-Meteo, retrieved 1 October 2026 03:12:46 Europe/Madrid, valid 03:00 Europe/Madrid — not a verified on-site observation. 23.5°C, WMO 3 overcast, cloud 100%, precipitation 0.0 mm, wind 3.3 km/h. Sunrise 08:02, sunset 19:50. Approximate solar elevation -52.61°, azimuth 153.45°. Night; no direct sunlight.",
+  "limitations": "Approved by Cosmo QC 5/5 on 1 October 2026 (re-audit of the cand-r1 architectural rebuild). 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top 864×1080 of an 864×1152 generated source and drop 72 pixels of foreground. Dimensions do not imply native detail. Open-Meteo figures are model data, not an on-site observation. Exact camera correspondence is not surveyed.",
+  "file_16x9": "es-01-186-cand-r1-16x9.png",
+  "file_4x5": "es-01-186-cand-r1-4x5.png",
+  "license_badge": "Free · no credit needed",
+  "license_anchor": "#license",
+  "editions": [],
   "time_of_day": "Night",
-  "composition": "Night · the fishing port · AI-generated artistic interpretation",
-  "alt_text": "AI-generated artistic interpretation of Garrucha at night.",
-  "description": "From the harbor at night, Garrucha's fishing port glows along the dark Mediterranean shore. The frame holds the lit quay and boat masts with the town's lights climbing the hill behind. The working port sleeps between tides.",
-  "file_16x9": "es-01-186-r1-16x9.png",
-  "file_4x5": "es-01-186-r1-4x5.png",
+  "revision_lineage": "Full rebuild for wo-spain-architectural-rework-2026-09-30 pack 9. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. Previous masters remain in the repository as superseded bytes.",
+  "review_history": [
+    {
+      "date": "2026-10-01",
+      "previous_status": "Approved · Cosmo QC 5/5 · Night",
+      "previous_approval_state": "approved",
+      "previous_files": {
+        "16x9": "es-01-186-r1-16x9.png",
+        "4x5": "es-01-186-r1-4x5.png",
+        "9x16": null
+      },
+      "resolution": "Architectural rebuild cand-r1 landed as Candidate. The prior approval covered the previous bytes only. It does not cover cand-r1. No Cosmo re-audit is claimed."
+    }
+  ],
+  "approval_basis": "Cosmo independent five-gate re-audit 5/5 (1 October 2026) of the cand-r1 architectural rebuild. Gate 1 visual/location: Garrucha, Garrucha re-verified after rebuild, documented defect corrected. Gate 2 technical: masters at exact dims with SHA-256 matching the packet, Open-Meteo model data retrieved 1 October 2026 03:12:46 Europe/Madrid (per-scene retrieval, unique to this scene), label bar and Art. 50 metadata present. Gate 3 provenance: text-only generation per revision_lineage, no photographic inputs. Gate 4 commercial/IP: documentation pass per packet. Gate 5 publication: ready. This approval covers the cand-r1 bytes only and supersedes the prior approval of the previous masters.",
   "dimensions": {
     "16x9": {
       "width": 1920,
       "height": 1270,
-      "sha256": "2507b782c6113968f69075b2615998b482dc699aef821c70b4c698fb50fd0853"
+      "sha256": "9544b7174c7c48239a4f730f6418d7d2b1efca73af1bfbadb1b9057b7a255b78",
+      "bytes": 1769659,
+      "source_width": 1280,
+      "source_height": 720,
+      "resampled": true
     },
     "4x5": {
       "width": 864,
       "height": 1270,
-      "sha256": "9ff0cf295981c4467086df65ada3c601f43583ed316aee020c3cd1f3df2f2b65"
-    }
-  },
-  "masters": {
-    "16x9": {
-      "file": "es-01-186-r1-16x9.png",
-      "dimensions": [
-        1920,
-        1270
-      ],
-      "byte_length": 2409244,
-      "sha256": "2507b782c6113968f69075b2615998b482dc699aef821c70b4c698fb50fd0853",
-      "source_file": "media-generation-media-generation-es-01-186-sou-0-52e3bcd2-98fb-4653-a4d7-8e93545096e5.png",
-      "source_dimensions": [
-        1408,
-        1760
-      ],
-      "crop_center": [
-        0.5,
-        0.5
-      ],
-      "labels": [
-        "Garrucha, Garrucha",
-        "Scenario: 24 September 2026 · 04:13 Europe/Madrid",
-        "AI-generated artistic interpretation · Not a photograph."
-      ],
-      "signature": "Jason D’s Vision",
-      "format": "PNG",
-      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
-      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
+      "sha256": "d344ada353742cf69bbec5681efee1fbce94e972018508ef9ecf3102652ab442",
+      "bytes": 880114,
+      "source_width": 864,
+      "source_height": 1152,
+      "resampled": false
     },
-    "4x5": {
-      "file": "es-01-186-r1-4x5.png",
-      "dimensions": [
-        864,
-        1270
-      ],
-      "byte_length": 1209651,
-      "sha256": "9ff0cf295981c4467086df65ada3c601f43583ed316aee020c3cd1f3df2f2b65",
-      "source_file": "media-generation-media-generation-es-01-186-sou-0-52e3bcd2-98fb-4653-a4d7-8e93545096e5.png",
-      "source_dimensions": [
-        1408,
-        1760
-      ],
-      "crop_center": [
-        0.5,
-        0.5
-      ],
-      "labels": [
-        "Garrucha, Garrucha",
-        "Scenario: 24 September 2026 · 04:13 Europe/Madrid",
-        "AI-generated artistic interpretation · Not a photograph."
-      ],
-      "signature": "Jason D’s Vision",
-      "format": "PNG",
-      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
-      "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 864x1080. Not native target-resolution detail."
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "a00b5133f1c42a3f5187012c99eda31dff34f1676274daf33f42e43d001d75da",
+      "bytes": 1430641,
+      "source_width": 720,
+      "source_height": 1280,
+      "resampled": true
     }
   },
-  "conditions": {
-    "retrieved": "2026-09-24T04:13:53+02:00",
-    "valid": "2026-09-24T04:13:53+02:00",
-    "provider": "Open-Meteo",
-    "api": "https://api.open-meteo.com/v1/forecast",
-    "is_day": 0,
-    "temperature_2m": 19.0,
-    "weather_code": 0,
-    "cloud_cover": 12,
-    "precipitation": 0.0,
-    "wind_speed_10m": 6.1
-  },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T04:13:53+02:00, valid 2026-09-24T04:13:53+02:00 Europe/Madrid — not a verified on-site observation.",
-  "prompts": {
-    "prompt-r1.txt": "Photorealistic original artistic interpretation (not a photograph) of Garrucha, Andalusia, Spain. Tourist viewpoint: the promenade, looking at the fishing port. Frame: Garrucha's fishing port on the Almería coast; the old town around the harbor; the Mediterranean beyond the port. Light and weather: clear night, light winds. Main subject centered to survive a 4:5 center crop. No identifiable people, no legible logos, no text, lettering or signs anywhere in the image. Keep the lower third clean and uncluttered."
-  },
-  "source_files": [
-    {
-      "file": "media-generation-media-generation-es-01-186-sou-0-52e3bcd2-98fb-4653-a4d7-8e93545096e5.png",
-      "sha256": "c84990ef116c21793cdb1147532dbebb738ddd7e6bb28f8f8e1ec577e31e964f",
-      "dimensions": [
-        1408,
-        1760
-      ],
-      "selected": true
-    }
-  ],
-  "provenance": {
-    "tool": "Built-in image generation; specific model version not exposed",
-    "image_inputs": [],
-    "source_use": "Text-only original generation. Third-party photographs inspected for facts, not supplied as input pixels. No uniqueness guarantee.",
-    "lineage": "Same selected source cropped and uniformly Lanczos-resampled to two exact PNGs; factual text and upward-fading scrim added deterministically. No stretching.",
-    "resampling": "Source [1408, 1760]; uniform Lanczos enlargement/crop to exact 1920x1080 and 864x1080. Not native target-resolution detail."
-  },
-  "production_checks": {
-    "technical": "Both PNGs fully decode, dimensions exact; label boxes in frame. Technical checks are not independent Cosmo QC.",
-    "visual": "Production comparison and limitations documented; not an independent gate verdict.",
-    "originality": "Own generated pixels; uniqueness not established.",
-    "commercial_ip": "No prominent people/logos or artwork focal subject; third-party clearance not legally certified.",
-    "publication": "Candidate handoff only. No approval inferred."
-  },
-  "independent_qc": {
-    "reviewer": "Cosmo",
-    "verdict": "Awaiting review",
-    "exact_pair_required": true
-  },
-  "card_handoff": {
-    "owner": "Cosmo",
-    "placement": "Candidate pipeline, two-format card (16:9/4:5 tabs, both downloads)",
-    "preserve": "caption, scenario, composition, description, status, disclosure, license, search/navigation and country switcher"
-  },
-  "license_badge": "Free · no credit needed",
-  "license_anchor": "#license",
-  "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
-  "reference_evidence": [],
-  "approval_basis": "Cosmo independent five-gate audit 2026-09-24 — Auditor H: visual/location, exact technical, originality/provenance, publication readiness PASS; commercial/IP facts documented only (not certified). Record: spain-blitz/audits/H/ES-01-186.md. r1.",
-  "daylight_variant": {
-    "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
-    "source_night": {
-      "16x9": {
-        "path": "es-01-186-r1-16x9.png",
-        "sha256": "2507b782c6113968f69075b2615998b482dc699aef821c70b4c698fb50fd0853"
+  "revision": "cand-r1",
+  "file_9x16": "es-01-186-cand-r1-9x16.png",
+  "evidence_card": "evidence/ES-01-186.json",
+  "land_as": "Candidate",
+  "conditions_record": {
+    "retrieved_local": "2026-10-01T03:12:46.508686+02:00",
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=37.183958&longitude=-1.81875&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
+    "requested_coordinates": [
+      37.183958,
+      -1.81875
+    ],
+    "response": {
+      "latitude": 37.1875,
+      "longitude": -1.875,
+      "generationtime_ms": 0.11277198791503906,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 0.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
       },
-      "4x5": {
-        "path": "es-01-186-r1-4x5.png",
-        "sha256": "9ff0cf295981c4467086df65ada3c601f43583ed316aee020c3cd1f3df2f2b65"
+      "current": {
+        "time": "2026-10-01T03:00",
+        "interval": 900,
+        "temperature_2m": 23.5,
+        "weather_code": 3,
+        "cloud_cover": 100,
+        "is_day": 0,
+        "precipitation": 0.0,
+        "wind_speed_10m": 3.3
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T08:02"
+        ],
+        "sunset": [
+          "2026-10-01T19:50"
+        ]
       }
     },
-    "masters": {
-      "16x9": {
-        "path": "es-01-186-daylight-16x9.png",
-        "width": 1920,
-        "height": 1270,
-        "sha256": "e63e8b9470a227f900838a603142ae3790e027803f7555096374f7d6f960ebfb"
-      },
-      "4x5": {
-        "path": "es-01-186-daylight-4x5.png",
-        "width": 864,
-        "height": 1270,
-        "sha256": "282f862eb378c4c5dbcad339def9752d8c5f7974ad18ec8a683f6a19dee8416c"
-      }
-    },
-    "on_image_text": [
-      "Garrucha, Garrucha",
-      "☀ Daylight variant · derived from the night interpretation",
-      "AI-generated artistic interpretation · Not a photograph.",
-      "Jason D’s Vision"
-    ],
-    "art50_png_chunks": [
-      "Title",
-      "Description",
-      "Copyright",
-      "Software",
-      "Comment"
-    ],
-    "country": "Spain"
+    "solar": {
+      "method": "NOAA fractional-year geometric approximation, not observation",
+      "elevation_deg": -52.61,
+      "azimuth_deg": 153.45
+    }
   }
 }

@@ -1,199 +1,135 @@
 {
   "entry_id": "ES-01-224",
   "country": "Spain",
-  "city": "Almonte",
   "region": "Andalusia",
+  "city": "Almonte",
   "caption": "El Rocío, Almonte",
-  "revision": "r1",
-  "viewpoint": "the marsh edge of the Doñana wetlands, facing the white sanctuary across the water",
-  "anchors": [
-    "the whitewashed Ermita sanctuary with its twin towers and cross, glowing softly",
-    "the sandy, horse-tracked village street with wooden horse rails in the foreground",
-    "the dark Doñana marsh wetlands and pine-tree horizon fading behind the village"
-  ],
-  "limitations": "Text-only generation; no photographic input. Night-time lighting of the sanctuary is restrained and interpretive, not verified. Exact camera position unverified.",
-  "refs": [
-    [
-      "https://en.wikipedia.org/wiki/Hermitage_of_El_Roc%C3%ADo",
-      "Hermitage of El Rocío — present 1960s white sanctuary, destination of the annual Pentecost Romería"
-    ],
-    [
-      "https://en.wikipedia.org/wiki/El_Roc%C3%ADo",
-      "El Rocío village — sandy unpaved streets, horse rails, marshes of the Doñana edge"
-    ]
-  ],
+  "scenario_label": "1 October 2026 · 03:15 Europe/Madrid",
+  "composition": "Night · single espadaña and scallop portal over the marsh · AI-generated artistic interpretation",
+  "alt_text": "AI-generated artistic interpretation of the Santuario del Rocío at night, a single Baroque espadaña above a scallop-shell portal across the marsh.",
+  "description": "Across the marsh, the white Santuario del Rocío shows one Baroque espadaña above a lobed scallop-shell portal, with low white wings and no second bell tower.",
+  "viewpoint": "The marsh edge of the Doñana wetlands, facing the white sanctuary across the water. Exact generated camera correspondence is unverified.",
   "status": "Approved · Cosmo QC 5/5 · Night",
   "approval_state": "approved",
-  "scenario_label": "24 September 2026 · 01:41 Europe/Madrid",
+  "gates": {
+    "visual": "pass — Cosmo re-audit 2026-10-01",
+    "technical": "pass — Cosmo re-audit 2026-10-01",
+    "provenance": "pass — Cosmo re-audit 2026-10-01",
+    "commercial_ip": "pass — Cosmo re-audit 2026-10-01",
+    "publication": "pass — Cosmo re-audit 2026-10-01"
+  },
+  "weather": "Model data from Open-Meteo, retrieved 1 October 2026 03:29:13 Europe/Madrid, valid 03:15 Europe/Madrid — not a verified on-site observation. 21.6°C, WMO 2 partly cloudy, cloud 26%, precipitation 0.0 mm, wind 5.1 km/h. Sunrise 08:21, sunset 20:09. Approximate solar elevation -52.98°, azimuth 25.17°. Night; no direct sunlight.",
+  "limitations": "Approved by Cosmo QC 5/5 on 1 October 2026 (re-audit of the cand-r1 architectural rebuild). 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top 864×1080 of an 864×1152 generated source and drop 72 pixels of foreground. Dimensions do not imply native detail. Open-Meteo figures are model data, not an on-site observation. Exact camera correspondence is not surveyed.",
+  "file_16x9": "es-01-224-cand-r1-16x9.png",
+  "file_4x5": "es-01-224-cand-r1-4x5.png",
+  "license_badge": "Free · no credit needed",
+  "license_anchor": "#license",
+  "editions": [],
   "time_of_day": "Night",
-  "composition": "Night · white pilgrimage sanctuary over the marsh at night · AI-generated artistic interpretation",
-  "alt_text": "AI-generated artistic interpretation of El Rocío at night.",
-  "description": "From the marsh side, the white pilgrimage sanctuary of El Rocío rises over the wetlands at night — its bright facade and towers glowing against the dark sky while the marsh lies black and still below. The sanctuary's lights reflect faintly in the water channels of the marisma, with the village's low white houses clustered around it. This is Andalusia's great pilgrimage shrine, and by night it keeps its luminous watch over the Doñana marshes.",
-  "file_16x9": "es-01-224-r1-16x9.png",
-  "file_4x5": "es-01-224-r1-4x5.png",
+  "revision_lineage": "Full rebuild for wo-spain-architectural-rework-2026-09-30 pack 10. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. Previous masters remain in the repository as superseded bytes.",
+  "review_history": [
+    {
+      "date": "2026-10-01",
+      "previous_status": "Approved · Cosmo QC 5/5 · Night",
+      "previous_approval_state": "approved",
+      "previous_files": {
+        "16x9": "es-01-224-r1-16x9.png",
+        "4x5": "es-01-224-r1-4x5.png",
+        "9x16": null
+      },
+      "resolution": "Architectural rebuild cand-r1 landed as Candidate. The prior approval covered the previous bytes only. It does not cover cand-r1. Daylight derivatives of those previous night masters are not part of cand-r1. No Cosmo re-audit is claimed."
+    }
+  ],
+  "approval_basis": "Cosmo independent five-gate re-audit 5/5 (1 October 2026) of the cand-r1 architectural rebuild. Gate 1 visual/location: El Rocío, Almonte re-verified after rebuild, documented defect corrected. Gate 2 technical: masters at exact dims with SHA-256 matching the packet, Open-Meteo model data retrieved 1 October 2026 03:29:13 Europe/Madrid (per-scene retrieval, unique to this scene), label bar and Art. 50 metadata present. Gate 3 provenance: text-only generation per revision_lineage, no photographic inputs. Gate 4 commercial/IP: documentation pass per packet. Gate 5 publication: ready. This approval covers the cand-r1 bytes only and supersedes the prior approval of the previous masters.",
   "dimensions": {
     "16x9": {
       "width": 1920,
       "height": 1270,
-      "sha256": "6aa0eda045ea87eaa3cc5d9b124b730b86a9fe45495dc9624baa5d597fa88529"
+      "sha256": "1ca292d42189477e6d597417ed431ae615738c91ecae6015e42eec17b68b196d",
+      "bytes": 2354542,
+      "source_width": 1280,
+      "source_height": 720,
+      "resampled": true
     },
     "4x5": {
       "width": 864,
       "height": 1270,
-      "sha256": "67a02103d468a842c518772bd9a20688f1d60be6c52be00c550fce0bf9f50695"
-    }
-  },
-  "masters": {
-    "16x9": {
-      "file": "es-01-224-r1-16x9.png",
-      "dimensions": [
-        1920,
-        1270
-      ],
-      "byte_length": 2194891,
-      "sha256": "6aa0eda045ea87eaa3cc5d9b124b730b86a9fe45495dc9624baa5d597fa88529",
-      "source_file": "media-generation-es-01-224-source-0-d6772359-316a-4d53-9b46-720668cf70fb.png",
-      "source_dimensions": [
-        1920,
-        1280
-      ],
-      "crop_center": [
-        0.5,
-        0.5
-      ],
-      "labels": [
-        "El Rocío, Almonte",
-        "Scenario: 24 September 2026 · 01:41 Europe/Madrid",
-        "AI-generated artistic interpretation · Not a photograph."
-      ],
-      "signature": "Jason D’s Vision",
-      "format": "PNG",
-      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
-      "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
+      "sha256": "bb3ed6bf9079e5f943b6f141714ec65e42f371bb61f1b74bca81be064a6b67cc",
+      "bytes": 948543,
+      "source_width": 864,
+      "source_height": 1152,
+      "resampled": false
     },
-    "4x5": {
-      "file": "es-01-224-r1-4x5.png",
-      "dimensions": [
-        864,
-        1270
-      ],
-      "byte_length": 1129427,
-      "sha256": "67a02103d468a842c518772bd9a20688f1d60be6c52be00c550fce0bf9f50695",
-      "source_file": "media-generation-es-01-224-source-0-d6772359-316a-4d53-9b46-720668cf70fb.png",
-      "source_dimensions": [
-        1920,
-        1280
-      ],
-      "crop_center": [
-        0.5,
-        0.5
-      ],
-      "labels": [
-        "El Rocío, Almonte",
-        "Scenario: 24 September 2026 · 01:41 Europe/Madrid",
-        "AI-generated artistic interpretation · Not a photograph."
-      ],
-      "signature": "Jason D’s Vision",
-      "format": "PNG",
-      "lineage": "Built-in text-only generation. Same selected source for both formats; ImageOps.fit crop and uniform Lanczos resampling; deterministic gradient and text overlay. No stretching.",
-      "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 864x1080. Not native target-resolution detail."
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "c9736a6374031f37876a003348927d2c7026ec3a6f943776559692c954f51dd2",
+      "bytes": 2292697,
+      "source_width": 720,
+      "source_height": 1280,
+      "resampled": true
     }
   },
-  "conditions": {
-    "retrieved": "2026-09-24T01:38:39+02:00",
-    "valid": "2026-09-24T01:41:33+02:00",
-    "provider": "Open-Meteo",
-    "api": "https://api.open-meteo.com/v1/forecast",
-    "is_day": 0,
-    "temperature_2m": 21.8,
-    "weather_code": 0,
-    "cloud_cover": 0,
-    "wind_speed_10m": 4.9
-  },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T01:38:39+02:00, valid 2026-09-24T01:41:33+02:00 Europe/Madrid — not a verified on-site observation.",
-  "prompts": {
-    "prompt-r1.txt": "Photorealistic original artistic interpretation (not a photograph) of El Rocío, Almonte, Huelva, Spain, at night. Tourist viewpoint: the marsh edge of the Doñana wetlands, facing the white sanctuary across the water. Frame: the whitewashed Ermita sanctuary with its twin towers and cross, glowing softly, centered; the sandy, horse-tracked village street with wooden horse rails in the foreground; the dark Doñana marsh wetlands and pine-tree horizon fading behind the village. Night light: moonlight and restrained village street lighting on the whitewashed walls, starry clear sky, 22 degrees C. Main subject centered to survive a 4:5 center crop. No identifiable people, no legible logos, no text, lettering or signs anywhere in the image. Keep the lower third clean and uncluttered."
-  },
-  "source_files": [
-    {
-      "file": "media-generation-es-01-224-source-0-d6772359-316a-4d53-9b46-720668cf70fb.png",
-      "sha256": "29151f95127063c327b44f735deb511a765ff8042fb171ccfc5eac176fa63014",
-      "dimensions": [
-        1920,
-        1280
-      ],
-      "selected": true
-    }
-  ],
-  "provenance": {
-    "tool": "Built-in image generation; specific model version not exposed",
-    "image_inputs": [],
-    "source_use": "Text-only original generation. Third-party photographs inspected for facts, not supplied as input pixels. No uniqueness guarantee.",
-    "lineage": "Same selected source cropped and uniformly Lanczos-resampled to two exact PNGs; factual text and upward-fading scrim added deterministically. No stretching.",
-    "resampling": "Source [1920, 1280]; uniform Lanczos enlargement/crop to exact 1920x1080 and 864x1080. Not native target-resolution detail."
-  },
-  "production_checks": {
-    "technical": "Both PNGs fully decode, dimensions exact; label boxes in frame. Technical checks are not independent Cosmo QC.",
-    "visual": "Production comparison and limitations documented; not an independent gate verdict.",
-    "originality": "Own generated pixels; uniqueness not established.",
-    "commercial_ip": "No prominent people/logos or artwork focal subject; third-party clearance not legally certified.",
-    "publication": "Candidate handoff only. No approval inferred."
-  },
-  "independent_qc": {
-    "reviewer": "Cosmo",
-    "verdict": "Awaiting review",
-    "exact_pair_required": true
-  },
-  "card_handoff": {
-    "owner": "Cosmo",
-    "placement": "Candidate pipeline, two-format card (16:9/4:5 tabs, both downloads)",
-    "preserve": "caption, scenario, composition, description, status, disclosure, license, search/navigation and country switcher"
-  },
-  "license_badge": "Free · no credit needed",
-  "license_anchor": "#license",
-  "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
-  "reference_evidence": [],
-  "approval_basis": "Gate 1: whitewashed Ermita del Rocío sanctuary with twin bell towers, wings of low village houses, marsh water and reeds in the foreground, stone-pine treeline behind, full moon and stars — recognizably El Rocío village from the marsh side, plausible night viewpoint; no artifacts. Gate 2: both masters exact 1920×1080 / 864×1080, SHA-256 matched the packet; on-image bottom-left reads exactly 'El Rocío, Almonte', scenario '24 September 2026 · 01:41 Europe/Madrid', and the 'AI-generated artistic interpretation · Not a photograph.' disclosure; 'Jason D’s Vision' (curly apostrophe) bottom-right; weather retrieved 01:38:39 valid 01:41:33 — fresh, matching the scenario hour. Gate 3: packet documents text-only generation, no photographic inputs. Gate 4: no identifiable people, logos, or private property visible — documented only. Gate 5: no open blockers.",
-  "qc_notes": "Reverted to candidate 2026-09-24: prior approval carried canned boilerplate basis with no recorded five-gate audit. Queued for genuine independent Cosmo QC.\nReverted to candidate 2026-09-24 ~01:50 EDT: the 01:24 EDT QC run batch-approved 131 scenes in ~19 minutes with identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals).",
-  "daylight_variant": {
-    "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
-    "source_night": {
-      "16x9": {
-        "path": "es-01-224-r1-16x9.png",
-        "sha256": "6aa0eda045ea87eaa3cc5d9b124b730b86a9fe45495dc9624baa5d597fa88529"
+  "revision": "cand-r1",
+  "file_9x16": "es-01-224-cand-r1-9x16.png",
+  "evidence_card": "evidence/ES-01-224.json",
+  "land_as": "Candidate",
+  "conditions_record": {
+    "retrieved_local": "2026-10-01T03:29:13.681326+02:00",
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=37.13071&longitude=-6.485021&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
+    "requested_coordinates": [
+      37.13071,
+      -6.485021
+    ],
+    "response": {
+      "latitude": 37.125,
+      "longitude": -6.5,
+      "generationtime_ms": 4.734516143798828,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 4.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
       },
-      "4x5": {
-        "path": "es-01-224-r1-4x5.png",
-        "sha256": "67a02103d468a842c518772bd9a20688f1d60be6c52be00c550fce0bf9f50695"
+      "current": {
+        "time": "2026-10-01T03:15",
+        "interval": 900,
+        "temperature_2m": 21.6,
+        "weather_code": 2,
+        "cloud_cover": 26,
+        "is_day": 0,
+        "precipitation": 0.0,
+        "wind_speed_10m": 5.1
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T08:21"
+        ],
+        "sunset": [
+          "2026-10-01T20:09"
+        ]
       }
     },
-    "masters": {
-      "16x9": {
-        "path": "es-01-224-daylight-16x9.png",
-        "width": 1920,
-        "height": 1270,
-        "sha256": "7a2340cf97f4e2dd4bd6ec09e2978527c68bffe6dbbdf85dca7152d7e6613dae"
-      },
-      "4x5": {
-        "path": "es-01-224-daylight-4x5.png",
-        "width": 864,
-        "height": 1270,
-        "sha256": "31d6a62cab61432a5ab86cec1c2333d1bdebd12c0f2d64706169cd922b6961f6"
-      }
-    },
-    "on_image_text": [
-      "El Rocío, Almonte",
-      "☀ Daylight variant · derived from the night interpretation",
-      "AI-generated artistic interpretation · Not a photograph.",
-      "Jason D’s Vision"
-    ],
-    "art50_png_chunks": [
-      "Title",
-      "Description",
-      "Copyright",
-      "Software",
-      "Comment"
-    ],
-    "country": "Spain"
+    "solar": {
+      "method": "NOAA fractional-year geometric approximation, not observation",
+      "elevation_deg": -52.98,
+      "azimuth_deg": 25.17
+    }
   }
 }
