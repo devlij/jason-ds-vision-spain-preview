@@ -162,5 +162,165 @@
   "approval_basis": "Gate 1 PASS: Logrono's co-cathedral twin towers glowing gold with the carved baroque portal between them, the equestrian statue silhouetted in the square and arcaded old-town buildings flanking. Gate 2 PASS: exact caption 'Old Town, Logroño', scenario '24 September 2026 · 06:08 Europe/Madrid', AI disclosure and curly-apostrophe signature verified on-image; masters 1920x1080/864x1080, sha256 matched; per-scene Open-Meteo retrieval 2026-09-26T01:43:33+02:00 (valid 06:00, 17.1C partly cloudy 67%) — unique to this scene, replacing the earlier shared-retrieval hold. Gate 3 PASS: text-only generation, no photographic inputs. Gate 4: no people or logos; public site; commercial call stays Jason's. Gate 5: no open blockers.",
   "qc_notes": [
     "Gate 2 FAILED (Cosmo QC 2026-09-25): weather metadata reused across ES-01-351..360 and stale vs scenario. Conditions blocks are byte-identical (temp 18.3°C, cloud 80, wind 8.0, is_day 0) for geographically dispersed sites (Madrid ×3, Hondarribia, Getaria, Gaztelugatxe, Vitoria, Ceuta, Melilla, Logroño) — one Open-Meteo fetch reused for all 10. Retrieved 2026-09-24T01:11+02:00 (valid 01:00), scenario timestamps 04:56–06:08 Europe/Madrid — 4–5h stale. ES-01-334–365 lesson applies: refresh weather per scene near its scenario time and re-land.\n[2026-09-26T01:43:33+02:00 — builder weather rework] Per-scene Open-Meteo HTTP retrieval (own GET, HTTP 200). Retrieved 2026-09-26T01:43:33+02:00 Europe/Madrid. Model-valid hour 2026-09-24T06:00+02:00 contains scenario minute 06:08 on 2026-09-24. Model data only; not a verified on-site observation. approval_state left Candidate. Images not regenerated."
-  ]
+  ],
+  "daylight_variant": {
+    "kind": "genuine-daylight",
+    "status": "Candidate",
+    "approval_state": "candidate",
+    "work_order": "wo-spain-359-365-unblock-2026-10-01",
+    "land_as": "Candidate",
+    "derivative_disclosure": "Genuine daylight counterpart. New text-only generation from the daytime reference pack and geometry anchors. Not a night-to-day derivative and not an image-anchor on the night masters. Night Approved bytes were not used as generation inputs and were not replaced. This block is not Cosmo QC and does not change the night approval.",
+    "time_of_day": "Daylight",
+    "scenario_label": "2 October 2026 · 12:40 Europe/Madrid",
+    "scenario_retrieval": "2026-10-02T12:40:50.283977+02:00",
+    "composition": "Daylight · Concatedral de Santa María de la Redonda from Calle Portales, twin towers and iron grille · AI-generated artistic interpretation",
+    "alt_text": "AI-generated artistic interpretation of the Logroño co-cathedral in daylight.",
+    "description": "From the square on Calle Portales, the co-cathedral of Santa María de la Redonda shows its twin Baroque towers and the iron-grilled niche of the main façade. A three-dial clock is on the side wall. The October sky is overcast, so the stone is evenly lit.",
+    "viewpoint": "Old-town square before the façade on Calle Portales (approx 42.4667N, 2.4450W), looking east.",
+    "anchors": [
+      "Twin Baroque bell towers flanking the façade",
+      "Sculpted niche façade closed by a wrought-iron grille",
+      "Three-dial clock on the side wall"
+    ],
+    "refs": [
+      [
+        "https://en.wikipedia.org/wiki/Co-Cathedral_of_Logro%C3%B1o",
+        "Wikipedia: twin bell towers, iron gates, and the three-faced side-wall clock."
+      ],
+      [
+        "https://www.nomads-travel-guide.com/places/catedral-de-santa-maria-de-la-redonda/",
+        "Nomads Travel Guide: step back into the square to frame the twin towers."
+      ]
+    ],
+    "prompt": "Text-only daytime view looking east at Santa María de la Redonda: exactly two Baroque towers, lower iron-grilled façade between them, three-dial side clock, overcast October light. No night master was used as an image input.",
+    "limitations": "Candidate genuine daylight. Not Cosmo QC. Ornament and the exact height relationship of the central niche to the towers are interpretive. The camera point is the stated square viewpoint, not a surveyed match. Masters are Lanczos resamples. Open-Meteo figures are model data, not an on-site observation.",
+    "weather": "Model data from Open-Meteo, retrieved 2 October 2026 12:40:50 Europe/Madrid, valid 12:40 Europe/Madrid — not a verified on-site observation. 19.8°C, WMO 3 overcast, cloud 100%, precipitation 0.0 mm, wind 13.6 km/h. Sunrise 08:07, sunset 19:49. Approximate solar elevation 41.0°, azimuth 153.74°. is_day 1. Daylight; the retrieval falls between sunrise and sunset.",
+    "on_image_text": [
+      "Old Town, Logroño",
+      "Scenario: 2 October 2026 · 12:40 Europe/Madrid",
+      "AI-generated artistic interpretation · Not a photograph.",
+      "Jason D’s Vision",
+      "Jason A. Devlin"
+    ],
+    "art50_png_chunks": [
+      "Title",
+      "Description",
+      "Copyright",
+      "Software",
+      "Comment"
+    ],
+    "art50_comment_date": "2026-10-02",
+    "country": "Spain",
+    "masters": {
+      "16x9": {
+        "path": "es-01-360-daylight-16x9.png",
+        "width": 1920,
+        "height": 1270,
+        "sha256": "2ce56f7af6b06641ddf3fc3a907beb060761a5df8a50fc163684b3f1bc0ed209",
+        "bytes": 2265519,
+        "source_file": "src-360-16x9-b.jpg",
+        "source_dimensions": [
+          1280,
+          720
+        ],
+        "source_sha256": "74d7fdd5eed989215943ff4fdc03a12fa36db45d89ffe91836e4b18da4cba082",
+        "resampled": true,
+        "resampling_disclosure": "Source scaled with uniform Lanczos cover-crop to 1920×1080. A 190px label bar is appended. Finished master 1920×1270. Not native target-resolution detail."
+      },
+      "4x5": {
+        "path": "es-01-360-daylight-4x5.png",
+        "width": 864,
+        "height": 1270,
+        "sha256": "5095d0d01c2410ee1f1664a73ac5fc70fe4054b91763285d974820fe5443f41f",
+        "bytes": 977835,
+        "source_file": "src-360-34-b.jpg",
+        "source_dimensions": [
+          864,
+          1152
+        ],
+        "source_sha256": "3596374f7d22db96a5ab956ed17da336aaafaf7fcc823209244be02783ae6e11",
+        "resampled": true,
+        "resampling_disclosure": "Source 864×1152; the top 864×1080 is kept and 72 pixels of foreground are dropped. A 190px label bar is appended. Finished master 864×1270."
+      },
+      "9x16": {
+        "path": "es-01-360-daylight-9x16.png",
+        "width": 1080,
+        "height": 1920,
+        "sha256": "c4e862f4c51d31e4c665dd0967dd7ce1aa7fef8a9c7ab9c40310e5b49d92ac9f",
+        "bytes": 1905227,
+        "source_file": "src-360-916-b.jpg",
+        "source_dimensions": [
+          720,
+          1280
+        ],
+        "source_sha256": "3ea2bc2d1262c3b279f5a2ef27c703ed2eabf515b3b1202a3623c8df024ff7ca",
+        "resampled": true,
+        "resampling_disclosure": "Source scaled with uniform Lanczos cover-crop to exact 1080×1920. The 190px label bar is composited inside the bottom of that frame. The file is 1080×1920, not 1080×2110. Not native target-resolution detail."
+      }
+    },
+    "conditions_record": {
+      "retrieved_local": "2026-10-02T12:40:50.283977+02:00",
+      "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=42.4667&longitude=-2.445&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
+      "http_status": 200,
+      "requested_coordinates": [
+        42.4667,
+        -2.445
+      ],
+      "response": {
+        "latitude": 42.47,
+        "longitude": -2.4400005,
+        "generationtime_ms": 1.417398452758789,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Madrid",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 390.0,
+        "current_units": {
+          "time": "iso8601",
+          "interval": "seconds",
+          "temperature_2m": "°C",
+          "weather_code": "wmo code",
+          "cloud_cover": "%",
+          "is_day": "",
+          "precipitation": "mm",
+          "wind_speed_10m": "km/h"
+        },
+        "current": {
+          "time": "2026-10-02T12:30",
+          "interval": 900,
+          "temperature_2m": 19.8,
+          "weather_code": 3,
+          "cloud_cover": 100,
+          "is_day": 1,
+          "precipitation": 0.0,
+          "wind_speed_10m": 13.6
+        },
+        "daily_units": {
+          "time": "iso8601",
+          "sunrise": "iso8601",
+          "sunset": "iso8601"
+        },
+        "daily": {
+          "time": [
+            "2026-10-02"
+          ],
+          "sunrise": [
+            "2026-10-02T08:07"
+          ],
+          "sunset": [
+            "2026-10-02T19:49"
+          ]
+        }
+      },
+      "solar": {
+        "method": "NOAA fractional-year geometric approximation, not observation",
+        "elevation_deg": 41.0,
+        "azimuth_deg": 153.74
+      }
+    },
+    "independent_qc": {
+      "reviewer": "Cosmo",
+      "verdict": "Awaiting review"
+    },
+    "producer_check": "Dimensions, label bar, and Art. 50 comment date checked locally on 2026-10-02. This is not Cosmo QC and not an approval."
+  }
 }

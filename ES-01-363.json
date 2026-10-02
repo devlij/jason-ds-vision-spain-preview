@@ -162,5 +162,165 @@
   "approval_basis": "Gate 1 PASS: Albarracin's red-hued old town huddled below the castle walls on the dark hillside, the church tower at left, only sparse warm windows lit — the honest mostly-dark treatment, no claimed floodlighting. Gate 2 PASS: exact caption 'Old Town, Albarracín', scenario '24 September 2026 · 06:32 Europe/Madrid', AI disclosure and curly-apostrophe signature verified on-image; masters 1920x1080/864x1080, sha256 matched; per-scene Open-Meteo retrieval 2026-09-26T01:43:36+02:00 (valid 06:00, 12.3C clear 0%) — unique to this scene, no shared-retrieval issue. Gate 3 PASS: text-only generation, no photographic inputs. Gate 4: no people or logos; public site; commercial call stays Jason's. Gate 5: no open blockers.",
   "qc_notes": [
     "Reverted to candidate 2026-09-24 ~02:35 EDT: the ~01:25 UTC QC run approved 25 scenes (ES-01-236..241, ES-01-347..365) with byte-identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals; copy-pasted approval text is invalid and must be reverted).\nBuilder self-disclosed 2026-09-24: weather metadata retrieved 01:11 UTC was reused across scenario labels 01:32-06:48; the fresh-time/fresh-weather requirement was not met for this block. Stays unapproved until the scenario/weather metadata mismatch is resolved.\n\nCosmo QC 2026-09-24 ~03:20 EDT — NOT APPROVED. Gate 2 FAIL: scenario label '24 September 2026 · 06:32 Europe/Madrid' vs weather metadata retrieved 2026-09-24T01:11+02:00 (03:11 Europe/Madrid), valid 2026-09-24T01:00+02:00 — and the same conditions block (cloud 80, 18.3°C, weather code 3) is byte-identical across ES-01-360–365. This is the builder's self-disclosed reused-weather block; standing rule: stale/reused weather metadata FAILS Gate 2 (the ES-01-334–365 lesson). Gate 1 (review): pink rodeno-walled houses cascading down the hillside, crenellated medieval walls snaking up the ridge (top-right), a spired church tower at left, a few warm scattered street lamps, the valley dark below — recognizably Albarracín, honest mostly-dark treatment, no invented floodlighting. On-image: 'Old Town, Albarracín', scenario '24 September 2026 · 06:32 Europe/Madrid', disclosure and 'Jason D’s Vision' signature present and legible. Gate 3: image_inputs empty, text-only. Gate 4 (documented only): no prominent identifiable people or logos. Blocked on Gate 2 weather freshness only; left as candidate.\n[2026-09-26T01:43:36+02:00 — builder weather rework] Per-scene Open-Meteo HTTP retrieval (own GET, HTTP 200). Retrieved 2026-09-26T01:43:36+02:00 Europe/Madrid. Model-valid hour 2026-09-24T06:00+02:00 contains scenario minute 06:32 on 2026-09-24. Model data only; not a verified on-site observation. approval_state left Candidate. Images not regenerated."
-  ]
+  ],
+  "daylight_variant": {
+    "kind": "genuine-daylight",
+    "status": "Candidate",
+    "approval_state": "candidate",
+    "work_order": "wo-spain-359-365-unblock-2026-10-01",
+    "land_as": "Candidate",
+    "derivative_disclosure": "Genuine daylight counterpart. New text-only generation from the daytime reference pack and geometry anchors. Not a night-to-day derivative and not an image-anchor on the night masters. Night Approved bytes were not used as generation inputs and were not replaced. This block is not Cosmo QC and does not change the night approval.",
+    "time_of_day": "Daylight",
+    "scenario_label": "2 October 2026 · 12:40 Europe/Madrid",
+    "scenario_retrieval": "2026-10-02T12:40:55.090063+02:00",
+    "composition": "Daylight · Albarracín from the valley viewpoint, pink stone, ridge walls, and the Guadalaviar gorge · AI-generated artistic interpretation",
+    "alt_text": "AI-generated artistic interpretation of Albarracín in daylight.",
+    "description": "From across the gorge, Albarracín climbs the hill in pink rodeno stone, with wooden galleries on the houses and the medieval wall and Torre del Andador on the ridge. The Guadalaviar runs below. October daylight is grey and soft.",
+    "viewpoint": "Valley viewpoint across from the town (approx 40.4078N, 1.4442W), looking toward the hillside town.",
+    "anchors": [
+      "Pink and red rodeno houses with wooden galleries",
+      "Medieval walls along the ridge with the Torre del Andador",
+      "Guadalaviar river gorge below the town"
+    ],
+    "refs": [
+      [
+        "https://www.thewanders.eu/albarracin/",
+        "The Wanders: Albarracín walls, Torre del Andador, National Monument."
+      ],
+      [
+        "https://albarracinturismo.com/",
+        "Official Albarracín tourism portal."
+      ]
+    ],
+    "prompt": "Text-only daytime valley view of Albarracín: pink sandstone houses, wooden balconies, ridge walls, Torre del Andador, river gorge, overcast October light. No night master was used as an image input.",
+    "limitations": "Candidate genuine daylight. Not Cosmo QC. House-by-house detail and the exact line of the wall are interpretive. The camera point is the stated valley viewpoint, not a surveyed match. Masters are Lanczos resamples. Open-Meteo figures are model data, not an on-site observation.",
+    "weather": "Model data from Open-Meteo, retrieved 2 October 2026 12:40:55 Europe/Madrid, valid 12:40 Europe/Madrid — not a verified on-site observation. 17.8°C, WMO 3 overcast, cloud 95%, precipitation 0.0 mm, wind 10.6 km/h. Sunrise 08:03, sunset 19:46. Approximate solar elevation 43.18°, azimuth 154.22°. is_day 1. Daylight; the retrieval falls between sunrise and sunset.",
+    "on_image_text": [
+      "Old Town, Albarracín",
+      "Scenario: 2 October 2026 · 12:40 Europe/Madrid",
+      "AI-generated artistic interpretation · Not a photograph.",
+      "Jason D’s Vision",
+      "Jason A. Devlin"
+    ],
+    "art50_png_chunks": [
+      "Title",
+      "Description",
+      "Copyright",
+      "Software",
+      "Comment"
+    ],
+    "art50_comment_date": "2026-10-02",
+    "country": "Spain",
+    "masters": {
+      "16x9": {
+        "path": "es-01-363-daylight-16x9.png",
+        "width": 1920,
+        "height": 1270,
+        "sha256": "4e51a4acdb453a589d3dbf63ec1012a673ab04663e054286e8df664f7258ce38",
+        "bytes": 2917836,
+        "source_file": "src-363-16x9.jpg",
+        "source_dimensions": [
+          1280,
+          720
+        ],
+        "source_sha256": "675e8f8cec5b782368e51c57f98249c68a161cb8d304f76523de44d9d610479f",
+        "resampled": true,
+        "resampling_disclosure": "Source scaled with uniform Lanczos cover-crop to 1920×1080. A 190px label bar is appended. Finished master 1920×1270. Not native target-resolution detail."
+      },
+      "4x5": {
+        "path": "es-01-363-daylight-4x5.png",
+        "width": 864,
+        "height": 1270,
+        "sha256": "013f338c1a6b893db8151c492be87b232c54479dfbe92601d92b9b00fd07b08f",
+        "bytes": 1634887,
+        "source_file": "src-363-34.jpg",
+        "source_dimensions": [
+          864,
+          1152
+        ],
+        "source_sha256": "8ed2a0fd83d7b1c553005e258433bbaeb39b79a4073b19c2a1f39eddad720581",
+        "resampled": true,
+        "resampling_disclosure": "Source 864×1152; the top 864×1080 is kept and 72 pixels of foreground are dropped. A 190px label bar is appended. Finished master 864×1270."
+      },
+      "9x16": {
+        "path": "es-01-363-daylight-9x16.png",
+        "width": 1080,
+        "height": 1920,
+        "sha256": "ca2f5879d8b4000a1ae12fb7daeaf0880b926342a4b2fb676653a035eda645d7",
+        "bytes": 2574158,
+        "source_file": "src-363-916.jpg",
+        "source_dimensions": [
+          720,
+          1280
+        ],
+        "source_sha256": "c844227a2a8ace8bbdc1a0b425b275aa69f0d8321fe3f33e317b857e1b9d087d",
+        "resampled": true,
+        "resampling_disclosure": "Source scaled with uniform Lanczos cover-crop to exact 1080×1920. The 190px label bar is composited inside the bottom of that frame. The file is 1080×1920, not 1080×2110. Not native target-resolution detail."
+      }
+    },
+    "conditions_record": {
+      "retrieved_local": "2026-10-02T12:40:55.090063+02:00",
+      "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=40.4078&longitude=-1.4442&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
+      "http_status": 200,
+      "requested_coordinates": [
+        40.4078,
+        -1.4442
+      ],
+      "response": {
+        "latitude": 40.4375,
+        "longitude": -1.4375,
+        "generationtime_ms": 0.10585784912109375,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Madrid",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 1153.0,
+        "current_units": {
+          "time": "iso8601",
+          "interval": "seconds",
+          "temperature_2m": "°C",
+          "weather_code": "wmo code",
+          "cloud_cover": "%",
+          "is_day": "",
+          "precipitation": "mm",
+          "wind_speed_10m": "km/h"
+        },
+        "current": {
+          "time": "2026-10-02T12:30",
+          "interval": 900,
+          "temperature_2m": 17.8,
+          "weather_code": 3,
+          "cloud_cover": 95,
+          "is_day": 1,
+          "precipitation": 0.0,
+          "wind_speed_10m": 10.6
+        },
+        "daily_units": {
+          "time": "iso8601",
+          "sunrise": "iso8601",
+          "sunset": "iso8601"
+        },
+        "daily": {
+          "time": [
+            "2026-10-02"
+          ],
+          "sunrise": [
+            "2026-10-02T08:03"
+          ],
+          "sunset": [
+            "2026-10-02T19:46"
+          ]
+        }
+      },
+      "solar": {
+        "method": "NOAA fractional-year geometric approximation, not observation",
+        "elevation_deg": 43.18,
+        "azimuth_deg": 154.22
+      }
+    },
+    "independent_qc": {
+      "reviewer": "Cosmo",
+      "verdict": "Awaiting review"
+    },
+    "producer_check": "Dimensions, label bar, and Art. 50 comment date checked locally on 2026-10-02. This is not Cosmo QC and not an approval."
+  }
 }

@@ -1,0 +1,124 @@
+{
+  "scene_id": "ES-01-360",
+  "land_as": "Candidate",
+  "kind": "genuine-daylight",
+  "work_order": "wo-spain-359-365-unblock-2026-10-01",
+  "night_approval_state": "approved",
+  "night_status_unchanged": true,
+  "not_a_night_to_day_flip": true,
+  "viewpoint": "Old-town square before the façade on Calle Portales (approx 42.4667N, 2.4450W), looking east.",
+  "reference_links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Co-Cathedral_of_Logro%C3%B1o",
+      "note": "Wikipedia: twin bell towers, iron gates, and the three-faced side-wall clock."
+    },
+    {
+      "url": "https://www.nomads-travel-guide.com/places/catedral-de-santa-maria-de-la-redonda/",
+      "note": "Nomads Travel Guide: step back into the square to frame the twin towers."
+    }
+  ],
+  "geometry_anchors": [
+    "Twin Baroque bell towers flanking the façade",
+    "Sculpted niche façade closed by a wrought-iron grille",
+    "Three-dial clock on the side wall"
+  ],
+  "art50_comment_date": "2026-10-02",
+  "art50_note": "Comment date is this scene's finish date, 2026-10-02, not a fleet-wide restamp.",
+  "open_meteo": {
+    "retrieved_local": "2026-10-02T12:40:50.283977+02:00",
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=42.4667&longitude=-2.445&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
+    "http_status": 200,
+    "requested_coordinates": [
+      42.4667,
+      -2.445
+    ],
+    "response": {
+      "latitude": 42.47,
+      "longitude": -2.4400005,
+      "generationtime_ms": 1.417398452758789,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 390.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-02T12:30",
+        "interval": 900,
+        "temperature_2m": 19.8,
+        "weather_code": 3,
+        "cloud_cover": 100,
+        "is_day": 1,
+        "precipitation": 0.0,
+        "wind_speed_10m": 13.6
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-02"
+        ],
+        "sunrise": [
+          "2026-10-02T08:07"
+        ],
+        "sunset": [
+          "2026-10-02T19:49"
+        ]
+      }
+    },
+    "solar": {
+      "method": "NOAA fractional-year geometric approximation, not observation",
+      "elevation_deg": 41.0,
+      "azimuth_deg": 153.74
+    }
+  },
+  "scenario_label": "2 October 2026 · 12:40 Europe/Madrid",
+  "masters": {
+    "16x9": {
+      "file": "es-01-360-daylight-16x9.png",
+      "width": 1920,
+      "height": 1270,
+      "sha256": "2ce56f7af6b06641ddf3fc3a907beb060761a5df8a50fc163684b3f1bc0ed209",
+      "bytes": 2265519,
+      "source": "src-360-16x9-b.jpg",
+      "source_width": 1280,
+      "source_height": 720,
+      "source_sha256": "74d7fdd5eed989215943ff4fdc03a12fa36db45d89ffe91836e4b18da4cba082"
+    },
+    "4x5": {
+      "file": "es-01-360-daylight-4x5.png",
+      "width": 864,
+      "height": 1270,
+      "sha256": "5095d0d01c2410ee1f1664a73ac5fc70fe4054b91763285d974820fe5443f41f",
+      "bytes": 977835,
+      "source": "src-360-34-b.jpg",
+      "source_width": 864,
+      "source_height": 1152,
+      "source_sha256": "3596374f7d22db96a5ab956ed17da336aaafaf7fcc823209244be02783ae6e11"
+    },
+    "9x16": {
+      "file": "es-01-360-daylight-9x16.png",
+      "width": 1080,
+      "height": 1920,
+      "sha256": "c4e862f4c51d31e4c665dd0967dd7ce1aa7fef8a9c7ab9c40310e5b49d92ac9f",
+      "bytes": 1905227,
+      "source": "src-360-916-b.jpg",
+      "source_width": 720,
+      "source_height": 1280,
+      "source_sha256": "3ea2bc2d1262c3b279f5a2ef27c703ed2eabf515b3b1202a3623c8df024ff7ca"
+    }
+  },
+  "producer_check": "Dimensions, label bar, and Art. 50 comment date checked locally on 2026-10-02. This is not Cosmo QC and not an approval.",
+  "independent_verdict": null
+}

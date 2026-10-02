@@ -162,5 +162,165 @@
   "approval_basis": "Gate 1 PASS: the Jerte valley from the hillside at night — terraced orchards on both slopes, the river gorge threading to the lit village, moonlit water, and correctly no cherry blossoms at this September scenario per the packet. Gate 2 PASS: exact caption 'Jerte Valley', scenario '24 September 2026 · 06:40 Europe/Madrid', AI disclosure and curly-apostrophe signature verified on-image; masters 1920x1080/864x1080, sha256 matched; per-scene Open-Meteo retrieval 2026-09-26T01:43:37+02:00 (valid 06:00, 21.8C clear 9%) — unique to this scene, no shared-retrieval issue. Gate 3 PASS: text-only generation, no photographic inputs. Gate 4: no people or logos; public landscape; commercial call stays Jason's. Gate 5: no open blockers.",
   "qc_notes": [
     "Reverted to candidate 2026-09-24 ~02:35 EDT: the ~01:25 UTC QC run approved 25 scenes (ES-01-236..241, ES-01-347..365) with byte-identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals; copy-pasted approval text is invalid and must be reverted).\nBuilder self-disclosed 2026-09-24: weather metadata retrieved 01:11 UTC was reused across scenario labels 01:32-06:48; the fresh-time/fresh-weather requirement was not met for this block. Stays unapproved until the scenario/weather metadata mismatch is resolved.\n\nCosmo QC 2026-09-24 ~03:20 EDT — NOT APPROVED. Gate 2 FAIL: scenario label '24 September 2026 · 06:40 Europe/Madrid' vs weather metadata retrieved 2026-09-24T01:11+02:00 (03:11 Europe/Madrid), valid 2026-09-24T01:00+02:00 — and the same conditions block (cloud 80, 18.3°C, weather code 3) is byte-identical across ES-01-360–365. This is the builder's self-disclosed reused-weather block; standing rule: stale/reused weather metadata FAILS Gate 2 (the ES-01-334–365 lesson). Gate 1 (review): moonlit gorge with terraced cherry orchards on both slopes, the river's pools catching moonlight in the Garganta de los Infiernos, the village of Jerte with warm lights below, mist over the water — recognizably the Jerte Valley; no blossoms depicted at this September scenario, honest per the packet limitations. On-image: 'Jerte Valley', scenario '24 September 2026 · 06:40 Europe/Madrid', disclosure and 'Jason D’s Vision' signature present and legible. Gate 3: image_inputs empty, text-only. Gate 4 (documented only): no prominent identifiable people or logos. Blocked on Gate 2 weather freshness only; left as candidate.\n[2026-09-26T01:43:37+02:00 — builder weather rework] Per-scene Open-Meteo HTTP retrieval (own GET, HTTP 200). Retrieved 2026-09-26T01:43:37+02:00 Europe/Madrid. Model-valid hour 2026-09-24T06:00+02:00 contains scenario minute 06:40 on 2026-09-24. Model data only; not a verified on-site observation. approval_state left Candidate. Images not regenerated."
-  ]
+  ],
+  "daylight_variant": {
+    "kind": "genuine-daylight",
+    "status": "Candidate",
+    "approval_state": "candidate",
+    "work_order": "wo-spain-359-365-unblock-2026-10-01",
+    "land_as": "Candidate",
+    "derivative_disclosure": "Genuine daylight counterpart. New text-only generation from the daytime reference pack and geometry anchors. Not a night-to-day derivative and not an image-anchor on the night masters. Night Approved bytes were not used as generation inputs and were not replaced. This block is not Cosmo QC and does not change the night approval.",
+    "time_of_day": "Daylight",
+    "scenario_label": "2 October 2026 · 12:40 Europe/Madrid",
+    "scenario_retrieval": "2026-10-02T12:40:56.711688+02:00",
+    "composition": "Daylight · Jerte Valley from Puerto de Tornavacas, October orchards without blossom · AI-generated artistic interpretation",
+    "alt_text": "AI-generated artistic interpretation of the Jerte Valley in October daylight, without cherry blossom.",
+    "description": "From Puerto de Tornavacas the Jerte Valley runs southwest under a partly cloudy sky. Terraced cherry orchards cover the slopes in green October leaf, without blossom, and the village sits on the valley floor.",
+    "viewpoint": "Mirador del Valle del Jerte at Puerto de Tornavacas (approx 40.2204N, 5.7504W), looking down-valley to the southwest.",
+    "anchors": [
+      "Terraced cherry orchards on the valley slopes, in leaf and not in blossom",
+      "Village of Jerte on the valley floor, houses with wooden balconies",
+      "Valley panorama from Puerto de Tornavacas; Los Pilones are a separate site"
+    ],
+    "refs": [
+      [
+        "https://extremadurasenderismo.gobex.es/en/ven-a-extremadura/Valle-del-Jerte-y-La-Vera/",
+        "Extremadura tourism: Jerte Valley, Los Pilones, and the valley miradors."
+      ],
+      [
+        "https://www.spain.info/en/hiking-trails/garganta-de-los-infiernos-hiking-spain/",
+        "Spain.info: Garganta de los Infiernos; cherry blossom only in late March to early April."
+      ]
+    ],
+    "prompt": "Text-only October daytime panorama from Puerto de Tornavacas looking southwest: green terraced cherry orchards with no blossom, village with wooden balconies, partly cloudy light. No night master was used as an image input.",
+    "limitations": "Candidate genuine daylight. Not Cosmo QC. The scenario date is 2 October 2026, outside the late March to early April cherry-blossom window, so blossom is intentionally absent. Los Pilones and the Chorrero de la Virgen are in the Garganta de los Infiernos and are not the frame from Puerto de Tornavacas. Orchard and village detail are interpretive. Masters are Lanczos resamples. Open-Meteo figures are model data, not an on-site observation.",
+    "weather": "Model data from Open-Meteo, retrieved 2 October 2026 12:40:56 Europe/Madrid, valid 12:40 Europe/Madrid — not a verified on-site observation. 23.4°C, WMO 2 partly cloudy, cloud 59%, precipitation 0.0 mm, wind 10.7 km/h. Sunrise 08:20, sunset 20:03. Approximate solar elevation 41.78°, azimuth 148.72°. is_day 1. Daylight; the retrieval falls between sunrise and sunset.",
+    "on_image_text": [
+      "Jerte Valley",
+      "Scenario: 2 October 2026 · 12:40 Europe/Madrid",
+      "AI-generated artistic interpretation · Not a photograph.",
+      "Jason D’s Vision",
+      "Jason A. Devlin"
+    ],
+    "art50_png_chunks": [
+      "Title",
+      "Description",
+      "Copyright",
+      "Software",
+      "Comment"
+    ],
+    "art50_comment_date": "2026-10-02",
+    "country": "Spain",
+    "masters": {
+      "16x9": {
+        "path": "es-01-364-daylight-16x9.png",
+        "width": 1920,
+        "height": 1270,
+        "sha256": "399bd099411d10dbf7b8d26941596d3f747968de076001e58ad0260af742d463",
+        "bytes": 3356006,
+        "source_file": "src-364-16x9.jpg",
+        "source_dimensions": [
+          1280,
+          720
+        ],
+        "source_sha256": "447c6c06aa141eac55f23bc311ad5b33e1af0fe49d259a52e14b901619458d80",
+        "resampled": true,
+        "resampling_disclosure": "Source scaled with uniform Lanczos cover-crop to 1920×1080. A 190px label bar is appended. Finished master 1920×1270. Not native target-resolution detail."
+      },
+      "4x5": {
+        "path": "es-01-364-daylight-4x5.png",
+        "width": 864,
+        "height": 1270,
+        "sha256": "53e412a2dd1ec40639872b830aa13dc40ae47c6f01aa877e4db0d9a7a5d9f873",
+        "bytes": 1702777,
+        "source_file": "src-364-34-b.jpg",
+        "source_dimensions": [
+          864,
+          1152
+        ],
+        "source_sha256": "29d6b0c86436798a69094be8dfcf7ee795181ec2f2d4a22039f8fea1478ae0bd",
+        "resampled": true,
+        "resampling_disclosure": "Source 864×1152; the top 864×1080 is kept and 72 pixels of foreground are dropped. A 190px label bar is appended. Finished master 864×1270."
+      },
+      "9x16": {
+        "path": "es-01-364-daylight-9x16.png",
+        "width": 1080,
+        "height": 1920,
+        "sha256": "28a64d5f8744b032dc0c9cc3b644ad8b97c66854324db0e23b40b805b89f59a6",
+        "bytes": 3016118,
+        "source_file": "src-364-916-b.jpg",
+        "source_dimensions": [
+          720,
+          1280
+        ],
+        "source_sha256": "4e3bfd54d4debaaffbef0edb08399c0a6228a1201b7e57cbd867e949fe79d218",
+        "resampled": true,
+        "resampling_disclosure": "Source scaled with uniform Lanczos cover-crop to exact 1080×1920. The 190px label bar is composited inside the bottom of that frame. The file is 1080×1920, not 1080×2110. Not native target-resolution detail."
+      }
+    },
+    "conditions_record": {
+      "retrieved_local": "2026-10-02T12:40:56.711688+02:00",
+      "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=40.2204&longitude=-5.7504&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
+      "http_status": 200,
+      "requested_coordinates": [
+        40.2204,
+        -5.7504
+      ],
+      "response": {
+        "latitude": 40.1875,
+        "longitude": -5.8125,
+        "generationtime_ms": 0.16891956329345703,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Madrid",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 598.0,
+        "current_units": {
+          "time": "iso8601",
+          "interval": "seconds",
+          "temperature_2m": "°C",
+          "weather_code": "wmo code",
+          "cloud_cover": "%",
+          "is_day": "",
+          "precipitation": "mm",
+          "wind_speed_10m": "km/h"
+        },
+        "current": {
+          "time": "2026-10-02T12:30",
+          "interval": 900,
+          "temperature_2m": 23.4,
+          "weather_code": 2,
+          "cloud_cover": 59,
+          "is_day": 1,
+          "precipitation": 0.0,
+          "wind_speed_10m": 10.7
+        },
+        "daily_units": {
+          "time": "iso8601",
+          "sunrise": "iso8601",
+          "sunset": "iso8601"
+        },
+        "daily": {
+          "time": [
+            "2026-10-02"
+          ],
+          "sunrise": [
+            "2026-10-02T08:20"
+          ],
+          "sunset": [
+            "2026-10-02T20:03"
+          ]
+        }
+      },
+      "solar": {
+        "method": "NOAA fractional-year geometric approximation, not observation",
+        "elevation_deg": 41.78,
+        "azimuth_deg": 148.72
+      }
+    },
+    "independent_qc": {
+      "reviewer": "Cosmo",
+      "verdict": "Awaiting review"
+    },
+    "producer_check": "Dimensions, label bar, and Art. 50 comment date checked locally on 2026-10-02. This is not Cosmo QC and not an approval."
+  }
 }

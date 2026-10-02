@@ -1,0 +1,124 @@
+{
+  "scene_id": "ES-01-362",
+  "land_as": "Candidate",
+  "kind": "genuine-daylight",
+  "work_order": "wo-spain-359-365-unblock-2026-10-01",
+  "night_approval_state": "approved",
+  "night_status_unchanged": true,
+  "not_a_night_to_day_flip": true,
+  "viewpoint": "Plaza de San Diego before the university façade (approx 40.4827N, 3.3635W), looking at the Plateresque front.",
+  "reference_links": [
+    {
+      "url": "https://www.spain.info/en/destination/alcala-de-henares/",
+      "note": "Spain.info: façade of the Colegio Mayor de San Ildefonso and the Cervantes Prize hall behind it."
+    },
+    {
+      "url": "https://www.spainseeker.com/en/articles/discovering-alcala-de-henares-25-years-as-a-world-heritage-site",
+      "note": "Spainseeker: Plateresque façade of the College of San Ildefonso."
+    }
+  ],
+  "geometry_anchors": [
+    "Plateresque stone façade of three superimposed bodies",
+    "Dense carved ornament and coats of arms on the screen",
+    "Exterior view only; the courtyard and Paraninfo are behind the façade"
+  ],
+  "art50_comment_date": "2026-10-02",
+  "art50_note": "Comment date is this scene's finish date, 2026-10-02, not a fleet-wide restamp.",
+  "open_meteo": {
+    "retrieved_local": "2026-10-02T12:40:53.497804+02:00",
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=40.4827&longitude=-3.3635&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
+    "http_status": 200,
+    "requested_coordinates": [
+      40.4827,
+      -3.3635
+    ],
+    "response": {
+      "latitude": 40.5,
+      "longitude": -3.375,
+      "generationtime_ms": 0.10693073272705078,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 593.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-02T12:30",
+        "interval": 900,
+        "temperature_2m": 21.3,
+        "weather_code": 3,
+        "cloud_cover": 100,
+        "is_day": 1,
+        "precipitation": 0.0,
+        "wind_speed_10m": 7.1
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-02"
+        ],
+        "sunrise": [
+          "2026-10-02T08:10"
+        ],
+        "sunset": [
+          "2026-10-02T19:54"
+        ]
+      }
+    },
+    "solar": {
+      "method": "NOAA fractional-year geometric approximation, not observation",
+      "elevation_deg": 42.45,
+      "azimuth_deg": 151.79
+    }
+  },
+  "scenario_label": "2 October 2026 · 12:40 Europe/Madrid",
+  "masters": {
+    "16x9": {
+      "file": "es-01-362-daylight-16x9.png",
+      "width": 1920,
+      "height": 1270,
+      "sha256": "f77682a43d182f736c589f28ebba1be55c1a398a759f1ed51a0be2989e1bcfb7",
+      "bytes": 3399840,
+      "source": "src-362-16x9-b.jpg",
+      "source_width": 1280,
+      "source_height": 720,
+      "source_sha256": "c9f805d7dd4fa784f2df25c8252c6f85b38b7dab1563613d75256f0230dd7bdf"
+    },
+    "4x5": {
+      "file": "es-01-362-daylight-4x5.png",
+      "width": 864,
+      "height": 1270,
+      "sha256": "6727ebd2c3a9bf2cd75419053eecdb2ecbddbb7278182671117067e3d4e36ea5",
+      "bytes": 1566378,
+      "source": "src-362-34.jpg",
+      "source_width": 864,
+      "source_height": 1152,
+      "source_sha256": "831875699bad783c2aa574ad42c69101edd1a4c36245832dcc8f766b80aa879d"
+    },
+    "9x16": {
+      "file": "es-01-362-daylight-9x16.png",
+      "width": 1080,
+      "height": 1920,
+      "sha256": "20568ed6e54e2741f78a93206095f30cd50ecc1988128934939c5b06d8e88d4e",
+      "bytes": 2384768,
+      "source": "src-362-916-b.jpg",
+      "source_width": 720,
+      "source_height": 1280,
+      "source_sha256": "d12edf4be97eb2d82b921a403e766ee7c7dba99d6db0969811bf650a39957ecc"
+    }
+  },
+  "producer_check": "Dimensions, label bar, and Art. 50 comment date checked locally on 2026-10-02. This is not Cosmo QC and not an approval.",
+  "independent_verdict": null
+}
