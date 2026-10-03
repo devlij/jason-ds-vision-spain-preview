@@ -53,13 +53,24 @@ document.querySelectorAll('.card').forEach(card=>{
     const prev=card.querySelector('.fmt-tab.is-active');
     tabs.forEach(t=>t.classList.toggle('is-active',t===tab));
     if(!img||!link)return;
-    const dtab0=card.querySelector('.day-tab.is-active');
-    const useDay=dtab0&&dtab0.getAttribute('data-daynight')==='day';
-    const next=fmt==='9x16'
+    const usePc=card.querySelector('.pc-tab.is-active');
+    const dtab0=card.querySelector('.day-tab:not(.pc-tab).is-active');
+    const useDay=!usePc&&dtab0&&dtab0.getAttribute('data-daynight')==='day';
+    const next=usePc
+      ?(fmt==='9x16'?img.getAttribute('data-src-916-pc'):fmt==='4x5'?img.getAttribute('data-src-45-pc'):img.getAttribute('data-src-16-pc'))
+      :fmt==='9x16'
       ?(useDay&&img.getAttribute('data-src-916-day'))||img.getAttribute('data-src-916')
       :fmt==='4x5'
       ?(useDay&&img.getAttribute('data-src-45-day'))||img.getAttribute('data-src-45')
       :(useDay&&img.getAttribute('data-src-16-day'))||img.getAttribute('data-src-16');
+    if(card.querySelector('.pc-tab')){
+      if(next){
+        img.src=next;link.href=next;
+        link.classList.toggle('tall',fmt==='4x5');
+        link.classList.toggle('tall916',fmt==='9x16');
+      }
+      return;
+    }
     if(fmt==='9x16'&&next&&!card.hasAttribute('data-916-ok')){
       // The 9:16 master lands with the label-bar backfill: probe it on first
       // click. If the file 404s, drop the 9:16 tab + download and revert.
@@ -86,8 +97,59 @@ document.querySelectorAll('.card').forEach(card=>{
 
 /* Daylight toggle: one button per card, rendered only where day-variant masters
    exist. Night is the default; toggles image, downloads, and scenario caption. */
+document.querySelectorAll('.card .pc-tab').forEach(ptab=>{
+  ptab.addEventListener('click',e=>{
+    e.preventDefault();
+    const card=ptab.closest('.card');
+    if(!card)return;
+    const on=!ptab.classList.contains('is-active');
+    ptab.classList.toggle('is-active',on);
+    ptab.setAttribute('aria-pressed',on?'true':'false');
+    ptab.setAttribute('data-postcard',on?'on':'off');
+    const sun=card.querySelector('.day-tab:not(.pc-tab)');
+    if(on&&sun){
+      sun.classList.remove('is-active');
+      sun.setAttribute('aria-pressed','false');
+      sun.setAttribute('data-daynight','night');
+    }
+    const link=card.querySelector('a.thumb');
+    const img=link&&link.querySelector('img');
+    const mode=on?'postcard':'scene';
+    function srcFor(fmt){
+      if(!img)return'';
+      if(mode==='postcard')return fmt==='9x16'?img.getAttribute('data-src-916-pc'):fmt==='4x5'?img.getAttribute('data-src-45-pc'):img.getAttribute('data-src-16-pc');
+      return fmt==='9x16'?img.getAttribute('data-src-916'):fmt==='4x5'?img.getAttribute('data-src-45'):img.getAttribute('data-src-16');
+    }
+    const t916=card.querySelector('.fmt-tab[data-format="9x16"]');
+    if(t916){
+      const ok=!!srcFor('9x16');
+      t916.disabled=!ok;
+      t916.classList.toggle('is-disabled',!ok);
+      if(!ok&&t916.classList.contains('is-active')){
+        const t16=card.querySelector('.fmt-tab[data-format="16x9"]');
+        if(t16)t16.click();
+      }
+    }
+    const ftab=card.querySelector('.fmt-tab.is-active');
+    const fmt=ftab?ftab.getAttribute('data-format'):'16x9';
+    const next=srcFor(fmt);
+    if(img&&link&&next){img.src=next;link.href=next;}
+    if(img)card.querySelectorAll('a.download').forEach(a=>{
+      const f=a.getAttribute('data-dl')||'16x9';
+      const u=srcFor(f);
+      if(u){a.hidden=false;a.href=u;a.setAttribute('download',u.split('/').pop());}
+      else a.hidden=true;
+    });
+    const sc=card.querySelector('p.scenario');
+    if(sc){
+      if(!sc.getAttribute('data-scenario'))sc.setAttribute('data-scenario',sc.textContent);
+      sc.textContent=on?'Postcard collection':sc.getAttribute('data-scenario');
+    }
+  });
+});
+
 document.querySelectorAll('.card').forEach(card=>{
-  const dtab=card.querySelector('.day-tab');
+  const dtab=card.querySelector('.day-tab:not(.pc-tab)');
   if(!dtab)return;
   const dlink=card.querySelector('a.thumb');
   const dimg=dlink&&dlink.querySelector('img');
@@ -97,11 +159,20 @@ document.querySelectorAll('.card').forEach(card=>{
     dtab.classList.toggle('is-active',isDay);
     dtab.setAttribute('aria-pressed',isDay?'true':'false');
     dtab.setAttribute('data-daynight',isDay?'day':'night');
+    const ptab=card.querySelector('.pc-tab');
+    if(isDay&&ptab){
+      ptab.classList.remove('is-active');
+      ptab.setAttribute('aria-pressed','false');
+      ptab.setAttribute('data-postcard','off');
+    }
     const t916=card.querySelector('.fmt-tab[data-format="9x16"]');
     if(t916){
-      t916.disabled=isDay;
-      t916.classList.toggle('is-disabled',isDay);
-      if(isDay){
+      const block=ptab
+        ?(isDay?!(dimg&&dimg.getAttribute('data-src-916-day')):!(dimg&&dimg.getAttribute('data-src-916')))
+        :isDay;
+      t916.disabled=block;
+      t916.classList.toggle('is-disabled',block);
+      if(block){
         const cur=card.querySelector('.fmt-tab.is-active');
         if(cur&&cur.getAttribute('data-format')==='9x16'){
           const t16=card.querySelector('.fmt-tab[data-format="16x9"]');
@@ -121,7 +192,8 @@ document.querySelectorAll('.card').forEach(card=>{
       const f=a.getAttribute('data-dl')||((href===dimg.getAttribute('data-src-45')||href===dimg.getAttribute('data-src-45-day'))?'4x5':'16x9');
       const dk=f==='9x16'?(isDay?'data-src-916-day':'data-src-916'):f==='4x5'?(isDay?'data-src-45-day':'data-src-45'):(isDay?'data-src-16-day':'data-src-16');
       const u=dimg.getAttribute(dk);
-      if(u){a.href=u;a.setAttribute('download',u.split('/').pop());}
+      if(u){a.hidden=false;a.href=u;a.setAttribute('download',u.split('/').pop());}
+      else if(ptab)a.hidden=true;
     });
     const sc=card.querySelector('p.scenario');
     if(sc){
