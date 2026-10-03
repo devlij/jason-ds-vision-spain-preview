@@ -18,7 +18,7 @@ function sceneAlt(card){
   return cap+' \u2014 '+site+', '+city;
 }
 const cards=Array.from(document.querySelectorAll('.card'));
-function filter(){const f=currentFilters();let candidates=0,approved=0,queued=0;cards.forEach(c=>{c.hidden=!cardMatches(c,f);if(!c.hidden){if(c.closest('#approved-cards'))approved++;else candidates++}});document.querySelectorAll('.queued-item').forEach(c=>{c.hidden=!cardMatches(c,f);if(!c.hidden)queued++});$('result-count').textContent=`${approved} approved · ${candidates} awaiting QC · ${queued} queued`;var nr=$('no-results');if(nr)nr.hidden=approved+candidates+queued>0;}
+function filter(){const f=currentFilters();let candidates=0,approved=0,queued=0;cards.forEach(c=>{c.hidden=!cardMatches(c,f);if(!c.hidden){if(c.closest('#approved-cards'))approved++;else candidates++}});document.querySelectorAll('.queued-item').forEach(c=>{c.hidden=!cardMatches(c,f);if(!c.hidden)queued++});$('result-count').textContent=`${approved} approved scenes`;var nr=$('no-results');if(nr)nr.hidden=approved+candidates+queued>0;}
 function reset(){ clearFilters();filter();$('search').focus(); }
 $('search').addEventListener('input',filter);$('clear').addEventListener('click',reset);var r=$('reset');if(r)r.addEventListener('click',reset);
 document.querySelectorAll('[data-filter]').forEach(b=>b.addEventListener('click',()=>{$('search').value=b.dataset.filter;filter()}));document.querySelectorAll('.scene-link').forEach(a=>a.addEventListener('click',()=>{$('search').value='';filter()}));
