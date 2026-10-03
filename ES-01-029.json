@@ -35,6 +35,9 @@
   "description": "San Pedro church with one square belfry and pointed tile roof; Church stands on stone seawall at western beach end, town behind left; Cantabrian water and shallow breaking surf on right with sandy foreground.",
   "file_16x9": "es-01-029-r3-16x9.png",
   "file_4x5": "es-01-029-r3-4x5.png",
+  "file_16x9_postcard": "es-01-029-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-029-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-029-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,

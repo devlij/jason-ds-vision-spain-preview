@@ -39,6 +39,9 @@
   "description": "Pale rounded pebble-and-gravel beach foreground; Two sheer orange-grey limestone walls narrowing sharply inland; Sparse scrub clinging to fractured rock with a dark channel floor between cliffs.",
   "file_16x9": "es-01-032-r1-16x9.png",
   "file_4x5": "es-01-032-r1-4x5.png",
+  "file_16x9_postcard": "es-01-032-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-032-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-032-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
