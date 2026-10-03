@@ -1,0 +1,124 @@
+{
+  "scene_id": "ES-01-363",
+  "land_as": "Candidate",
+  "kind": "genuine-daylight",
+  "work_order": "wo-spain-359-365-unblock-2026-10-01",
+  "night_approval_state": "approved",
+  "night_status_unchanged": true,
+  "not_a_night_to_day_flip": true,
+  "viewpoint": "Valley viewpoint across from the town (approx 40.4078N, 1.4442W), looking toward the hillside town.",
+  "reference_links": [
+    {
+      "url": "https://www.thewanders.eu/albarracin/",
+      "note": "The Wanders: Albarracín walls, Torre del Andador, National Monument."
+    },
+    {
+      "url": "https://albarracinturismo.com/",
+      "note": "Official Albarracín tourism portal."
+    }
+  ],
+  "geometry_anchors": [
+    "Pink and red rodeno houses with wooden galleries",
+    "Medieval walls along the ridge with the Torre del Andador",
+    "Guadalaviar river gorge below the town"
+  ],
+  "art50_comment_date": "2026-10-02",
+  "art50_note": "Comment date is this scene's finish date, 2026-10-02, not a fleet-wide restamp.",
+  "open_meteo": {
+    "retrieved_local": "2026-10-02T12:40:55.090063+02:00",
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=40.4078&longitude=-1.4442&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
+    "http_status": 200,
+    "requested_coordinates": [
+      40.4078,
+      -1.4442
+    ],
+    "response": {
+      "latitude": 40.4375,
+      "longitude": -1.4375,
+      "generationtime_ms": 0.10585784912109375,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 1153.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-02T12:30",
+        "interval": 900,
+        "temperature_2m": 17.8,
+        "weather_code": 3,
+        "cloud_cover": 95,
+        "is_day": 1,
+        "precipitation": 0.0,
+        "wind_speed_10m": 10.6
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-02"
+        ],
+        "sunrise": [
+          "2026-10-02T08:03"
+        ],
+        "sunset": [
+          "2026-10-02T19:46"
+        ]
+      }
+    },
+    "solar": {
+      "method": "NOAA fractional-year geometric approximation, not observation",
+      "elevation_deg": 43.18,
+      "azimuth_deg": 154.22
+    }
+  },
+  "scenario_label": "2 October 2026 · 12:40 Europe/Madrid",
+  "masters": {
+    "16x9": {
+      "file": "es-01-363-daylight-16x9.png",
+      "width": 1920,
+      "height": 1270,
+      "sha256": "4e51a4acdb453a589d3dbf63ec1012a673ab04663e054286e8df664f7258ce38",
+      "bytes": 2917836,
+      "source": "src-363-16x9.jpg",
+      "source_width": 1280,
+      "source_height": 720,
+      "source_sha256": "675e8f8cec5b782368e51c57f98249c68a161cb8d304f76523de44d9d610479f"
+    },
+    "4x5": {
+      "file": "es-01-363-daylight-4x5.png",
+      "width": 864,
+      "height": 1270,
+      "sha256": "013f338c1a6b893db8151c492be87b232c54479dfbe92601d92b9b00fd07b08f",
+      "bytes": 1634887,
+      "source": "src-363-34.jpg",
+      "source_width": 864,
+      "source_height": 1152,
+      "source_sha256": "8ed2a0fd83d7b1c553005e258433bbaeb39b79a4073b19c2a1f39eddad720581"
+    },
+    "9x16": {
+      "file": "es-01-363-daylight-9x16.png",
+      "width": 1080,
+      "height": 1920,
+      "sha256": "ca2f5879d8b4000a1ae12fb7daeaf0880b926342a4b2fb676653a035eda645d7",
+      "bytes": 2574158,
+      "source": "src-363-916.jpg",
+      "source_width": 720,
+      "source_height": 1280,
+      "source_sha256": "c844227a2a8ace8bbdc1a0b425b275aa69f0d8321fe3f33e317b857e1b9d087d"
+    }
+  },
+  "producer_check": "Dimensions, label bar, and Art. 50 comment date checked locally on 2026-10-02. This is not Cosmo QC and not an approval.",
+  "independent_verdict": null
+}

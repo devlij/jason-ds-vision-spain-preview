@@ -1,0 +1,124 @@
+{
+  "scene_id": "ES-01-359",
+  "land_as": "Candidate",
+  "kind": "genuine-daylight",
+  "work_order": "wo-spain-359-365-unblock-2026-10-01",
+  "night_approval_state": "approved",
+  "night_status_unchanged": true,
+  "not_a_night_to_day_flip": true,
+  "viewpoint": "Port-side seafront promenade (approx 35.2936N, 2.9362W), looking north at the fortress.",
+  "reference_links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Melilla_la_Vieja",
+      "note": "Wikipedia: Melilla la Vieja, 16th–17th century fortress north of the port."
+    },
+    {
+      "url": "https://www.wanderlustmagazine.com/inspiration/melilla-spain-north-west-africa/",
+      "note": "Wanderlust: citadel on the rock, drawbridges over the dry moat, lighthouse, and La Purísima Concepción."
+    }
+  ],
+  "geometry_anchors": [
+    "16th–17th century stone ramparts and bastions on the coastal rock",
+    "Faro de Melilla standing inside the citadel walls",
+    "Puerta de la Marina with the dry moat and bridge approach"
+  ],
+  "art50_comment_date": "2026-10-02",
+  "art50_note": "Comment date is this scene's finish date, 2026-10-02, not a fleet-wide restamp.",
+  "open_meteo": {
+    "retrieved_local": "2026-10-02T12:40:48.679465+02:00",
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=35.2936&longitude=-2.9362&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
+    "http_status": 200,
+    "requested_coordinates": [
+      35.2936,
+      -2.9362
+    ],
+    "response": {
+      "latitude": 35.25,
+      "longitude": -2.9375,
+      "generationtime_ms": 0.7445812225341797,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 7.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-02T12:30",
+        "interval": 900,
+        "temperature_2m": 26.0,
+        "weather_code": 2,
+        "cloud_cover": 60,
+        "is_day": 1,
+        "precipitation": 0.0,
+        "wind_speed_10m": 8.8
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-02"
+        ],
+        "sunrise": [
+          "2026-10-02T08:07"
+        ],
+        "sunset": [
+          "2026-10-02T19:54"
+        ]
+      }
+    },
+    "solar": {
+      "method": "NOAA fractional-year geometric approximation, not observation",
+      "elevation_deg": 47.14,
+      "azimuth_deg": 149.8
+    }
+  },
+  "scenario_label": "2 October 2026 · 12:40 Europe/Madrid",
+  "masters": {
+    "16x9": {
+      "file": "es-01-359-daylight-16x9.png",
+      "width": 1920,
+      "height": 1270,
+      "sha256": "9875094c8747dc1303add85a485953f03cbf7dfdbaa24f7ac51af3b138700052",
+      "bytes": 3108943,
+      "source": "src-359-16x9.jpg",
+      "source_width": 1280,
+      "source_height": 720,
+      "source_sha256": "09d27144778eb74f656184304cc3f4dda0c5211205d827c06aa6df6bae4aa39a"
+    },
+    "4x5": {
+      "file": "es-01-359-daylight-4x5.png",
+      "width": 864,
+      "height": 1270,
+      "sha256": "994b70cb641d54e466bf595775530d13e965f89f2a21a5a5b31acb6d396af84d",
+      "bytes": 1551994,
+      "source": "src-359-34.jpg",
+      "source_width": 864,
+      "source_height": 1152,
+      "source_sha256": "cad9f3512e1aaaa844dc9b4385ab2d4714d84a1266e240826b49fed07fecf7bf"
+    },
+    "9x16": {
+      "file": "es-01-359-daylight-9x16.png",
+      "width": 1080,
+      "height": 1920,
+      "sha256": "a784d5ffc1d100147766ec7c4b36207dcd7ef7d48b4f632820c1ea12ec2b6e47",
+      "bytes": 2507728,
+      "source": "src-359-916.jpg",
+      "source_width": 720,
+      "source_height": 1280,
+      "source_sha256": "ae39794268896b7ff0ebbac7d165f1d737642d51968dc50d8c1b622dfdd54a3e"
+    }
+  },
+  "producer_check": "Dimensions, label bar, and Art. 50 comment date checked locally on 2026-10-02. This is not Cosmo QC and not an approval.",
+  "independent_verdict": null
+}
