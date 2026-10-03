@@ -13,7 +13,7 @@
 .preview{position:relative}
 .fmt-tabs{display:flex;gap:6px;margin:12px 0 2px}
 .fmt-tab{background:rgba(11,14,12,.82);color:var(--ink);border:1px solid var(--line);border-radius:8px;padding:5px 10px;font-size:12px;cursor:pointer;line-height:1.2}
-.fmt-tab.is-active{background:var(--accent);border-color:var(--accent);color:#0b0e0c;font-weight:700}.day-tab{display:inline-block;background:#243049;color:var(--text);border-radius:8px;padding:.4rem .7rem;font-size:.85rem;border:1px solid var(--line);cursor:pointer}.day-tab:hover{border-color:var(--accent)}.day-tab.is-active{background:#e8b23a;border-color:#e8b23a;color:#1a1405;font-weight:700}
+.fmt-tab.is-active{background:var(--accent);border-color:var(--accent);color:#0b0e0c;font-weight:700}.daynight{display:flex;gap:8px;flex-wrap:wrap;align-items:center}.day-tab{display:inline-block;background:#243049;color:var(--text);border-radius:8px;padding:.4rem .7rem;font-size:.85rem;border:1px solid var(--line);cursor:pointer}.day-tab:hover{border-color:var(--accent)}.day-tab.is-active{background:#e8b23a;border-color:#e8b23a;color:#1a1405;font-weight:700}.day-tab.pc-tab.is-active{background:#1f6b4a;border-color:#1f6b4a;color:#f4fff8;font-weight:700}
 
 .master-link.tall img{max-height:70vh;width:auto;margin:0 auto}
 .master-link.tall916 img{max-height:70vh;width:auto;margin:0 auto}
