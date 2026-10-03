@@ -1,0 +1,194 @@
+{
+  "entry_id": "ES-01-366",
+  "country": "Spain",
+  "region": "Community of Madrid",
+  "city": "Madrid",
+  "category": "christmas",
+  "caption": "Plaza Mayor Christmas market, Madrid",
+  "scenario_label": "18 December 2026 · 19:20 Europe/Madrid",
+  "composition": "Night · Plaza Mayor looking north to the frescoed Casa de la Panadería, Philip III’s statue, and the U of red Christmas chalets · AI-generated artistic interpretation",
+  "alt_text": "AI-generated artistic interpretation of Madrid’s Plaza Mayor Christmas market at night, with the frescoed Casa de la Panadería, the equestrian statue of Philip III, and red wooden chalets with black pointed roofs.",
+  "description": "From inside Plaza Mayor at night, the frescoed Casa de la Panadería closes the north side between its two small spires, and the bronze equestrian statue of Philip III stands in the center. Red-sided chalets with steep black roofs ring the statue, the form of Madrid’s Christmas market, under strings of warm lights. This is a seasonal artistic interpretation of a December evening, not a weather forecast.",
+  "viewpoint": "South side of Plaza Mayor, looking north toward the Casa de la Panadería (approx 40.4154N, 3.7074W). Exact generated camera correspondence is unverified.",
+  "status": "Candidate · awaiting Cosmo QC · Night",
+  "approval_state": "candidate",
+  "land_as": "Candidate",
+  "work_order": "wo-christmas-sprinkle-grok-2026-10-01",
+  "weather": "Generation-time Open-Meteo model data, retrieved 2026-10-02T18:07:20.700868+02:00. This is not a December 2026 forecast and not an on-site observation. The picture is a seasonal artistic interpretation of a December evening; it does not depict this retrieval. Retrieval-hour model: 22.9°C, WMO 80 (slight rain showers), cloud 86%, precipitation 0.1 mm, wind 6.7 km/h, is_day 1. Model sunrise 08:12, sunset 19:55 on the retrieval date 2026-10-02.",
+  "limitations": "Candidate draft only. No Cosmo QC has been requested or recorded, and this packet is not an approval. 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top 864×1080 of an 864×1152 generated source and drop 72 pixels of foreground. Dimensions do not imply native detail. The December evening on the label is a seasonal artistic scenario. The Open-Meteo block is one generation-time retrieval for this scene and is not a December 2026 forecast. Exact camera correspondence is not surveyed. Plaza Mayor uses Europe/Madrid.",
+  "file_16x9": "es-01-366-cand-r1-16x9.png",
+  "file_4x5": "es-01-366-cand-r1-4x5.png",
+  "file_9x16": "es-01-366-cand-r1-9x16.png",
+  "license_badge": "Free · no credit needed",
+  "license_anchor": "#license",
+  "time_of_day": "Night",
+  "revision": "cand-r1",
+  "revision_lineage": "New candidate for wo-christmas-sprinkle-grok-2026-10-01. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. No motion clip.",
+  "dimensions": {
+    "16x9": {
+      "width": 1920,
+      "height": 1270,
+      "sha256": "a664c0168736c3622f9c74e537abc8b9d300adc5cf9f0aa0dd9ab28a8938d17a",
+      "bytes": 2762291,
+      "source_width": 1280,
+      "source_height": 720,
+      "resampled": true
+    },
+    "4x5": {
+      "width": 864,
+      "height": 1270,
+      "sha256": "8ba7bb8e37b66a990d8872ad57536c3629b7063a9df096b2ea602577fb4838b5",
+      "bytes": 1358594,
+      "source_width": 864,
+      "source_height": 1152,
+      "resampled": false
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "a78b762a50109667b7002de8be990698c1f07ff9990205166b712a2891e2d531",
+      "bytes": 2667083,
+      "source_width": 720,
+      "source_height": 1280,
+      "resampled": true
+    }
+  },
+  "evidence_card": "evidence/ES-01-366.json",
+  "conditions_record": {
+    "retrieved_local": "2026-10-02T18:07:20.700868+02:00",
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=40.4154&longitude=-3.7074&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe/Madrid&forecast_days=1",
+    "requested_coordinates": [
+      40.4154,
+      -3.7074
+    ],
+    "requested_timezone": "Europe/Madrid",
+    "timezone_note": "Plaza Mayor uses Europe/Madrid.",
+    "response": {
+      "latitude": 40.4375,
+      "longitude": -3.6875,
+      "generationtime_ms": 0.0896453857421875,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 654.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-02T18:00",
+        "interval": 900,
+        "temperature_2m": 22.9,
+        "weather_code": 80,
+        "cloud_cover": 86,
+        "is_day": 1,
+        "precipitation": 0.1,
+        "wind_speed_10m": 6.7
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-02"
+        ],
+        "sunrise": [
+          "2026-10-02T08:12"
+        ],
+        "sunset": [
+          "2026-10-02T19:55"
+        ]
+      }
+    },
+    "scenario_solar": {
+      "method": "NOAA fractional-year geometric approximation for the scenario clock, not an observation and not the Open-Meteo hour",
+      "scenario_local": "2026-12-18T19:20:00+01:00",
+      "elevation_deg": -16.46,
+      "azimuth_deg": 253.05
+    },
+    "label": "Seasonal artistic interpretation. The Open-Meteo body is the generation-time retrieval only. It is not a December forecast."
+  },
+  "anchors": [
+    "enclosed arcade of semicircular arches and red-brick upper storeys",
+    "frescoed Casa de la Panadería between two small spired towers",
+    "equestrian statue of Philip III inside a U of red chalets with black pointed roofs"
+  ],
+  "refs": [
+    {
+      "url": "https://www.esmadrid.com/en/whats-on/plaza-mayor-christmas-market",
+      "note": "Tourism Madrid: Plaza Mayor Christmas market, late November to 31 December 2026, 104 stalls of nativity figures, decorations and toys."
+    },
+    {
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Actualidad/Noticias/El-tradicional-Mercado-de-Navidad-abre-sus-puertas-un-ano-mas-en-la-Plaza-Mayor-con-un-centenar-de-puestos/?vgnextfmt=default&vgnextoid=b1d6270c8310c810VgnVCM1000001d4a900aRCRD",
+      "note": "Ayuntamiento de Madrid: 104 stalls in a U around the equestrian statue of Felipe III; red sides and black pointed roofs; the nativity stands in front of the Casa de la Panadería."
+    }
+  ],
+  "prompts": {
+    "16x9": "Text-only photorealistic night view of Madrid Plaza Mayor looking north: frescoed Casa de la Panadería between two spired towers, Philip III equestrian statue, U of red chalets with black pointed roofs, festive lights. No text, no logos, no identifiable people.",
+    "4x5": "Text-only vertical night view of the same Plaza Mayor Christmas market, Casa de la Panadería above, statue in the middle, red chalets below.",
+    "9x16": "Text-only tall night view of the same Plaza Mayor Christmas market, sky and frescoed facade above, statue mid-frame, chalets below."
+  },
+  "source_files": [
+    {
+      "file": "sources/es-01-366-cand-r1-16x9-source.jpg",
+      "sha256": "952ca98b65723591935757d2dff95776c1aca5624610ce837ca05bdfea46b44d",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "format": "16x9"
+    },
+    {
+      "file": "sources/es-01-366-cand-r1-4x5-source.jpg",
+      "sha256": "37426ca71f8dd067f24449f590880e45ef7176abb57fb4770df78e996169f2c6",
+      "dimensions": [
+        864,
+        1152
+      ],
+      "format": "4x5"
+    },
+    {
+      "file": "sources/es-01-366-cand-r1-9x16-source.jpg",
+      "sha256": "bc18ce4fea8f7cd492be4bd5025ed2d161ac1b5b451ffee85fe177e05e064a93",
+      "dimensions": [
+        720,
+        1280
+      ],
+      "format": "9x16"
+    }
+  ],
+  "art50_comment_date": "2026-10-02",
+  "art50_note": "Comment date is this scene's finish date, 2026-10-02, not a fleet-wide restamp.",
+  "provenance": {
+    "tool": "Built-in image generation; specific model version not exposed",
+    "image_inputs": [],
+    "source_use": "Text-only original generation. Third-party pages inspected for facts, not supplied as input pixels. No uniqueness guarantee.",
+    "lineage": "Each format from its own text-only source. 16:9 and 9:16 Lanczos-resampled to the artwork size; 4:5 cropped from the top of its source. A 190px label bar is added under the artwork. No stretching."
+  },
+  "production_checks": {
+    "technical": "The three finished PNGs decode at the label-bar dimensions; Art.50 comment date checked locally. Technical checks are not independent Cosmo QC.",
+    "visual": "Producer comparison against published descriptions of the sites. Not an independent gate verdict.",
+    "originality": "Own generated pixels; uniqueness not established.",
+    "commercial_ip": "No identifiable people. Architecture and the public setting are the subject. The Casa de la Panadería fresco, where it appears, is shown at architectural scale as part of the facade, not as a close study of the mural. Not legal certification.",
+    "publication": "Candidate handoff only. No approval inferred."
+  },
+  "independent_qc": {
+    "reviewer": null,
+    "verdict": null,
+    "exact_pair_required": true,
+    "note": "No Cosmo QC has been performed. Do not treat this packet as a review."
+  },
+  "card_handoff": {
+    "owner": "Cosmo",
+    "placement": "Christmas Markets candidate section, hidden until the charm is opened. Not the approved gallery.",
+    "preserve": "caption, scenario, composition, description, candidate status, disclosure, license"
+  }
+}

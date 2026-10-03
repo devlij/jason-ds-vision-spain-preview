@@ -1,0 +1,194 @@
+{
+  "entry_id": "ES-01-368",
+  "country": "Spain",
+  "region": "Andalusia",
+  "city": "Seville",
+  "category": "christmas",
+  "caption": "Christmas market, Seville",
+  "scenario_label": "20 December 2026 · 19:35 Europe/Madrid",
+  "composition": "Night · Christmas stalls on Avenida de la Constitución with the Cathedral and the Giralda · AI-generated artistic interpretation",
+  "alt_text": "AI-generated artistic interpretation of a Seville Christmas market at night on Avenida de la Constitución, with wooden stalls, orange trees, and the floodlit Giralda beside the cathedral.",
+  "description": "Along Avenida de la Constitución, wooden Christmas stalls face the floodlit cathedral and the Giralda, the square brick tower with sebka panels and the Giraldillo above the belfry. Orange trees and the avenue’s tram rails sit under festive lights. Seville has several Christmas markets; this frame is the avenue market. A seasonal artistic interpretation, not a forecast.",
+  "viewpoint": "Avenida de la Constitución, looking toward the cathedral and the Giralda (approx 37.3862N, 5.9952W). Exact generated camera correspondence is unverified.",
+  "status": "Candidate · awaiting Cosmo QC · Night",
+  "approval_state": "candidate",
+  "land_as": "Candidate",
+  "work_order": "wo-christmas-sprinkle-grok-2026-10-01",
+  "weather": "Generation-time Open-Meteo model data, retrieved 2026-10-02T18:07:39.393809+02:00. This is not a December 2026 forecast and not an on-site observation. The picture is a seasonal artistic interpretation of a December evening; it does not depict this retrieval. Retrieval-hour model: 31.6°C, WMO 2 (partly cloudy), cloud 71%, precipitation 0.0 mm, wind 14.5 km/h, is_day 1. Model sunrise 08:20, sunset 20:05 on the retrieval date 2026-10-02.",
+  "limitations": "Candidate draft only. No Cosmo QC has been requested or recorded, and this packet is not an approval. 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top 864×1080 of an 864×1152 generated source and drop 72 pixels of foreground. Dimensions do not imply native detail. The December evening on the label is a seasonal artistic scenario. The Open-Meteo block is one generation-time retrieval for this scene and is not a December 2026 forecast. Exact camera correspondence is not surveyed. Avenida de la Constitución uses Europe/Madrid.",
+  "file_16x9": "es-01-368-cand-r1-16x9.png",
+  "file_4x5": "es-01-368-cand-r1-4x5.png",
+  "file_9x16": "es-01-368-cand-r1-9x16.png",
+  "license_badge": "Free · no credit needed",
+  "license_anchor": "#license",
+  "time_of_day": "Night",
+  "revision": "cand-r1",
+  "revision_lineage": "New candidate for wo-christmas-sprinkle-grok-2026-10-01. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. No motion clip.",
+  "dimensions": {
+    "16x9": {
+      "width": 1920,
+      "height": 1270,
+      "sha256": "3f10067ea275cb2f7fd30fd582e454e7dac56d891778d6833e5a153ca9a916f5",
+      "bytes": 2571556,
+      "source_width": 1280,
+      "source_height": 720,
+      "resampled": true
+    },
+    "4x5": {
+      "width": 864,
+      "height": 1270,
+      "sha256": "d5699c44c26db583a4fccf1f8fbabadae20d19aaf175dcb0f1b9cfeac655bc41",
+      "bytes": 1176379,
+      "source_width": 864,
+      "source_height": 1152,
+      "resampled": false
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "8aebe68f3a6dbc05f63d6aaa2c8024ad521f8fef787420a7fb5a78667f1d8f35",
+      "bytes": 2615809,
+      "source_width": 720,
+      "source_height": 1280,
+      "resampled": true
+    }
+  },
+  "evidence_card": "evidence/ES-01-368.json",
+  "conditions_record": {
+    "retrieved_local": "2026-10-02T18:07:39.393809+02:00",
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=37.3862&longitude=-5.9952&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe/Madrid&forecast_days=1",
+    "requested_coordinates": [
+      37.3862,
+      -5.9952
+    ],
+    "requested_timezone": "Europe/Madrid",
+    "timezone_note": "Avenida de la Constitución uses Europe/Madrid.",
+    "response": {
+      "latitude": 37.375,
+      "longitude": -6.0,
+      "generationtime_ms": 0.2579689025878906,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 17.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-02T18:00",
+        "interval": 900,
+        "temperature_2m": 31.6,
+        "weather_code": 2,
+        "cloud_cover": 71,
+        "is_day": 1,
+        "precipitation": 0.0,
+        "wind_speed_10m": 14.5
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-02"
+        ],
+        "sunrise": [
+          "2026-10-02T08:20"
+        ],
+        "sunset": [
+          "2026-10-02T20:05"
+        ]
+      }
+    },
+    "scenario_solar": {
+      "method": "NOAA fractional-year geometric approximation for the scenario clock, not an observation and not the Open-Meteo hour",
+      "scenario_local": "2026-12-20T19:35:00+01:00",
+      "elevation_deg": -16.51,
+      "azimuth_deg": 252.84
+    },
+    "label": "Seasonal artistic interpretation. The Open-Meteo body is the generation-time retrieval only. It is not a December forecast."
+  },
+  "anchors": [
+    "Giralda: square brick shaft, sebka lattice, Renaissance belfry, Giraldillo",
+    "Gothic cathedral mass beside the tower",
+    "wooden Christmas stalls, orange trees and tram rails on the avenue"
+  ],
+  "refs": [
+    {
+      "url": "https://guidetoandalucia.com/best-christmas-markets-in-seville/",
+      "note": "Guide to Andalucia: the Avenida de la Constitución Christmas market runs along the avenue toward the Cathedral and Giralda, with wooden stalls. Seville also has the Feria del Belén, Plaza Nueva, and the Paseo de Cristina craft fair; this scene is the avenue market only."
+    },
+    {
+      "url": "https://www.seville-traveller.com/christmas-markets-in-seville/",
+      "note": "Seville Traveller: several concurrent Christmas markets, including a relocated craft fair and Plaza Nueva. Used to avoid treating one market as the only market."
+    }
+  ],
+  "prompts": {
+    "16x9": "Text-only photorealistic night view along Avenida de la Constitución toward Seville Cathedral and the Giralda, wooden Christmas stalls, orange trees, tram rails, festive lights. No text, no logos, no identifiable people.",
+    "4x5": "Text-only vertical night view of the Giralda above the cathedral and foreground Christmas stalls.",
+    "9x16": "Text-only tall night view of the Giralda with Christmas stalls at its base."
+  },
+  "source_files": [
+    {
+      "file": "sources/es-01-368-cand-r1-16x9-source.jpg",
+      "sha256": "8d2d853c7b847987b510221d5378a255fc7bf857c01ea5d6c0161238326356b1",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "format": "16x9"
+    },
+    {
+      "file": "sources/es-01-368-cand-r1-4x5-source.jpg",
+      "sha256": "4262e5a9397c68070b6ab6efbcac0f96ea9c4693a959a87e40e1e5430d35bee9",
+      "dimensions": [
+        864,
+        1152
+      ],
+      "format": "4x5"
+    },
+    {
+      "file": "sources/es-01-368-cand-r1-9x16-source.jpg",
+      "sha256": "aad20390b799b2cba638e17d7dfd5858ec551cbc78f520b5785ed4d8ad67bdfb",
+      "dimensions": [
+        720,
+        1280
+      ],
+      "format": "9x16"
+    }
+  ],
+  "art50_comment_date": "2026-10-02",
+  "art50_note": "Comment date is this scene's finish date, 2026-10-02, not a fleet-wide restamp.",
+  "provenance": {
+    "tool": "Built-in image generation; specific model version not exposed",
+    "image_inputs": [],
+    "source_use": "Text-only original generation. Third-party pages inspected for facts, not supplied as input pixels. No uniqueness guarantee.",
+    "lineage": "Each format from its own text-only source. 16:9 and 9:16 Lanczos-resampled to the artwork size; 4:5 cropped from the top of its source. A 190px label bar is added under the artwork. No stretching."
+  },
+  "production_checks": {
+    "technical": "The three finished PNGs decode at the label-bar dimensions; Art.50 comment date checked locally. Technical checks are not independent Cosmo QC.",
+    "visual": "Producer comparison against published descriptions of the sites. Not an independent gate verdict.",
+    "originality": "Own generated pixels; uniqueness not established.",
+    "commercial_ip": "No identifiable people. Architecture and the public setting are the subject. The Casa de la Panadería fresco, where it appears, is shown at architectural scale as part of the facade, not as a close study of the mural. Not legal certification.",
+    "publication": "Candidate handoff only. No approval inferred."
+  },
+  "independent_qc": {
+    "reviewer": null,
+    "verdict": null,
+    "exact_pair_required": true,
+    "note": "No Cosmo QC has been performed. Do not treat this packet as a review."
+  },
+  "card_handoff": {
+    "owner": "Cosmo",
+    "placement": "Christmas Markets candidate section, hidden until the charm is opened. Not the approved gallery.",
+    "preserve": "caption, scenario, composition, description, candidate status, disclosure, license"
+  }
+}

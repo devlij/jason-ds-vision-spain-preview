@@ -1,0 +1,130 @@
+{
+  "scene_id": "ES-01-366",
+  "land_as": "Candidate",
+  "revision": "cand-r1",
+  "category": "christmas",
+  "work_order": "wo-christmas-sprinkle-grok-2026-10-01",
+  "viewpoint": "South side of Plaza Mayor, looking north toward the Casa de la Panadería (approx 40.4154N, 3.7074W). Exact generated camera correspondence is unverified.",
+  "reference_links": [
+    {
+      "url": "https://www.esmadrid.com/en/whats-on/plaza-mayor-christmas-market",
+      "note": "Tourism Madrid: Plaza Mayor Christmas market, late November to 31 December 2026, 104 stalls of nativity figures, decorations and toys."
+    },
+    {
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Actualidad/Noticias/El-tradicional-Mercado-de-Navidad-abre-sus-puertas-un-ano-mas-en-la-Plaza-Mayor-con-un-centenar-de-puestos/?vgnextfmt=default&vgnextoid=b1d6270c8310c810VgnVCM1000001d4a900aRCRD",
+      "note": "Ayuntamiento de Madrid: 104 stalls in a U around the equestrian statue of Felipe III; red sides and black pointed roofs; the nativity stands in front of the Casa de la Panadería."
+    }
+  ],
+  "geometry_anchors": [
+    "enclosed arcade of semicircular arches and red-brick upper storeys",
+    "frescoed Casa de la Panadería between two small spired towers",
+    "equestrian statue of Philip III inside a U of red chalets with black pointed roofs"
+  ],
+  "art50_comment_date": "2026-10-02",
+  "art50_note": "Comment date is this scene's finish date, 2026-10-02, not a fleet-wide restamp.",
+  "open_meteo": {
+    "retrieved_local": "2026-10-02T18:07:20.700868+02:00",
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=40.4154&longitude=-3.7074&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe/Madrid&forecast_days=1",
+    "requested_coordinates": [
+      40.4154,
+      -3.7074
+    ],
+    "requested_timezone": "Europe/Madrid",
+    "timezone_note": "Plaza Mayor uses Europe/Madrid.",
+    "response": {
+      "latitude": 40.4375,
+      "longitude": -3.6875,
+      "generationtime_ms": 0.0896453857421875,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 654.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-02T18:00",
+        "interval": 900,
+        "temperature_2m": 22.9,
+        "weather_code": 80,
+        "cloud_cover": 86,
+        "is_day": 1,
+        "precipitation": 0.1,
+        "wind_speed_10m": 6.7
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-02"
+        ],
+        "sunrise": [
+          "2026-10-02T08:12"
+        ],
+        "sunset": [
+          "2026-10-02T19:55"
+        ]
+      }
+    },
+    "scenario_solar": {
+      "method": "NOAA fractional-year geometric approximation for the scenario clock, not an observation and not the Open-Meteo hour",
+      "scenario_local": "2026-12-18T19:20:00+01:00",
+      "elevation_deg": -16.46,
+      "azimuth_deg": 253.05
+    },
+    "interpretation": "Seasonal artistic interpretation of a December evening. This retrieval is generation-time model data only. It is not a December 2026 forecast and not an on-site observation."
+  },
+  "masters": {
+    "16x9": {
+      "file": "es-01-366-cand-r1-16x9.png",
+      "width": 1920,
+      "height": 1270,
+      "sha256": "a664c0168736c3622f9c74e537abc8b9d300adc5cf9f0aa0dd9ab28a8938d17a",
+      "bytes": 2762291,
+      "source": "sources/es-01-366-cand-r1-16x9-source.jpg",
+      "source_sha256": "952ca98b65723591935757d2dff95776c1aca5624610ce837ca05bdfea46b44d",
+      "source_width": 1280,
+      "source_height": 720,
+      "resampled": true,
+      "crop": "uniform Lanczos resize from 1280×720 to 1920×1080"
+    },
+    "4x5": {
+      "file": "es-01-366-cand-r1-4x5.png",
+      "width": 864,
+      "height": 1270,
+      "sha256": "8ba7bb8e37b66a990d8872ad57536c3629b7063a9df096b2ea602577fb4838b5",
+      "bytes": 1358594,
+      "source": "sources/es-01-366-cand-r1-4x5-source.jpg",
+      "source_sha256": "37426ca71f8dd067f24449f590880e45ef7176abb57fb4770df78e996169f2c6",
+      "source_width": 864,
+      "source_height": 1152,
+      "resampled": false,
+      "crop": "top 864×1080 of the 864×1152 source; 72 foreground pixels dropped"
+    },
+    "9x16": {
+      "file": "es-01-366-cand-r1-9x16.png",
+      "width": 1080,
+      "height": 2110,
+      "sha256": "a78b762a50109667b7002de8be990698c1f07ff9990205166b712a2891e2d531",
+      "bytes": 2667083,
+      "source": "sources/es-01-366-cand-r1-9x16-source.jpg",
+      "source_sha256": "bc18ce4fea8f7cd492be4bd5025ed2d161ac1b5b451ffee85fe177e05e064a93",
+      "source_width": 720,
+      "source_height": 1280,
+      "resampled": true,
+      "crop": "uniform Lanczos resize from 720×1280 to 1080×1920"
+    }
+  },
+  "producer_check": "Dimensions, label bar, and Art.50 comment date checked locally. This is not Cosmo QC and not an approval.",
+  "independent_verdict": null
+}

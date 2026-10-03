@@ -54,3 +54,25 @@ a.download:hover{border-color:var(--accent)}.flag-band{height:6px;background:lin
 button.narrate{display:inline-block;background:var(--panel);color:var(--ink);border:1px solid var(--line);border-radius:8px;padding:8px 14px;font-size:13px;cursor:pointer;font:inherit}
 button.narrate:hover{border-color:var(--accent)}
 button.narrate.playing,.lb-narrate.playing{background:#F1BF00;border-color:#F1BF00;color:#231a08}
+
+/* Christmas Markets charm: hidden until the medallion is opened. Germany-style small control. */
+.xmas-medallion-wrap{display:flex;justify-content:center;padding:4px 0 18px}
+.xmas-medallion{display:inline-flex;align-items:center;gap:8px;background:none;border:1px solid #3a4a3f;border-radius:999px;cursor:pointer;padding:5px 14px 5px 6px}
+.xmas-medallion .medal{width:26px;height:26px;border-radius:50%;background:radial-gradient(circle at 35% 30%,#2f5d3a,#14231a 70%);border:1px solid #c9a227;display:inline-flex;align-items:center;justify-content:center;font-size:14px;transition:transform .15s ease}
+.xmas-medallion:hover .medal,.xmas-medallion:focus-visible .medal{transform:scale(1.1)}
+.xmas-medallion .medal-label{font-size:12px;letter-spacing:.08em;color:#c9a227;font-weight:600}
+.xmas-medallion[aria-expanded="true"] .medal-label::after{content:" — tap to hide";text-transform:none;letter-spacing:0;font-weight:400;color:#b9c8b2}
+#christmas{margin:0 0 28px;padding:20px 22px;background:linear-gradient(180deg,#14231a,#1e1811);border:1px solid #2f4a35;border-radius:12px}
+#christmas[hidden]{display:none}
+#christmas h2{margin:0 0 6px;font-size:24px}
+#christmas .xmas-sub{margin:0 0 14px;color:#b9c8b2;font-size:14px;max-width:70ch}
+.xmas-row{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:14px}
+.xmas-card{display:block;border-radius:10px;overflow:hidden;border:1px solid #3d523f;text-decoration:none;background:#101a12;transition:transform .15s ease}
+.xmas-card:hover{transform:translateY(-2px)}
+.xmas-card img{width:100%;aspect-ratio:16/9;object-fit:cover;display:block}
+.xmas-card .xmas-cap{display:block;padding:8px 10px;color:#f2ede3;font-size:13px;font-weight:600}
+.xmas-card .xmas-cap small{display:block;font-weight:400;color:#9db198;font-size:11px;margin-top:2px}
+.xmas-close{display:block;margin:16px auto 0;background:none;border:1px solid #4a3f2c;color:#b9c8b2;border-radius:8px;padding:8px 18px;cursor:pointer;font-size:14px}
+.xmas-close:hover{border-color:#c9a227;color:#f2ede3}
+#christmas .card{margin:28px 0 0;padding-top:8px;border-top:1px solid #2f4a35}
+@media(prefers-reduced-motion:reduce){.xmas-medallion .medal,.xmas-card{transition:none}}

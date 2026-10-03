@@ -1,0 +1,194 @@
+{
+  "entry_id": "ES-01-367",
+  "country": "Spain",
+  "region": "Catalonia",
+  "city": "Barcelona",
+  "category": "christmas",
+  "caption": "Fira de Santa Llúcia, Barcelona",
+  "scenario_label": "13 December 2026 · 19:05 Europe/Madrid",
+  "composition": "Night · Fira de Santa Llúcia on Avinguda de la Catedral, before the neo-Gothic cathedral facade · AI-generated artistic interpretation",
+  "alt_text": "AI-generated artistic interpretation of Barcelona’s Fira de Santa Llúcia at night, wooden stalls of nativity figures and moss in front of the cathedral’s three portals, rose window and central spire.",
+  "description": "On Avinguda de la Catedral, the Fira de Santa Llúcia sets wooden stalls of nativity figures, moss and small firs in front of Barcelona’s cathedral. The neo-Gothic facade shows three portals, a rose window and a taller central spire, with a lit Christmas tree on the square. A seasonal artistic interpretation of a December evening, not a forecast.",
+  "viewpoint": "Avinguda de la Catedral, looking toward the cathedral facade on Pla de la Seu (approx 41.3839N, 2.1764E). Exact generated camera correspondence is unverified.",
+  "status": "Candidate · awaiting Cosmo QC · Night",
+  "approval_state": "candidate",
+  "land_as": "Candidate",
+  "work_order": "wo-christmas-sprinkle-grok-2026-10-01",
+  "weather": "Generation-time Open-Meteo model data, retrieved 2026-10-02T18:07:36.319865+02:00. This is not a December 2026 forecast and not an on-site observation. The picture is a seasonal artistic interpretation of a December evening; it does not depict this retrieval. Retrieval-hour model: 21.2°C, WMO 61 (slight rain), cloud 100%, precipitation 0.1 mm, wind 7.8 km/h, is_day 1. Model sunrise 07:48, sunset 19:31 on the retrieval date 2026-10-02.",
+  "limitations": "Candidate draft only. No Cosmo QC has been requested or recorded, and this packet is not an approval. 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top 864×1080 of an 864×1152 generated source and drop 72 pixels of foreground. Dimensions do not imply native detail. The December evening on the label is a seasonal artistic scenario. The Open-Meteo block is one generation-time retrieval for this scene and is not a December 2026 forecast. Exact camera correspondence is not surveyed. Europe/Barcelona is not a zone Open-Meteo accepts (HTTP 400 on the generation-time request). Barcelona’s civil time is Europe/Madrid, so that zone is used.",
+  "file_16x9": "es-01-367-cand-r1-16x9.png",
+  "file_4x5": "es-01-367-cand-r1-4x5.png",
+  "file_9x16": "es-01-367-cand-r1-9x16.png",
+  "license_badge": "Free · no credit needed",
+  "license_anchor": "#license",
+  "time_of_day": "Night",
+  "revision": "cand-r1",
+  "revision_lineage": "New candidate for wo-christmas-sprinkle-grok-2026-10-01. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. No motion clip.",
+  "dimensions": {
+    "16x9": {
+      "width": 1920,
+      "height": 1270,
+      "sha256": "7def7b8884949a812a0f2a466cfc563c83f6d0bed31a1b5b97ddd5f7935f31ed",
+      "bytes": 2978745,
+      "source_width": 1280,
+      "source_height": 720,
+      "resampled": true
+    },
+    "4x5": {
+      "width": 864,
+      "height": 1270,
+      "sha256": "71ce42cac905f74760e2e82ace4e60932409a84633508a535a4690b01026ad22",
+      "bytes": 1475429,
+      "source_width": 864,
+      "source_height": 1152,
+      "resampled": false
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "858f7d01dc0019320141b61a47690dbeeb2c9bc5b2454abd8e0d149eeee8eb9a",
+      "bytes": 2509079,
+      "source_width": 720,
+      "source_height": 1280,
+      "resampled": true
+    }
+  },
+  "evidence_card": "evidence/ES-01-367.json",
+  "conditions_record": {
+    "retrieved_local": "2026-10-02T18:07:36.319865+02:00",
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=41.3839&longitude=2.1764&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe/Madrid&forecast_days=1",
+    "requested_coordinates": [
+      41.3839,
+      2.1764
+    ],
+    "requested_timezone": "Europe/Madrid",
+    "timezone_note": "Europe/Barcelona is not a zone Open-Meteo accepts (HTTP 400 on the generation-time request). Barcelona’s civil time is Europe/Madrid, so that zone is used.",
+    "response": {
+      "latitude": 41.4375,
+      "longitude": 2.1875,
+      "generationtime_ms": 0.14221668243408203,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 23.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-02T18:00",
+        "interval": 900,
+        "temperature_2m": 21.2,
+        "weather_code": 61,
+        "cloud_cover": 100,
+        "is_day": 1,
+        "precipitation": 0.1,
+        "wind_speed_10m": 7.8
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-02"
+        ],
+        "sunrise": [
+          "2026-10-02T07:48"
+        ],
+        "sunset": [
+          "2026-10-02T19:31"
+        ]
+      }
+    },
+    "scenario_solar": {
+      "method": "NOAA fractional-year geometric approximation for the scenario clock, not an observation and not the Open-Meteo hour",
+      "scenario_local": "2026-12-13T19:05:00+01:00",
+      "elevation_deg": -18.53,
+      "azimuth_deg": 255.14
+    },
+    "label": "Seasonal artistic interpretation. The Open-Meteo body is the generation-time retrieval only. It is not a December forecast."
+  },
+  "anchors": [
+    "neo-Gothic cathedral facade with three pointed portals and a rose window",
+    "taller central spire between two side spires",
+    "wooden Fira de Santa Llúcia stalls with nativity figures, moss and small firs"
+  ],
+  "refs": [
+    {
+      "url": "https://www.barcelona.cat/culturapopular/en/festivals-and-traditions/fairs/fira-de-santa-llucia",
+      "note": "Ajuntament de Barcelona: the Fira de Santa Llúcia has been held in front of the Cathedral since 1786, on Pla de la Seu and Avinguda de la Catedral, with stalls for nativity figures, greenery, crafts and simbombes."
+    },
+    {
+      "url": "https://visitcity.travel/en/barcelona/events/fira-de-santa-llucia",
+      "note": "2026 dates cited as 26 November–23 December on Avinguda de la Catedral, with a tall Christmas tree in the square. Used for season and place, not as a forecast."
+    }
+  ],
+  "prompts": {
+    "16x9": "Text-only photorealistic night view of Barcelona Cathedral’s neo-Gothic facade from Avinguda de la Catedral, three portals, rose window, central spire, Fira de Santa Llúcia stalls and a Christmas tree. Not the Sagrada Família. No text, no logos, no identifiable people.",
+    "4x5": "Text-only vertical night view of the same cathedral facade and Fira de Santa Llúcia stalls.",
+    "9x16": "Text-only tall night view of the same cathedral facade, Christmas tree and foreground stalls."
+  },
+  "source_files": [
+    {
+      "file": "sources/es-01-367-cand-r1-16x9-source.jpg",
+      "sha256": "0093737fbdc3c7ce1e3656f3cef1349e6289ae8f80721ad97df80ce07e4668c7",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "format": "16x9"
+    },
+    {
+      "file": "sources/es-01-367-cand-r1-4x5-source.jpg",
+      "sha256": "7b0ba591d9c499eee573a1bf47840d71b5815759a72aabfeb3228566a18ea2dc",
+      "dimensions": [
+        864,
+        1152
+      ],
+      "format": "4x5"
+    },
+    {
+      "file": "sources/es-01-367-cand-r1-9x16-source.jpg",
+      "sha256": "9651844ea308d1d23f40f22b2d87ececb92e44e85fa92346624c04c1f9c9759b",
+      "dimensions": [
+        720,
+        1280
+      ],
+      "format": "9x16"
+    }
+  ],
+  "art50_comment_date": "2026-10-02",
+  "art50_note": "Comment date is this scene's finish date, 2026-10-02, not a fleet-wide restamp.",
+  "provenance": {
+    "tool": "Built-in image generation; specific model version not exposed",
+    "image_inputs": [],
+    "source_use": "Text-only original generation. Third-party pages inspected for facts, not supplied as input pixels. No uniqueness guarantee.",
+    "lineage": "Each format from its own text-only source. 16:9 and 9:16 Lanczos-resampled to the artwork size; 4:5 cropped from the top of its source. A 190px label bar is added under the artwork. No stretching."
+  },
+  "production_checks": {
+    "technical": "The three finished PNGs decode at the label-bar dimensions; Art.50 comment date checked locally. Technical checks are not independent Cosmo QC.",
+    "visual": "Producer comparison against published descriptions of the sites. Not an independent gate verdict.",
+    "originality": "Own generated pixels; uniqueness not established.",
+    "commercial_ip": "No identifiable people. Architecture and the public setting are the subject. The Casa de la Panadería fresco, where it appears, is shown at architectural scale as part of the facade, not as a close study of the mural. Not legal certification.",
+    "publication": "Candidate handoff only. No approval inferred."
+  },
+  "independent_qc": {
+    "reviewer": null,
+    "verdict": null,
+    "exact_pair_required": true,
+    "note": "No Cosmo QC has been performed. Do not treat this packet as a review."
+  },
+  "card_handoff": {
+    "owner": "Cosmo",
+    "placement": "Christmas Markets candidate section, hidden until the charm is opened. Not the approved gallery.",
+    "preserve": "caption, scenario, composition, description, candidate status, disclosure, license"
+  }
+}
