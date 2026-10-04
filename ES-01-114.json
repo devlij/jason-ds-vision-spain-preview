@@ -31,6 +31,9 @@
   "description": "The garden square of the Plaza de Oriente lies between palace and theatre, its clipped hedges and statues lit along the paths. The Royal Palace looms at one end while the opera house faces it from the other. Madrid's most stately square, at its quietest hour.",
   "file_16x9": "es-01-114-r1-16x9.png",
   "file_4x5": "es-01-114-r1-4x5.png",
+  "file_16x9_postcard": "es-01-114-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-114-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-114-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,

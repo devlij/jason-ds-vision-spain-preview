@@ -31,6 +31,9 @@
   "description": "Almudena Cathedral faces the Royal Palace across the square, both great masses floodlit in the night. The cathedral's dome and towers rise on one side while the palace's long facade runs on the other. Madrid's two giants, keeping watch over the sleeping city.",
   "file_16x9": "es-01-113-r1-16x9.png",
   "file_4x5": "es-01-113-r1-4x5.png",
+  "file_16x9_postcard": "es-01-113-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-113-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-113-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
