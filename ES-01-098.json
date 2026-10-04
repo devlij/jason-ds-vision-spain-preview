@@ -31,6 +31,9 @@
   "description": "The hórreos of Combarro stand in their long row by the estuary, the stone granaries silhouetted against the water. A few lights burn in the old fishermen's quarter while the ría stretches dark beyond. Galicia's most photographed granaries, at their most atmospheric.",
   "file_16x9": "es-01-098-r1-16x9.png",
   "file_4x5": "es-01-098-r1-4x5.png",
+  "file_16x9_postcard": "es-01-098-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-098-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-098-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,

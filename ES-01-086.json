@@ -31,6 +31,9 @@
   "description": "On Rodas beach in the Cíes Islands at night, the white sand runs pale between the dark masses of the two islands. Moonlight silvers the lagoon while the Atlantic breaks softly beyond the headlands. The beach lies empty and luminous, the islands' night utter and complete.",
   "file_16x9": "es-01-086-r2-16x9.png",
   "file_4x5": "es-01-086-r2-4x5.png",
+  "file_16x9_postcard": "es-01-086-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-086-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-086-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,

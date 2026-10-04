@@ -31,6 +31,9 @@
   "description": "The Obradoiro façade of Santiago cathedral fills the square, the baroque front floodlit in the small hours. The twin towers rise on either side while the empty plaza stretches at your feet. The goal of a thousand years of pilgrims, radiant in the dark.",
   "file_16x9": "es-01-095-r1-16x9.png",
   "file_4x5": "es-01-095-r1-4x5.png",
+  "file_16x9_postcard": "es-01-095-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-095-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-095-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
