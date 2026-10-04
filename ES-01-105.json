@@ -31,6 +31,9 @@
   "description": "Salamanca's Plaza Mayor glows in the small hours, the baroque arcades lit in their warm golden stone. The three closed sides of the square stand in perfect symmetry while the empty plaza floor stretches between them. Spain's most beautiful square, entirely yours at this hour.",
   "file_16x9": "es-01-105-r1-16x9.png",
   "file_4x5": "es-01-105-r1-4x5.png",
+  "file_16x9_postcard": "es-01-105-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-105-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-105-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
