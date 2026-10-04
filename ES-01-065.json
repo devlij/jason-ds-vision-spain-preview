@@ -31,6 +31,9 @@
   "description": "Javier Castle, the fortress-palace of Saint Francis Xavier, stands solid against the night sky. Its towers and crenellations are picked out by lighting while the surrounding Navarrese hills lie dark. The birthplace of the great missionary, still commanding its valley.",
   "file_16x9": "es-01-065-r1-16x9.png",
   "file_4x5": "es-01-065-r1-4x5.png",
+  "file_16x9_postcard": "es-01-065-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-065-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-065-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,

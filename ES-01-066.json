@@ -31,6 +31,9 @@
   "description": "Ochagavía's stone houses cluster in their Pyrenean valley, windows warm against the black slopes. The church rises among the roofs while the mountains close in on every side. A classic Pyrenean village, deep in the night of the Irati country.",
   "file_16x9": "es-01-066-r1-16x9.png",
   "file_4x5": "es-01-066-r1-4x5.png",
+  "file_16x9_postcard": "es-01-066-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-066-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-066-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
