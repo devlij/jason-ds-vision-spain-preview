@@ -31,6 +31,9 @@
   "description": "You stand on the Sitges waterfront at night, the church of Sant Bartomeu rising floodlit over the dark Mediterranean. The frame centers on the church against the sea, with the lit promenade curving away to either side. The night sea is black and calm, and the old town's lights make the shore glow.",
   "file_16x9": "es-01-141-r1-16x9.png",
   "file_4x5": "es-01-141-r1-4x5.png",
+  "file_16x9_postcard": "es-01-141-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-141-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-141-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,

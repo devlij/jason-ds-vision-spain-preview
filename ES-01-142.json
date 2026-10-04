@@ -31,6 +31,9 @@
   "description": "From the water at night, the walled island of Tabarca is a low ring of lights against the dark sea. You take in the whole island across the frame, its old walls and houses glowing softly with the lighthouse's pulse somewhere along the shore. The Mediterranean lies black all around, and the tiny island keeps its own quiet light.",
   "file_16x9": "es-01-142-r2-16x9.png",
   "file_4x5": "es-01-142-r2-4x5.png",
+  "file_16x9_postcard": "es-01-142-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-142-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-142-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,

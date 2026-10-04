@@ -31,6 +31,9 @@
   "description": "From above at night, Alarcón's castle stands within the Júcar's dark river loop, its keep silhouetted against the starry sky. The river curls black around the promontory while the castle's towers rise from the cliffs. The little walled town sleeps within its watery moat, the castle guarding the loop.",
   "file_16x9": "es-01-124-r2-16x9.png",
   "file_4x5": "es-01-124-r2-4x5.png",
+  "file_16x9_postcard": "es-01-124-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-124-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-124-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,

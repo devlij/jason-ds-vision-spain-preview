@@ -31,6 +31,9 @@
   "description": "Looking up at Tarazona's old town with the Moncayo massif filling the sky behind it. Lit balconies and the towers of the Mudéjar churches rise through the rooftops, and the great dark bulk of the mountain closes the frame. A quiet night view of a town where three cultures left their mark.",
   "file_16x9": "es-01-129-r2-16x9.png",
   "file_4x5": "es-01-129-r2-4x5.png",
+  "file_16x9_postcard": "es-01-129-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-129-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-129-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
