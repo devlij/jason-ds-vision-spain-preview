@@ -31,6 +31,9 @@
   "description": "In the lanes of Santillana del Mar, honey-colored stone houses with wooden balconies line the cobbled street, the Collegiate Church of Santa Juliana rising above the rooftops. An overcast night over the town. The town keeps its medieval silhouette whole, and the plaza feels untouched by haste.",
   "file_16x9": "es-01-046-r1-16x9.png",
   "file_4x5": "es-01-046-r1-4x5.png",
+  "file_16x9_postcard": "es-01-046-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-046-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-046-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
