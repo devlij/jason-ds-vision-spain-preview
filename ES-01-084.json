@@ -72,6 +72,9 @@
   },
   "revision": "cand-r1",
   "file_9x16": "es-01-084-cand-r1-9x16.png",
+  "file_16x9_postcard": "es-01-084-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-084-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-084-postcard-9x16.png",
   "evidence_card": "evidence/ES-01-084.json",
   "land_as": "Candidate",
   "conditions_record": {
