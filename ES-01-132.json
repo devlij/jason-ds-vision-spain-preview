@@ -27,6 +27,9 @@
   "description": "Calatayud's old town spreads beneath its twin castle-crowned hills, with the Mudéjar towers of the churches standing out in the night. Lit streets trace the town grid below while the castle ruins sit dark against the sky. A handsome panorama of Aragón's city of the four towers.",
   "file_16x9": "es-01-132-r1-16x9.png",
   "file_4x5": "es-01-132-r1-4x5.png",
+  "file_16x9_postcard": "es-01-132-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-132-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-132-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,

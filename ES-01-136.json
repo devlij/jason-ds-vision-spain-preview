@@ -31,6 +31,9 @@
   "description": "At night in Begur, you look up toward the old castle hill rising over the town, its walls dimly lit above the scattered house lights. The frame holds the medieval hill at the center with the Costa Brava coves lying dark somewhere beyond. The town glows softly below, a whitewashed cluster in the Empordà dark.",
   "file_16x9": "es-01-136-r2-16x9.png",
   "file_4x5": "es-01-136-r2-4x5.png",
+  "file_16x9_postcard": "es-01-136-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-136-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-136-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,

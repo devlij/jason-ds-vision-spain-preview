@@ -31,6 +31,9 @@
   "description": "At night, Vilafamés glows on its hilltop, the village's stone houses and castle walls lit warm against the dark Maestrat. From the plain below you take in the whole hilltop settlement across the frame, rising from black fields into the night sky. The old artist's village keeps its hill like a lantern in the dark.",
   "file_16x9": "es-01-145-r2-16x9.png",
   "file_4x5": "es-01-145-r2-4x5.png",
+  "file_16x9_postcard": "es-01-145-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-145-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-145-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
