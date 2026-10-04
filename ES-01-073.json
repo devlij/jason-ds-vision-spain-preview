@@ -31,6 +31,9 @@
   "description": "Lekeitio's harbour and basilica face the night sea, the great church rising above the port. Harbour lights reflect on the water while fishing boats lie dark at their moorings. A proud Basque fishing town, sleeping by the Cantabrian.",
   "file_16x9": "es-01-073-r1-16x9.png",
   "file_4x5": "es-01-073-r1-4x5.png",
+  "file_16x9_postcard": "es-01-073-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-073-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-073-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
