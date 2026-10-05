@@ -162,5 +162,165 @@
   "approval_basis": "Gate 1 PASS: Melilla la Vieja citadel on its rock from the port side — lit ramparts and fortress buildings with the lighthouse beam cutting across the night sky. Gate 2 PASS: exact caption 'Melilla la Vieja', scenario '24 September 2026 · 06:00 Europe/Madrid', AI disclosure and curly-apostrophe signature verified on-image; masters 1920x1080/864x1080, sha256 matched; per-scene Open-Meteo retrieval 2026-09-26T01:43:32+02:00 (valid 06:00, 22.3C clear 29%) — unique to this scene, replacing the earlier shared-retrieval hold. Gate 3 PASS: text-only generation, no photographic inputs. Gate 4: no people or logos; public fortress; commercial call stays Jason's. Gate 5: no open blockers.",
   "qc_notes": [
     "Gate 2 FAILED (Cosmo QC 2026-09-25): weather metadata reused across ES-01-351..360 and stale vs scenario. Conditions blocks are byte-identical (temp 18.3°C, cloud 80, wind 8.0, is_day 0) for geographically dispersed sites (Madrid ×3, Hondarribia, Getaria, Gaztelugatxe, Vitoria, Ceuta, Melilla, Logroño) — one Open-Meteo fetch reused for all 10. Retrieved 2026-09-24T01:11+02:00 (valid 01:00), scenario timestamps 04:56–06:08 Europe/Madrid — 4–5h stale. ES-01-334–365 lesson applies: refresh weather per scene near its scenario time and re-land.\n[2026-09-26T01:43:32+02:00 — builder weather rework] Per-scene Open-Meteo HTTP retrieval (own GET, HTTP 200). Retrieved 2026-09-26T01:43:32+02:00 Europe/Madrid. Model-valid hour 2026-09-24T06:00+02:00 contains scenario minute 06:00 on 2026-09-24. Model data only; not a verified on-site observation. approval_state left Candidate. Images not regenerated."
-  ]
+  ],
+  "daylight_variant": {
+    "kind": "genuine-daylight",
+    "status": "Candidate",
+    "approval_state": "candidate",
+    "work_order": "wo-spain-359-365-unblock-2026-10-01",
+    "land_as": "Candidate",
+    "derivative_disclosure": "Genuine daylight counterpart. New text-only generation from the daytime reference pack and geometry anchors. Not a night-to-day derivative and not an image-anchor on the night masters. Night Approved bytes were not used as generation inputs and were not replaced. This block is not Cosmo QC and does not change the night approval.",
+    "time_of_day": "Daylight",
+    "scenario_label": "2 October 2026 · 12:40 Europe/Madrid",
+    "scenario_retrieval": "2026-10-02T12:40:48.679465+02:00",
+    "composition": "Daylight · Melilla la Vieja from the port promenade, bastions, lighthouse, and Puerta de la Marina · AI-generated artistic interpretation",
+    "alt_text": "AI-generated artistic interpretation of Melilla la Vieja in daylight from the port side.",
+    "description": "From the port promenade in daylight, Melilla la Vieja rises on its coastal rock. Ochre bastions stand above the Mediterranean, the white lighthouse is inside the walls, and the Puerta de la Marina opens across a dry moat. Early October light breaks through a partly cloudy sky.",
+    "viewpoint": "Port-side seafront promenade (approx 35.2936N, 2.9362W), looking north at the fortress.",
+    "anchors": [
+      "16th–17th century stone ramparts and bastions on the coastal rock",
+      "Faro de Melilla standing inside the citadel walls",
+      "Puerta de la Marina with the dry moat and bridge approach"
+    ],
+    "refs": [
+      [
+        "https://en.wikipedia.org/wiki/Melilla_la_Vieja",
+        "Wikipedia: Melilla la Vieja, 16th–17th century fortress north of the port."
+      ],
+      [
+        "https://www.wanderlustmagazine.com/inspiration/melilla-spain-north-west-africa/",
+        "Wanderlust: citadel on the rock, drawbridges over the dry moat, lighthouse, and La Purísima Concepción."
+      ]
+    ],
+    "prompt": "Text-only daytime view from the port promenade looking north: ochre bastions, Faro de Melilla inside the walls, Puerta de la Marina and dry moat, Mediterranean, partly cloudy October midday. No night master was used as an image input.",
+    "limitations": "Candidate genuine daylight. Not Cosmo QC. Fortress detail is interpretive and the camera point is the stated tourist viewpoint, not a surveyed match. The lighthouse is shown unlit in daylight. Masters are Lanczos resamples of generated sources, not native target-resolution detail. Open-Meteo figures are model data, not an on-site observation.",
+    "weather": "Model data from Open-Meteo, retrieved 2 October 2026 12:40:48 Europe/Madrid, valid 12:40 Europe/Madrid — not a verified on-site observation. 26.0°C, WMO 2 partly cloudy, cloud 60%, precipitation 0.0 mm, wind 8.8 km/h. Sunrise 08:07, sunset 19:54. Approximate solar elevation 47.14°, azimuth 149.8°. is_day 1. Daylight; the retrieval falls between sunrise and sunset.",
+    "on_image_text": [
+      "Melilla la Vieja",
+      "Scenario: 2 October 2026 · 12:40 Europe/Madrid",
+      "AI-generated artistic interpretation · Not a photograph.",
+      "Jason D’s Vision",
+      "Jason A. Devlin"
+    ],
+    "art50_png_chunks": [
+      "Title",
+      "Description",
+      "Copyright",
+      "Software",
+      "Comment"
+    ],
+    "art50_comment_date": "2026-10-02",
+    "country": "Spain",
+    "masters": {
+      "16x9": {
+        "path": "es-01-359-daylight-16x9.png",
+        "width": 1920,
+        "height": 1270,
+        "sha256": "9875094c8747dc1303add85a485953f03cbf7dfdbaa24f7ac51af3b138700052",
+        "bytes": 3108943,
+        "source_file": "src-359-16x9.jpg",
+        "source_dimensions": [
+          1280,
+          720
+        ],
+        "source_sha256": "09d27144778eb74f656184304cc3f4dda0c5211205d827c06aa6df6bae4aa39a",
+        "resampled": true,
+        "resampling_disclosure": "Source scaled with uniform Lanczos cover-crop to 1920×1080. A 190px label bar is appended. Finished master 1920×1270. Not native target-resolution detail."
+      },
+      "4x5": {
+        "path": "es-01-359-daylight-4x5.png",
+        "width": 864,
+        "height": 1270,
+        "sha256": "994b70cb641d54e466bf595775530d13e965f89f2a21a5a5b31acb6d396af84d",
+        "bytes": 1551994,
+        "source_file": "src-359-34.jpg",
+        "source_dimensions": [
+          864,
+          1152
+        ],
+        "source_sha256": "cad9f3512e1aaaa844dc9b4385ab2d4714d84a1266e240826b49fed07fecf7bf",
+        "resampled": true,
+        "resampling_disclosure": "Source 864×1152; the top 864×1080 is kept and 72 pixels of foreground are dropped. A 190px label bar is appended. Finished master 864×1270."
+      },
+      "9x16": {
+        "path": "es-01-359-daylight-9x16.png",
+        "width": 1080,
+        "height": 1920,
+        "sha256": "a784d5ffc1d100147766ec7c4b36207dcd7ef7d48b4f632820c1ea12ec2b6e47",
+        "bytes": 2507728,
+        "source_file": "src-359-916.jpg",
+        "source_dimensions": [
+          720,
+          1280
+        ],
+        "source_sha256": "ae39794268896b7ff0ebbac7d165f1d737642d51968dc50d8c1b622dfdd54a3e",
+        "resampled": true,
+        "resampling_disclosure": "Source scaled with uniform Lanczos cover-crop to exact 1080×1920. The 190px label bar is composited inside the bottom of that frame. The file is 1080×1920, not 1080×2110. Not native target-resolution detail."
+      }
+    },
+    "conditions_record": {
+      "retrieved_local": "2026-10-02T12:40:48.679465+02:00",
+      "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=35.2936&longitude=-2.9362&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
+      "http_status": 200,
+      "requested_coordinates": [
+        35.2936,
+        -2.9362
+      ],
+      "response": {
+        "latitude": 35.25,
+        "longitude": -2.9375,
+        "generationtime_ms": 0.7445812225341797,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Madrid",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 7.0,
+        "current_units": {
+          "time": "iso8601",
+          "interval": "seconds",
+          "temperature_2m": "°C",
+          "weather_code": "wmo code",
+          "cloud_cover": "%",
+          "is_day": "",
+          "precipitation": "mm",
+          "wind_speed_10m": "km/h"
+        },
+        "current": {
+          "time": "2026-10-02T12:30",
+          "interval": 900,
+          "temperature_2m": 26.0,
+          "weather_code": 2,
+          "cloud_cover": 60,
+          "is_day": 1,
+          "precipitation": 0.0,
+          "wind_speed_10m": 8.8
+        },
+        "daily_units": {
+          "time": "iso8601",
+          "sunrise": "iso8601",
+          "sunset": "iso8601"
+        },
+        "daily": {
+          "time": [
+            "2026-10-02"
+          ],
+          "sunrise": [
+            "2026-10-02T08:07"
+          ],
+          "sunset": [
+            "2026-10-02T19:54"
+          ]
+        }
+      },
+      "solar": {
+        "method": "NOAA fractional-year geometric approximation, not observation",
+        "elevation_deg": 47.14,
+        "azimuth_deg": 149.8
+      }
+    },
+    "independent_qc": {
+      "reviewer": "Cosmo",
+      "verdict": "Awaiting review"
+    },
+    "producer_check": "Dimensions, label bar, and Art. 50 comment date checked locally on 2026-10-02. This is not Cosmo QC and not an approval."
+  }
 }

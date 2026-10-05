@@ -1,0 +1,224 @@
+{
+  "work_order": "wo-spain-359-365-unblock-2026-10-01",
+  "related": [
+    "wo-ia-genuine-daylight-2026-09-30",
+    "wo-spain-full-complete-2026-10-01"
+  ],
+  "date": "2026-10-02",
+  "land_as": "Candidate",
+  "cosmo_qc": "not claimed — awaiting Cosmo",
+  "merge": false,
+  "do_not_merge": true,
+  "night_approved_status_flipped": false,
+  "skips": [],
+  "scenes": [
+    "ES-01-359",
+    "ES-01-360",
+    "ES-01-361",
+    "ES-01-362",
+    "ES-01-363",
+    "ES-01-364",
+    "ES-01-365"
+  ],
+  "formats_baked": {
+    "16x9": "1920×1270 (1920×1080 artwork plus a 190px label bar)",
+    "4x5": "864×1270 (top 864×1080 of the source plus a 190px label bar)",
+    "9x16": "1080×1920 exact; label bar composited inside the frame, never 1080×2110"
+  },
+  "pipeline": "Text-only genuine daylight. One Open-Meteo retrieval per scene, unique to the second, scenario time Europe/Madrid at generation. Not a night-to-day flip. Night masters were not image inputs.",
+  "seasonal_notes": {
+    "ES-01-364": "2 October 2026 is outside late March–early April, so the Jerte orchards are shown in leaf without cherry blossom. Los Pilones are not the Puerto de Tornavacas frame."
+  },
+  "art50_comment_date": "2026-10-02",
+  "scene_records": [
+    {
+      "scene_id": "ES-01-359",
+      "status": "Candidate",
+      "night_approval_unchanged": true,
+      "scenario_label": "2 October 2026 · 12:40 Europe/Madrid",
+      "open_meteo_retrieved": "2026-10-02T12:40:48.679465+02:00",
+      "formats": {
+        "16x9": {
+          "file": "es-01-359-daylight-16x9.png",
+          "sha256": "9875094c8747dc1303add85a485953f03cbf7dfdbaa24f7ac51af3b138700052",
+          "width": 1920,
+          "height": 1270
+        },
+        "4x5": {
+          "file": "es-01-359-daylight-4x5.png",
+          "sha256": "994b70cb641d54e466bf595775530d13e965f89f2a21a5a5b31acb6d396af84d",
+          "width": 864,
+          "height": 1270
+        },
+        "9x16": {
+          "file": "es-01-359-daylight-9x16.png",
+          "sha256": "a784d5ffc1d100147766ec7c4b36207dcd7ef7d48b4f632820c1ea12ec2b6e47",
+          "width": 1080,
+          "height": 1920
+        }
+      }
+    },
+    {
+      "scene_id": "ES-01-360",
+      "status": "Candidate",
+      "night_approval_unchanged": true,
+      "scenario_label": "2 October 2026 · 12:40 Europe/Madrid",
+      "open_meteo_retrieved": "2026-10-02T12:40:50.283977+02:00",
+      "formats": {
+        "16x9": {
+          "file": "es-01-360-daylight-16x9.png",
+          "sha256": "2ce56f7af6b06641ddf3fc3a907beb060761a5df8a50fc163684b3f1bc0ed209",
+          "width": 1920,
+          "height": 1270
+        },
+        "4x5": {
+          "file": "es-01-360-daylight-4x5.png",
+          "sha256": "5095d0d01c2410ee1f1664a73ac5fc70fe4054b91763285d974820fe5443f41f",
+          "width": 864,
+          "height": 1270
+        },
+        "9x16": {
+          "file": "es-01-360-daylight-9x16.png",
+          "sha256": "c4e862f4c51d31e4c665dd0967dd7ce1aa7fef8a9c7ab9c40310e5b49d92ac9f",
+          "width": 1080,
+          "height": 1920
+        }
+      }
+    },
+    {
+      "scene_id": "ES-01-361",
+      "status": "Candidate",
+      "night_approval_unchanged": true,
+      "scenario_label": "2 October 2026 · 12:40 Europe/Madrid",
+      "open_meteo_retrieved": "2026-10-02T12:40:51.903975+02:00",
+      "formats": {
+        "16x9": {
+          "file": "es-01-361-daylight-16x9.png",
+          "sha256": "6d8b1d6b105156b510eb3db379a473bb945f243570e15aa54eb0884197ea61d8",
+          "width": 1920,
+          "height": 1270
+        },
+        "4x5": {
+          "file": "es-01-361-daylight-4x5.png",
+          "sha256": "f480ddc16ba12e533557dcd53941d265bf5d0dc73c84c0bef7ef2ba752586ead",
+          "width": 864,
+          "height": 1270
+        },
+        "9x16": {
+          "file": "es-01-361-daylight-9x16.png",
+          "sha256": "c0c40646e4840badb1abe224b9ba0c4cb006ac38b692f0fe3195bc31c4047884",
+          "width": 1080,
+          "height": 1920
+        }
+      }
+    },
+    {
+      "scene_id": "ES-01-362",
+      "status": "Candidate",
+      "night_approval_unchanged": true,
+      "scenario_label": "2 October 2026 · 12:40 Europe/Madrid",
+      "open_meteo_retrieved": "2026-10-02T12:40:53.497804+02:00",
+      "formats": {
+        "16x9": {
+          "file": "es-01-362-daylight-16x9.png",
+          "sha256": "f77682a43d182f736c589f28ebba1be55c1a398a759f1ed51a0be2989e1bcfb7",
+          "width": 1920,
+          "height": 1270
+        },
+        "4x5": {
+          "file": "es-01-362-daylight-4x5.png",
+          "sha256": "6727ebd2c3a9bf2cd75419053eecdb2ecbddbb7278182671117067e3d4e36ea5",
+          "width": 864,
+          "height": 1270
+        },
+        "9x16": {
+          "file": "es-01-362-daylight-9x16.png",
+          "sha256": "20568ed6e54e2741f78a93206095f30cd50ecc1988128934939c5b06d8e88d4e",
+          "width": 1080,
+          "height": 1920
+        }
+      }
+    },
+    {
+      "scene_id": "ES-01-363",
+      "status": "Candidate",
+      "night_approval_unchanged": true,
+      "scenario_label": "2 October 2026 · 12:40 Europe/Madrid",
+      "open_meteo_retrieved": "2026-10-02T12:40:55.090063+02:00",
+      "formats": {
+        "16x9": {
+          "file": "es-01-363-daylight-16x9.png",
+          "sha256": "4e51a4acdb453a589d3dbf63ec1012a673ab04663e054286e8df664f7258ce38",
+          "width": 1920,
+          "height": 1270
+        },
+        "4x5": {
+          "file": "es-01-363-daylight-4x5.png",
+          "sha256": "013f338c1a6b893db8151c492be87b232c54479dfbe92601d92b9b00fd07b08f",
+          "width": 864,
+          "height": 1270
+        },
+        "9x16": {
+          "file": "es-01-363-daylight-9x16.png",
+          "sha256": "ca2f5879d8b4000a1ae12fb7daeaf0880b926342a4b2fb676653a035eda645d7",
+          "width": 1080,
+          "height": 1920
+        }
+      }
+    },
+    {
+      "scene_id": "ES-01-364",
+      "status": "Candidate",
+      "night_approval_unchanged": true,
+      "scenario_label": "2 October 2026 · 12:40 Europe/Madrid",
+      "open_meteo_retrieved": "2026-10-02T12:40:56.711688+02:00",
+      "formats": {
+        "16x9": {
+          "file": "es-01-364-daylight-16x9.png",
+          "sha256": "399bd099411d10dbf7b8d26941596d3f747968de076001e58ad0260af742d463",
+          "width": 1920,
+          "height": 1270
+        },
+        "4x5": {
+          "file": "es-01-364-daylight-4x5.png",
+          "sha256": "53e412a2dd1ec40639872b830aa13dc40ae47c6f01aa877e4db0d9a7a5d9f873",
+          "width": 864,
+          "height": 1270
+        },
+        "9x16": {
+          "file": "es-01-364-daylight-9x16.png",
+          "sha256": "28a64d5f8744b032dc0c9cc3b644ad8b97c66854324db0e23b40b805b89f59a6",
+          "width": 1080,
+          "height": 1920
+        }
+      }
+    },
+    {
+      "scene_id": "ES-01-365",
+      "status": "Candidate",
+      "night_approval_unchanged": true,
+      "scenario_label": "2 October 2026 · 12:40 Europe/Madrid",
+      "open_meteo_retrieved": "2026-10-02T12:40:58.304841+02:00",
+      "formats": {
+        "16x9": {
+          "file": "es-01-365-daylight-16x9.png",
+          "sha256": "3bedf2c82cfc9a15f8f2c79ee4913e65420d7bf087e5fdcf0123920f7b2c798f",
+          "width": 1920,
+          "height": 1270
+        },
+        "4x5": {
+          "file": "es-01-365-daylight-4x5.png",
+          "sha256": "0c01a67c1e2cffa04292d603d8d6cef082c9b8f1b60c214b062758b2c44ae03a",
+          "width": 864,
+          "height": 1270
+        },
+        "9x16": {
+          "file": "es-01-365-daylight-9x16.png",
+          "sha256": "8424efcaf225e88078bdbf015ecc990d7a708f74f6c18b739b0711ac10c7d288",
+          "width": 1080,
+          "height": 1920
+        }
+      }
+    }
+  ]
+}

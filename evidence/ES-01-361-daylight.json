@@ -1,0 +1,124 @@
+{
+  "scene_id": "ES-01-361",
+  "land_as": "Candidate",
+  "kind": "genuine-daylight",
+  "work_order": "wo-spain-359-365-unblock-2026-10-01",
+  "night_approval_state": "approved",
+  "night_status_unchanged": true,
+  "not_a_night_to_day_flip": true,
+  "viewpoint": "Plaza de la Independencia, west edge (approx 40.4200N, 3.6886W), looking east toward the arch and El Retiro.",
+  "reference_links": [
+    {
+      "url": "https://www.esmadrid.com/en/tourist-information/puerta-alcala",
+      "note": "Official Madrid tourism: 1778 Sabatini arch, five openings, city-side trophies."
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Puerta_de_Alcal%C3%A1",
+      "note": "Wikipedia: Puerta de Alcalá, Plaza de la Independencia, inaugurated 1778."
+    }
+  ],
+  "geometry_anchors": [
+    "Free-standing neoclassical granite triumphal arch in the plaza",
+    "Five openings: three arches with lion-head keystones and two rectangular side openings",
+    "City-side attic of war trophies; cardinal-virtue figures along the crown"
+  ],
+  "art50_comment_date": "2026-10-02",
+  "art50_note": "Comment date is this scene's finish date, 2026-10-02, not a fleet-wide restamp.",
+  "open_meteo": {
+    "retrieved_local": "2026-10-02T12:40:51.903975+02:00",
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=40.42&longitude=-3.6886&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
+    "http_status": 200,
+    "requested_coordinates": [
+      40.42,
+      -3.6886
+    ],
+    "response": {
+      "latitude": 40.4375,
+      "longitude": -3.6875,
+      "generationtime_ms": 0.08738040924072266,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 668.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-02T12:30",
+        "interval": 900,
+        "temperature_2m": 19.1,
+        "weather_code": 2,
+        "cloud_cover": 87,
+        "is_day": 1,
+        "precipitation": 0.0,
+        "wind_speed_10m": 6.6
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-02"
+        ],
+        "sunrise": [
+          "2026-10-02T08:12"
+        ],
+        "sunset": [
+          "2026-10-02T19:55"
+        ]
+      }
+    },
+    "solar": {
+      "method": "NOAA fractional-year geometric approximation, not observation",
+      "elevation_deg": 42.38,
+      "azimuth_deg": 151.34
+    }
+  },
+  "scenario_label": "2 October 2026 · 12:40 Europe/Madrid",
+  "masters": {
+    "16x9": {
+      "file": "es-01-361-daylight-16x9.png",
+      "width": 1920,
+      "height": 1270,
+      "sha256": "6d8b1d6b105156b510eb3db379a473bb945f243570e15aa54eb0884197ea61d8",
+      "bytes": 2677343,
+      "source": "src-361-16x9-b.jpg",
+      "source_width": 1280,
+      "source_height": 720,
+      "source_sha256": "7a552c531c1060c9b7069e6a470cddaa1d6b18a3774eb969039eee9170f81f57"
+    },
+    "4x5": {
+      "file": "es-01-361-daylight-4x5.png",
+      "width": 864,
+      "height": 1270,
+      "sha256": "f480ddc16ba12e533557dcd53941d265bf5d0dc73c84c0bef7ef2ba752586ead",
+      "bytes": 1026886,
+      "source": "src-361-34-b.jpg",
+      "source_width": 864,
+      "source_height": 1152,
+      "source_sha256": "14e9f4c0335fdfa7a552cdc8af902b13191c715e5ff99da297087b97dbc749d6"
+    },
+    "9x16": {
+      "file": "es-01-361-daylight-9x16.png",
+      "width": 1080,
+      "height": 1920,
+      "sha256": "c0c40646e4840badb1abe224b9ba0c4cb006ac38b692f0fe3195bc31c4047884",
+      "bytes": 1648615,
+      "source": "src-361-916-b.jpg",
+      "source_width": 720,
+      "source_height": 1280,
+      "source_sha256": "517fb2bc5dadd2718e3840abf3efa11634d4f188dfa34010d1a997264dc10c85"
+    }
+  },
+  "producer_check": "Dimensions, label bar, and Art. 50 comment date checked locally on 2026-10-02. This is not Cosmo QC and not an approval.",
+  "independent_verdict": null
+}
