@@ -31,6 +31,9 @@
   "description": "From the slopes below at night, Burgalimar castle crowns its hill in dark silhouette against the starry sky. The 10th-century Caliphate walls and square towers ring the summit, their thousand-year-old stonework black in the night. The village lights sparkle faintly beneath, the castle standing guard as it has for a millennium.",
   "file_16x9": "es-01-228-r1-16x9.png",
   "file_4x5": "es-01-228-r1-4x5.png",
+  "file_16x9_postcard": "es-01-228-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-228-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-228-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,

@@ -31,6 +31,9 @@
   "description": "Look up at Frigiliana's old town at night, the whitewashed Morisco quarter climbing the hillside in the dark. A few lit windows dot the slope while the narrow lanes hide in shadow. The whitewashed houses catch stray lamplight, the village ascending the hill in quiet tiers toward the stars.",
   "file_16x9": "es-01-234-r1-16x9.png",
   "file_4x5": "es-01-234-r1-4x5.png",
+  "file_16x9_postcard": "es-01-234-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-234-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-234-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
