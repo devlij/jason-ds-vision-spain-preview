@@ -17,6 +17,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent / "tools"))
 from gallery_public import apply_public_page  # noqa: E402
+from night_toggle import apply_behavior_files, apply_index_html  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent
 ORIGIN = "https://spain.jdvision.org"
@@ -208,6 +209,8 @@ def main() -> None:
     html, retargets = retarget_stale_masters(html, scenes, order)
     html = rewrite_alts(html, scenes)
     html = apply_public_page(html)
+    html = apply_index_html(html)
+    apply_behavior_files()
     (ROOT / "index.html").write_text(html, encoding="utf-8")
 
     app = (ROOT / "app.js").read_text(encoding="utf-8")

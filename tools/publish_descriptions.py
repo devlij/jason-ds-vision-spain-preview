@@ -33,6 +33,7 @@ DATA = ROOT / "data.json"
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from gallery_public import apply_public_page  # noqa: E402
+from night_toggle import apply_behavior_files, apply_index_html  # noqa: E402
 
 DESC_KEY = re.compile(r'("description"\s*:\s*)"(?:\\.|[^"\\])*"')
 ALT_LINE = re.compile(
@@ -201,6 +202,8 @@ def write_index(descriptions: dict[str, str]) -> bool:
             raise SystemExit(f"{eid} card text did not round-trip")
         html = html[:start] + article + html[end:]
     html = apply_public_page(html)
+    html = apply_index_html(html)
+    apply_behavior_files()
     if html != original:
         INDEX.write_text(html, encoding="utf-8")
         return True
