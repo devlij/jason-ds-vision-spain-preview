@@ -31,6 +31,9 @@
   "description": "From the lagoon's shore, the pink water spreads out under a thin veil of night mist, the famous rose tint of Torrevieja's salt lagoon faintly glowing in the moonlight. Salt banks and dark vegetation edge the frame while mist drifts low across the surface. By day this water runs vivid pink with algae and brine shrimp; by night it lies mysterious and still beneath the stars.",
   "file_16x9": "es-01-283-r1-16x9.png",
   "file_4x5": "es-01-283-r1-4x5.png",
+  "file_16x9_postcard": "es-01-283-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-283-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-283-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
