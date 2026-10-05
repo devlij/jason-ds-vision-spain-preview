@@ -31,6 +31,9 @@
   "description": "From the beach at night, look up at Tossa de Mar's Vila Vella. The walled headland rises at center frame, its medieval towers and the old lighthouse silhouetted against the stars, with the dark curve of the beach spreading left and right below. The only fortified medieval town still standing on the Catalan coast.",
   "file_16x9": "es-01-249-r1-16x9.png",
   "file_4x5": "es-01-249-r1-4x5.png",
+  "file_16x9_postcard": "es-01-249-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-249-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-249-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
