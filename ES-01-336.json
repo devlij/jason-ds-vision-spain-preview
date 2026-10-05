@@ -31,6 +31,9 @@
   "description": "From gallery level, the plaza unfolds below — the famous green-railed wooden galleries of Almagro's houses glowing with terrace light that spills onto the dark square. Tables and chairs sit in the lamplight beneath the arcades while the upper galleries run the length of the frame. This is one of La Mancha's most theatrical squares, and on a warm night the whole town seems to gather under its balconies.",
   "file_16x9": "es-01-336-r1-16x9.png",
   "file_4x5": "es-01-336-r1-4x5.png",
+  "file_16x9_postcard": "es-01-336-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-336-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-336-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,

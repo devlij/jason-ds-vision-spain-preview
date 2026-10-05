@@ -31,6 +31,9 @@
   "description": "From the approach below, the castle of Loarre stands out against the starry sky — its Romanesque walls and towers drawn dark and clear against the night, with the great keep rising at the center. The fortress sits on its rocky spur above the plains, every line of its eleventh-century stonework crisp in the moonlight. This is one of Europe's finest Romanesque castles, and it wears the night like a crown.",
   "file_16x9": "es-01-338-r1-16x9.png",
   "file_4x5": "es-01-338-r1-4x5.png",
+  "file_16x9_postcard": "es-01-338-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-338-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-338-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,

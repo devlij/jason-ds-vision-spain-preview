@@ -31,6 +31,9 @@
   "description": "From the park across the Sil river, the Templar castle fills the frame — its round towers and crenellated walls floodlit warm against the dark sky. The river runs dark in the foreground between the park's trees and the castle walls, doubling the glow in its black water. This was the great Templar stronghold of the Bierzo, guarding the pilgrim road to Santiago, and it still stands watch over Ponferrada.",
   "file_16x9": "es-01-331-r1-16x9.png",
   "file_4x5": "es-01-331-r1-4x5.png",
+  "file_16x9_postcard": "es-01-331-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-331-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-331-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,

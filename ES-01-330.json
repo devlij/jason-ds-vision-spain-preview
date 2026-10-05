@@ -31,6 +31,9 @@
   "description": "From the upper gardens, the palace appears as a moonlit silhouette across the dark parterre, its long baroque facade and central dome drawn in silver against the night. The formal gardens lie in shadow below, fountains silent and hedges dark. La Granja was the Spanish Bourbons' summer retreat — a little Versailles in the Segovia highlands — and by night it keeps a royal, quiet dignity.",
   "file_16x9": "es-01-330-r3-16x9.png",
   "file_4x5": "es-01-330-r3-4x5.png",
+  "file_16x9_postcard": "es-01-330-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-330-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-330-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
