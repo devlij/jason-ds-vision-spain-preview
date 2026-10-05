@@ -31,6 +31,9 @@
   "description": "Stand on the long curve of Laredo's beach after midnight, with the sea stretching wide and dark to either side. Moonlight lays a silver path across the water while the town's lights glow faintly along the shore behind you. The crescent of sand sweeps out of frame, calm and nearly empty in the night stillness.",
   "file_16x9": "es-01-319-r1-16x9.png",
   "file_4x5": "es-01-319-r1-4x5.png",
+  "file_16x9_postcard": "es-01-319-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-319-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-319-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,

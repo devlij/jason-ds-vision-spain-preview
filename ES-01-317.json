@@ -31,6 +31,9 @@
   "description": "From the medieval street, Santillana del Mar glows under its street lamps — the old stone houses and their wooden balconies lit warm along the cobbled lane, with the collegiate church's towers rising at the street's end. The lamps catch the honey-colored stone and the carved coats of arms, and the whole village feels suspended in time. They call it the town of three lies; tonight it's simply beautiful.",
   "file_16x9": "es-01-317-r1-16x9.png",
   "file_4x5": "es-01-317-r1-4x5.png",
+  "file_16x9_postcard": "es-01-317-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-317-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-317-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
