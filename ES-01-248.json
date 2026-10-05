@@ -31,6 +31,9 @@
   "description": "Stand on Cadaqués's waterfront at night under a starry sky. The whitewashed old town climbs the hillside across the frame, the church tower at its crest, with the harbor's dark water and bobbing boats in the foreground. The village that bewitched Dalí glows soft in the lamplight.",
   "file_16x9": "es-01-248-r1-16x9.png",
   "file_4x5": "es-01-248-r1-4x5.png",
+  "file_16x9_postcard": "es-01-248-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-248-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-248-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,

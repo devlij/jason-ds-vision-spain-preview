@@ -31,6 +31,9 @@
   "description": "Stand in Peratallada's arcaded square on a foggy night. The medieval arches ring the frame, the keep tower looming above the rooftops, with lamplight diffusing soft through the mist. The fog muffles everything — footsteps, voices — until the whole village feels like a memory of itself.",
   "file_16x9": "es-01-253-r1-16x9.png",
   "file_4x5": "es-01-253-r1-4x5.png",
+  "file_16x9_postcard": "es-01-253-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-253-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-253-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
