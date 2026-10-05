@@ -31,6 +31,9 @@
   "description": "From the harbor, Cudillero's houses rise in their famous amphitheater above the port — the colorful facades stacked up the hillside, windows glowing warm against the night. The little harbor lies dark at the frame's base with boats at rest, while the village climbs in tiers behind it. Asturias' prettiest fishing village, and by night its amphitheater of lights is pure theater.",
   "file_16x9": "es-01-315-r1-16x9.png",
   "file_4x5": "es-01-315-r1-4x5.png",
+  "file_16x9_postcard": "es-01-315-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-315-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-315-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,

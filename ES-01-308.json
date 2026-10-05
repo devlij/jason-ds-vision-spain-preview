@@ -31,6 +31,9 @@
   "description": "From the wall walk, the Roman walls of Lugo run into drifting mist — tower and parapet picked out by lamplight, the ancient stonework glowing then fading as the mist moves through. The walls' great circuit stretches left and right into the dark, the only complete Roman walls in the world. Two thousand years old and still standing guard over Lugo, half-lost in the Galician mist.",
   "file_16x9": "es-01-308-r1-16x9.png",
   "file_4x5": "es-01-308-r1-4x5.png",
+  "file_16x9_postcard": "es-01-308-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-308-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-308-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
