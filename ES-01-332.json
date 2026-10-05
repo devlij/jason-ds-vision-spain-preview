@@ -31,6 +31,9 @@
   "description": "Seen from below the town walls, the castle rises on its hill as a moonlit silhouette over Cuéllar, its towers and keep dark against the sky while the lit town spreads out beneath it. Warm window light dots the old town's streets below the fortress walls. The castle has been a ducal palace for centuries — tonight it looms over its town in quiet, moonlit command.",
   "file_16x9": "es-01-332-r1-16x9.png",
   "file_4x5": "es-01-332-r1-4x5.png",
+  "file_16x9_postcard": "es-01-332-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-332-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-332-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
