@@ -104,16 +104,62 @@
   },
   "conditions": {
     "provider": "Open-Meteo",
-    "retrieved": "2026-09-24T05:25:14+02:00",
-    "valid": "2026-09-24T05:15 Europe/Madrid",
-    "phrase": "A mostly clear night over the bay, light breeze.",
+    "retrieved": "2026-10-01T17:58:02.048388+02:00",
+    "valid": "2026-10-01T17:45 Europe/Madrid",
+    "phrase": "Model data: overcast, 21.5°C, cloud 100%, wind 28.7 km/h, day.",
     "note": "Model data — not a verified on-site observation.",
-    "temperature_2m": "17.0",
-    "weather_code": "1",
-    "cloud_cover": "12",
-    "wind_speed_10m": "4.4"
+    "temperature_2m": "21.5",
+    "weather_code": "3",
+    "cloud_cover": "100",
+    "wind_speed_10m": "28.7",
+    "response": {
+      "latitude": 41.9375,
+      "longitude": 3.1875,
+      "generationtime_ms": 0.08988380432128906,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 223.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T17:45",
+        "interval": 900,
+        "temperature_2m": 21.5,
+        "weather_code": 3,
+        "cloud_cover": 100,
+        "is_day": 1,
+        "precipitation": 0.0,
+        "wind_speed_10m": 28.7
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T07:44"
+        ],
+        "sunset": [
+          "2026-10-01T19:29"
+        ]
+      }
+    },
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=41.95&longitude=3.2167&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1"
   },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T05:25:14+02:00, valid 2026-09-24T05:15 Europe/Madrid — not a verified on-site observation.",
+  "weather": "Model data from Open-Meteo, retrieved 2026-10-01T17:58:02.048388+02:00, valid 2026-10-01T17:45 Europe/Madrid — not a verified on-site observation.",
   "prompts": {
     "prompt-r2.txt": "Photorealistic original artistic interpretation (not a photograph) of Begur, Costa Brava, Catalonia, Spain, at DEEP ASTRONOMICAL NIGHT (around 5:30 in the morning). Tourist viewpoint: the Mirador del Paseo de Carmen Amaya, looking down at the old town and bay — the old town of Begur climbing its hill, the medieval castle on the summit, the bay and sea dark below with faint moonlight on the water. Deep night: pitch-dark star-filled sky, moonlit sea, warm lights of the old town below. NO daylight, NO dawn glow, NO blue-hour brightness. Main subject centered. No identifiable people. Absolutely no legible text, lettering, numbers, signs or plaques anywhere in the image."
   },

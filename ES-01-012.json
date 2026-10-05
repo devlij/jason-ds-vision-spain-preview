@@ -14,7 +14,7 @@
     "broad pedestrian Plaza del Azoguejo at the high arcade",
     "historic tan façades flank the receding arcade"
   ],
-  "weather": "Open-Meteo model data, retrieved 2026-09-23T20:31:21.272346+02:00, valid 2026-09-23T20:30 Europe/Madrid — not a verified on-site observation. 24.9°C, WMO 1, 16% cloud, 0.0 mm precipitation, 2.5 km/h wind. Sunrise 08:04, sunset 20:12. Approximate solar elevation -4.17°, azimuth 273.83°.",
+  "weather": "Open-Meteo model data, retrieved 2026-10-01T17:57:43.884507+02:00, valid 2026-10-01T17:45+02:00 Europe/Madrid — not a verified on-site observation. 22.0°C, WMO 3, 100% cloud, 0.0 mm precipitation, 9.8 km/h wind. Sunrise 08:12, sunset 19:58. Approximate solar elevation -4.17°, azimuth 273.83°.",
   "status": "Approved · Cosmo QC 5/5 · Dusk",
   "approval_state": "approved",
   "approval_basis": "Five-gate pass: Gate 1 — two-tier Roman arcade from Plaza del Azoguejo with sunset glow through the arches, consistent with the 20:31 dusk scenario; Gate 2 — both masters at exact dimensions with SHA-256 matching the packet, exact signature/caption/timestamp/disclosure; Gate 3 — packet documents AI generation, arch cadence and lamp glow disclosed as interpretation; Gate 4 — documentation only: public plaza, small unidentifiable figures, no blocking logos, chain not certified; Gate 5 — no open blockers.",
@@ -75,13 +75,13 @@
     }
   ],
   "conditions_record": {
-    "retrieved_utc": "2026-09-23T18:31:21.272346+00:00",
-    "retrieved_local": "2026-09-23T20:31:21.272346+02:00",
+    "retrieved_utc": "2026-10-01T15:57:43.884507+00:00",
+    "retrieved_local": "2026-10-01T17:57:43.884507+02:00",
     "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=40.948&longitude=-4.1177&current=temperature_2m%2Cweather_code%2Ccloud_cover%2Cis_day%2Cprecipitation%2Cwind_speed_10m&daily=sunrise%2Csunset&timezone=Europe%2FMadrid&forecast_days=1",
     "response": {
       "latitude": 40.9375,
       "longitude": -4.125,
-      "generationtime_ms": 1.2063980102539062,
+      "generationtime_ms": 0.11801719665527344,
       "utc_offset_seconds": 7200,
       "timezone": "Europe/Madrid",
       "timezone_abbreviation": "GMT+2",
@@ -97,14 +97,14 @@
         "wind_speed_10m": "km/h"
       },
       "current": {
-        "time": "2026-09-23T20:30",
+        "time": "2026-10-01T17:45",
         "interval": 900,
-        "temperature_2m": 24.9,
-        "weather_code": 1,
-        "cloud_cover": 16,
-        "is_day": 0,
+        "temperature_2m": 22.0,
+        "weather_code": 3,
+        "cloud_cover": 100,
+        "is_day": 1,
         "precipitation": 0.0,
-        "wind_speed_10m": 2.5
+        "wind_speed_10m": 9.8
       },
       "daily_units": {
         "time": "iso8601",
@@ -113,13 +113,13 @@
       },
       "daily": {
         "time": [
-          "2026-09-23"
+          "2026-10-01"
         ],
         "sunrise": [
-          "2026-09-23T08:04"
+          "2026-10-01T08:12"
         ],
         "sunset": [
-          "2026-09-23T20:12"
+          "2026-10-01T19:58"
         ]
       }
     },
@@ -139,11 +139,19 @@
       "azimuth_deg": 273.83
     },
     "lighting_stage": "DUSK twilight",
-    "sunrise_local": "2026-09-23T08:04:00+02:00",
-    "sunset_local": "2026-09-23T20:12:00+02:00",
+    "sunrise_local": "2026-10-01T08:12:00+02:00",
+    "sunset_local": "2026-10-01T19:58:00+02:00",
     "twilight_window_minutes": 45,
     "generation_allowed": true,
-    "disclaimer": "Model data from Open-Meteo; not a verified on-site observation."
+    "disclaimer": "Model data from Open-Meteo; not a verified on-site observation.",
+    "temperature_2m": 22.0,
+    "weather_code": 3,
+    "cloud_cover": 100,
+    "precipitation": 0.0,
+    "wind_speed_10m": 9.8,
+    "is_day": 1,
+    "sunrise": "08:12",
+    "sunset": "19:58"
   },
   "review_packet": {
     "status": "Candidate · Awaiting Cosmo QC",

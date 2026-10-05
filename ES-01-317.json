@@ -105,11 +105,64 @@
   "conditions": {
     "provider": "Open-Meteo",
     "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=43.3920&longitude=-4.1070&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
-    "retrieved": "2026-09-24T01:45+02:00",
-    "valid": "2026-09-24T01:45+02:00 Europe/Madrid",
-    "timezone": "Europe/Madrid"
+    "retrieved": "2026-10-01T18:02:58.035598+02:00",
+    "valid": "2026-10-01T18:00+02:00 Europe/Madrid",
+    "timezone": "Europe/Madrid",
+    "response": {
+      "latitude": 43.39,
+      "longitude": -4.11,
+      "generationtime_ms": 3.757476806640625,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 85.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T18:00",
+        "interval": 900,
+        "temperature_2m": 19.0,
+        "weather_code": 3,
+        "cloud_cover": 100,
+        "is_day": 1,
+        "precipitation": 0.0,
+        "wind_speed_10m": 6.1
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T08:13"
+        ],
+        "sunset": [
+          "2026-10-01T19:57"
+        ]
+      }
+    },
+    "temperature_2m": 19.0,
+    "weather_code": 3,
+    "cloud_cover": 100,
+    "precipitation": 0.0,
+    "wind_speed_10m": 6.1,
+    "is_day": 1,
+    "sunrise": "08:13",
+    "sunset": "19:57"
   },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T01:45+02:00, valid 2026-09-24T01:45+02:00 Europe/Madrid — not a verified on-site observation.",
+  "weather": "Model data from Open-Meteo, retrieved 2026-10-01T18:02:58.035598+02:00, valid 2026-10-01T18:00+02:00 Europe/Madrid — not a verified on-site observation.",
   "prompts": {
     "prompt-r1.txt": "Photorealistic artistic night interpretation of Santillana del Mar in Cantabria: the medieval stone street with historic facades and arched doorways, lit only by ordinary warm street lamps, no floodlighting; a few lit windows; clear starry sky above; no prominent people, no text, no logos; street centered so it survives a center crop; clean uncluttered lower area."
   },

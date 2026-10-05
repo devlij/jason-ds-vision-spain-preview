@@ -104,16 +104,62 @@
   },
   "conditions": {
     "provider": "Open-Meteo",
-    "retrieved": "2026-09-24T05:26:47+02:00",
-    "valid": "2026-09-24T05:15 Europe/Madrid",
-    "phrase": "A foggy night over the Maestrat hills, light air.",
+    "retrieved": "2026-10-01T17:58:07.033015+02:00",
+    "valid": "2026-10-01T17:45 Europe/Madrid",
+    "phrase": "Model data: rain showers, 21.4°C, cloud 100%, wind 9.4 km/h, day.",
     "note": "Model data — not a verified on-site observation.",
-    "temperature_2m": "14.5",
-    "weather_code": "45",
-    "cloud_cover": "38",
-    "wind_speed_10m": "3.1"
+    "temperature_2m": "21.4",
+    "weather_code": "80",
+    "cloud_cover": "100",
+    "wind_speed_10m": "9.4",
+    "response": {
+      "latitude": 40.125,
+      "longitude": -0.0625,
+      "generationtime_ms": 0.09250640869140625,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 278.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T17:45",
+        "interval": 900,
+        "temperature_2m": 21.4,
+        "weather_code": 80,
+        "cloud_cover": 100,
+        "is_day": 1,
+        "precipitation": 0.3,
+        "wind_speed_10m": 9.4
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T07:56"
+        ],
+        "sunset": [
+          "2026-10-01T19:42"
+        ]
+      }
+    },
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=40.1167&longitude=-0.05&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1"
   },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T05:26:47+02:00, valid 2026-09-24T05:15 Europe/Madrid — not a verified on-site observation.",
+  "weather": "Model data from Open-Meteo, retrieved 2026-10-01T17:58:07.033015+02:00, valid 2026-10-01T17:45 Europe/Madrid — not a verified on-site observation.",
   "prompts": {
     "prompt-r2.txt": "Photorealistic original artistic interpretation (not a photograph) of Vilafamés, Valencian Community, Spain, at DEEP ASTRONOMICAL NIGHT (around 5:30 in the morning). Tourist viewpoint: the Carrer dels Arquets, looking up toward the old town — the hilltop church of the Asuncion, the ancient quarter's stone houses and the castle ruins above, the Plana plain and Maestrat hills dark below. Deep night: pitch-dark star-filled sky, thin drifting mist through the streets, faint warm village lights only. NO daylight, NO dawn glow, NO blue-hour brightness. Main subject centered. No identifiable people. Absolutely no legible text, lettering, numbers, signs or plaques anywhere in the image."
   },

@@ -97,17 +97,63 @@
     }
   },
   "conditions": {
-    "retrieved": "2026-09-24T01:23:32+02:00",
-    "valid": "2026-09-24T01:24:36+02:00",
+    "retrieved": "2026-10-01T17:58:26.018417+02:00",
+    "valid": "2026-10-01T17:45+02:00",
     "provider": "Open-Meteo",
     "api": "https://api.open-meteo.com/v1/forecast",
-    "is_day": null,
-    "temperature_2m": 21.3,
-    "weather_code": 0,
-    "cloud_cover": 1,
-    "wind_speed_10m": 14.1
+    "is_day": 1,
+    "temperature_2m": 26.5,
+    "weather_code": 2,
+    "cloud_cover": 53,
+    "wind_speed_10m": 12.3,
+    "response": {
+      "latitude": 36.25,
+      "longitude": -5.9375,
+      "generationtime_ms": 0.10263919830322266,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 187.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T17:45",
+        "interval": 900,
+        "temperature_2m": 26.5,
+        "weather_code": 2,
+        "cloud_cover": 53,
+        "is_day": 1,
+        "precipitation": 0.0,
+        "wind_speed_10m": 12.3
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T08:18"
+        ],
+        "sunset": [
+          "2026-10-01T20:07"
+        ]
+      }
+    },
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=36.2521&longitude=-5.9672&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1"
   },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T01:23:32+02:00, valid 2026-09-24T01:24:36+02:00 Europe/Madrid — not a verified on-site observation.",
+  "weather": "Model data from Open-Meteo, retrieved 2026-10-01T17:58:26.018417+02:00, valid 2026-10-01T17:45+02:00 Europe/Madrid — not a verified on-site observation.",
   "prompts": {
     "prompt-r1.txt": "Photorealistic original artistic interpretation (not a photograph) of Vejer de la Frontera, Spain, at night. Tourist viewpoint: the Mirador de la Cobijada terrace, the statue of La Cobijada silhouetted in the foreground, looking over the white hilltop town toward the distant coast. ANCHORS: dark silhouette of La Cobijada statue on the terrace in the foreground; whitewashed houses and the Divino Salvador church cascading over the hilltop; the distant dark Atlantic and coastline glowing faintly on the horizon. LIGHTING: moonlit rooftops, scattered warm windows, clear night sky. Photorealistic, night cityscape, no people, no watermark."
   },

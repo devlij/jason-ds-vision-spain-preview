@@ -14,7 +14,7 @@
     "Cathedral tower left of the Alcázar",
     "Tagus River and gorge below the terracotta-roofed old town"
   ],
-  "weather": "Open-Meteo model data, retrieved 2026-09-23T20:31:21.271635+02:00, valid 2026-09-23T20:30 Europe/Madrid — not a verified on-site observation. 30.7°C, WMO 2, 75% cloud, 0.0 mm precipitation, 3.7 km/h wind. Sunrise 08:04, sunset 20:11. Approximate solar elevation -4.31°, azimuth 273.81°.",
+  "weather": "Open-Meteo model data, retrieved 2026-10-01T17:57:44.366600+02:00, valid 2026-10-01T17:45+02:00 Europe/Madrid — not a verified on-site observation. 27.6°C, WMO 2, 77% cloud, 0.0 mm precipitation, 7.7 km/h wind. Sunrise 08:12, sunset 19:58. Approximate solar elevation -4.31°, azimuth 273.81°.",
   "status": "Approved · Cosmo QC 5/5 · Dusk",
   "approval_state": "approved",
   "approval_basis": "Five-gate pass: Gate 1 — Mirador del Valle panorama with the Alcázar on the hilltop right, cathedral spire center, and the Tagus below, dusk cloud consistent with the 20:31 scenario; Gate 2 — both masters at exact dimensions with SHA-256 matching the packet, exact signature/caption/timestamp/disclosure; Gate 3 — packet documents AI generation, approximate viewpoint disclosed; Gate 4 — documentation only: public viewpoint, no blocking people/logos, chain not certified; Gate 5 — no open blockers.",
@@ -75,13 +75,13 @@
     }
   ],
   "conditions_record": {
-    "retrieved_utc": "2026-09-23T18:31:21.271635+00:00",
-    "retrieved_local": "2026-09-23T20:31:21.271635+02:00",
+    "retrieved_utc": "2026-10-01T15:57:44.366600+00:00",
+    "retrieved_local": "2026-10-01T17:57:44.366600+02:00",
     "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=39.8503&longitude=-4.0205&current=temperature_2m%2Cweather_code%2Ccloud_cover%2Cis_day%2Cprecipitation%2Cwind_speed_10m&daily=sunrise%2Csunset&timezone=Europe%2FMadrid&forecast_days=1",
     "response": {
       "latitude": 39.875,
       "longitude": -4.0,
-      "generationtime_ms": 0.11444091796875,
+      "generationtime_ms": 0.36907196044921875,
       "utc_offset_seconds": 7200,
       "timezone": "Europe/Madrid",
       "timezone_abbreviation": "GMT+2",
@@ -97,14 +97,14 @@
         "wind_speed_10m": "km/h"
       },
       "current": {
-        "time": "2026-09-23T20:30",
+        "time": "2026-10-01T17:45",
         "interval": 900,
-        "temperature_2m": 30.7,
+        "temperature_2m": 27.6,
         "weather_code": 2,
-        "cloud_cover": 75,
-        "is_day": 0,
+        "cloud_cover": 77,
+        "is_day": 1,
         "precipitation": 0.0,
-        "wind_speed_10m": 3.7
+        "wind_speed_10m": 7.7
       },
       "daily_units": {
         "time": "iso8601",
@@ -113,13 +113,13 @@
       },
       "daily": {
         "time": [
-          "2026-09-23"
+          "2026-10-01"
         ],
         "sunrise": [
-          "2026-09-23T08:04"
+          "2026-10-01T08:12"
         ],
         "sunset": [
-          "2026-09-23T20:11"
+          "2026-10-01T19:58"
         ]
       }
     },
@@ -139,11 +139,19 @@
       "azimuth_deg": 273.81
     },
     "lighting_stage": "DUSK twilight",
-    "sunrise_local": "2026-09-23T08:04:00+02:00",
-    "sunset_local": "2026-09-23T20:11:00+02:00",
+    "sunrise_local": "2026-10-01T08:12:00+02:00",
+    "sunset_local": "2026-10-01T19:58:00+02:00",
     "twilight_window_minutes": 45,
     "generation_allowed": true,
-    "disclaimer": "Model data from Open-Meteo; not a verified on-site observation."
+    "disclaimer": "Model data from Open-Meteo; not a verified on-site observation.",
+    "temperature_2m": 27.6,
+    "weather_code": 2,
+    "cloud_cover": 77,
+    "precipitation": 0.0,
+    "wind_speed_10m": 7.7,
+    "is_day": 1,
+    "sunrise": "08:12",
+    "sunset": "19:58"
   },
   "review_packet": {
     "status": "Candidate · Awaiting Cosmo QC",

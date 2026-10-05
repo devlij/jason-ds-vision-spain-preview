@@ -105,16 +105,61 @@
   "conditions": {
     "provider": "Open-Meteo",
     "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=41.3803&longitude=1.0839&current=temperature_2m%2Cweather_code%2Ccloud_cover%2Cis_day%2Cprecipitation%2Cwind_speed_10m&daily=sunrise%2Csunset&timezone=Europe%2FMadrid&forecast_days=1",
-    "retrieved_local": "2026-09-24T01:35+02:00",
-    "valid_local": "2026-09-24T01:30",
-    "temperature_c": 16.5,
-    "weather_code": 0,
-    "weather_word": "clear sky",
-    "cloud_cover_pct": 12,
-    "is_day": 0,
-    "wind_kmh": 5.9
+    "retrieved_local": "2026-10-01T18:01:40.025731+02:00",
+    "valid_local": "2026-10-01T18:00",
+    "temperature_c": 20.9,
+    "weather_code": 3,
+    "weather_word": "overcast",
+    "cloud_cover_pct": 100,
+    "is_day": 1,
+    "wind_kmh": 5.5,
+    "response": {
+      "latitude": 41.375,
+      "longitude": 1.0625,
+      "generationtime_ms": 0.09775161743164062,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 499.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T18:00",
+        "interval": 900,
+        "temperature_2m": 20.9,
+        "weather_code": 3,
+        "cloud_cover": 100,
+        "is_day": 1,
+        "precipitation": 0.0,
+        "wind_speed_10m": 5.5
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T07:52"
+        ],
+        "sunset": [
+          "2026-10-01T19:37"
+        ]
+      }
+    }
   },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T01:12:51+02:00, valid 2026-09-24T01:30 Europe/Madrid — not a verified on-site observation.",
+  "weather": "Model data from Open-Meteo, retrieved 2026-10-01T18:01:40.025731+02:00, valid 2026-10-01T18:00 Europe/Madrid — not a verified on-site observation.",
   "prompts": {
     "prompt-r1.txt": "Photorealistic artistic interpretation of the Reial Monestir de Santa Maria de Poblet in Catalonia at night, viewed from the outer approach. The fortified Cistercian abbey complex spreads centered — the great church with its fortified facade, the cloister ranges and the walled precinct — warm window light in a few windows under a clear starry sky; the dark Prades mountains rise behind."
   },

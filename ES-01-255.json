@@ -105,16 +105,61 @@
   "conditions": {
     "provider": "Open-Meteo",
     "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=42.58&longitude=0.98&current=temperature_2m%2Cweather_code%2Ccloud_cover%2Cis_day%2Cprecipitation%2Cwind_speed_10m&daily=sunrise%2Csunset&timezone=Europe%2FMadrid&forecast_days=1",
-    "retrieved_local": "2026-09-24T01:19+02:00",
-    "valid_local": "2026-09-24T01:15",
-    "temperature_c": 7.6,
-    "weather_code": 3,
-    "weather_word": "overcast",
+    "retrieved_local": "2026-10-01T17:59:41.035053+02:00",
+    "valid_local": "2026-10-01T17:45",
+    "temperature_c": 9.9,
+    "weather_code": 53,
+    "weather_word": "drizzle",
     "cloud_cover_pct": 100,
-    "is_day": 0,
-    "wind_kmh": 1.6
+    "is_day": 1,
+    "wind_kmh": 6.1,
+    "response": {
+      "latitude": 42.58,
+      "longitude": 0.97999954,
+      "generationtime_ms": 0.37384033203125,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 2287.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T17:45",
+        "interval": 900,
+        "temperature_2m": 9.9,
+        "weather_code": 53,
+        "cloud_cover": 100,
+        "is_day": 1,
+        "precipitation": 0.0,
+        "wind_speed_10m": 6.1
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T07:53"
+        ],
+        "sunset": [
+          "2026-10-01T19:37"
+        ]
+      }
+    }
   },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T01:12:51+02:00, valid 2026-09-24T01:15 Europe/Madrid — not a verified on-site observation.",
+  "weather": "Model data from Open-Meteo, retrieved 2026-10-01T17:59:41.035053+02:00, valid 2026-10-01T17:45 Europe/Madrid — not a verified on-site observation.",
   "prompts": {
     "prompt-r1.txt": "Photorealistic artistic interpretation of the Estany de Sant Maurici lake in the Catalan Pyrenees at night, viewed from the lakeside trail. The dark still lake reflects a cloudy night sky; the jagged double peak of Els Encantats rises centered behind the far shore; dark pine forests frame both sides of the water. Overcast night with thin moonlight breaking through the clouds; restrained moonlit interpretation, no artificial lighting."
   },

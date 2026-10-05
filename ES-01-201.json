@@ -103,17 +103,63 @@
     }
   },
   "conditions": {
-    "retrieved": "2026-09-24T01:13:14+02:00",
-    "valid": "2026-09-24T01:15:17+02:00",
+    "retrieved": "2026-10-01T17:58:16.041724+02:00",
+    "valid": "2026-10-01T17:45+02:00",
     "provider": "Open-Meteo",
     "api": "https://api.open-meteo.com/v1/forecast",
-    "is_day": 0,
-    "temperature_2m": 20.9,
-    "weather_code": 0,
-    "cloud_cover": 0,
-    "wind_speed_10m": 5.8
+    "is_day": 1,
+    "temperature_2m": 26.0,
+    "weather_code": 3,
+    "cloud_cover": 100,
+    "wind_speed_10m": 6.8,
+    "response": {
+      "latitude": 36.75,
+      "longitude": -4.4375,
+      "generationtime_ms": 0.09846687316894531,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 19.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T17:45",
+        "interval": 900,
+        "temperature_2m": 26.0,
+        "weather_code": 3,
+        "cloud_cover": 100,
+        "is_day": 1,
+        "precipitation": 0.0,
+        "wind_speed_10m": 6.8
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T08:12"
+        ],
+        "sunset": [
+          "2026-10-01T20:01"
+        ]
+      }
+    },
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=36.7202&longitude=-4.4203&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1"
   },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T01:13:14+02:00, valid 2026-09-24T01:15:17+02:00 Europe/Madrid — not a verified on-site observation.",
+  "weather": "Model data from Open-Meteo, retrieved 2026-10-01T17:58:16.041724+02:00, valid 2026-10-01T17:45+02:00 Europe/Madrid — not a verified on-site observation.",
   "prompts": {
     "prompt-r1.txt": "Photorealistic original artistic interpretation (not a photograph) of Gibralfaro Castle in Malaga, Spain, at night, seen from the Mirador de Gibralfaro viewpoint. Tourist viewpoint: the free mirador on the castle path, looking over the city. Frame: the castle's ancient Moorish rampart walls and a stone tower in the left foreground; the glittering night lights of Malaga spread below — the port, the La Malagueta bullring's circular outline, and the cathedral's tower; the dark Mediterranean coastline curving along the horizon under a clear starry sky. Night light: city glow from below, castle walls dimly moonlit, 21 degrees C, clear skies, light breeze. Main subject centered to survive a 4:5 center crop. No identifiable people, no legible logos, no text, lettering or signs anywhere. Keep the lower third clean and uncluttered."
   },

@@ -104,16 +104,62 @@
   },
   "conditions": {
     "provider": "Open-Meteo",
-    "retrieved": "2026-09-24T05:26:47+02:00",
-    "valid": "2026-09-24T05:15 Europe/Madrid",
-    "phrase": "A partly cloudy night over the island, light breeze.",
+    "retrieved": "2026-10-01T17:58:06.029912+02:00",
+    "valid": "2026-10-01T17:45 Europe/Madrid",
+    "phrase": "Model data: overcast, 27.2°C, cloud 93%, wind 18.0 km/h, day.",
     "note": "Model data — not a verified on-site observation.",
-    "temperature_2m": "20.5",
-    "weather_code": "2",
-    "cloud_cover": "57",
-    "wind_speed_10m": "5.2"
+    "temperature_2m": "27.2",
+    "weather_code": "3",
+    "cloud_cover": "93",
+    "wind_speed_10m": "18.0",
+    "response": {
+      "latitude": 38.25,
+      "longitude": -0.5625,
+      "generationtime_ms": 0.10323524475097656,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 9.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T17:45",
+        "interval": 900,
+        "temperature_2m": 27.2,
+        "weather_code": 3,
+        "cloud_cover": 93,
+        "is_day": 1,
+        "precipitation": 0.0,
+        "wind_speed_10m": 18.0
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T07:57"
+        ],
+        "sunset": [
+          "2026-10-01T19:45"
+        ]
+      }
+    },
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=38.1664&longitude=-0.4821&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1"
   },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T05:26:47+02:00, valid 2026-09-24T05:15 Europe/Madrid — not a verified on-site observation.",
+  "weather": "Model data from Open-Meteo, retrieved 2026-10-01T17:58:06.029912+02:00, valid 2026-10-01T17:45 Europe/Madrid — not a verified on-site observation.",
   "prompts": {
     "prompt-r2.txt": "Photorealistic original artistic interpretation (not a photograph) of Tabarca island, Alicante, Valencian Community, Spain, at DEEP ASTRONOMICAL NIGHT (around 5:30 in the morning). Tourist viewpoint: the western breakwater, looking at the village — Tabarca's walled village with its church of San Pedro y San Pablo and the old Governor's House, the sea dark around the island, the city lights of Santa Pola far across the water. Deep night: pitch-dark star-filled sky, moonlight on the water, village lights only. NO daylight, NO dawn glow, NO blue-hour brightness. Main subject centered. No identifiable people. Absolutely no legible text, lettering, numbers, signs or plaques anywhere in the image."
   },

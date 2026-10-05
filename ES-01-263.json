@@ -105,16 +105,61 @@
   "conditions": {
     "provider": "Open-Meteo",
     "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=39.9349&longitude=3.8361&current=temperature_2m%2Cweather_code%2Ccloud_cover%2Cis_day%2Cprecipitation%2Cwind_speed_10m&daily=sunrise%2Csunset&timezone=Europe%2FMadrid&forecast_days=1",
-    "retrieved_local": "2026-09-24T01:26+02:00",
-    "valid_local": "2026-09-24T01:15",
-    "temperature_c": 20.1,
-    "weather_code": 0,
-    "weather_word": "clear sky",
-    "cloud_cover_pct": 7,
-    "is_day": 0,
-    "wind_kmh": 2.4
+    "retrieved_local": "2026-10-01T17:59:48.045097+02:00",
+    "valid_local": "2026-10-01T17:45",
+    "temperature_c": 27.0,
+    "weather_code": 3,
+    "weather_word": "overcast",
+    "cloud_cover_pct": 100,
+    "is_day": 1,
+    "wind_kmh": 3.9,
+    "response": {
+      "latitude": 40.0,
+      "longitude": 3.875,
+      "generationtime_ms": 0.12814998626708984,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 14.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T17:45",
+        "interval": 900,
+        "temperature_2m": 27.0,
+        "weather_code": 3,
+        "cloud_cover": 100,
+        "is_day": 1,
+        "precipitation": 0.0,
+        "wind_speed_10m": 3.9
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T07:40"
+        ],
+        "sunset": [
+          "2026-10-01T19:26"
+        ]
+      }
+    }
   },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T01:12:51+02:00, valid 2026-09-24T01:15 Europe/Madrid — not a verified on-site observation.",
+  "weather": "Model data from Open-Meteo, retrieved 2026-10-01T17:59:48.045097+02:00, valid 2026-10-01T17:45 Europe/Madrid — not a verified on-site observation.",
   "prompts": {
     "prompt-r1.txt": "Photorealistic artistic interpretation of Cala Macarella beach in Menorca, Balearic Islands, at night, viewed from the cliff viewpoint at the cove's western end. The small white-sand cove glows faintly centered between the dark pine-clad limestone headlands; the turquoise-dark water lies still under a clear starry sky; a thin sliver of moonlight on the gentle waves. Naturally dark-friendly view with no artificial lighting — moonlit long-exposure feel."
   },

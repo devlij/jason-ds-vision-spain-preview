@@ -104,16 +104,62 @@
   },
   "conditions": {
     "provider": "Open-Meteo",
-    "retrieved": "2026-09-24T05:25:14+02:00",
-    "valid": "2026-09-24T05:15 Europe/Madrid",
-    "phrase": "A clear night over the castle hill, light breeze.",
+    "retrieved": "2026-10-01T17:58:03.001286+02:00",
+    "valid": "2026-10-01T17:45 Europe/Madrid",
+    "phrase": "Model data: thunderstorm, 20.0°C, cloud 100%, wind 2.7 km/h, day.",
     "note": "Model data — not a verified on-site observation.",
-    "temperature_2m": "12.2",
-    "weather_code": "0",
-    "cloud_cover": "0",
-    "wind_speed_10m": "5.5"
+    "temperature_2m": "20.0",
+    "weather_code": "95",
+    "cloud_cover": "100",
+    "wind_speed_10m": "2.7",
+    "response": {
+      "latitude": 41.9375,
+      "longitude": 1.6875,
+      "generationtime_ms": 0.09989738464355469,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 523.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T17:45",
+        "interval": 900,
+        "temperature_2m": 20.0,
+        "weather_code": 95,
+        "cloud_cover": 100,
+        "is_day": 1,
+        "precipitation": 0.4,
+        "wind_speed_10m": 2.7
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T07:50"
+        ],
+        "sunset": [
+          "2026-10-01T19:35"
+        ]
+      }
+    },
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=41.9137&longitude=1.6785&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1"
   },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T05:25:14+02:00, valid 2026-09-24T05:15 Europe/Madrid — not a verified on-site observation.",
+  "weather": "Model data from Open-Meteo, retrieved 2026-10-01T17:58:03.001286+02:00, valid 2026-10-01T17:45 Europe/Madrid — not a verified on-site observation.",
   "prompts": {
     "prompt-r2.txt": "Photorealistic original artistic interpretation (not a photograph) of the Castle of Cardona, Catalonia, Spain, at DEEP ASTRONOMICAL NIGHT (around 5:30 in the morning). Tourist viewpoint: the salt-mountain viewpoint, looking at the castle — the hilltop castle of Cardona, the collegiate church of Sant Vicenc with its Lombard bell tower, the salt valley dark below. Deep night: pitch-dark star-filled sky, moonlight on the castle walls, mountains dark, restrained lights only. NO daylight, NO dawn glow, NO blue-hour brightness. Main subject centered. No identifiable people. Absolutely no legible text, lettering, numbers, signs or plaques anywhere in the image."
   },

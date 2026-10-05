@@ -97,17 +97,63 @@
     }
   },
   "conditions": {
-    "retrieved": "2026-09-24T01:27:03+02:00",
-    "valid": "2026-09-24T01:28:58+02:00",
+    "retrieved": "2026-10-01T17:58:27.024355+02:00",
+    "valid": "2026-10-01T17:45+02:00",
     "provider": "Open-Meteo",
     "api": "https://api.open-meteo.com/v1/forecast",
-    "is_day": null,
-    "temperature_2m": 21.8,
-    "weather_code": 0,
-    "cloud_cover": 0,
-    "wind_speed_10m": 7.7
+    "is_day": 1,
+    "temperature_2m": 28.1,
+    "weather_code": 3,
+    "cloud_cover": 84,
+    "wind_speed_10m": 6.2,
+    "response": {
+      "latitude": 38.0,
+      "longitude": -3.5,
+      "generationtime_ms": 0.09322166442871094,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 767.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T17:45",
+        "interval": 900,
+        "temperature_2m": 28.1,
+        "weather_code": 3,
+        "cloud_cover": 84,
+        "is_day": 1,
+        "precipitation": 0.0,
+        "wind_speed_10m": 6.2
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T08:09"
+        ],
+        "sunset": [
+          "2026-10-01T19:57"
+        ]
+      }
+    },
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=37.9938&longitude=-3.471&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1"
   },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T01:27:03+02:00, valid 2026-09-24T01:28:58+02:00 Europe/Madrid — not a verified on-site observation.",
+  "weather": "Model data from Open-Meteo, retrieved 2026-10-01T17:58:27.024355+02:00, valid 2026-10-01T17:45+02:00 Europe/Madrid — not a verified on-site observation.",
   "prompts": {
     "prompt-r1.txt": "Photorealistic original artistic interpretation (not a photograph) of Baeza, Jaén, Spain, at night. Tourist viewpoint: Plaza de Santa María facing the Renaissance cathedral front. ANCHORS: Renaissance cathedral façade rising center, Vandelvira sandstone details picked out by illumination; the 1564 Fuente de Santa María fountain and old university wing framing the plaza edges; warm sandstone glowing under the square's street lighting. LIGHTING: illuminated cathedral façade, warm plaza lighting, clear night sky. Photorealistic, night architecture, no people, no watermark."
   },

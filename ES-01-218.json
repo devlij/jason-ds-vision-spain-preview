@@ -97,17 +97,63 @@
     }
   },
   "conditions": {
-    "retrieved": "2026-09-24T01:27:03+02:00",
-    "valid": "2026-09-24T01:28:59+02:00",
+    "retrieved": "2026-10-01T17:58:29.043035+02:00",
+    "valid": "2026-10-01T17:45+02:00",
     "provider": "Open-Meteo",
     "api": "https://api.open-meteo.com/v1/forecast",
-    "is_day": null,
-    "temperature_2m": 24.1,
-    "weather_code": 0,
-    "cloud_cover": 1,
-    "wind_speed_10m": 8.7
+    "is_day": 1,
+    "temperature_2m": 27.2,
+    "weather_code": 3,
+    "cloud_cover": 100,
+    "wind_speed_10m": 7.2,
+    "response": {
+      "latitude": 36.875,
+      "longitude": -2.4375,
+      "generationtime_ms": 0.4382133483886719,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 20.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T17:45",
+        "interval": 900,
+        "temperature_2m": 27.2,
+        "weather_code": 3,
+        "cloud_cover": 100,
+        "is_day": 1,
+        "precipitation": 0.0,
+        "wind_speed_10m": 7.2
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T08:04"
+        ],
+        "sunset": [
+          "2026-10-01T19:53"
+        ]
+      }
+    },
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=36.8381&longitude=-2.4597&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1"
   },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T01:27:03+02:00, valid 2026-09-24T01:28:59+02:00 Europe/Madrid — not a verified on-site observation.",
+  "weather": "Model data from Open-Meteo, retrieved 2026-10-01T17:58:29.043035+02:00, valid 2026-10-01T17:45+02:00 Europe/Madrid — not a verified on-site observation.",
   "prompts": {
     "prompt-r1.txt": "Photorealistic original artistic interpretation (not a photograph) of Almería, Spain, at night. Tourist viewpoint: the city below at night, looking up at the 10th-century Moorish Alcazaba fortress on its hill. ANCHORS: massive Alcazaba walls and towers on the hilltop, moonlit; old town rooftops climbing the slope below the walls; the dark Mediterranean beyond with moonlight on the water. LIGHTING: moonlight on the fortress walls, warm city lights below, clear night sky. Restrained natural light only, no invented floodlighting. Photorealistic, night landscape, no people, no watermark."
   },

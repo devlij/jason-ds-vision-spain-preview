@@ -104,16 +104,62 @@
   },
   "conditions": {
     "provider": "Open-Meteo",
-    "retrieved": "2026-09-24T05:22:48+02:00",
-    "valid": "2026-09-24T05:15 Europe/Madrid",
-    "phrase": "A clear night over the old town, light breeze.",
+    "retrieved": "2026-10-01T17:57:58.014283+02:00",
+    "valid": "2026-10-01T17:45 Europe/Madrid",
+    "phrase": "Model data: overcast, 19.9°C, cloud 83%, wind 22.7 km/h, day.",
     "note": "Model data — not a verified on-site observation.",
-    "temperature_2m": "17.2",
-    "weather_code": "0",
-    "cloud_cover": "0",
-    "wind_speed_10m": "6.6"
+    "temperature_2m": "19.9",
+    "weather_code": "3",
+    "cloud_cover": "83",
+    "wind_speed_10m": "22.7",
+    "response": {
+      "latitude": 41.875,
+      "longitude": -1.75,
+      "generationtime_ms": 0.12171268463134766,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 503.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T17:45",
+        "interval": 900,
+        "temperature_2m": 19.9,
+        "weather_code": 3,
+        "cloud_cover": 83,
+        "is_day": 1,
+        "precipitation": 0.0,
+        "wind_speed_10m": 22.7
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T08:03"
+        ],
+        "sunset": [
+          "2026-10-01T19:48"
+        ]
+      }
+    },
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=41.9047&longitude=-1.7268&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1"
   },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T05:22:48+02:00, valid 2026-09-24T05:15 Europe/Madrid — not a verified on-site observation.",
+  "weather": "Model data from Open-Meteo, retrieved 2026-10-01T17:57:58.014283+02:00, valid 2026-10-01T17:45 Europe/Madrid — not a verified on-site observation.",
   "prompts": {
     "prompt-r2.txt": "Photorealistic original artistic interpretation (not a photograph) of the old town of Tarazona, Aragon, Spain, at DEEP ASTRONOMICAL NIGHT (around 5:25 in the morning). Tourist viewpoint: the river approach, looking up at the old town — Tarazona's cathedral with its Mudejar cloister tower, the old town's hanging houses and historic quarter, the Moncayo massif dark on the horizon. Deep night: pitch-dark star-filled sky, moonlight, warm old-town lighting only. NO daylight, NO dawn glow, NO blue-hour brightness. Main subject centered. No identifiable people. Absolutely no legible text, lettering, numbers, signs or plaques anywhere in the image."
   },

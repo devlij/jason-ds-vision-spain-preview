@@ -104,16 +104,62 @@
   },
   "conditions": {
     "provider": "Open-Meteo",
-    "retrieved": "2026-09-24T04:24:01+02:00",
-    "valid": "2026-09-24T04:15+02:00",
-    "temperature_2m_c": 16.1,
-    "weather_code": 0,
-    "cloud_cover_pct": 0,
-    "is_day": 0,
+    "retrieved": "2026-10-01T17:57:52.040565+02:00",
+    "valid": "2026-10-01T17:45+02:00",
+    "temperature_2m_c": 17.8,
+    "weather_code": 3,
+    "cloud_cover_pct": 84,
+    "is_day": 1,
     "precipitation_mm": 0.0,
-    "wind_speed_10m_kmh": 6.6
+    "wind_speed_10m_kmh": 24.7,
+    "response": {
+      "latitude": 42.34,
+      "longitude": -3.6999998,
+      "generationtime_ms": 3.29744815826416,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 868.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T17:45",
+        "interval": 900,
+        "temperature_2m": 17.8,
+        "weather_code": 3,
+        "cloud_cover": 84,
+        "is_day": 1,
+        "precipitation": 0.0,
+        "wind_speed_10m": 24.7
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T08:11"
+        ],
+        "sunset": [
+          "2026-10-01T19:56"
+        ]
+      }
+    },
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=42.3411&longitude=-3.7018&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1"
   },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T04:24+02:00, valid 2026-09-24T04:15 Europe/Madrid — not a verified on-site observation.",
+  "weather": "Model data from Open-Meteo, retrieved 2026-10-01T17:57:52.040565+02:00, valid 2026-10-01T17:45+02:00 Europe/Madrid — not a verified on-site observation.",
   "prompts": {
     "prompt-r1.txt": "Photorealistic original artistic interpretation (not a photograph) of Burgos cathedral, Spain AT NIGHT. Tourist viewpoint: the Plaza de Santa María, looking at the west front. Frame: Burgos cathedral with its twin openwork spires and the west front; the old town around the cathedral; the Arlanzón river below the city. Light and weather: clear night, light breeze; the cathedral softly floodlit, the old town warmly lit, the river dark beyond the town. Absolutely no daylight anywhere. Main subject centered to survive a 4:5 center crop. No identifiable people, no legible logos, no text, lettering or signs anywhere in the image. Keep the lower third clean and uncluttered."
   },

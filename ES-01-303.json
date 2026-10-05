@@ -105,11 +105,64 @@
   "conditions": {
     "provider": "Open-Meteo",
     "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=28.4280&longitude=-14.0570&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
-    "retrieved": "2026-09-24T01:30+02:00",
-    "valid": "2026-09-24T01:30+02:00 Europe/Madrid",
-    "timezone": "Europe/Madrid"
+    "retrieved": "2026-10-01T18:02:45.043239+02:00",
+    "valid": "2026-10-01T18:00+02:00 Europe/Madrid",
+    "timezone": "Europe/Madrid",
+    "response": {
+      "latitude": 28.435852,
+      "longitude": -14.011353,
+      "generationtime_ms": 0.16236305236816406,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 409.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T18:00",
+        "interval": 900,
+        "temperature_2m": 27.5,
+        "weather_code": 0,
+        "cloud_cover": 10,
+        "is_day": 1,
+        "precipitation": 0.0,
+        "wind_speed_10m": 21.6
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T08:48"
+        ],
+        "sunset": [
+          "2026-10-01T20:41"
+        ]
+      }
+    },
+    "temperature_2m": 27.5,
+    "weather_code": 0,
+    "cloud_cover": 10,
+    "precipitation": 0.0,
+    "wind_speed_10m": 21.6,
+    "is_day": 1,
+    "sunrise": "08:48",
+    "sunset": "20:41"
   },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T01:30+02:00, valid 2026-09-24T01:30+02:00 Europe/Madrid — not a verified on-site observation.",
+  "weather": "Model data from Open-Meteo, retrieved 2026-10-01T18:02:45.043239+02:00, valid 2026-10-01T18:00+02:00 Europe/Madrid — not a verified on-site observation.",
   "prompts": {
     "prompt-r1.txt": "Photorealistic artistic moonlit night interpretation of Betancuria, the old capital of Fuerteventura: whitewashed houses sleeping under moonlight among dark volcanic hills; the Santa Maria church tower rising as a dark silhouette in the center; a few faint warm village lamps, kept generic and minimal; clear starry sky; no prominent people, no text, no logos; village centered so it survives a center crop; clean uncluttered lower foreground."
   },

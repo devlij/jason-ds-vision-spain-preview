@@ -100,17 +100,63 @@
     }
   },
   "conditions": {
-    "retrieved": "2026-09-24T01:38:39+02:00",
-    "valid": "2026-09-24T01:41:33+02:00",
+    "retrieved": "2026-10-01T17:58:34.043265+02:00",
+    "valid": "2026-10-01T17:45+02:00",
     "provider": "Open-Meteo",
     "api": "https://api.open-meteo.com/v1/forecast",
-    "is_day": 0,
-    "temperature_2m": 21.2,
-    "weather_code": 0,
-    "cloud_cover": 0,
-    "wind_speed_10m": 6.1
+    "is_day": 1,
+    "temperature_2m": 28.0,
+    "weather_code": 3,
+    "cloud_cover": 98,
+    "wind_speed_10m": 11.8,
+    "response": {
+      "latitude": 37.6875,
+      "longitude": -6.625,
+      "generationtime_ms": 0.5241632461547852,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 424.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T17:45",
+        "interval": 900,
+        "temperature_2m": 28.0,
+        "weather_code": 3,
+        "cloud_cover": 98,
+        "is_day": 1,
+        "precipitation": 0.0,
+        "wind_speed_10m": 11.8
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T08:21"
+        ],
+        "sunset": [
+          "2026-10-01T20:09"
+        ]
+      }
+    },
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=37.6969&longitude=-6.5943&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1"
   },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T01:38:39+02:00, valid 2026-09-24T01:41:33+02:00 Europe/Madrid — not a verified on-site observation.",
+  "weather": "Model data from Open-Meteo, retrieved 2026-10-01T17:58:34.043265+02:00, valid 2026-10-01T17:45+02:00 Europe/Madrid — not a verified on-site observation.",
   "prompts": {
     "prompt-r1.txt": "Photorealistic original artistic interpretation (not a photograph) of the Corta Atalaya open-pit mine, Minas de Riotinto, Huelva, Spain, at night. Tourist viewpoint: the official Mirador de Corta Atalaya, looking into the pit. Frame: the vast terraced open-pit bowl of Corta Atalaya centered, its concentric terraces descending; rust-red, ochre and violet mineral strata banding the terraced walls; the dark still depths of the pit floor far below under a starry sky. Night light: restrained moonlight and starlight on the terraced mineral walls, no floodlighting, clear starry sky, 21 degrees C, almost no wind. Main subject centered to survive a 4:5 center crop. No identifiable people, no legible logos, no text, lettering or signs anywhere in the image. Keep the lower third clean and uncluttered."
   },

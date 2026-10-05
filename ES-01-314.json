@@ -105,11 +105,64 @@
   "conditions": {
     "provider": "Open-Meteo",
     "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=43.2720&longitude=-4.9970&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
-    "retrieved": "2026-09-24T01:30+02:00",
-    "valid": "2026-09-24T01:30+02:00 Europe/Madrid",
-    "timezone": "Europe/Madrid"
+    "retrieved": "2026-10-01T18:02:55.039607+02:00",
+    "valid": "2026-10-01T18:00+02:00 Europe/Madrid",
+    "timezone": "Europe/Madrid",
+    "response": {
+      "latitude": 43.27,
+      "longitude": -5.0,
+      "generationtime_ms": 0.5741119384765625,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 1216.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T18:00",
+        "interval": 900,
+        "temperature_2m": 9.8,
+        "weather_code": 3,
+        "cloud_cover": 100,
+        "is_day": 1,
+        "precipitation": 0.0,
+        "wind_speed_10m": 9.7
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T08:17"
+        ],
+        "sunset": [
+          "2026-10-01T20:01"
+        ]
+      }
+    },
+    "temperature_2m": 9.8,
+    "weather_code": 3,
+    "cloud_cover": 100,
+    "precipitation": 0.0,
+    "wind_speed_10m": 9.7,
+    "is_day": 1,
+    "sunrise": "08:17",
+    "sunset": "20:01"
   },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T01:30+02:00, valid 2026-09-24T01:30+02:00 Europe/Madrid — not a verified on-site observation.",
+  "weather": "Model data from Open-Meteo, retrieved 2026-10-01T18:02:55.039607+02:00, valid 2026-10-01T18:00+02:00 Europe/Madrid — not a verified on-site observation.",
   "prompts": {
     "prompt-r1.txt": "Photorealistic artistic night interpretation of the Lagos de Covadonga in Asturias: the Enol lake reflecting moonlight with the silhouette of the Picos de Europa peaks above; dark meadows in the foreground; clear starry sky; no prominent people, no text, no logos; lake and peaks centered so they survive a center crop; clean uncluttered lower foreground."
   },

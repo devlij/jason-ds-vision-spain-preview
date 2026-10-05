@@ -97,17 +97,63 @@
     }
   },
   "conditions": {
-    "retrieved": "2026-09-24T01:27:03+02:00",
-    "valid": "2026-09-24T01:28:59+02:00",
+    "retrieved": "2026-10-01T17:58:30.003316+02:00",
+    "valid": "2026-10-01T17:45+02:00",
     "provider": "Open-Meteo",
     "api": "https://api.open-meteo.com/v1/forecast",
-    "is_day": null,
-    "temperature_2m": 18.9,
-    "weather_code": 0,
-    "cloud_cover": 0,
-    "wind_speed_10m": 6.7
+    "is_day": 1,
+    "temperature_2m": 27.1,
+    "weather_code": 3,
+    "cloud_cover": 100,
+    "wind_speed_10m": 4.8,
+    "response": {
+      "latitude": 37.0625,
+      "longitude": -2.375,
+      "generationtime_ms": 0.5991458892822266,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 401.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T17:45",
+        "interval": 900,
+        "temperature_2m": 27.1,
+        "weather_code": 3,
+        "cloud_cover": 100,
+        "is_day": 1,
+        "precipitation": 0.0,
+        "wind_speed_10m": 4.8
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T08:04"
+        ],
+        "sunset": [
+          "2026-10-01T19:52"
+        ]
+      }
+    },
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=37.0499&longitude=-2.3908&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1"
   },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T01:27:03+02:00, valid 2026-09-24T01:28:59+02:00 Europe/Madrid — not a verified on-site observation.",
+  "weather": "Model data from Open-Meteo, retrieved 2026-10-01T17:58:30.003316+02:00, valid 2026-10-01T17:45+02:00 Europe/Madrid — not a verified on-site observation.",
   "prompts": {
     "prompt-r1.txt": "Photorealistic original artistic interpretation (not a photograph) of the Tabernas Desert, Almería, Spain, at night. Tourist viewpoint: the desert viewpoint near the castle ruins, looking across the badlands to the Sierra de Alhamilla. ANCHORS: rugged canyon ridges and badlands stretching in the center; the Sierra de Alhamilla silhouetted on the horizon; a star-filled desert sky. LIGHTING: moonlight and starlight only over the desert — no artificial lighting, no invented lights. Photorealistic, night desert landscape, no people, no watermark."
   },

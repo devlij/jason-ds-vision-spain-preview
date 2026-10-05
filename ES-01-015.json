@@ -14,7 +14,7 @@
     "Santa Clara Island in the bay mouth",
     "crescent beach and Monte Igeldo west headland"
   ],
-  "weather": "Open-Meteo model data, retrieved 2026-09-23T20:31:21.022950+02:00, valid 2026-09-23T20:30 Europe/Madrid — not a verified on-site observation. 22.1°C, WMO 3, 98% cloud, 0.0 mm precipitation, 2.7 km/h wind. Sunrise 07:56, sunset 20:03. Approximate solar elevation -5.55°, azimuth 275.47°.",
+  "weather": "Open-Meteo model data, retrieved 2026-10-01T17:57:46.028749+02:00, valid 2026-10-01T17:45+02:00 Europe/Madrid — not a verified on-site observation. 19.0°C, WMO 3, 100% cloud, 0.0 mm precipitation, 4.5 km/h wind. Sunrise 08:05, sunset 19:49. Approximate solar elevation -5.55°, azimuth 275.47°.",
   "status": "Approved · Cosmo QC 5/5 · Dusk",
   "approval_state": "approved",
   "approval_basis": "Five-gate pass: Gate 1 — La Concha bay curve with Santa Clara island center and Monte Igueldo right from the Alderdi Eder promenade, overcast dusk consistent with the 20:31 scenario and 98% model cloud; Gate 2 — both masters at exact dimensions with SHA-256 matching the packet, exact signature/caption/timestamp/disclosure; Gate 3 — packet documents AI generation, light glow disclosed as unverified; Gate 4 — documentation only: public promenade, small unidentifiable figures, no blocking logos, chain not certified; Gate 5 — no open blockers.",
@@ -75,13 +75,13 @@
     }
   ],
   "conditions_record": {
-    "retrieved_utc": "2026-09-23T18:31:21.022950+00:00",
-    "retrieved_local": "2026-09-23T20:31:21.022950+02:00",
+    "retrieved_utc": "2026-10-01T15:57:46.028749+00:00",
+    "retrieved_local": "2026-10-01T17:57:46.028749+02:00",
     "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=43.3221&longitude=-1.9857&current=temperature_2m%2Cweather_code%2Ccloud_cover%2Cis_day%2Cprecipitation%2Cwind_speed_10m&daily=sunrise%2Csunset&timezone=Europe%2FMadrid&forecast_days=1",
     "response": {
       "latitude": 43.32,
       "longitude": -1.9800005,
-      "generationtime_ms": 0.9601116180419922,
+      "generationtime_ms": 0.7339715957641602,
       "utc_offset_seconds": 7200,
       "timezone": "Europe/Madrid",
       "timezone_abbreviation": "GMT+2",
@@ -97,14 +97,14 @@
         "wind_speed_10m": "km/h"
       },
       "current": {
-        "time": "2026-09-23T20:30",
+        "time": "2026-10-01T17:45",
         "interval": 900,
-        "temperature_2m": 22.1,
+        "temperature_2m": 19.0,
         "weather_code": 3,
-        "cloud_cover": 98,
-        "is_day": 0,
+        "cloud_cover": 100,
+        "is_day": 1,
         "precipitation": 0.0,
-        "wind_speed_10m": 2.7
+        "wind_speed_10m": 4.5
       },
       "daily_units": {
         "time": "iso8601",
@@ -113,13 +113,13 @@
       },
       "daily": {
         "time": [
-          "2026-09-23"
+          "2026-10-01"
         ],
         "sunrise": [
-          "2026-09-23T07:56"
+          "2026-10-01T08:05"
         ],
         "sunset": [
-          "2026-09-23T20:03"
+          "2026-10-01T19:49"
         ]
       }
     },
@@ -139,11 +139,19 @@
       "azimuth_deg": 275.47
     },
     "lighting_stage": "DUSK twilight",
-    "sunrise_local": "2026-09-23T07:56:00+02:00",
-    "sunset_local": "2026-09-23T20:03:00+02:00",
+    "sunrise_local": "2026-10-01T08:05:00+02:00",
+    "sunset_local": "2026-10-01T19:49:00+02:00",
     "twilight_window_minutes": 45,
     "generation_allowed": true,
-    "disclaimer": "Model data from Open-Meteo; not a verified on-site observation."
+    "disclaimer": "Model data from Open-Meteo; not a verified on-site observation.",
+    "temperature_2m": 19.0,
+    "weather_code": 3,
+    "cloud_cover": 100,
+    "precipitation": 0.0,
+    "wind_speed_10m": 4.5,
+    "is_day": 1,
+    "sunrise": "08:05",
+    "sunset": "19:49"
   },
   "review_packet": {
     "status": "Candidate · Awaiting Cosmo QC",

@@ -97,17 +97,63 @@
     }
   },
   "conditions": {
-    "retrieved": "2026-09-24T01:20:58+02:00",
-    "valid": "2026-09-24T01:22:26+02:00",
+    "retrieved": "2026-10-01T17:58:19.036748+02:00",
+    "valid": "2026-10-01T17:45+02:00",
     "provider": "Open-Meteo",
     "api": "https://api.open-meteo.com/v1/forecast",
-    "is_day": null,
-    "temperature_2m": 24.2,
-    "weather_code": 0,
-    "cloud_cover": 0,
-    "wind_speed_10m": 20.5
+    "is_day": 1,
+    "temperature_2m": 23.3,
+    "weather_code": 2,
+    "cloud_cover": 62,
+    "wind_speed_10m": 14.7,
+    "response": {
+      "latitude": 36.5,
+      "longitude": -6.3125,
+      "generationtime_ms": 0.11396408081054688,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 25.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T17:45",
+        "interval": 900,
+        "temperature_2m": 23.3,
+        "weather_code": 2,
+        "cloud_cover": 62,
+        "is_day": 1,
+        "precipitation": 0.0,
+        "wind_speed_10m": 14.7
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T08:20"
+        ],
+        "sunset": [
+          "2026-10-01T20:08"
+        ]
+      }
+    },
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=36.5267&longitude=-6.2891&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1"
   },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T01:20:58+02:00, valid 2026-09-24T01:22:26+02:00 Europe/Madrid — not a verified on-site observation.",
+  "weather": "Model data from Open-Meteo, retrieved 2026-10-01T17:58:19.036748+02:00, valid 2026-10-01T17:45+02:00 Europe/Madrid — not a verified on-site observation.",
   "prompts": {
     "prompt-r1.txt": "Photorealistic original artistic interpretation (not a photograph) of Cádiz Cathedral in Spain at night. Tourist viewpoint: the edge of Plaza de la Catedral, looking up at the baroque façade with the golden-yellow tiled dome rising above. ANCHORS: golden-yellow tiled dome centered, glowing warm above the skyline; baroque twin-towered façade with tall bell towers; plaza paving and palm silhouettes in foreground. LIGHTING: warm spill from plaza street lamps across the lower façade, the golden dome catching the city glow, deep blue-black clear sky. Moonless, few stars. No floodlighting on the full façade beyond street-level lamps. Photorealistic, night cityscape, no people, no watermark."
   },

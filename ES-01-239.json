@@ -103,17 +103,63 @@
     }
   },
   "conditions": {
-    "retrieved": "2026-09-24T02:29:06+02:00",
-    "valid": "2026-09-24T02:31:18+02:00",
+    "retrieved": "2026-10-01T17:58:45.023801+02:00",
+    "valid": "2026-10-01T17:45+02:00",
     "provider": "Open-Meteo",
     "api": "https://api.open-meteo.com/v1/forecast",
-    "is_day": 0,
-    "temperature_2m": 23.5,
-    "weather_code": 0,
-    "cloud_cover": 0,
-    "wind_speed_10m": 24.3
+    "is_day": 1,
+    "temperature_2m": 26.2,
+    "weather_code": 2,
+    "cloud_cover": 70,
+    "wind_speed_10m": 5.8,
+    "response": {
+      "latitude": 36.0625,
+      "longitude": -5.625,
+      "generationtime_ms": 0.1583099365234375,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 18.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T17:45",
+        "interval": 900,
+        "temperature_2m": 26.2,
+        "weather_code": 2,
+        "cloud_cover": 70,
+        "is_day": 1,
+        "precipitation": 0.0,
+        "wind_speed_10m": 5.8
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T08:17"
+        ],
+        "sunset": [
+          "2026-10-01T20:06"
+        ]
+      }
+    },
+    "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=36.0139&longitude=-5.607&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1"
   },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T02:29:06+02:00, valid 2026-09-24T02:31:18+02:00 Europe/Madrid — not a verified on-site observation.",
+  "weather": "Model data from Open-Meteo, retrieved 2026-10-01T17:58:45.023801+02:00, valid 2026-10-01T17:45+02:00 Europe/Madrid — not a verified on-site observation.",
   "prompts": {
     "prompt-r1.txt": "Photorealistic original artistic interpretation (not a photograph) of the Isla de Tarifa, Tarifa, Cádiz, Spain, at night. Tourist viewpoint: the causeway, facing the lighthouse and castle across the strait. Frame: the lighthouse and the walls of the Castillo de Santa Catalina on the island, centered; the Strait of Gibraltar with Tangier's lights on the far shore; the kite-swept beaches of Los Lances curving away. Night light: restrained lighthouse beam and moonlight, sea reflections, Tangier's lights across the strait, starry sky, 24 degrees C, wind. Main subject centered to survive a 4:5 center crop. No identifiable people, no legible logos, no text, lettering or signs anywhere in the image. Keep the lower third clean and uncluttered."
   },

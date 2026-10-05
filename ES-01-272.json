@@ -105,16 +105,61 @@
   "conditions": {
     "provider": "Open-Meteo",
     "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=39.3323&longitude=-0.3268&current=temperature_2m%2Cweather_code%2Ccloud_cover%2Cis_day%2Cprecipitation%2Cwind_speed_10m&daily=sunrise%2Csunset&timezone=Europe%2FMadrid&forecast_days=1",
-    "retrieved_local": "2026-09-24T01:30+02:00",
-    "valid_local": "2026-09-24T01:15",
+    "retrieved_local": "2026-10-01T18:01:32.043671+02:00",
+    "valid_local": "2026-10-01T18:00",
     "temperature_c": 22.0,
-    "weather_code": 2,
-    "weather_word": "partly cloudy",
-    "cloud_cover_pct": 62,
-    "is_day": 0,
-    "wind_kmh": 4.4
+    "weather_code": 95,
+    "weather_word": "thunderstorm",
+    "cloud_cover_pct": 100,
+    "is_day": 1,
+    "wind_kmh": 17.1,
+    "response": {
+      "latitude": 39.3125,
+      "longitude": -0.3125,
+      "generationtime_ms": 0.09965896606445312,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 0.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T18:00",
+        "interval": 900,
+        "temperature_2m": 22.0,
+        "weather_code": 95,
+        "cloud_cover": 100,
+        "is_day": 1,
+        "precipitation": 0.5,
+        "wind_speed_10m": 17.1
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T07:57"
+        ],
+        "sunset": [
+          "2026-10-01T19:43"
+        ]
+      }
+    }
   },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T01:12:51+02:00, valid 2026-09-24T01:15 Europe/Madrid — not a verified on-site observation.",
+  "weather": "Model data from Open-Meteo, retrieved 2026-10-01T18:01:32.043671+02:00, valid 2026-10-01T18:00 Europe/Madrid — not a verified on-site observation.",
   "prompts": {
     "prompt-r1.txt": "Photorealistic artistic interpretation of the Albufera lagoon near Valencia at night, viewed from the Embarcadero de Catarroja wooden jetty. The dark still lagoon stretches centered to the horizon under a partly cloudy starry sky; the wooden posts of the jetty and a traditional albuferenc boat silhouette stand in the near foreground; reed beds and the faint lights of the far shore lie beyond. Thin moonlight silvering the still water."
   },

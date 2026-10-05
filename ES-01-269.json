@@ -105,16 +105,61 @@
   "conditions": {
     "provider": "Open-Meteo",
     "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=39.4737&longitude=-0.3787&current=temperature_2m%2Cweather_code%2Ccloud_cover%2Cis_day%2Cprecipitation%2Cwind_speed_10m&daily=sunrise%2Csunset&timezone=Europe%2FMadrid&forecast_days=1",
-    "retrieved_local": "2026-09-24T01:27+02:00",
-    "valid_local": "2026-09-24T01:15",
-    "temperature_c": 22.0,
-    "weather_code": 2,
-    "weather_word": "partly cloudy",
-    "cloud_cover_pct": 54,
-    "is_day": 0,
-    "wind_kmh": 4.1
+    "retrieved_local": "2026-10-01T18:01:29.528046+02:00",
+    "valid_local": "2026-10-01T18:00",
+    "temperature_c": 21.3,
+    "weather_code": 95,
+    "weather_word": "thunderstorm",
+    "cloud_cover_pct": 100,
+    "is_day": 1,
+    "wind_kmh": 11.1,
+    "response": {
+      "latitude": 39.5,
+      "longitude": -0.375,
+      "generationtime_ms": 0.09453296661376953,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 21.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T18:00",
+        "interval": 900,
+        "temperature_2m": 21.3,
+        "weather_code": 95,
+        "cloud_cover": 100,
+        "is_day": 1,
+        "precipitation": 1.7,
+        "wind_speed_10m": 11.1
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T07:57"
+        ],
+        "sunset": [
+          "2026-10-01T19:44"
+        ]
+      }
+    }
   },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T01:12:51+02:00, valid 2026-09-24T01:15 Europe/Madrid — not a verified on-site observation.",
+  "weather": "Model data from Open-Meteo, retrieved 2026-10-01T18:01:29.528046+02:00, valid 2026-10-01T18:00 Europe/Madrid — not a verified on-site observation.",
   "prompts": {
     "prompt-r1.txt": "Photorealistic artistic interpretation of the Llotja de la Seda (Silk Exchange) in Valencia at night, viewed from the Plaza del Mercado. The late-Gothic facade with its crenellated tower and ornate windows rises centered; warm lamps wash the golden stone under a partly cloudy starry sky; the plaza's old market hall facade glows across the square."
   },

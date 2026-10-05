@@ -105,11 +105,64 @@
   "conditions": {
     "provider": "Open-Meteo",
     "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=28.4167&longitude=-16.5480&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
-    "retrieved": "2026-09-24T01:15+02:00",
-    "valid": "2026-09-24T01:15+02:00 Europe/Madrid",
-    "timezone": "Europe/Madrid"
+    "retrieved": "2026-10-01T18:02:39.011870+02:00",
+    "valid": "2026-10-01T18:00+02:00 Europe/Madrid",
+    "timezone": "Europe/Madrid",
+    "response": {
+      "latitude": 28.435852,
+      "longitude": -16.465912,
+      "generationtime_ms": 0.16224384307861328,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 18.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T18:00",
+        "interval": 900,
+        "temperature_2m": 27.0,
+        "weather_code": 51,
+        "cloud_cover": 100,
+        "is_day": 1,
+        "precipitation": 0.1,
+        "wind_speed_10m": 11.5
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T08:58"
+        ],
+        "sunset": [
+          "2026-10-01T20:51"
+        ]
+      }
+    },
+    "temperature_2m": 27.0,
+    "weather_code": 51,
+    "cloud_cover": 100,
+    "precipitation": 0.1,
+    "wind_speed_10m": 11.5,
+    "is_day": 1,
+    "sunrise": "08:58",
+    "sunset": "20:51"
   },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T01:15+02:00, valid 2026-09-24T01:15+02:00 Europe/Madrid — not a verified on-site observation.",
+  "weather": "Model data from Open-Meteo, retrieved 2026-10-01T18:02:39.011870+02:00, valid 2026-10-01T18:00+02:00 Europe/Madrid — not a verified on-site observation.",
   "prompts": {
     "prompt-r1.txt": "Photorealistic artistic night interpretation of the Puerto de la Cruz waterfront in Tenerife, Canary Islands: the promenade lamps glowing along the waterfront; the town's warm lights climbing the dark hillside above; the dark sea with a faint moonlight path on the water; scattered clouds drifting across a partly starry sky; no prominent people, no text, no logos; waterfront centered so it survives a center crop; clean uncluttered lower area."
   },

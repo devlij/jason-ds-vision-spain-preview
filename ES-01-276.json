@@ -105,16 +105,61 @@
   "conditions": {
     "provider": "Open-Meteo",
     "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=38.6&longitude=-0.048&current=temperature_2m%2Cweather_code%2Ccloud_cover%2Cis_day%2Cprecipitation%2Cwind_speed_10m&daily=sunrise%2Csunset&timezone=Europe%2FMadrid&forecast_days=1",
-    "retrieved_local": "2026-09-24T01:33+02:00",
-    "valid_local": "2026-09-24T01:30",
-    "temperature_c": 21.3,
-    "weather_code": 1,
-    "weather_word": "mainly clear",
-    "cloud_cover_pct": 16,
-    "is_day": 0,
-    "wind_kmh": 6.1
+    "retrieved_local": "2026-10-01T18:01:36.021375+02:00",
+    "valid_local": "2026-10-01T18:00",
+    "temperature_c": 28.0,
+    "weather_code": 3,
+    "weather_word": "overcast",
+    "cloud_cover_pct": 82,
+    "is_day": 1,
+    "wind_kmh": 15.1,
+    "response": {
+      "latitude": 38.625,
+      "longitude": -0.0625,
+      "generationtime_ms": 0.07545948028564453,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 17.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T18:00",
+        "interval": 900,
+        "temperature_2m": 28.0,
+        "weather_code": 3,
+        "cloud_cover": 82,
+        "is_day": 1,
+        "precipitation": 0.0,
+        "wind_speed_10m": 15.1
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T07:55"
+        ],
+        "sunset": [
+          "2026-10-01T19:43"
+        ]
+      }
+    }
   },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T01:12:51+02:00, valid 2026-09-24T01:30 Europe/Madrid — not a verified on-site observation.",
+  "weather": "Model data from Open-Meteo, retrieved 2026-10-01T18:01:36.021375+02:00, valid 2026-10-01T18:00 Europe/Madrid — not a verified on-site observation.",
   "prompts": {
     "prompt-r1.txt": "Photorealistic artistic interpretation of the old town of Altea on the Costa Blanca at night, viewed from the waterfront promenade. The whitewashed old town climbs centered to the blue-domed church of Nuestra Señora del Consuelo, its tiled dome catching warm lamplight; white houses glow softly; the dark sea lies in the foreground under a mainly clear starry sky."
   },

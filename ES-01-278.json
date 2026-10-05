@@ -105,16 +105,61 @@
   "conditions": {
     "provider": "Open-Meteo",
     "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=42.0258&longitude=2.4663&current=temperature_2m%2Cweather_code%2Ccloud_cover%2Cis_day%2Cprecipitation%2Cwind_speed_10m&daily=sunrise%2Csunset&timezone=Europe%2FMadrid&forecast_days=1",
-    "retrieved_local": "2026-09-24T01:35+02:00",
-    "valid_local": "2026-09-24T01:30",
-    "temperature_c": 14.6,
-    "weather_code": 0,
-    "weather_word": "clear sky",
-    "cloud_cover_pct": 1,
-    "is_day": 0,
-    "wind_kmh": 2.9
+    "retrieved_local": "2026-10-01T18:01:38.004277+02:00",
+    "valid_local": "2026-10-01T18:00",
+    "temperature_c": 18.9,
+    "weather_code": 3,
+    "weather_word": "overcast",
+    "cloud_cover_pct": 100,
+    "is_day": 1,
+    "wind_kmh": 7.8,
+    "response": {
+      "latitude": 42.0,
+      "longitude": 2.4375,
+      "generationtime_ms": 0.8108615875244141,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 844.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T18:00",
+        "interval": 900,
+        "temperature_2m": 18.9,
+        "weather_code": 3,
+        "cloud_cover": 100,
+        "is_day": 1,
+        "precipitation": 0.0,
+        "wind_speed_10m": 7.8
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T07:47"
+        ],
+        "sunset": [
+          "2026-10-01T19:32"
+        ]
+      }
+    }
   },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T01:12:51+02:00, valid 2026-09-24T01:30 Europe/Madrid — not a verified on-site observation.",
+  "weather": "Model data from Open-Meteo, retrieved 2026-10-01T18:01:38.004277+02:00, valid 2026-10-01T18:00 Europe/Madrid — not a verified on-site observation.",
   "prompts": {
     "prompt-r1.txt": "Photorealistic artistic interpretation of the stone village of Rupit i Pruit in Catalonia at night, viewed from the hanging footbridge. The medieval stone houses with slate roofs crowd centered around the baroque church of Sant Miquel, its bell tower rising above the rooftops; the stone houses glow with warm window light under a clear starry sky; the dark wooded gorge falls away on both sides."
   },

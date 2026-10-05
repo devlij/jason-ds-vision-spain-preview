@@ -105,11 +105,64 @@
   "conditions": {
     "provider": "Open-Meteo",
     "provider_url": "https://api.open-meteo.com/v1/forecast?latitude=28.4876&longitude=-16.3139&current=temperature_2m,weather_code,cloud_cover,is_day,precipitation,wind_speed_10m&daily=sunrise,sunset&timezone=Europe%2FMadrid&forecast_days=1",
-    "retrieved": "2026-09-24T01:15+02:00",
-    "valid": "2026-09-24T01:15+02:00 Europe/Madrid",
-    "timezone": "Europe/Madrid"
+    "retrieved": "2026-10-01T18:02:33.015316+02:00",
+    "valid": "2026-10-01T18:00+02:00 Europe/Madrid",
+    "timezone": "Europe/Madrid",
+    "response": {
+      "latitude": 28.435852,
+      "longitude": -16.363647,
+      "generationtime_ms": 0.11658668518066406,
+      "utc_offset_seconds": 7200,
+      "timezone": "Europe/Madrid",
+      "timezone_abbreviation": "GMT+2",
+      "elevation": 555.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "°C",
+        "weather_code": "wmo code",
+        "cloud_cover": "%",
+        "is_day": "",
+        "precipitation": "mm",
+        "wind_speed_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-01T18:00",
+        "interval": 900,
+        "temperature_2m": 21.9,
+        "weather_code": 53,
+        "cloud_cover": 100,
+        "is_day": 1,
+        "precipitation": 0.2,
+        "wind_speed_10m": 9.6
+      },
+      "daily_units": {
+        "time": "iso8601",
+        "sunrise": "iso8601",
+        "sunset": "iso8601"
+      },
+      "daily": {
+        "time": [
+          "2026-10-01"
+        ],
+        "sunrise": [
+          "2026-10-01T08:58"
+        ],
+        "sunset": [
+          "2026-10-01T20:51"
+        ]
+      }
+    },
+    "temperature_2m": 21.9,
+    "weather_code": 53,
+    "cloud_cover": 100,
+    "precipitation": 0.2,
+    "wind_speed_10m": 9.6,
+    "is_day": 1,
+    "sunrise": "08:58",
+    "sunset": "20:51"
   },
-  "weather": "Model data from Open-Meteo, retrieved 2026-09-24T01:15+02:00, valid 2026-09-24T01:15+02:00 Europe/Madrid — not a verified on-site observation.",
+  "weather": "Model data from Open-Meteo, retrieved 2026-10-01T18:02:33.015316+02:00, valid 2026-10-01T18:00+02:00 Europe/Madrid — not a verified on-site observation.",
   "prompts": {
     "prompt-r1.txt": "Photorealistic artistic night interpretation of a colonial street in San Cristobal de La Laguna, Tenerife: pastel colonial facades with dark wooden balconies lining both sides of a cobbled street; warm street lamps receding into the distance; the silhouette of the cathedral tower at the far end of the street; wet-look cobblestones reflecting the lamplight; clear night sky above the rooftops; no prominent people, no cars, no text, no logos; street centered so it survives a center crop; clean uncluttered lower area."
   },
