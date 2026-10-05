@@ -31,6 +31,9 @@
   "description": "You stand on the Villajoyosa seafront at night, the famous colored houses glowing in their bright façades along the dark beach. The frame runs along the waterfront's painted fronts — pinks, blues, and yellows under the lamplight — with the night sea to the right. The old fishing town wears its colors even after dark.",
   "file_16x9": "es-01-150-r1-16x9.png",
   "file_4x5": "es-01-150-r1-4x5.png",
+  "file_16x9_postcard": "es-01-150-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-150-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-150-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,

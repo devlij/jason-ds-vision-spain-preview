@@ -31,6 +31,9 @@
   "description": "Standing on the rocks of Cabo de Palos at night, you face the lighthouse sweeping its beam over the dark Mediterranean. The frame centers on the lit tower with black water all around and the faint far lights of La Manga to one side. The cape's light keeps its slow rhythm through the small hours.",
   "file_16x9": "es-01-153-r1-16x9.png",
   "file_4x5": "es-01-153-r1-4x5.png",
+  "file_16x9_postcard": "es-01-153-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-153-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-153-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,

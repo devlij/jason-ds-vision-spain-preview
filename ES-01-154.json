@@ -31,6 +31,9 @@
   "description": "At night the Calblanque coves lie dark and undisturbed, black sand and clear water under a starlit sky. From the shore path you look across the frame's curve of cove beaches, the sea faintly silvered and the protected dunes just shapes in the dark. The wild coast sleeps with nobody on it.",
   "file_16x9": "es-01-154-r2-16x9.png",
   "file_4x5": "es-01-154-r2-4x5.png",
+  "file_16x9_postcard": "es-01-154-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-154-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-154-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,

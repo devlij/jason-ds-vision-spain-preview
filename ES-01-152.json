@@ -31,6 +31,9 @@
   "description": "At night, Cehegín's old town glows on its hill, Baroque church towers lit above the clustered rooftops. From below you take in the hilltop across the frame, the town's lights rising out of the dark northwest Murcia countryside. The old town keeps its high seat through the quiet hours.",
   "file_16x9": "es-01-152-r2-16x9.png",
   "file_4x5": "es-01-152-r2-4x5.png",
+  "file_16x9_postcard": "es-01-152-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-152-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-152-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
