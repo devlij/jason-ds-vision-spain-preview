@@ -31,6 +31,9 @@
   "description": "In Úbeda's Plaza Vázquez de Molina at night, the Renaissance palaces and the plateresque chapel glow under the lamps. The Sacra Capilla's carved façade is floodlit, its stonework brilliant against the dark sky. The plaza lies empty and noble, one of Andalusia's finest squares holding court in the night.",
   "file_16x9": "es-01-236-r1-16x9.png",
   "file_4x5": "es-01-236-r1-4x5.png",
+  "file_16x9_postcard": "es-01-236-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-236-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-236-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,

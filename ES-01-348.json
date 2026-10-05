@@ -31,6 +31,9 @@
   "description": "On the pilgrim approach to Roncesvalles at night, the collegiate church stands in dark silhouette under moonlight and stars. Its Gothic mass blocks the sky where the Camino passes, quiet after the day's pilgrims. The mountain night closes around it, the church waiting for the first walkers of dawn.",
   "file_16x9": "es-01-348-r1-16x9.png",
   "file_4x5": "es-01-348-r1-4x5.png",
+  "file_16x9_postcard": "es-01-348-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-348-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-348-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
