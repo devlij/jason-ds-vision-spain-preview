@@ -23,6 +23,8 @@ import re
 import sys
 from pathlib import Path
 
+from night_toggle import load_night_masters
+
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data.json"
 INDEX = ROOT / "index.html"
@@ -166,10 +168,13 @@ def check() -> dict:
         ):
             errors.append(f"{entry_id} interim daylight plate is the card primary")
 
+    night_masters = load_night_masters(manifests)
     for card in cards:
-        if card["night_toggle"]:
+        entry_id = card["entry_id"]
+        want_night = entry_id in night_masters
+        if card["night_toggle"] != want_night:
             errors.append(
-                f"{card['entry_id']} has a nighttime toggle without a genuine-daylight card"
+                f"{entry_id} night button does not match a genuine night master"
             )
 
     for scene in manifest_genuine:
@@ -181,8 +186,6 @@ def check() -> dict:
             continue
         if card["src"] != day:
             errors.append(f"{entry_id} genuine daylight is not the card primary")
-        if not card["night_toggle"]:
-            errors.append(f"{entry_id} genuine daylight card has no nighttime toggle")
 
     if errors:
         raise SystemExit("\n".join(errors))

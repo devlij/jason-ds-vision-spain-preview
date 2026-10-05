@@ -54,3 +54,5 @@ a.download:hover{border-color:var(--accent)}.flag-band{height:6px;background:lin
 button.narrate{display:inline-block;background:var(--panel);color:var(--ink);border:1px solid var(--line);border-radius:8px;padding:8px 14px;font-size:13px;cursor:pointer;font:inherit}
 button.narrate:hover{border-color:var(--accent)}
 button.narrate.playing,.lb-narrate.playing{background:#F1BF00;border-color:#F1BF00;color:#231a08}
+
+.night-tab{display:inline-block;background:#243049;color:var(--ink);border-radius:8px;padding:.4rem .7rem;font-size:.85rem;border:1px solid var(--line);cursor:pointer}.night-tab:hover{border-color:var(--accent)}.night-tab.is-active{background:#1b2744;border-color:#9eb6e0;color:#e7eefc;font-weight:700}
