@@ -169,13 +169,19 @@
         "path": "es-01-044-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
-        "sha256": "b8f37f880f89f3b931bffa72b8008ce05ce37466c79daf92a44a60790424dc7f"
+        "sha256": "4bdd68e7e21f27c3a9ac38fe6970c1620d7fde3a1ce4ecd100a57c5998bb0a38"
       },
       "4x5": {
         "path": "es-01-044-daylight-4x5.png",
         "width": 864,
         "height": 1270,
-        "sha256": "a7456823275c9b65b5d97c018bfa62bd4fabcd1b00ea912a451cfae2b0b62def"
+        "sha256": "99e6e1855f032ecd27e881de62bd54aeb9231996f888b5060f6b8bffba6569e5"
+      },
+      "9x16": {
+        "path": "es-01-044-daylight-9x16.png",
+        "width": 1080,
+        "height": 2110,
+        "sha256": "f3ce963fbc0b8a38c52f4613e6b7f65199f1780480c7de3b00f71d7c5f55632d"
       }
     },
     "on_image_text": [
