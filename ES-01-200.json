@@ -31,6 +31,9 @@
   "description": "At the foot of the Alcazaba, look over the Roman Theatre's ruins at night. The semicircular tiers of weathered stone curve across the frame, floodlit warm against the dark, with old-town houses rising behind to one side and the Alcazaba walls crowning the hill above. It is a whole history stacked in one view.",
   "file_16x9": "es-01-200-r1-16x9.png",
   "file_4x5": "es-01-200-r1-4x5.png",
+  "file_16x9_postcard": "es-01-200-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-200-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-200-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,

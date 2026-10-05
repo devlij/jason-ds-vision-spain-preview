@@ -31,6 +31,9 @@
   "description": "In Hervás's old Jewish quarter at night, the dark timbered lanes glow in patches of lamplight. You stand among the narrow judería streets, the frame holding the old chestnut-wood balconies and stone walls lit warm against the dark. The medieval quarter keeps its quiet.",
   "file_16x9": "es-01-197-r1-16x9.png",
   "file_4x5": "es-01-197-r1-4x5.png",
+  "file_16x9_postcard": "es-01-197-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-197-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-197-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,

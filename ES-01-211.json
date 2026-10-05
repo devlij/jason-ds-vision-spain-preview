@@ -25,6 +25,9 @@
   "description": "Step into the Alcázar de Jerez courtyard at night. The Almohad towers rise at the edges of the frame, their crenellated tops floodlit, with the courtyard's arches and palm trees glowing warm at center. The old mosque's octagonal tower anchors the view — nearly a thousand years of Jerez in one quiet courtyard.",
   "file_16x9": "es-01-211-r1-16x9.png",
   "file_4x5": "es-01-211-r1-4x5.png",
+  "file_16x9_postcard": "es-01-211-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-211-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-211-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
