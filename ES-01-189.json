@@ -31,6 +31,9 @@
   "description": "From the Guadiana at night, Medellín's castle hill glows over the dark river plain. The frame centers on the floodlit fortress with the river running black below and the town's lights at its foot. The old Roman town keeps its hill through the night.",
   "file_16x9": "es-01-189-r1-16x9.png",
   "file_4x5": "es-01-189-r1-4x5.png",
+  "file_16x9_postcard": "es-01-189-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-189-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-189-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,

@@ -31,6 +31,9 @@
   "description": "At night, Níjar's white houses glow softly on their hill in the dark Cabo de Gata country. You look up at the old town scattered across the frame, its church tower lit above the whitewashed lanes. The artisan town sleeps under the Andalusian dark.",
   "file_16x9": "es-01-183-r1-16x9.png",
   "file_4x5": "es-01-183-r1-4x5.png",
+  "file_16x9_postcard": "es-01-183-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-183-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-183-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
