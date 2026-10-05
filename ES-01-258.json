@@ -31,6 +31,9 @@
   "description": "Walk the shore of Lake Banyoles at night. The still lake spreads across the frame, the old fishing huts — the pesqueres — standing dark at the water's edge, with stars reflected in the black water. The town sleeps behind you; out here there is only the lake and the night.",
   "file_16x9": "es-01-258-r1-16x9.png",
   "file_4x5": "es-01-258-r1-4x5.png",
+  "file_16x9_postcard": "es-01-258-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-258-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-258-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,

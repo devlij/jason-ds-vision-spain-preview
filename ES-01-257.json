@@ -31,6 +31,9 @@
   "description": "Stand among the Ebro Delta's lagoons at night. Still water stretches across the frame, reedbeds rustling dark at the edges, with the starry sky reflected in every channel. By day this is bird country — flamingos, herons — but at night it belongs to the water and the sky.",
   "file_16x9": "es-01-257-r1-16x9.png",
   "file_4x5": "es-01-257-r1-4x5.png",
+  "file_16x9_postcard": "es-01-257-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-257-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-257-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,

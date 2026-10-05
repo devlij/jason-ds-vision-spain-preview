@@ -31,6 +31,9 @@
   "description": "Seen from the town below, the twin castle commands the frame from its long ridge, ramparts and towers floodlit against the night while the illuminated old town climbs the hillside beneath it. Warm streetlight glows in the winding streets below, tracing the dense old quarter up toward the fortress. The two castles' walls run along the ridge line, a commanding presence over Xàtiva that has watched this valley for centuries.",
   "file_16x9": "es-01-274-r1-16x9.png",
   "file_4x5": "es-01-274-r1-4x5.png",
+  "file_16x9_postcard": "es-01-274-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-274-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-274-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,

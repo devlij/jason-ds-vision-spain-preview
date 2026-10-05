@@ -31,6 +31,9 @@
   "description": "From the harbor at night, look up at Eivissa's Dalt Vila. The fortified old town glows above the dark water, its Renaissance walls and the cathedral silhouette tracing the hilltop across the frame, with the marina's lights twinkling in the foreground. Ibiza's quiet, ancient face — older than the parties by two thousand years.",
   "file_16x9": "es-01-264-r1-16x9.png",
   "file_4x5": "es-01-264-r1-4x5.png",
+  "file_16x9_postcard": "es-01-264-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-264-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-264-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
