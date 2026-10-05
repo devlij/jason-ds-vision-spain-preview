@@ -31,6 +31,9 @@
   "description": "Stand at the mouth of the Sa Calobra gorge at night. The great cliffs rise left and right across the frame, the narrow gorge cutting between them, with the starry sky arched above the black water. By day the tour boats crowd in — at night the torrent's old mouth belongs to the dark.",
   "file_16x9": "es-01-261-r1-16x9.png",
   "file_4x5": "es-01-261-r1-4x5.png",
+  "file_16x9_postcard": "es-01-261-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-261-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-261-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,

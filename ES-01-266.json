@@ -31,6 +31,9 @@
   "description": "Stand on the Ses Illetes spit at night. The white-sand bar runs across the frame between two dark seas, the sand glowing faintly under the stars, with the open Mediterranean on both sides and Formentera's low hills behind. By day it is the Caribbean of the Med — at night it is all yours.",
   "file_16x9": "es-01-266-r1-16x9.png",
   "file_4x5": "es-01-266-r1-4x5.png",
+  "file_16x9_postcard": "es-01-266-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-266-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-266-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,

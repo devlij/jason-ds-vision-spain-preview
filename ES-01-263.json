@@ -31,6 +31,9 @@
   "description": "Stand above Cala Macarella at night. The white-sand cove curves below between pine-clad headlands, the dark sea breathing at its edge, with stars overhead and the cliffs falling away left and right. By day it is Menorca's famous beach — at night it is just moonlight and pines.",
   "file_16x9": "es-01-263-r1-16x9.png",
   "file_4x5": "es-01-263-r1-4x5.png",
+  "file_16x9_postcard": "es-01-263-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-263-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-263-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,

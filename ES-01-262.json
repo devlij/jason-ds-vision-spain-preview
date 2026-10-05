@@ -31,6 +31,9 @@
   "description": "Look up at Valldemossa at night, the stone village glowing under the Tramuntana. The lit houses and the charterhouse climb the hillside across the frame, the dark mountain wall rising behind them, with olive terraces falling away below. Chopin wintered here — the village still keeps his kind of quiet.",
   "file_16x9": "es-01-262-r1-16x9.png",
   "file_4x5": "es-01-262-r1-4x5.png",
+  "file_16x9_postcard": "es-01-262-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-262-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-262-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
