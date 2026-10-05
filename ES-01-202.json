@@ -31,6 +31,9 @@
   "description": "From the old town, look up at Málaga Cathedral's La Manquita tower at night. The unfinished tower rises at center frame, floodlit and honey-colored against the black sky, with the cathedral's roofline and the old town's rooftops spreading left and right below. The missing tower on the other side is the city's favorite story.",
   "file_16x9": "es-01-202-r1-16x9.png",
   "file_4x5": "es-01-202-r1-4x5.png",
+  "file_16x9_postcard": "es-01-202-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-202-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-202-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,

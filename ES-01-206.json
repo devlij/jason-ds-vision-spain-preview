@@ -31,6 +31,9 @@
   "description": "Stand before the Colomares Castle monument at night. The fairytale jumble of towers, arches, and pinnacles rises at center frame, floodlit against the dark pines, with carved prows and mosaic details catching the light at the edges. Built to tell the story of Columbus's voyage, it reads like a storybook come to life.",
   "file_16x9": "es-01-206-r1-16x9.png",
   "file_4x5": "es-01-206-r1-4x5.png",
+  "file_16x9_postcard": "es-01-206-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-206-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-206-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
