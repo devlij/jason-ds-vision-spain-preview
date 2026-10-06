@@ -1,0 +1,2535 @@
+{
+ "work_order": "WO-2026-10-06-015",
+ "scenes_requested": [
+  "es-01-101",
+  "es-01-111",
+  "es-01-120",
+  "es-01-127",
+  "es-01-128",
+  "es-01-133",
+  "es-01-134",
+  "es-01-135",
+  "es-01-136",
+  "es-01-137",
+  "es-01-138",
+  "es-01-140",
+  "es-01-141",
+  "es-01-142",
+  "es-01-143",
+  "es-01-144",
+  "es-01-145",
+  "es-01-146",
+  "es-01-147",
+  "es-01-148",
+  "es-01-151",
+  "es-01-155",
+  "es-01-161",
+  "es-01-220",
+  "es-01-224",
+  "es-01-225",
+  "es-01-226",
+  "es-01-227",
+  "es-01-240",
+  "es-01-241",
+  "es-01-245",
+  "es-01-251",
+  "es-01-252",
+  "es-01-254",
+  "es-01-256",
+  "es-01-286",
+  "es-01-296",
+  "es-01-299",
+  "es-01-318",
+  "es-01-351",
+  "es-01-352",
+  "es-01-139",
+  "es-01-156",
+  "es-01-280",
+  "es-01-313",
+  "es-01-354"
+ ],
+ "entries": {
+  "es-01-101": {
+   "scene": "es-01-101",
+   "caption": "Peñalba de Santiago, Montes Aquilanos",
+   "place": "the tiny tenth-century Mozarabic church of Santiago de Peñalba in the slate-roofed mountain village of Peñalba de Santiago, Montes Aquilanos, León",
+   "qc_utc": "2026-10-06T15:24:42Z",
+   "composed_utc": "2026-10-06T11:42:30Z",
+   "auto_qc": "PASS-with-warnings",
+   "visual_qc": "PASS",
+   "visual_notes": "Free-standing west espadaña, paired horseshoe-arch portal under alfiz, square crossing lantern, slate roofs, schist village and Montes Aquilanos. Daylight.",
+   "attempt": 1,
+   "overall": "PASS",
+   "signature": "curly",
+   "prompt_set": "primary",
+   "files": [
+    {
+     "name": "es-01-101-postcard-16x9.png",
+     "variant": "16x9",
+     "width": 1920,
+     "height": 1080,
+     "sha256": "db72d949a09180e3ecc74dc78d9bb583333a71e3055f4ffa8933a1de28cee326",
+     "bytes": 3355037,
+     "created_utc": "2026-10-06T11:42:31Z",
+     "upscale": 1.5,
+     "method": "realesrgan-x4plus+lanczos-down(0.375)",
+     "raw": "raw/es-01-101-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 2356.3
+    },
+    {
+     "name": "es-01-101-postcard-4x5.png",
+     "variant": "4x5",
+     "width": 1080,
+     "height": 1350,
+     "sha256": "ab88f240ea8e6a0d87d7459b020a3b687cd147456c47eba68611643fe0323177",
+     "bytes": 2234258,
+     "created_utc": "2026-10-06T11:42:31Z",
+     "upscale": 1.6556,
+     "method": "realesrgan-x4plus+lanczos-down(0.414)",
+     "raw": "raw/es-01-101-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1954.0
+    }
+   ],
+   "withheld_variants": [
+    "9x16"
+   ],
+   "withheld_note": "9:16 withheld per Cosmo (inbox/cosmo-answers-wo015-postcards.json): narrow crop cannot hold the key features."
+  },
+  "es-01-111": {
+   "scene": "es-01-111",
+   "caption": "El Paular Monastery, Rascafría",
+   "place": "the Real Monasterio de Santa María de El Paular, a Carthusian monastery in the Lozoya valley at Rascafría, Sierra de Guadarrama, Madrid",
+   "qc_utc": "2026-10-06T15:24:43Z",
+   "composed_utc": "2026-10-06T11:41:12Z",
+   "auto_qc": "PASS-with-warnings",
+   "visual_qc": "PASS",
+   "visual_notes": "Gothic granite portal, square brick tower without spire, granite/brick ranges, poplars, Guadarrama behind, Lozoya river foreground.",
+   "attempt": 1,
+   "overall": "PASS",
+   "signature": "curly",
+   "prompt_set": "primary",
+   "files": [
+    {
+     "name": "es-01-111-postcard-16x9.png",
+     "variant": "16x9",
+     "width": 1920,
+     "height": 1080,
+     "sha256": "93c9df548bf0ff05b89edf800da068724fb668c38c4d75873f0234047a94b1f2",
+     "bytes": 3224665,
+     "created_utc": "2026-10-06T11:43:02Z",
+     "upscale": 1.5,
+     "method": "realesrgan-x4plus+lanczos-down(0.375)",
+     "raw": "raw/es-01-111-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1741.6
+    },
+    {
+     "name": "es-01-111-postcard-4x5.png",
+     "variant": "4x5",
+     "width": 1080,
+     "height": 1350,
+     "sha256": "bee85d10fe3b180e7293bcc7698597d2e17a8865cbf7e40a74fbb07b4357c655",
+     "bytes": 2229754,
+     "created_utc": "2026-10-06T11:43:03Z",
+     "upscale": 1.6556,
+     "method": "realesrgan-x4plus+lanczos-down(0.414)",
+     "raw": "raw/es-01-111-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1545.2
+    },
+    {
+     "name": "es-01-111-postcard-9x16.png",
+     "variant": "9x16",
+     "width": 1080,
+     "height": 1920,
+     "sha256": "cb462db19cabad80258283431a877f1264adce922c057d4833e5b9e3ce736cf0",
+     "bytes": 3228212,
+     "created_utc": "2026-10-06T11:43:04Z",
+     "upscale": 2.4472,
+     "method": "realesrgan-x4plus+lanczos-down(0.612)",
+     "raw": "raw/es-01-111-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1185.4
+    }
+   ],
+   "withheld_variants": [],
+   "withheld_note": null
+  },
+  "es-01-120": {
+   "scene": "es-01-120",
+   "caption": "Tablas de Daimiel, Daimiel",
+   "place": "Molino de Molemocho in the Tablas de Daimiel wetland national park, Daimiel, La Mancha",
+   "qc_utc": "2026-10-06T15:24:45Z",
+   "composed_utc": "2026-10-06T11:43:05Z",
+   "auto_qc": "PASS-with-warnings",
+   "visual_qc": "PASS",
+   "visual_notes": "Long low stone mill under terracotta roof, five mill-race openings at water level, reed lagoon, boardwalk, flat horizon, reflections.",
+   "attempt": 1,
+   "overall": "PASS",
+   "signature": "curly",
+   "prompt_set": "primary",
+   "files": [
+    {
+     "name": "es-01-120-postcard-16x9.png",
+     "variant": "16x9",
+     "width": 1920,
+     "height": 1080,
+     "sha256": "300b6d57ac3f7af3c712a7a1008a47295dc3ec9cf0171bf2d23562c16603f150",
+     "bytes": 2689647,
+     "created_utc": "2026-10-06T11:44:52Z",
+     "upscale": 1.5,
+     "method": "realesrgan-x4plus+lanczos-down(0.375)",
+     "raw": "raw/es-01-120-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1505.3
+    },
+    {
+     "name": "es-01-120-postcard-4x5.png",
+     "variant": "4x5",
+     "width": 1080,
+     "height": 1350,
+     "sha256": "36c50375f75618a9066b107d00a5d636576a752fa0c4658823f5f71f35a01ab5",
+     "bytes": 1879734,
+     "created_utc": "2026-10-06T11:44:53Z",
+     "upscale": 1.6556,
+     "method": "realesrgan-x4plus+lanczos-down(0.414)",
+     "raw": "raw/es-01-120-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1327.6
+    },
+    {
+     "name": "es-01-120-postcard-9x16.png",
+     "variant": "9x16",
+     "width": 1080,
+     "height": 1920,
+     "sha256": "18d7e595f874909f877dde1edcae9d72f19dfca0e91626798b295fd223beda7c",
+     "bytes": 2765662,
+     "created_utc": "2026-10-06T11:44:53Z",
+     "upscale": 2.4472,
+     "method": "realesrgan-x4plus+lanczos-down(0.612)",
+     "raw": "raw/es-01-120-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 941.9
+    }
+   ],
+   "withheld_variants": [],
+   "withheld_note": null
+  },
+  "es-01-127": {
+   "scene": "es-01-127",
+   "caption": "Aínsa, Aínsa-Sobrarbe",
+   "place": "the medieval Plaza Mayor of Aínsa, Sobrarbe, in the Aragonese Pyrenees",
+   "qc_utc": "2026-10-06T15:24:46Z",
+   "composed_utc": "2026-10-06T11:44:54Z",
+   "auto_qc": "PASS-with-warnings",
+   "visual_qc": "PASS",
+   "visual_notes": "Cobbled sloping square, arcaded stone houses, tall plain square Colegiata tower with paired openings, castle walls behind, Peña Montañesa. Church placement simplified for composition.",
+   "attempt": 1,
+   "overall": "PASS",
+   "signature": "curly",
+   "prompt_set": "primary",
+   "files": [
+    {
+     "name": "es-01-127-postcard-16x9.png",
+     "variant": "16x9",
+     "width": 1920,
+     "height": 1080,
+     "sha256": "6c33584868bd703310595bbc126dc7cb102efaddf7ff2d18c2cbdd6cd12723f5",
+     "bytes": 3014195,
+     "created_utc": "2026-10-06T11:46:47Z",
+     "upscale": 1.5,
+     "method": "realesrgan-x4plus+lanczos-down(0.375)",
+     "raw": "raw/es-01-127-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1672.6
+    },
+    {
+     "name": "es-01-127-postcard-4x5.png",
+     "variant": "4x5",
+     "width": 1080,
+     "height": 1350,
+     "sha256": "14bb3ffcebe0262cc486b82e63ad2b2246d686aea08407894fcfc1362757a25a",
+     "bytes": 2145477,
+     "created_utc": "2026-10-06T11:46:48Z",
+     "upscale": 1.6556,
+     "method": "realesrgan-x4plus+lanczos-down(0.414)",
+     "raw": "raw/es-01-127-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1581.0
+    },
+    {
+     "name": "es-01-127-postcard-9x16.png",
+     "variant": "9x16",
+     "width": 1080,
+     "height": 1920,
+     "sha256": "713402620326791156cfb82b0cae6b0d7da001a37c4c10aa25e1c06bea15d5e1",
+     "bytes": 3181583,
+     "created_utc": "2026-10-06T11:46:48Z",
+     "upscale": 2.4472,
+     "method": "realesrgan-x4plus+lanczos-down(0.612)",
+     "raw": "raw/es-01-127-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1358.0
+    }
+   ],
+   "withheld_variants": [],
+   "withheld_note": null
+  },
+  "es-01-128": {
+   "scene": "es-01-128",
+   "caption": "Citadel, Jaca",
+   "place": "the Ciudadela de Jaca (Castillo de San Pedro), a pentagonal sixteenth-century star fort in Jaca, Aragon",
+   "qc_utc": "2026-10-06T15:24:48Z",
+   "composed_utc": "2026-10-06T11:46:49Z",
+   "auto_qc": "PASS-with-warnings",
+   "visual_qc": "PASS",
+   "visual_notes": "Low sloping curtain walls and bastions, dry grassy moat, rusticated gate with coat of arms, four-arch loggia above gate, Pyrenees.",
+   "attempt": 1,
+   "overall": "PASS",
+   "signature": "curly",
+   "prompt_set": "primary",
+   "files": [
+    {
+     "name": "es-01-128-postcard-16x9.png",
+     "variant": "16x9",
+     "width": 1920,
+     "height": 1080,
+     "sha256": "d987d3e5e53a3043f85110c47ee53da6d4211035973bd4685cac3946030d568f",
+     "bytes": 2832747,
+     "created_utc": "2026-10-06T11:48:41Z",
+     "upscale": 1.5,
+     "method": "realesrgan-x4plus+lanczos-down(0.375)",
+     "raw": "raw/es-01-128-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 904.6
+    },
+    {
+     "name": "es-01-128-postcard-4x5.png",
+     "variant": "4x5",
+     "width": 1080,
+     "height": 1350,
+     "sha256": "566e16113eceacf496b3715724128f98f1e4cc199077031ca109965598615f21",
+     "bytes": 1964344,
+     "created_utc": "2026-10-06T11:48:41Z",
+     "upscale": 1.6556,
+     "method": "realesrgan-x4plus+lanczos-down(0.414)",
+     "raw": "raw/es-01-128-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 885.9
+    },
+    {
+     "name": "es-01-128-postcard-9x16.png",
+     "variant": "9x16",
+     "width": 1080,
+     "height": 1920,
+     "sha256": "49529e63bfdb02f55ff66b9764cf4b446026f6c2589a7b01cd49ed2b203ed9fa",
+     "bytes": 2817697,
+     "created_utc": "2026-10-06T11:48:42Z",
+     "upscale": 2.4472,
+     "method": "realesrgan-x4plus+lanczos-down(0.612)",
+     "raw": "raw/es-01-128-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 686.2
+    }
+   ],
+   "withheld_variants": [],
+   "withheld_note": null
+  },
+  "es-01-138": {
+   "scene": "es-01-138",
+   "caption": "Old town, Vic",
+   "place": "the Plaça Major of Vic, Catalonia",
+   "qc_utc": "2026-10-06T15:24:49Z",
+   "composed_utc": "2026-10-06T11:48:43Z",
+   "auto_qc": "PASS-with-warnings",
+   "visual_qc": "PASS",
+   "visual_notes": "Huge rectangular square with packed-sand floor, continuous arcades on all sides, far end closed by residential arcade, no cathedral. Facades somewhat uniform vs real mix of periods.",
+   "attempt": 1,
+   "overall": "PASS",
+   "signature": "curly",
+   "prompt_set": "primary",
+   "files": [
+    {
+     "name": "es-01-138-postcard-16x9.png",
+     "variant": "16x9",
+     "width": 1920,
+     "height": 1080,
+     "sha256": "1dcbf746eb74b81056b9cf189a9d2eefe921a592c72a0356b4654014b7d535da",
+     "bytes": 2417865,
+     "created_utc": "2026-10-06T11:50:36Z",
+     "upscale": 1.5,
+     "method": "realesrgan-x4plus+lanczos-down(0.375)",
+     "raw": "raw/es-01-138-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1072.7
+    },
+    {
+     "name": "es-01-138-postcard-4x5.png",
+     "variant": "4x5",
+     "width": 1080,
+     "height": 1350,
+     "sha256": "3cb16dc6aa9a820d0554779f0bc17a1ba9aeda90ca97262371b42821e39fead9",
+     "bytes": 1564765,
+     "created_utc": "2026-10-06T11:50:37Z",
+     "upscale": 1.6556,
+     "method": "realesrgan-x4plus+lanczos-down(0.414)",
+     "raw": "raw/es-01-138-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 698.8
+    },
+    {
+     "name": "es-01-138-postcard-9x16.png",
+     "variant": "9x16",
+     "width": 1080,
+     "height": 1920,
+     "sha256": "9ab631d180758357bd6af3b3ddb4a07c54f0d93a8046022efd3389f2502741f9",
+     "bytes": 2297041,
+     "created_utc": "2026-10-06T11:50:37Z",
+     "upscale": 2.4472,
+     "method": "realesrgan-x4plus+lanczos-down(0.612)",
+     "raw": "raw/es-01-138-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 604.9
+    }
+   ],
+   "withheld_variants": [],
+   "withheld_note": null
+  },
+  "es-01-143": {
+   "scene": "es-01-143",
+   "caption": "Old town, Bocairent",
+   "place": "the steep old Moorish quarter of Bocairent, Valencian Community",
+   "qc_utc": "2026-10-06T15:24:50Z",
+   "composed_utc": "2026-10-06T11:50:39Z",
+   "auto_qc": "PASS-with-warnings",
+   "visual_qc": "PASS",
+   "visual_notes": "Steep stepped lane, honey stone and whitewash houses, iron balconies and pots, church bell tower above roofs, Serra de Mariola hills.",
+   "attempt": 1,
+   "overall": "PASS",
+   "signature": "curly",
+   "prompt_set": "primary",
+   "files": [
+    {
+     "name": "es-01-143-postcard-16x9.png",
+     "variant": "16x9",
+     "width": 1920,
+     "height": 1080,
+     "sha256": "517f66bdb7dbac3578d3123c7390fd352addd730bdf678a99a44607aa1f1a847",
+     "bytes": 3315968,
+     "created_utc": "2026-10-06T11:52:26Z",
+     "upscale": 1.5,
+     "method": "realesrgan-x4plus+lanczos-down(0.375)",
+     "raw": "raw/es-01-143-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 2143.4
+    },
+    {
+     "name": "es-01-143-postcard-4x5.png",
+     "variant": "4x5",
+     "width": 1080,
+     "height": 1350,
+     "sha256": "783fa0190565492b3c2e4d520ab5008a9bb3724b248e40129ac688a2be250884",
+     "bytes": 2165416,
+     "created_utc": "2026-10-06T11:52:26Z",
+     "upscale": 1.6556,
+     "method": "realesrgan-x4plus+lanczos-down(0.414)",
+     "raw": "raw/es-01-143-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1760.5
+    },
+    {
+     "name": "es-01-143-postcard-9x16.png",
+     "variant": "9x16",
+     "width": 1080,
+     "height": 1920,
+     "sha256": "536f8eea9f8c6d8412b3f8e563574f3615114566419b2f299d2fe678eaabe269",
+     "bytes": 2974003,
+     "created_utc": "2026-10-06T11:52:27Z",
+     "upscale": 2.4472,
+     "method": "realesrgan-x4plus+lanczos-down(0.612)",
+     "raw": "raw/es-01-143-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1112.3
+    }
+   ],
+   "withheld_variants": [],
+   "withheld_note": null
+  },
+  "es-01-144": {
+   "scene": "es-01-144",
+   "caption": "Old town, Altea",
+   "place": "the whitewashed old town of Altea and its church of Nuestra Señora del Consuelo, Costa Blanca",
+   "qc_utc": "2026-10-06T15:24:52Z",
+   "composed_utc": "2026-10-06T11:52:28Z",
+   "auto_qc": "PASS-with-warnings",
+   "visual_qc": "PASS",
+   "visual_notes": "Whitewash lanes, blue/green doors, bougainvillea, two blue-and-white tiled domes (large on drum, smaller lanterned), square bell tower left, Mediterranean glimpse.",
+   "attempt": 1,
+   "overall": "PASS",
+   "signature": "curly",
+   "prompt_set": "primary",
+   "files": [
+    {
+     "name": "es-01-144-postcard-16x9.png",
+     "variant": "16x9",
+     "width": 1920,
+     "height": 1080,
+     "sha256": "c27a190489e8ccce3a707edd5ffd157c68f04224f15c1fba4b0ac3b89d1ec6f2",
+     "bytes": 2598633,
+     "created_utc": "2026-10-06T11:54:12Z",
+     "upscale": 1.5,
+     "method": "realesrgan-x4plus+lanczos-down(0.375)",
+     "raw": "raw/es-01-144-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 2068.3
+    },
+    {
+     "name": "es-01-144-postcard-4x5.png",
+     "variant": "4x5",
+     "width": 1080,
+     "height": 1350,
+     "sha256": "6139a57a189dd4e990d4908c804ad63c211219ffe03ec7020c8922342c5d0752",
+     "bytes": 1796260,
+     "created_utc": "2026-10-06T11:54:13Z",
+     "upscale": 1.6556,
+     "method": "realesrgan-x4plus+lanczos-down(0.414)",
+     "raw": "raw/es-01-144-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 2102.7
+    },
+    {
+     "name": "es-01-144-postcard-9x16.png",
+     "variant": "9x16",
+     "width": 1080,
+     "height": 1920,
+     "sha256": "0073e1d17c1027d5aa68810f3f52f1aa49c9bd108c3e5721b054108863b91510",
+     "bytes": 2557046,
+     "created_utc": "2026-10-06T11:54:14Z",
+     "upscale": 2.4472,
+     "method": "realesrgan-x4plus+lanczos-down(0.612)",
+     "raw": "raw/es-01-144-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1319.3
+    }
+   ],
+   "withheld_variants": [],
+   "withheld_note": null
+  },
+  "es-01-146": {
+   "scene": "es-01-146",
+   "caption": "Old town, Sant Mateu",
+   "place": "the Església Arxiprestal of Sant Mateu and its freestanding bell tower, Maestrat, Valencian Community",
+   "qc_utc": "2026-10-06T15:24:53Z",
+   "composed_utc": "2026-10-06T11:54:15Z",
+   "auto_qc": "PASS-with-warnings",
+   "visual_qc": "PASS",
+   "visual_notes": "Massive octagonal limestone tower with flat crown beside the church, Romanesque round-arched portal, arcaded houses. Tower sits close to the church end; reads as the archpriestal tower.",
+   "attempt": 1,
+   "overall": "PASS",
+   "signature": "curly",
+   "prompt_set": "primary",
+   "files": [
+    {
+     "name": "es-01-146-postcard-16x9.png",
+     "variant": "16x9",
+     "width": 1920,
+     "height": 1080,
+     "sha256": "271ae3e2b76ba34181e091bfef4b99145cf876cc9e0516ace7e56468ff3e7169",
+     "bytes": 2670277,
+     "created_utc": "2026-10-06T11:56:03Z",
+     "upscale": 1.5,
+     "method": "realesrgan-x4plus+lanczos-down(0.375)",
+     "raw": "raw/es-01-146-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1305.2
+    },
+    {
+     "name": "es-01-146-postcard-4x5.png",
+     "variant": "4x5",
+     "width": 1080,
+     "height": 1350,
+     "sha256": "e9a274efd7bd5817e0cf20adc8048d5416ba0bffd1dd74b14241edc243000ed0",
+     "bytes": 1900925,
+     "created_utc": "2026-10-06T11:56:04Z",
+     "upscale": 1.6556,
+     "method": "realesrgan-x4plus+lanczos-down(0.414)",
+     "raw": "raw/es-01-146-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1143.3
+    },
+    {
+     "name": "es-01-146-postcard-9x16.png",
+     "variant": "9x16",
+     "width": 1080,
+     "height": 1920,
+     "sha256": "f15fb7574807eebab07f9cf1b1e5ec80f4f5eb43e1c420459191524e0588b9fd",
+     "bytes": 2967622,
+     "created_utc": "2026-10-06T11:56:04Z",
+     "upscale": 2.4472,
+     "method": "realesrgan-x4plus+lanczos-down(0.612)",
+     "raw": "raw/es-01-146-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1004.5
+    }
+   ],
+   "withheld_variants": [],
+   "withheld_note": null
+  },
+  "es-01-147": {
+   "scene": "es-01-147",
+   "caption": "Dénia Castle, Dénia",
+   "place": "Dénia Castle on its hill above the port of Dénia, Costa Blanca",
+   "qc_utc": "2026-10-06T15:24:55Z",
+   "composed_utc": "2026-10-06T11:56:05Z",
+   "auto_qc": "PASS-with-warnings",
+   "visual_qc": "PASS",
+   "visual_notes": "Wide, low, visibly ruined alcazaba along hill contour with round bastions at the ends, massive grey Montgo behind, town and harbour boats. Still more square towers than the real site; accepted as interpretation, flagged.",
+   "attempt": 2,
+   "overall": "PASS",
+   "signature": "curly",
+   "prompt_set": "primary",
+   "files": [
+    {
+     "name": "es-01-147-postcard-16x9.png",
+     "variant": "16x9",
+     "width": 1920,
+     "height": 1080,
+     "sha256": "c85f352d17598eb3a8b96a2a41bd3dbea1abf79e541c3e90c31ae3db15c4eb6e",
+     "bytes": 3112906,
+     "created_utc": "2026-10-06T11:58:11Z",
+     "upscale": 1.5,
+     "method": "realesrgan-x4plus+lanczos-down(0.375)",
+     "raw": "raw/es-01-147-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 2635.9
+    },
+    {
+     "name": "es-01-147-postcard-4x5.png",
+     "variant": "4x5",
+     "width": 1080,
+     "height": 1350,
+     "sha256": "7d06260d1505555f19a193a349aadebc763610276ea783e98f1abb2f94501263",
+     "bytes": 2245698,
+     "created_utc": "2026-10-06T11:58:12Z",
+     "upscale": 1.6556,
+     "method": "realesrgan-x4plus+lanczos-down(0.414)",
+     "raw": "raw/es-01-147-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 2455.6
+    }
+   ],
+   "withheld_variants": [
+    "9x16"
+   ],
+   "withheld_note": "9:16 withheld per Cosmo (inbox/cosmo-answers-wo015-postcards.json): narrow crop cannot hold the key features."
+  },
+  "es-01-148": {
+   "scene": "es-01-148",
+   "caption": "Cullera Castle, Cullera",
+   "place": "Cullera castle and the Santuario de la Virgen del Castillo on the summit above Cullera, Valencia",
+   "qc_utc": "2026-10-06T15:24:56Z",
+   "composed_utc": "2026-10-06T11:58:14Z",
+   "auto_qc": "PASS-with-warnings",
+   "visual_qc": "PASS",
+   "visual_notes": "Hilltop walls and square keep, white Neo-Byzantine sanctuary with dome beside it, town below, calm bay and beach.",
+   "attempt": 1,
+   "overall": "PASS",
+   "signature": "curly",
+   "prompt_set": "primary",
+   "files": [
+    {
+     "name": "es-01-148-postcard-16x9.png",
+     "variant": "16x9",
+     "width": 1920,
+     "height": 1080,
+     "sha256": "c399e66fd74efca3d16eea1ea2cebccda1985e48673128d133ee4e4d1c08dc17",
+     "bytes": 2192562,
+     "created_utc": "2026-10-06T11:59:58Z",
+     "upscale": 1.5,
+     "method": "realesrgan-x4plus+lanczos-down(0.375)",
+     "raw": "raw/es-01-148-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1342.3
+    },
+    {
+     "name": "es-01-148-postcard-4x5.png",
+     "variant": "4x5",
+     "width": 1080,
+     "height": 1350,
+     "sha256": "099ee231d7e84410920f744198713702dca66e259bd8dc018f58e12b4c6a741d",
+     "bytes": 1675398,
+     "created_utc": "2026-10-06T11:59:59Z",
+     "upscale": 1.6556,
+     "method": "realesrgan-x4plus+lanczos-down(0.414)",
+     "raw": "raw/es-01-148-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1305.8
+    },
+    {
+     "name": "es-01-148-postcard-9x16.png",
+     "variant": "9x16",
+     "width": 1080,
+     "height": 1920,
+     "sha256": "fda2edac8056e18a45ce04e789c3821a28c35f72957447e683a3b6b3e25ad059",
+     "bytes": 2516972,
+     "created_utc": "2026-10-06T11:59:59Z",
+     "upscale": 2.4472,
+     "method": "realesrgan-x4plus+lanczos-down(0.612)",
+     "raw": "raw/es-01-148-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 852.6
+    }
+   ],
+   "withheld_variants": [],
+   "withheld_note": null
+  },
+  "es-01-151": {
+   "scene": "es-01-151",
+   "caption": "Águilas Castle, Águilas",
+   "place": "Castillo de San Juan de las Águilas on its headland above the port of Águilas, Murcia",
+   "qc_utc": "2026-10-06T15:24:57Z",
+   "composed_utc": "2026-10-06T12:00:00Z",
+   "auto_qc": "PASS-with-warnings",
+   "visual_qc": "PASS",
+   "visual_notes": "Low artillery fort with semicircular battery on rugged brown headland, town at foot, fishing boats in port.",
+   "attempt": 1,
+   "overall": "PASS",
+   "signature": "curly",
+   "prompt_set": "primary",
+   "files": [
+    {
+     "name": "es-01-151-postcard-16x9.png",
+     "variant": "16x9",
+     "width": 1920,
+     "height": 1080,
+     "sha256": "074f65587063f920caf38bbf21787ab411f86133affbab8dd7384961e3ce7f23",
+     "bytes": 2448483,
+     "created_utc": "2026-10-06T12:01:47Z",
+     "upscale": 1.5,
+     "method": "realesrgan-x4plus+lanczos-down(0.375)",
+     "raw": "raw/es-01-151-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1586.7
+    },
+    {
+     "name": "es-01-151-postcard-4x5.png",
+     "variant": "4x5",
+     "width": 1080,
+     "height": 1350,
+     "sha256": "7ad373ab446198b49f5118a89f7b969787566a05d7b9c192a3b2c37ed7ae1d7c",
+     "bytes": 1847694,
+     "created_utc": "2026-10-06T12:01:48Z",
+     "upscale": 1.6556,
+     "method": "realesrgan-x4plus+lanczos-down(0.414)",
+     "raw": "raw/es-01-151-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1427.4
+    },
+    {
+     "name": "es-01-151-postcard-9x16.png",
+     "variant": "9x16",
+     "width": 1080,
+     "height": 1920,
+     "sha256": "54a687921d106ae85e34806fc6a4be1ef4f842c52c51dcf27d58bbc482621aeb",
+     "bytes": 2652422,
+     "created_utc": "2026-10-06T12:01:48Z",
+     "upscale": 2.4472,
+     "method": "realesrgan-x4plus+lanczos-down(0.612)",
+     "raw": "raw/es-01-151-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 812.4
+    }
+   ],
+   "withheld_variants": [],
+   "withheld_note": null
+  },
+  "es-01-155": {
+   "scene": "es-01-155",
+   "caption": "Lorca Castle, Lorca",
+   "place": "Lorca Castle (Fortaleza del Sol) along its ridge above Lorca, Murcia",
+   "qc_utc": "2026-10-06T15:24:58Z",
+   "composed_utc": "2026-10-06T12:01:49Z",
+   "auto_qc": "PASS-with-warnings",
+   "visual_qc": "PASS",
+   "visual_notes": "Long ridge fortress, massive flat-crowned Torre Alfonsina, merlons with pyramidal caps, Baroque twin church towers and old town below.",
+   "attempt": 1,
+   "overall": "PASS",
+   "signature": "curly",
+   "prompt_set": "primary",
+   "files": [
+    {
+     "name": "es-01-155-postcard-16x9.png",
+     "variant": "16x9",
+     "width": 1920,
+     "height": 1080,
+     "sha256": "ae6d9a9eaf3d675b6fdc2414cb31b86e42c5cc588dec94a006e706627f3984cc",
+     "bytes": 2326881,
+     "created_utc": "2026-10-06T12:03:34Z",
+     "upscale": 1.5,
+     "method": "realesrgan-x4plus+lanczos-down(0.375)",
+     "raw": "raw/es-01-155-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1647.8
+    },
+    {
+     "name": "es-01-155-postcard-4x5.png",
+     "variant": "4x5",
+     "width": 1080,
+     "height": 1350,
+     "sha256": "db8d3003d056dfdde56c522465b7ac8f5c84f5a4f2dbaba27cdc810d5ccc2b66",
+     "bytes": 1768667,
+     "created_utc": "2026-10-06T12:03:34Z",
+     "upscale": 1.6556,
+     "method": "realesrgan-x4plus+lanczos-down(0.414)",
+     "raw": "raw/es-01-155-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1672.4
+    },
+    {
+     "name": "es-01-155-postcard-9x16.png",
+     "variant": "9x16",
+     "width": 1080,
+     "height": 1920,
+     "sha256": "17afcdbdc8b35cafcea103a36ad41cb1d9f674c1e3c82fc1ddd24673b28da4b9",
+     "bytes": 2655508,
+     "created_utc": "2026-10-06T12:03:35Z",
+     "upscale": 2.4472,
+     "method": "realesrgan-x4plus+lanczos-down(0.612)",
+     "raw": "raw/es-01-155-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1122.5
+    }
+   ],
+   "withheld_variants": [],
+   "withheld_note": null
+  },
+  "es-01-161": {
+   "scene": "es-01-161",
+   "caption": "Mahón Harbour, Mahón",
+   "place": "the harbour front of Mahón (Maó), Menorca",
+   "qc_utc": "2026-10-06T15:25:00Z",
+   "composed_utc": "2026-10-06T12:03:36Z",
+   "auto_qc": "PASS-with-warnings",
+   "visual_qc": "PASS",
+   "visual_notes": "Cliff-top terraced houses in white/cream/ochre with green shutters, quayside warehouses below, church bell tower centred, yachts, calm deep-blue harbour.",
+   "attempt": 1,
+   "overall": "PASS",
+   "signature": "curly",
+   "prompt_set": "primary",
+   "files": [
+    {
+     "name": "es-01-161-postcard-16x9.png",
+     "variant": "16x9",
+     "width": 1920,
+     "height": 1080,
+     "sha256": "0b40d11eb75ea75ec36f9bf38f98a9f4b64ef393f114d12f99d3fae401e5cda0",
+     "bytes": 2484061,
+     "created_utc": "2026-10-06T12:05:22Z",
+     "upscale": 1.5,
+     "method": "realesrgan-x4plus+lanczos-down(0.375)",
+     "raw": "raw/es-01-161-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1597.9
+    },
+    {
+     "name": "es-01-161-postcard-4x5.png",
+     "variant": "4x5",
+     "width": 1080,
+     "height": 1350,
+     "sha256": "73c93fc835f8d52c06b1d2357ea6a773e4d65ed9bd116929b6390f883b3da118",
+     "bytes": 1753578,
+     "created_utc": "2026-10-06T12:05:23Z",
+     "upscale": 1.6556,
+     "method": "realesrgan-x4plus+lanczos-down(0.414)",
+     "raw": "raw/es-01-161-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1401.0
+    },
+    {
+     "name": "es-01-161-postcard-9x16.png",
+     "variant": "9x16",
+     "width": 1080,
+     "height": 1920,
+     "sha256": "085aa8d16482789b9ed11bfb97784b7f5e26e24b6df7ee4fcea3412869a1b649",
+     "bytes": 2547741,
+     "created_utc": "2026-10-06T12:05:24Z",
+     "upscale": 2.4472,
+     "method": "realesrgan-x4plus+lanczos-down(0.612)",
+     "raw": "raw/es-01-161-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 930.9
+    }
+   ],
+   "withheld_variants": [],
+   "withheld_note": null
+  },
+  "es-01-220": {
+   "scene": "es-01-220",
+   "caption": "Cabo de Gata, Almería",
+   "place": "the Faro de Cabo de Gata lighthouse above the Arrecife de las Sirenas, Almería",
+   "qc_utc": "2026-10-06T15:25:01Z",
+   "composed_utc": "2026-10-06T12:48:43Z",
+   "auto_qc": "PASS-with-warnings",
+   "visual_qc": "PASS",
+   "visual_notes": "Short white lighthouse rising from white keepers/fort complex on cliff, dark volcanic reef pinnacles, arid ochre hills, turquoise sea.",
+   "attempt": 1,
+   "overall": "PASS",
+   "signature": "curly",
+   "prompt_set": "primary",
+   "files": [
+    {
+     "name": "es-01-220-postcard-16x9.png",
+     "variant": "16x9",
+     "width": 1920,
+     "height": 1080,
+     "sha256": "434f684881568a0bf03590929e661f7c795ff51e13c4a9be15d7c6be98753201",
+     "bytes": 2608865,
+     "created_utc": "2026-10-06T12:48:44Z",
+     "upscale": 1.5,
+     "method": "realesrgan-x4plus+lanczos-down(0.375)",
+     "raw": "raw/es-01-220-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1231.8
+    },
+    {
+     "name": "es-01-220-postcard-4x5.png",
+     "variant": "4x5",
+     "width": 1080,
+     "height": 1350,
+     "sha256": "90570fdcf961d99ba4130ce34932021c4907bad83701fc9b674dfe53f308447f",
+     "bytes": 1890620,
+     "created_utc": "2026-10-06T12:48:45Z",
+     "upscale": 1.6556,
+     "method": "realesrgan-x4plus+lanczos-down(0.414)",
+     "raw": "raw/es-01-220-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1395.6
+    },
+    {
+     "name": "es-01-220-postcard-9x16.png",
+     "variant": "9x16",
+     "width": 1080,
+     "height": 1920,
+     "sha256": "7925d097b05889b4f31a76ee7d9d5da3defc144f73f8515875639aec0c43c891",
+     "bytes": 2776108,
+     "created_utc": "2026-10-06T12:48:45Z",
+     "upscale": 2.4472,
+     "method": "realesrgan-x4plus+lanczos-down(0.612)",
+     "raw": "raw/es-01-220-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 840.3
+    }
+   ],
+   "withheld_variants": [],
+   "withheld_note": null
+  },
+  "es-01-224": {
+   "scene": "es-01-224",
+   "caption": "El Rocío, Almonte",
+   "place": "the white Santuario del Rocío across the marsh at El Rocío, Almonte, Huelva",
+   "qc_utc": "2026-10-06T15:25:02Z",
+   "composed_utc": "2026-10-06T12:07:18Z",
+   "auto_qc": "PASS-with-warnings",
+   "visual_qc": "PASS",
+   "visual_notes": "White sanctuary with single Baroque espadana over scallop-shell portal, low white wings and village, marsh reflection, no crowds.",
+   "attempt": 1,
+   "overall": "PASS",
+   "signature": "curly",
+   "prompt_set": "primary",
+   "files": [
+    {
+     "name": "es-01-224-postcard-16x9.png",
+     "variant": "16x9",
+     "width": 1920,
+     "height": 1080,
+     "sha256": "38debad384e4f8a4a97f9aff507ea95794fe4aa77b07de3d22e00c4c50598442",
+     "bytes": 2248129,
+     "created_utc": "2026-10-06T12:09:05Z",
+     "upscale": 1.5,
+     "method": "realesrgan-x4plus+lanczos-down(0.375)",
+     "raw": "raw/es-01-224-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 803.0
+    },
+    {
+     "name": "es-01-224-postcard-4x5.png",
+     "variant": "4x5",
+     "width": 1080,
+     "height": 1350,
+     "sha256": "756304c14442d562df2033dd8d34840218e45769a3f113af07d3b5b2e4803192",
+     "bytes": 1536705,
+     "created_utc": "2026-10-06T12:09:05Z",
+     "upscale": 1.6556,
+     "method": "realesrgan-x4plus+lanczos-down(0.414)",
+     "raw": "raw/es-01-224-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 803.1
+    },
+    {
+     "name": "es-01-224-postcard-9x16.png",
+     "variant": "9x16",
+     "width": 1080,
+     "height": 1920,
+     "sha256": "e3d1677203d585a58e05a33d50dce73886556900b94d28d79ca01733824800ed",
+     "bytes": 2320610,
+     "created_utc": "2026-10-06T12:09:06Z",
+     "upscale": 2.4472,
+     "method": "realesrgan-x4plus+lanczos-down(0.612)",
+     "raw": "raw/es-01-224-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 658.5
+    }
+   ],
+   "withheld_variants": [],
+   "withheld_note": null
+  },
+  "es-01-225": {
+   "scene": "es-01-225",
+   "caption": "Corta Atalaya, Minas de Riotinto",
+   "place": "Corta Atalaya, the giant open-pit mine at Minas de Riotinto, Huelva",
+   "qc_utc": "2026-10-06T15:25:04Z",
+   "composed_utc": "2026-10-06T12:09:07Z",
+   "auto_qc": "PASS-with-warnings",
+   "visual_qc": "PASS",
+   "visual_notes": "Vast oval terraced pit, rust/ochre/purple/grey walls, dark red acidic lake, pines at rim, rolling hills beyond.",
+   "attempt": 1,
+   "overall": "PASS",
+   "signature": "curly",
+   "prompt_set": "primary",
+   "files": [
+    {
+     "name": "es-01-225-postcard-16x9.png",
+     "variant": "16x9",
+     "width": 1920,
+     "height": 1080,
+     "sha256": "5124ecee9bb15a8235bb294a5ad19899429fade11d8bf1df8748c5af9ec8c4af",
+     "bytes": 3066090,
+     "created_utc": "2026-10-06T12:10:49Z",
+     "upscale": 1.5,
+     "method": "realesrgan-x4plus+lanczos-down(0.375)",
+     "raw": "raw/es-01-225-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 939.2
+    },
+    {
+     "name": "es-01-225-postcard-4x5.png",
+     "variant": "4x5",
+     "width": 1080,
+     "height": 1350,
+     "sha256": "ff3226b232b3b5e621bc917af010a63d5eaa23ab834ed54a14a63dcc3cb1034d",
+     "bytes": 2137483,
+     "created_utc": "2026-10-06T12:10:50Z",
+     "upscale": 1.6556,
+     "method": "realesrgan-x4plus+lanczos-down(0.414)",
+     "raw": "raw/es-01-225-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 851.6
+    },
+    {
+     "name": "es-01-225-postcard-9x16.png",
+     "variant": "9x16",
+     "width": 1080,
+     "height": 1920,
+     "sha256": "58da1c8062158c3d572ec253e5106748c2678eddec1623b138735b768c4340bb",
+     "bytes": 3046678,
+     "created_utc": "2026-10-06T12:10:50Z",
+     "upscale": 2.4472,
+     "method": "realesrgan-x4plus+lanczos-down(0.612)",
+     "raw": "raw/es-01-225-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 669.5
+    }
+   ],
+   "withheld_variants": [],
+   "withheld_note": null
+  },
+  "es-01-226": {
+   "scene": "es-01-226",
+   "caption": "Aracena, Huelva",
+   "place": "the white village of Aracena beneath its hilltop castle, Sierra de Aracena, Huelva",
+   "qc_utc": "2026-10-06T15:25:05Z",
+   "composed_utc": "2026-10-06T12:48:46Z",
+   "auto_qc": "PASS-with-warnings",
+   "visual_qc": "PASS",
+   "visual_notes": "Ruined castle walls on hill, brick Prioral tower with sebka tracery beside it, whitewashed terracotta-roof village, green sierra.",
+   "attempt": 1,
+   "overall": "PASS",
+   "signature": "curly",
+   "prompt_set": "primary",
+   "files": [
+    {
+     "name": "es-01-226-postcard-16x9.png",
+     "variant": "16x9",
+     "width": 1920,
+     "height": 1080,
+     "sha256": "60db90781083812979f87b4f1c0f685602bf5f23464aab1e3177ca6da27bd3b7",
+     "bytes": 2774035,
+     "created_utc": "2026-10-06T12:48:47Z",
+     "upscale": 1.5,
+     "method": "realesrgan-x4plus+lanczos-down(0.375)",
+     "raw": "raw/es-01-226-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 2221.2
+    },
+    {
+     "name": "es-01-226-postcard-4x5.png",
+     "variant": "4x5",
+     "width": 1080,
+     "height": 1350,
+     "sha256": "a7b0beaedd758251d6882c2f9303bc499069684f0c1994ffafb54679481917c7",
+     "bytes": 2072782,
+     "created_utc": "2026-10-06T12:48:47Z",
+     "upscale": 1.6556,
+     "method": "realesrgan-x4plus+lanczos-down(0.414)",
+     "raw": "raw/es-01-226-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 2126.5
+    },
+    {
+     "name": "es-01-226-postcard-9x16.png",
+     "variant": "9x16",
+     "width": 1080,
+     "height": 1920,
+     "sha256": "4161553fccfc9636603a2e5a3f24cd00d9e7e1b896f871cbed3178eab4a2f00e",
+     "bytes": 2999510,
+     "created_utc": "2026-10-06T12:48:48Z",
+     "upscale": 2.4472,
+     "method": "realesrgan-x4plus+lanczos-down(0.612)",
+     "raw": "raw/es-01-226-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1397.6
+    }
+   ],
+   "withheld_variants": [],
+   "withheld_note": null
+  },
+  "es-01-227": {
+   "scene": "es-01-227",
+   "caption": "Jaén Cathedral, Jaén",
+   "place": "Jaén Cathedral and the Plaza de Santa María, Jaén",
+   "qc_utc": "2026-10-06T15:25:07Z",
+   "composed_utc": "2026-10-06T12:17:53Z",
+   "auto_qc": "PASS-with-warnings",
+   "visual_qc": "PASS",
+   "visual_notes": "Clean retry: honey-stone facade with Corinthian columns, balustrade and statues, exactly two towers with domed lanterns, Santa Catalina castle behind, empty plaza; no lettering.",
+   "attempt": 2,
+   "overall": "PASS",
+   "signature": "curly",
+   "prompt_set": "primary",
+   "files": [
+    {
+     "name": "es-01-227-postcard-16x9.png",
+     "variant": "16x9",
+     "width": 1920,
+     "height": 1080,
+     "sha256": "a079520969331e1b3ccda5315d3e191c2af30e210426a5d35dc08e3f1f17f375",
+     "bytes": 2819383,
+     "created_utc": "2026-10-06T12:17:55Z",
+     "upscale": 1.5,
+     "method": "realesrgan-x4plus+lanczos-down(0.375)",
+     "raw": "raw/es-01-227-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1930.0
+    },
+    {
+     "name": "es-01-227-postcard-4x5.png",
+     "variant": "4x5",
+     "width": 1080,
+     "height": 1350,
+     "sha256": "9f4a2fd29705d7ce382c1d383c3d75e885a15bc90624b8ede2002ca953a46d73",
+     "bytes": 1986907,
+     "created_utc": "2026-10-06T12:17:55Z",
+     "upscale": 1.6556,
+     "method": "realesrgan-x4plus+lanczos-down(0.414)",
+     "raw": "raw/es-01-227-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1856.5
+    }
+   ],
+   "withheld_variants": [
+    "9x16"
+   ],
+   "withheld_note": "9:16 withheld per Cosmo (inbox/cosmo-answers-wo015-postcards.json): narrow crop cannot hold the key features."
+  },
+  "es-01-240": {
+   "scene": "es-01-240",
+   "caption": "Plaza de España, Vejer de la Frontera",
+   "place": "the Plaza de España (Plaza de los Pescaítos) of Vejer de la Frontera, Cádiz",
+   "qc_utc": "2026-10-06T15:25:08Z",
+   "composed_utc": "2026-10-06T12:14:43Z",
+   "auto_qc": "PASS-with-warnings",
+   "visual_qc": "PASS",
+   "visual_notes": "Round Triana-tiled fountain with frog spouts centred, palms, whitewashed buildings with iron balconies, white rooftops beyond.",
+   "attempt": 1,
+   "overall": "PASS",
+   "signature": "curly",
+   "prompt_set": "primary",
+   "files": [
+    {
+     "name": "es-01-240-postcard-16x9.png",
+     "variant": "16x9",
+     "width": 1920,
+     "height": 1080,
+     "sha256": "5d287b146aac6583f8209525d9d2f24dc61a75c10deaf72892467922fd14cc5d",
+     "bytes": 2989155,
+     "created_utc": "2026-10-06T12:16:35Z",
+     "upscale": 1.5,
+     "method": "realesrgan-x4plus+lanczos-down(0.375)",
+     "raw": "raw/es-01-240-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 2618.4
+    },
+    {
+     "name": "es-01-240-postcard-4x5.png",
+     "variant": "4x5",
+     "width": 1080,
+     "height": 1350,
+     "sha256": "6f864170563321f11448d3397f3da5d11659cbaff03cc82f832bfda83ef57598",
+     "bytes": 2121382,
+     "created_utc": "2026-10-06T12:16:36Z",
+     "upscale": 1.6556,
+     "method": "realesrgan-x4plus+lanczos-down(0.414)",
+     "raw": "raw/es-01-240-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 2351.8
+    },
+    {
+     "name": "es-01-240-postcard-9x16.png",
+     "variant": "9x16",
+     "width": 1080,
+     "height": 1920,
+     "sha256": "1ef264ce64468a344cbbccff7f194b387ff84f727981eda9685b1b65f58849e0",
+     "bytes": 2911768,
+     "created_utc": "2026-10-06T12:16:36Z",
+     "upscale": 2.4472,
+     "method": "realesrgan-x4plus+lanczos-down(0.612)",
+     "raw": "raw/es-01-240-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1423.5
+    }
+   ],
+   "withheld_variants": [],
+   "withheld_note": null
+  },
+  "es-01-241": {
+   "scene": "es-01-241",
+   "caption": "Cuevas de la Sombra, Setenil de las Bodegas",
+   "place": "Calle Cuevas de la Sombra in Setenil de las Bodegas, Cádiz",
+   "qc_utc": "2026-10-06T15:25:10Z",
+   "composed_utc": "2026-10-06T12:16:37Z",
+   "auto_qc": "PASS-with-warnings",
+   "visual_qc": "PASS",
+   "visual_notes": "Massive brown-grey rock overhang roofing the street, whitewashed house fronts both sides, bright open end with blue sky; no people or signs.",
+   "attempt": 1,
+   "overall": "PASS",
+   "signature": "curly",
+   "prompt_set": "primary",
+   "files": [
+    {
+     "name": "es-01-241-postcard-16x9.png",
+     "variant": "16x9",
+     "width": 1920,
+     "height": 1080,
+     "sha256": "5556788dfd2d6793fd3f13dc354f48842801d6b0f4b137bc510ea9c7bf879cc3",
+     "bytes": 2780891,
+     "created_utc": "2026-10-06T12:18:23Z",
+     "upscale": 1.5,
+     "method": "realesrgan-x4plus+lanczos-down(0.375)",
+     "raw": "raw/es-01-241-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 929.3
+    },
+    {
+     "name": "es-01-241-postcard-4x5.png",
+     "variant": "4x5",
+     "width": 1080,
+     "height": 1350,
+     "sha256": "cd83764e1dc96e77f1099dbd5ecffffe1b60e39a75d979c6b6a4056ddf8a36c7",
+     "bytes": 2057264,
+     "created_utc": "2026-10-06T12:18:24Z",
+     "upscale": 1.6556,
+     "method": "realesrgan-x4plus+lanczos-down(0.414)",
+     "raw": "raw/es-01-241-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1147.9
+    },
+    {
+     "name": "es-01-241-postcard-9x16.png",
+     "variant": "9x16",
+     "width": 1080,
+     "height": 1920,
+     "sha256": "b8a15dbe8b42a498a0ec5da30bbfc8d981422e5655e1d8c3638a4a54d5572d10",
+     "bytes": 2787269,
+     "created_utc": "2026-10-06T12:18:25Z",
+     "upscale": 2.4472,
+     "method": "realesrgan-x4plus+lanczos-down(0.612)",
+     "raw": "raw/es-01-241-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 777.0
+    }
+   ],
+   "withheld_variants": [],
+   "withheld_note": null
+  },
+  "es-01-245": {
+   "scene": "es-01-245",
+   "caption": "Roman Amphitheatre, Tarragona",
+   "place": "the Roman amphitheatre of Tarragona above the Mediterranean, Catalonia",
+   "qc_utc": "2026-10-06T15:25:11Z",
+   "composed_utc": "2026-10-06T12:18:26Z",
+   "auto_qc": "PASS-with-warnings",
+   "visual_qc": "PASS",
+   "visual_notes": "Oval stepped seating, Romanesque church ruin with apse inside the ring, palms and pines, sea behind. Church ruin a little taller than the real remains; acceptable interpretation.",
+   "attempt": 1,
+   "overall": "PASS",
+   "signature": "curly",
+   "prompt_set": "primary",
+   "files": [
+    {
+     "name": "es-01-245-postcard-16x9.png",
+     "variant": "16x9",
+     "width": 1920,
+     "height": 1080,
+     "sha256": "de765e4230b17845c0b949e36aee5930df5b0da5c9aeec76f252dda278910f71",
+     "bytes": 3027967,
+     "created_utc": "2026-10-06T12:20:15Z",
+     "upscale": 1.5,
+     "method": "realesrgan-x4plus+lanczos-down(0.375)",
+     "raw": "raw/es-01-245-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1927.0
+    },
+    {
+     "name": "es-01-245-postcard-4x5.png",
+     "variant": "4x5",
+     "width": 1080,
+     "height": 1350,
+     "sha256": "9844b74439c12fb6f1462f32d4401c7e41aa41d911350c4dfb6b0084aef20835",
+     "bytes": 2126908,
+     "created_utc": "2026-10-06T12:20:16Z",
+     "upscale": 1.6556,
+     "method": "realesrgan-x4plus+lanczos-down(0.414)",
+     "raw": "raw/es-01-245-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1774.0
+    },
+    {
+     "name": "es-01-245-postcard-9x16.png",
+     "variant": "9x16",
+     "width": 1080,
+     "height": 1920,
+     "sha256": "a6adbb0d47fed3ce9712a241cd2f3c4683e718479c4a10d7792171167639df4e",
+     "bytes": 3003672,
+     "created_utc": "2026-10-06T12:20:17Z",
+     "upscale": 2.4472,
+     "method": "realesrgan-x4plus+lanczos-down(0.612)",
+     "raw": "raw/es-01-245-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1119.4
+    }
+   ],
+   "withheld_variants": [],
+   "withheld_note": null
+  },
+  "es-01-251": {
+   "scene": "es-01-251",
+   "caption": "Sant Bartomeu i Santa Tecla, Sitges",
+   "place": "the church of Sant Bartomeu i Santa Tecla above the sea wall at Sitges, Catalonia",
+   "qc_utc": "2026-10-06T15:25:12Z",
+   "composed_utc": "2026-10-06T12:20:18Z",
+   "auto_qc": "PASS-with-warnings",
+   "visual_qc": "PASS",
+   "visual_notes": "Baroque church on stone sea wall, single bell tower with white cupola and statue, rocks, beach and calm sea foreground.",
+   "attempt": 1,
+   "overall": "PASS",
+   "signature": "curly",
+   "prompt_set": "primary",
+   "files": [
+    {
+     "name": "es-01-251-postcard-16x9.png",
+     "variant": "16x9",
+     "width": 1920,
+     "height": 1080,
+     "sha256": "6cad506045e1add590b8d3a28fc655d0b505bbf630cbb71451b9fffa0ad9fed2",
+     "bytes": 2280404,
+     "created_utc": "2026-10-06T12:21:57Z",
+     "upscale": 1.5,
+     "method": "realesrgan-x4plus+lanczos-down(0.375)",
+     "raw": "raw/es-01-251-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1109.7
+    },
+    {
+     "name": "es-01-251-postcard-4x5.png",
+     "variant": "4x5",
+     "width": 1080,
+     "height": 1350,
+     "sha256": "3c318639a49ce9b5c32a0270f39431089cbd18fd14d2766b006519d58928bf22",
+     "bytes": 1806832,
+     "created_utc": "2026-10-06T12:21:58Z",
+     "upscale": 1.6556,
+     "method": "realesrgan-x4plus+lanczos-down(0.414)",
+     "raw": "raw/es-01-251-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1370.4
+    },
+    {
+     "name": "es-01-251-postcard-9x16.png",
+     "variant": "9x16",
+     "width": 1080,
+     "height": 1920,
+     "sha256": "3dfb0cbb75af867d284820204df4ea97bd4e10df8845fd60cf057a9b78ead830",
+     "bytes": 2777390,
+     "created_utc": "2026-10-06T12:21:58Z",
+     "upscale": 2.4472,
+     "method": "realesrgan-x4plus+lanczos-down(0.612)",
+     "raw": "raw/es-01-251-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1071.5
+    }
+   ],
+   "withheld_variants": [],
+   "withheld_note": null
+  },
+  "es-01-252": {
+   "scene": "es-01-252",
+   "caption": "La Seu Vella, Lleida",
+   "place": "La Seu Vella, the old cathedral of Lleida on its hill above the River Segre, Catalonia",
+   "qc_utc": "2026-10-06T15:25:14Z",
+   "composed_utc": "2026-10-06T12:21:59Z",
+   "auto_qc": "PASS-with-warnings",
+   "visual_qc": "PASS",
+   "visual_notes": "Retry fixed: octagonal bell tower with flat openwork pinnacle crown, no spire; windowed octagonal lantern; fortress walls on hilltop; River Segre foreground.",
+   "attempt": 2,
+   "overall": "PASS",
+   "signature": "curly",
+   "prompt_set": "primary",
+   "files": [
+    {
+     "name": "es-01-252-postcard-16x9.png",
+     "variant": "16x9",
+     "width": 1920,
+     "height": 1080,
+     "sha256": "4e0706f2d348bbdd55d376e7d4ed80fd2ebcffc64aa96b0a341536325caec6f1",
+     "bytes": 2736837,
+     "created_utc": "2026-10-06T12:23:51Z",
+     "upscale": 1.5,
+     "method": "realesrgan-x4plus+lanczos-down(0.375)",
+     "raw": "raw/es-01-252-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1770.8
+    },
+    {
+     "name": "es-01-252-postcard-4x5.png",
+     "variant": "4x5",
+     "width": 1080,
+     "height": 1350,
+     "sha256": "69c2a73b83fa7cbddde39d6b39dfd361fe8bc4b7b3ee97b931299ae82181f968",
+     "bytes": 2108247,
+     "created_utc": "2026-10-06T12:23:52Z",
+     "upscale": 1.6556,
+     "method": "realesrgan-x4plus+lanczos-down(0.414)",
+     "raw": "raw/es-01-252-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 2013.5
+    },
+    {
+     "name": "es-01-252-postcard-9x16.png",
+     "variant": "9x16",
+     "width": 1080,
+     "height": 1920,
+     "sha256": "84387cd89a645fd01ed3a0deebb99adea0a6cb081b5cd930a5ed5f0ef667510a",
+     "bytes": 3191347,
+     "created_utc": "2026-10-06T12:23:52Z",
+     "upscale": 2.4472,
+     "method": "realesrgan-x4plus+lanczos-down(0.612)",
+     "raw": "raw/es-01-252-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1625.2
+    }
+   ],
+   "withheld_variants": [],
+   "withheld_note": null
+  },
+  "es-01-254": {
+   "scene": "es-01-254",
+   "caption": "Cap de Creus Lighthouse, Cadaqués",
+   "place": "the Cap de Creus lighthouse on its rocky headland near Cadaqués, Catalonia",
+   "qc_utc": "2026-10-06T15:25:15Z",
+   "composed_utc": "2026-10-06T12:23:53Z",
+   "auto_qc": "PASS-with-warnings",
+   "visual_qc": "PASS",
+   "visual_notes": "Short white lighthouse on a single low square keeper house, bare grey schist rocks, coves, deep-blue sea; no stripes.",
+   "attempt": 1,
+   "overall": "PASS",
+   "signature": "curly",
+   "prompt_set": "primary",
+   "files": [
+    {
+     "name": "es-01-254-postcard-16x9.png",
+     "variant": "16x9",
+     "width": 1920,
+     "height": 1080,
+     "sha256": "b083be98a9dd709eaad500957321d6d16f2076bd955f883045f40bcd5c1c34d2",
+     "bytes": 2696782,
+     "created_utc": "2026-10-06T12:25:40Z",
+     "upscale": 1.5,
+     "method": "realesrgan-x4plus+lanczos-down(0.375)",
+     "raw": "raw/es-01-254-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1729.8
+    },
+    {
+     "name": "es-01-254-postcard-4x5.png",
+     "variant": "4x5",
+     "width": 1080,
+     "height": 1350,
+     "sha256": "7a2fed2b7df51d695e0c983c39dc74a327e7806935ebdb1d6e4fd370fb59deac",
+     "bytes": 1991843,
+     "created_utc": "2026-10-06T12:25:41Z",
+     "upscale": 1.6556,
+     "method": "realesrgan-x4plus+lanczos-down(0.414)",
+     "raw": "raw/es-01-254-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1648.1
+    },
+    {
+     "name": "es-01-254-postcard-9x16.png",
+     "variant": "9x16",
+     "width": 1080,
+     "height": 1920,
+     "sha256": "8ff673c0312172d893ab8b0305c911e43c46fe60ca70322d77b0fe9c08366c76",
+     "bytes": 2859568,
+     "created_utc": "2026-10-06T12:25:41Z",
+     "upscale": 2.4472,
+     "method": "realesrgan-x4plus+lanczos-down(0.612)",
+     "raw": "raw/es-01-254-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 889.8
+    }
+   ],
+   "withheld_variants": [],
+   "withheld_note": null
+  },
+  "es-01-256": {
+   "scene": "es-01-256",
+   "caption": "Vall de Núria, Queralbs",
+   "place": "the Santuari de Núria in the high Pyrenean valley of Vall de Núria, Queralbs, Catalonia",
+   "qc_utc": "2026-10-06T15:25:16Z",
+   "composed_utc": "2026-10-06T12:25:42Z",
+   "auto_qc": "PASS-with-warnings",
+   "visual_qc": "PASS",
+   "visual_notes": "Retry fixed: square granite tower with clock, open black iron bell frame with bells and cross on top, granite hotel block, meadows, bare peaks, lake reflection.",
+   "attempt": 2,
+   "overall": "PASS",
+   "signature": "curly",
+   "prompt_set": "primary",
+   "files": [
+    {
+     "name": "es-01-256-postcard-16x9.png",
+     "variant": "16x9",
+     "width": 1920,
+     "height": 1080,
+     "sha256": "f6bd6a825577dbd9d512f43b4267bade6b2e684482a432f708f400a738b77ba2",
+     "bytes": 3013330,
+     "created_utc": "2026-10-06T12:27:24Z",
+     "upscale": 1.5,
+     "method": "realesrgan-x4plus+lanczos-down(0.375)",
+     "raw": "raw/es-01-256-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1688.6
+    },
+    {
+     "name": "es-01-256-postcard-4x5.png",
+     "variant": "4x5",
+     "width": 1080,
+     "height": 1350,
+     "sha256": "4507186a6a3972bbbb61c64afa421dd8d2bd5fe87e03e05c361ee31741ced532",
+     "bytes": 2044474,
+     "created_utc": "2026-10-06T12:27:25Z",
+     "upscale": 1.6556,
+     "method": "realesrgan-x4plus+lanczos-down(0.414)",
+     "raw": "raw/es-01-256-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1524.6
+    },
+    {
+     "name": "es-01-256-postcard-9x16.png",
+     "variant": "9x16",
+     "width": 1080,
+     "height": 1920,
+     "sha256": "ea45b4cec31321ad4a415ef3fe7ca3eda5a0e7a600be86c9384efcb649b613dc",
+     "bytes": 3019203,
+     "created_utc": "2026-10-06T12:27:25Z",
+     "upscale": 2.4472,
+     "method": "realesrgan-x4plus+lanczos-down(0.612)",
+     "raw": "raw/es-01-256-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1236.0
+    }
+   ],
+   "withheld_variants": [],
+   "withheld_note": null
+  },
+  "es-01-286": {
+   "scene": "es-01-286",
+   "caption": "Dunas de Maspalomas, Gran Canaria",
+   "place": "the Dunas de Maspalomas and the Charca lagoon, Gran Canaria",
+   "qc_utc": "2026-10-06T15:25:18Z",
+   "composed_utc": "2026-10-06T12:27:27Z",
+   "auto_qc": "PASS-with-warnings",
+   "visual_qc": "PASS",
+   "visual_notes": "Rippled golden dunes, elongated Charca lagoon along the coastal edge, palm strip, slender stone lighthouse centred, Atlantic beyond.",
+   "attempt": 1,
+   "overall": "PASS",
+   "signature": "curly",
+   "prompt_set": "primary",
+   "files": [
+    {
+     "name": "es-01-286-postcard-16x9.png",
+     "variant": "16x9",
+     "width": 1920,
+     "height": 1080,
+     "sha256": "115f95f4bdf5122750c3bea61caf4d5e60de021e6710918534a4b2ed5b741b23",
+     "bytes": 2114904,
+     "created_utc": "2026-10-06T12:29:16Z",
+     "upscale": 1.5,
+     "method": "realesrgan-x4plus+lanczos-down(0.375)",
+     "raw": "raw/es-01-286-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 570.3
+    },
+    {
+     "name": "es-01-286-postcard-4x5.png",
+     "variant": "4x5",
+     "width": 1080,
+     "height": 1350,
+     "sha256": "8ed86a4d45d6b8f81a9953b5c861fda7ad2fa508d72e4731b5eb35c873dbee58",
+     "bytes": 1396871,
+     "created_utc": "2026-10-06T12:29:17Z",
+     "upscale": 1.6556,
+     "method": "realesrgan-x4plus+lanczos-down(0.414)",
+     "raw": "raw/es-01-286-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 551.3
+    },
+    {
+     "name": "es-01-286-postcard-9x16.png",
+     "variant": "9x16",
+     "width": 1080,
+     "height": 1920,
+     "sha256": "6a854934e2ba0cc539435f4ef2c777d088802905b0bcf100541d688dcde58d5c",
+     "bytes": 2073641,
+     "created_utc": "2026-10-06T12:29:18Z",
+     "upscale": 2.4472,
+     "method": "realesrgan-x4plus+lanczos-down(0.612)",
+     "raw": "raw/es-01-286-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 481.9
+    }
+   ],
+   "withheld_variants": [],
+   "withheld_note": null
+  },
+  "es-01-296": {
+   "scene": "es-01-296",
+   "caption": "Risco Caído, Gran Canaria",
+   "place": "the cave complex of Risco Caído in Barranco Hondo, Artenara, Gran Canaria",
+   "qc_utc": "2026-10-06T15:25:19Z",
+   "composed_utc": "2026-10-06T12:29:19Z",
+   "auto_qc": "PASS-with-warnings",
+   "visual_qc": "PASS",
+   "visual_notes": "Accepted at attempt 3 as an artistic interpretation: tuff cliff with rounded cave mouths in loose rows, terraces, pines, volcanic mountains. Caves still more numerous and regular than the real site; flagged for Cosmo/director review.",
+   "attempt": 3,
+   "overall": "PASS",
+   "signature": "curly",
+   "prompt_set": "primary",
+   "files": [
+    {
+     "name": "es-01-296-postcard-16x9.png",
+     "variant": "16x9",
+     "width": 1920,
+     "height": 1080,
+     "sha256": "d5399bc9cd8d6438e465836d5556ea1a6472243b3321195e859d246cbbe67890",
+     "bytes": 3401280,
+     "created_utc": "2026-10-06T12:31:15Z",
+     "upscale": 1.5,
+     "method": "realesrgan-x4plus+lanczos-down(0.375)",
+     "raw": "raw/es-01-296-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 2319.4
+    },
+    {
+     "name": "es-01-296-postcard-4x5.png",
+     "variant": "4x5",
+     "width": 1080,
+     "height": 1350,
+     "sha256": "e7deb5ae2a2fa6c3c23669d161d2ebb1cc45a90fc56e72a1f8edd86e826db7b0",
+     "bytes": 2248229,
+     "created_utc": "2026-10-06T12:31:16Z",
+     "upscale": 1.6556,
+     "method": "realesrgan-x4plus+lanczos-down(0.414)",
+     "raw": "raw/es-01-296-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1997.2
+    },
+    {
+     "name": "es-01-296-postcard-9x16.png",
+     "variant": "9x16",
+     "width": 1080,
+     "height": 1920,
+     "sha256": "69cb985a242a7cf5eb23c71f4c60f6147ea7a790ae0a750a3cee8a2f6c493541",
+     "bytes": 3027606,
+     "created_utc": "2026-10-06T12:31:16Z",
+     "upscale": 2.4472,
+     "method": "realesrgan-x4plus+lanczos-down(0.612)",
+     "raw": "raw/es-01-296-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1031.4
+    }
+   ],
+   "withheld_variants": [],
+   "withheld_note": null
+  },
+  "es-01-299": {
+   "scene": "es-01-299",
+   "caption": "Arucas, Gran Canaria",
+   "place": "the Iglesia de San Juan Bautista in Arucas, Gran Canaria",
+   "qc_utc": "2026-10-06T15:25:20Z",
+   "composed_utc": "2026-10-06T12:31:17Z",
+   "auto_qc": "PASS-with-warnings",
+   "visual_qc": "PASS",
+   "visual_notes": "Dark grey basalt Neo-Gothic church, shorter clock tower left, one tall needle spire right, rose window, pinnacles, laurels and palm in plaza.",
+   "attempt": 1,
+   "overall": "PASS",
+   "signature": "curly",
+   "prompt_set": "primary",
+   "files": [
+    {
+     "name": "es-01-299-postcard-16x9.png",
+     "variant": "16x9",
+     "width": 1920,
+     "height": 1080,
+     "sha256": "b82bde2600ceaaf43f47c0e009725315d708d3844b326347073e0622bac1449e",
+     "bytes": 2797214,
+     "created_utc": "2026-10-06T12:33:05Z",
+     "upscale": 1.5,
+     "method": "realesrgan-x4plus+lanczos-down(0.375)",
+     "raw": "raw/es-01-299-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 2616.2
+    },
+    {
+     "name": "es-01-299-postcard-4x5.png",
+     "variant": "4x5",
+     "width": 1080,
+     "height": 1350,
+     "sha256": "3f529282a7b25e4942e934b86fe79537264cff00e1525a9712e4f620dc481767",
+     "bytes": 1888239,
+     "created_utc": "2026-10-06T12:33:05Z",
+     "upscale": 1.6556,
+     "method": "realesrgan-x4plus+lanczos-down(0.414)",
+     "raw": "raw/es-01-299-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1976.7
+    },
+    {
+     "name": "es-01-299-postcard-9x16.png",
+     "variant": "9x16",
+     "width": 1080,
+     "height": 1920,
+     "sha256": "02b2a698386cb3a97d517d489f5dfb884a0c087d453f712983b984fc535ab21c",
+     "bytes": 2760577,
+     "created_utc": "2026-10-06T12:33:06Z",
+     "upscale": 2.4472,
+     "method": "realesrgan-x4plus+lanczos-down(0.612)",
+     "raw": "raw/es-01-299-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1372.1
+    }
+   ],
+   "withheld_variants": [],
+   "withheld_note": null
+  },
+  "es-01-318": {
+   "scene": "es-01-318",
+   "caption": "El Capricho, Comillas",
+   "place": "El Capricho, Gaudí's villa in Comillas, Cantabria",
+   "qc_utc": "2026-10-06T15:25:22Z",
+   "composed_utc": "2026-10-06T12:33:07Z",
+   "auto_qc": "PASS-with-warnings",
+   "visual_qc": "PASS",
+   "visual_notes": "Red brick with green/yellow tile bands, slender tower on column porch, green bulbous cupola with red extrusions and white finial, garden lawn.",
+   "attempt": 1,
+   "overall": "PASS",
+   "signature": "curly",
+   "prompt_set": "primary",
+   "files": [
+    {
+     "name": "es-01-318-postcard-16x9.png",
+     "variant": "16x9",
+     "width": 1920,
+     "height": 1080,
+     "sha256": "6e13d808a03727e194a3541b98d78daae4667de3ab7b404144277fb513f28834",
+     "bytes": 2801416,
+     "created_utc": "2026-10-06T12:34:59Z",
+     "upscale": 1.5,
+     "method": "realesrgan-x4plus+lanczos-down(0.375)",
+     "raw": "raw/es-01-318-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 2056.2
+    },
+    {
+     "name": "es-01-318-postcard-4x5.png",
+     "variant": "4x5",
+     "width": 1080,
+     "height": 1350,
+     "sha256": "5c8a3b1fa4985f01b1230d72ce99d915b279cfbc231d0ef3e8914f4dc5c5f3ae",
+     "bytes": 1877051,
+     "created_utc": "2026-10-06T12:35:00Z",
+     "upscale": 1.6556,
+     "method": "realesrgan-x4plus+lanczos-down(0.414)",
+     "raw": "raw/es-01-318-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1341.1
+    },
+    {
+     "name": "es-01-318-postcard-9x16.png",
+     "variant": "9x16",
+     "width": 1080,
+     "height": 1920,
+     "sha256": "ff815bb76417328f5883f21129986cbd1b2fbfc4476a7740f7a12a962acfbd02",
+     "bytes": 2839879,
+     "created_utc": "2026-10-06T12:35:01Z",
+     "upscale": 2.4472,
+     "method": "realesrgan-x4plus+lanczos-down(0.612)",
+     "raw": "raw/es-01-318-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1018.2
+    }
+   ],
+   "withheld_variants": [],
+   "withheld_note": null
+  },
+  "es-01-351": {
+   "scene": "es-01-351",
+   "caption": "Gran Vía, Madrid",
+   "place": "Gran Vía in Madrid looking toward the Metrópolis building",
+   "qc_utc": "2026-10-06T15:25:23Z",
+   "composed_utc": "2026-10-06T12:35:02Z",
+   "auto_qc": "PASS-with-warnings",
+   "visual_qc": "PASS",
+   "visual_notes": "White Beaux-Arts rotunda with Corinthian columns, black slate dome with gilding, bronze winged Victory, ornate avenue both sides, light traffic; no readable signage.",
+   "attempt": 1,
+   "overall": "PASS",
+   "signature": "curly",
+   "prompt_set": "primary",
+   "files": [
+    {
+     "name": "es-01-351-postcard-16x9.png",
+     "variant": "16x9",
+     "width": 1920,
+     "height": 1080,
+     "sha256": "b8924034495b86469ed283e631b3680bdc2c4c331c93ad923da0d811fac3ea5c",
+     "bytes": 2707643,
+     "created_utc": "2026-10-06T12:37:00Z",
+     "upscale": 1.5,
+     "method": "realesrgan-x4plus+lanczos-down(0.375)",
+     "raw": "raw/es-01-351-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 2341.1
+    },
+    {
+     "name": "es-01-351-postcard-4x5.png",
+     "variant": "4x5",
+     "width": 1080,
+     "height": 1350,
+     "sha256": "b01ab1696b4d78aabc6383ef5021c68f73d51ce56b3c5ac67b73e36249eec296",
+     "bytes": 1711308,
+     "created_utc": "2026-10-06T12:37:01Z",
+     "upscale": 1.6556,
+     "method": "realesrgan-x4plus+lanczos-down(0.414)",
+     "raw": "raw/es-01-351-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1447.8
+    },
+    {
+     "name": "es-01-351-postcard-9x16.png",
+     "variant": "9x16",
+     "width": 1080,
+     "height": 1920,
+     "sha256": "77dc3731474d6d457627c5363d6862a1cf7f27a68cafdb347b7097db1829826b",
+     "bytes": 2646831,
+     "created_utc": "2026-10-06T12:37:02Z",
+     "upscale": 2.4472,
+     "method": "realesrgan-x4plus+lanczos-down(0.612)",
+     "raw": "raw/es-01-351-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1282.7
+    }
+   ],
+   "withheld_variants": [],
+   "withheld_note": null
+  },
+  "es-01-352": {
+   "scene": "es-01-352",
+   "caption": "Cibeles, Madrid",
+   "place": "the Cibeles Fountain and Palacio de Cibeles in Madrid",
+   "qc_utc": "2026-10-06T15:25:25Z",
+   "composed_utc": "2026-10-06T12:37:03Z",
+   "auto_qc": "PASS-with-warnings",
+   "visual_qc": "PASS",
+   "visual_notes": "Cybele on chariot drawn by exactly two lions, water jets, white Palacio de Cibeles with central tower and pinnacled corner towers, trees.",
+   "attempt": 1,
+   "overall": "PASS",
+   "signature": "curly",
+   "prompt_set": "primary",
+   "files": [
+    {
+     "name": "es-01-352-postcard-16x9.png",
+     "variant": "16x9",
+     "width": 1920,
+     "height": 1080,
+     "sha256": "49a03c1b2313768d1d48418f4e185ced72ba867b67a64681135e87437f96fdb8",
+     "bytes": 2879516,
+     "created_utc": "2026-10-06T12:38:58Z",
+     "upscale": 1.5,
+     "method": "realesrgan-x4plus+lanczos-down(0.375)",
+     "raw": "raw/es-01-352-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 2071.5
+    },
+    {
+     "name": "es-01-352-postcard-4x5.png",
+     "variant": "4x5",
+     "width": 1080,
+     "height": 1350,
+     "sha256": "eb5ed1fc9a220c462e003a4a92a15683d3b00427ac413af35e6932124e83b30c",
+     "bytes": 2089526,
+     "created_utc": "2026-10-06T12:38:59Z",
+     "upscale": 1.6556,
+     "method": "realesrgan-x4plus+lanczos-down(0.414)",
+     "raw": "raw/es-01-352-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1840.7
+    },
+    {
+     "name": "es-01-352-postcard-9x16.png",
+     "variant": "9x16",
+     "width": 1080,
+     "height": 1920,
+     "sha256": "20a3f5caa36d2be841ef8cad162489a42f03d2fbdda0af57bd39d1f44fc3b8b2",
+     "bytes": 3037140,
+     "created_utc": "2026-10-06T12:39:00Z",
+     "upscale": 2.4472,
+     "method": "realesrgan-x4plus+lanczos-down(0.612)",
+     "raw": "raw/es-01-352-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1297.7
+    }
+   ],
+   "withheld_variants": [],
+   "withheld_note": null
+  },
+  "es-01-156": {
+   "scene": "es-01-156",
+   "caption": "Caravaca de la Cruz, Caravaca de la Cruz",
+   "place": "the Real Alcázar-Santuario de la Vera Cruz on the castle hill of Caravaca de la Cruz, Murcia",
+   "qc_utc": "2026-10-06T15:25:26Z",
+   "composed_utc": "2026-10-06T12:39:01Z",
+   "auto_qc": "PASS-with-warnings",
+   "visual_qc": "PASS",
+   "visual_notes": "Red/black/white jasper retablo facade with patriarchal double-armed cross in niche (verified at crop), pinnacle crest, inside curtain walls with square towers, old town below.",
+   "attempt": 1,
+   "overall": "PASS",
+   "signature": "curly",
+   "prompt_set": "primary",
+   "files": [
+    {
+     "name": "es-01-156-postcard-16x9.png",
+     "variant": "16x9",
+     "width": 1920,
+     "height": 1080,
+     "sha256": "c9d8a8781142ba405629a5b0739eea825f82fde8f2854557075197a8f7cc38ef",
+     "bytes": 2373399,
+     "created_utc": "2026-10-06T12:40:45Z",
+     "upscale": 1.5,
+     "method": "realesrgan-x4plus+lanczos-down(0.375)",
+     "raw": "raw/es-01-156-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1217.2
+    },
+    {
+     "name": "es-01-156-postcard-4x5.png",
+     "variant": "4x5",
+     "width": 1080,
+     "height": 1350,
+     "sha256": "acfdc006385c7bc8d423703d47cfe5bce9b58604cd585d3e5bdfdde750bc485b",
+     "bytes": 1853394,
+     "created_utc": "2026-10-06T12:40:45Z",
+     "upscale": 1.6556,
+     "method": "realesrgan-x4plus+lanczos-down(0.414)",
+     "raw": "raw/es-01-156-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1322.7
+    },
+    {
+     "name": "es-01-156-postcard-9x16.png",
+     "variant": "9x16",
+     "width": 1080,
+     "height": 1920,
+     "sha256": "43d8487eb6a446439724018e62a1ce959afc0de6e7b703034820d6a3562f7b1d",
+     "bytes": 2813118,
+     "created_utc": "2026-10-06T12:40:46Z",
+     "upscale": 2.4472,
+     "method": "realesrgan-x4plus+lanczos-down(0.612)",
+     "raw": "raw/es-01-156-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1154.9
+    }
+   ],
+   "withheld_variants": [],
+   "withheld_note": null
+  },
+  "es-01-280": {
+   "scene": "es-01-280",
+   "caption": "Porta Ferrada, Sant Feliu de Guíxols",
+   "place": "the Porta Ferrada of the monastery of Sant Feliu de Guíxols, Costa Brava, Catalonia",
+   "qc_utc": "2026-10-06T15:25:28Z",
+   "composed_utc": "2026-10-06T12:40:47Z",
+   "auto_qc": "PASS-with-warnings",
+   "visual_qc": "PASS",
+   "visual_notes": "Exactly three horseshoe-style arches, gallery of paired openings above, semicircular Torre del Fum left, rectangular Torre del Corn right, pale stone, paved courtyard.",
+   "attempt": 1,
+   "overall": "PASS",
+   "signature": "curly",
+   "prompt_set": "primary",
+   "files": [
+    {
+     "name": "es-01-280-postcard-16x9.png",
+     "variant": "16x9",
+     "width": 1920,
+     "height": 1080,
+     "sha256": "899a2f8f6993d2038b98eb7e8099c087bb8b55734d8778e79506d280074beb11",
+     "bytes": 3020980,
+     "created_utc": "2026-10-06T12:42:29Z",
+     "upscale": 1.5,
+     "method": "realesrgan-x4plus+lanczos-down(0.375)",
+     "raw": "raw/es-01-280-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1680.1
+    },
+    {
+     "name": "es-01-280-postcard-4x5.png",
+     "variant": "4x5",
+     "width": 1080,
+     "height": 1350,
+     "sha256": "1c4c08b235fbe40213c753881eb14491616e891e608b484492e8b9b496093398",
+     "bytes": 1951326,
+     "created_utc": "2026-10-06T12:42:30Z",
+     "upscale": 1.6556,
+     "method": "realesrgan-x4plus+lanczos-down(0.414)",
+     "raw": "raw/es-01-280-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1251.5
+    }
+   ],
+   "withheld_variants": [
+    "9x16"
+   ],
+   "withheld_note": "9:16 withheld per Cosmo (inbox/cosmo-answers-wo015-postcards.json): narrow crop cannot hold the key features."
+  },
+  "es-01-313": {
+   "scene": "es-01-313",
+   "caption": "Gijón, Asturias",
+   "place": "Gijón's bay with the church of San Pedro and the Cerro de Santa Catalina, Asturias",
+   "qc_utc": "2026-10-06T15:25:29Z",
+   "composed_utc": "2026-10-06T12:42:32Z",
+   "auto_qc": "PASS-with-warnings",
+   "visual_qc": "PASS",
+   "visual_notes": "Sandstone San Pedro church with single central tower behind seawall, green Santa Catalina headland with Elogio del Horizonte sculpture, colourful Cimadevilla houses, beach and sea foreground.",
+   "attempt": 1,
+   "overall": "PASS",
+   "signature": "curly",
+   "prompt_set": "primary",
+   "files": [
+    {
+     "name": "es-01-313-postcard-16x9.png",
+     "variant": "16x9",
+     "width": 1920,
+     "height": 1080,
+     "sha256": "c5fc3865aa14c56f64a21588671fec3dcdc12145f004c28f44db9c1223e48cb2",
+     "bytes": 2687131,
+     "created_utc": "2026-10-06T12:44:23Z",
+     "upscale": 1.5,
+     "method": "realesrgan-x4plus+lanczos-down(0.375)",
+     "raw": "raw/es-01-313-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1433.7
+    },
+    {
+     "name": "es-01-313-postcard-4x5.png",
+     "variant": "4x5",
+     "width": 1080,
+     "height": 1350,
+     "sha256": "2941a9db825972736b22e8a4e5143768dd0fc1b44c9a26b79567af3f267fd0ca",
+     "bytes": 1982355,
+     "created_utc": "2026-10-06T12:44:23Z",
+     "upscale": 1.6556,
+     "method": "realesrgan-x4plus+lanczos-down(0.414)",
+     "raw": "raw/es-01-313-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1213.1
+    },
+    {
+     "name": "es-01-313-postcard-9x16.png",
+     "variant": "9x16",
+     "width": 1080,
+     "height": 1920,
+     "sha256": "7f98b840f842eb3f8d2a6dab70fe469c505c96734c84a37acb618386124f4816",
+     "bytes": 2995002,
+     "created_utc": "2026-10-06T12:44:24Z",
+     "upscale": 2.4472,
+     "method": "realesrgan-x4plus+lanczos-down(0.612)",
+     "raw": "raw/es-01-313-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1004.8
+    }
+   ],
+   "withheld_variants": [],
+   "withheld_note": null
+  },
+  "es-01-354": {
+   "scene": "es-01-354",
+   "caption": "Old Town, Hondarribia",
+   "place": "the old town of Hondarribia and the Castle of Charles V, Basque Country",
+   "qc_utc": "2026-10-06T15:25:30Z",
+   "composed_utc": "2026-10-06T12:44:25Z",
+   "auto_qc": "PASS-with-warnings",
+   "visual_qc": "PASS",
+   "visual_notes": "Square ashlar palace-fortress with no towers, arched doorway with carved shield above, coloured wooden balconies with carved eaves, Santa Maria gate arch, cobbles.",
+   "attempt": 1,
+   "overall": "PASS",
+   "signature": "curly",
+   "prompt_set": "primary",
+   "files": [
+    {
+     "name": "es-01-354-postcard-16x9.png",
+     "variant": "16x9",
+     "width": 1920,
+     "height": 1080,
+     "sha256": "4848a1799a26c7663894f2885d2f3c714b3c3eb682e34632a8471bc43bc6d8e0",
+     "bytes": 3034513,
+     "created_utc": "2026-10-06T12:46:23Z",
+     "upscale": 1.5,
+     "method": "realesrgan-x4plus+lanczos-down(0.375)",
+     "raw": "raw/es-01-354-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 2196.0
+    },
+    {
+     "name": "es-01-354-postcard-4x5.png",
+     "variant": "4x5",
+     "width": 1080,
+     "height": 1350,
+     "sha256": "1316223c53c9d5a650f4911ac2b489305afb9a490ccfbc65988465520179be4b",
+     "bytes": 2081852,
+     "created_utc": "2026-10-06T12:46:23Z",
+     "upscale": 1.6556,
+     "method": "realesrgan-x4plus+lanczos-down(0.414)",
+     "raw": "raw/es-01-354-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1663.1
+    },
+    {
+     "name": "es-01-354-postcard-9x16.png",
+     "variant": "9x16",
+     "width": 1080,
+     "height": 1920,
+     "sha256": "d3b6396b377037c2accbe0e4f226000706a8c54f0222d7f00863887a74292aac",
+     "bytes": 3077906,
+     "created_utc": "2026-10-06T12:46:24Z",
+     "upscale": 2.4472,
+     "method": "realesrgan-x4plus+lanczos-down(0.612)",
+     "raw": "raw/es-01-354-16x9.png",
+     "raw_size": [
+      1280,
+      720
+     ],
+     "laplacian_var": 1158.5
+    }
+   ],
+   "withheld_variants": [],
+   "withheld_note": null
+  }
+ },
+ "updated_utc": "2026-10-06T15:25:41Z",
+ "format": {
+  "canvas": {
+   "16x9": [
+    1920,
+    1080
+   ],
+   "4x5": [
+    1080,
+    1350
+   ],
+   "9x16": [
+    1080,
+    1920
+   ]
+  },
+  "bar_height": 158,
+  "hairline_rgb": [
+   60,
+   60,
+   70
+  ],
+  "fill_rgb": [
+   14,
+   14,
+   18
+  ],
+  "disclosure": "AI-generated artistic interpretation · Not a photograph.",
+  "spec": "ref/templates/bar-spec.json"
+ },
+ "counts": {
+  "requested": 46,
+  "qc_run": 36,
+  "auto_pass": 36,
+  "overall_pass": 36,
+  "fail": 0,
+  "files_to_ship": 104,
+  "hold_or_pending": 0,
+  "not_built": [],
+  "skipped_existing_on_main": [
+   "es-01-133",
+   "es-01-134",
+   "es-01-135",
+   "es-01-136",
+   "es-01-137",
+   "es-01-140",
+   "es-01-141",
+   "es-01-142",
+   "es-01-145",
+   "es-01-139"
+  ]
+ },
+ "ship": {
+  "built_utc": "2026-10-06T15:25:41Z",
+  "files": 104,
+  "audit": "WO-2026-10-06-015-audit.md",
+  "conditions": "inbox/cosmo-answers-wo015-postcards.json (9:16 withheld for es-01-101, es-01-147, es-01-227, es-01-280)"
+ }
+}
