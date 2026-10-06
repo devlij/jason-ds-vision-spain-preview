@@ -31,6 +31,7 @@
   "description": "From the Praza do Obradoiro, the cathedral's baroque facade rises before you — the great west front floodlit, with its twin towers framing the carved stonework at the center of the frame. The vast granite square stretches out in the foreground, empty and echoing at this hour. This is the end of the Camino, the goal of a million pilgrimages — and by night the cathedral holds the square in solemn, golden light.",
   "file_16x9": "es-01-304-r1-16x9.png",
   "file_4x5": "es-01-304-r1-4x5.png",
+  "file_9x16": "es-01-304-r1-9x16.png",
   "file_16x9_postcard": "es-01-304-postcard-16x9.png",
   "file_4x5_postcard": "es-01-304-postcard-4x5.png",
   "file_9x16_postcard": "es-01-304-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "786189ebb8ecfb1c9d88dedff810f04092f98e945a162294800bc5bbf8b9d753"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "d7cecde87fce154e0a92d48d8bc8c859c5b65ba32019bc0b1239e40de044b5a5"
     }
   },
   "masters": {

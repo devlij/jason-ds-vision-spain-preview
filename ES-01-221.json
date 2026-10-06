@@ -25,6 +25,7 @@
   "description": "From the castle viewpoint at night, look down on Mojácar. The white hilltop village glows across the frame, its houses and the old church clustered on the ridge, with the dark plain running to the sea on one side. The lights trace the old Moorish street plan better than any map.",
   "file_16x9": "es-01-221-r1-16x9.png",
   "file_4x5": "es-01-221-r1-4x5.png",
+  "file_9x16": "es-01-221-r1-9x16.png",
   "file_16x9_postcard": "es-01-221-postcard-16x9.png",
   "file_4x5_postcard": "es-01-221-postcard-4x5.png",
   "file_9x16_postcard": "es-01-221-postcard-9x16.png",
@@ -38,6 +39,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "a1a9c3b573b9c0b316d63b8b617c7bc07a5f0a067cacd5060bd02e436c390803"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "d8ff96bd901a3c1b9ce6e71adf456ce7ed9af01690fb5905172053b8a0481ee6"
     }
   },
   "masters": {

@@ -31,6 +31,7 @@
   "description": "From the subterranean lake inside the lava tube, the still turquoise water stretches toward the collapsed roof opening — the famous jameo — where a shaft of night sky shows through the volcanic rock. Soft lighting glows along the water's edge and the palms planted by César Manrique stand dark against the opening. Jameos del Agua is Manrique's masterpiece of art and nature, and the underground lake holds its turquoise calm in the dark.",
   "file_16x9": "es-01-288-r1-16x9.png",
   "file_4x5": "es-01-288-r1-4x5.png",
+  "file_9x16": "es-01-288-r1-9x16.png",
   "file_16x9_postcard": "es-01-288-postcard-16x9.png",
   "file_4x5_postcard": "es-01-288-postcard-4x5.png",
   "file_9x16_postcard": "es-01-288-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "782b053813a8fe595e6392706b185afabc2c91e0e25318405eee176589730326"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "e8c59999f91b514f4ee6197b5a0fcf9fb39194c2f5ee8bacad0ca94bb9ffb31e"
     }
   },
   "masters": {

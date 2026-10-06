@@ -31,6 +31,7 @@
   "description": "From the square at Cibeles at night, the fountain's illuminated water dances before the glowing Palacio de Cibeles. The white palace blazes with light behind the spraying jets, its towers rising into the dark sky. Traffic circles the fountain; the palace and water together make Madrid's grandest night postcard.",
   "file_16x9": "es-01-352-r1-16x9.png",
   "file_4x5": "es-01-352-r1-4x5.png",
+  "file_9x16": "es-01-352-r1-9x16.png",
   "file_16x9_postcard": "es-01-352-postcard-16x9.png",
   "file_4x5_postcard": "es-01-352-postcard-4x5.png",
   "file_9x16_postcard": "es-01-352-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "cba5be1709de3f1140d06cdc47a5356eb7d5c7d70d944e29b619d9e3f55d45a0"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "1ab22f1c10f0390e058b9d60336bbfdfdc532a8668e0d9c16f01639c6cf2bffa"
     }
   },
   "masters": {

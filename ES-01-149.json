@@ -31,6 +31,7 @@
   "description": "From the town below at night, Sagunto Castle stretches along its hilltop in a long lit line against the dark sky. The frame runs with the ancient fortress walls left to right above the sleeping town. Two thousand years of stone keep their line through the night.",
   "file_16x9": "es-01-149-r1-16x9.png",
   "file_4x5": "es-01-149-r1-4x5.png",
+  "file_9x16": "es-01-149-r1-9x16.png",
   "file_16x9_postcard": "es-01-149-postcard-16x9.png",
   "file_4x5_postcard": "es-01-149-postcard-4x5.png",
   "file_9x16_postcard": "es-01-149-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "fba9b32f9e7452743bab7f34ed510ccc9f8c7081d705edcf5b53ec5874b63d27"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "9ef85b3a4b23aeb1e2bb27b781a759fbfa03bfb518b5f206dec0cc85cf4f5c50"
     }
   },
   "masters": {

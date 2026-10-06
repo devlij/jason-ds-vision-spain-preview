@@ -31,6 +31,7 @@
   "description": "La Orotava's historic center climbs its hillside with the peak of Teide filling the sky behind it. Lit facades and the church towers stand out while the volcano is a great dark cone against the stars. The island's grandest old town, watched over by its giant.",
   "file_16x9": "es-01-168-r1-16x9.png",
   "file_4x5": "es-01-168-r1-4x5.png",
+  "file_9x16": "es-01-168-r1-9x16.png",
   "file_16x9_postcard": "es-01-168-postcard-16x9.png",
   "file_4x5_postcard": "es-01-168-postcard-4x5.png",
   "file_9x16_postcard": "es-01-168-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "5440cfc5a3bdb02f7d934a806ff5c0dca4201f698fb5e1841ce28638133ada6c"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "410a8f4293960603f98705ad77a234e96650f81424821fb4f95dec6bd06f9036"
     }
   },
   "masters": {

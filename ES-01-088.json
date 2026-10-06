@@ -31,6 +31,7 @@
   "description": "From the banks of the Miño at night, Ourense's old town rises above the dark river, its lights scattered up the hillside. The old quarter glows softly while the river runs black below, the famous bridges spanning the water in silhouette. The thermal city steams quietly into the night.",
   "file_16x9": "es-01-088-r1-16x9.png",
   "file_4x5": "es-01-088-r1-4x5.png",
+  "file_9x16": "es-01-088-r1-9x16.png",
   "file_16x9_postcard": "es-01-088-postcard-16x9.png",
   "file_4x5_postcard": "es-01-088-postcard-4x5.png",
   "file_9x16_postcard": "es-01-088-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "b1af0d7affe6661da7810c9d93cd5cc28ca2938ef207d7614a8d4a0eb92da174"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "b7fad2fb8de8f668b6ac557f84afa324b7bb960c28e086b0ae1f685c3f430c21"
     }
   },
   "masters": {

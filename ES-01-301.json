@@ -31,6 +31,7 @@
   "description": "From the Plaza de Santa Ana, the cathedral of Las Palmas fills the frame — its neoclassical facade and towers rising behind the famous bronze dogs that guard the square in the foreground. The dogs stand dark and watchful on their plinths while the cathedral glows above them. This is the historic heart of the Canarian capital — cathedral, square, and the eight bronze hounds that everyone photographs.",
   "file_16x9": "es-01-301-r1-16x9.png",
   "file_4x5": "es-01-301-r1-4x5.png",
+  "file_9x16": "es-01-301-r1-9x16.png",
   "file_16x9_postcard": "es-01-301-postcard-16x9.png",
   "file_4x5_postcard": "es-01-301-postcard-4x5.png",
   "file_9x16_postcard": "es-01-301-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "d67e4f0a593b5fab5046a304c47a08e9c92c16be906f52d96e888cdecf7712d3"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "c14d331cc902d1e6d6d4621e0bb3a68680aed7af9069fbacee08b2631a8dafe2"
     }
   },
   "masters": {

@@ -31,6 +31,7 @@
   "description": "From the valley at night, Sóller glows in its bowl beneath the dark wall of the Tramuntana. The frame holds the old town's warm lights with the black mountain silhouette rising behind. The famous valley sleeps under its tramuntana dark.",
   "file_16x9": "es-01-160-r2-16x9.png",
   "file_4x5": "es-01-160-r2-4x5.png",
+  "file_9x16": "es-01-160-r2-9x16.png",
   "file_16x9_postcard": "es-01-160-postcard-16x9.png",
   "file_4x5_postcard": "es-01-160-postcard-4x5.png",
   "file_9x16_postcard": "es-01-160-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "7667cc5e2f8b2376848975e6bf929e752466bd70c21139145e6d14038207cc4a"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "dcf75d2746885d15a886ca429afc9d89c8f0b397b469c86831be6d72b27ae830"
     }
   },
   "masters": {

@@ -31,6 +31,7 @@
   "description": "From the cobbled street at night, Teruel's Torre de San Martín rises floodlit, its Mudejar brickwork glowing against the dark sky. The glazed tiles and patterned brick shine under the lights while the old town sleeps in shadow around it. The tower stands as the quarter's luminous beacon, centuries of Mudejar craft lit for the night.",
   "file_16x9": "es-01-365-r1-16x9.png",
   "file_4x5": "es-01-365-r1-4x5.png",
+  "file_9x16": "es-01-365-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "34802094d136b585f2c35e1f716528680983e6f5b35aece6a2af92633859b3dc"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "ec5d26282e6149bcce899b5e5bec6340055049c9d21c388b15589b0f9dcd0a6b"
     }
   },
   "masters": {

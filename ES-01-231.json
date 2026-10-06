@@ -31,6 +31,7 @@
   "description": "At the Punta del Sebo in Huelva after dark, the colossal cubist Columbus monument towers above the river confluence. Its angular stone mass is a dark giant against the night sky, the Odiel and Tinto rivers merging black and silent below. The monument looms over the water, alone in the night stillness.",
   "file_16x9": "es-01-231-r1-16x9.png",
   "file_4x5": "es-01-231-r1-4x5.png",
+  "file_9x16": "es-01-231-r1-9x16.png",
   "file_16x9_postcard": "es-01-231-postcard-16x9.png",
   "file_4x5_postcard": "es-01-231-postcard-4x5.png",
   "file_9x16_postcard": "es-01-231-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "a3fe1ab7f10a20d08a56a63d3df5c47d3eff9d023088102bd4b25c101d24ddaf"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "2e91a9b28dfcffa5f31c68c1b132ee5e511ec272454d8555732ef67577120b53"
     }
   },
   "masters": {

@@ -31,6 +31,7 @@
   "description": "From the air's vantage at night, La Manga is a thin strip of light strung between two black seas — the Mediterranean on one side, the Mar Menor on the other. The frame runs with the glowing ribbon of the strip, its hotels and streets lit against the dark water on both flanks. A narrow world of light between two night seas.",
   "file_16x9": "es-01-157-r1-16x9.png",
   "file_4x5": "es-01-157-r1-4x5.png",
+  "file_9x16": "es-01-157-r1-9x16.png",
   "file_16x9_postcard": "es-01-157-postcard-16x9.png",
   "file_4x5_postcard": "es-01-157-postcard-4x5.png",
   "file_9x16_postcard": "es-01-157-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "c33992a221f5e1265f724cbb4eaaad4dcc61eb5c018594cc61a97cd8e9ad760c"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "7301985caecfe1a50bb645f2a1a8e9b44fa5d489ee35014fd120b4621a50c929"
     }
   },
   "masters": {

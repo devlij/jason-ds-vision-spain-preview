@@ -31,6 +31,7 @@
   "description": "From the square at the village's heart, the old stone houses cluster tight around the church, their windows glowing warm under a sky full of stars. The church's bell tower rises at the center of the frame, with slate roofs and stone facades packed close on every side. Rupit sits deep in the Collsacabra hills, and on a clear night like this the village glows like an ember in the dark.",
   "file_16x9": "es-01-278-r1-16x9.png",
   "file_4x5": "es-01-278-r1-4x5.png",
+  "file_9x16": "es-01-278-r1-9x16.png",
   "file_16x9_postcard": "es-01-278-postcard-16x9.png",
   "file_4x5_postcard": "es-01-278-postcard-4x5.png",
   "file_9x16_postcard": "es-01-278-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "6d14ac0398e8b4b8a97ecaded7751d2421271b19d3cecc0534f553212dbc6572"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "75667e8807e60ec1f30743a004a252193f9a6e4d26fa474eae33dce4ebc23574"
     }
   },
   "masters": {

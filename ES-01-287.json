@@ -31,6 +31,7 @@
   "description": "From the viewpoint area, the malpaís lava field stretches out toward the Fire Mountains — black volcanic badlands rolling to the dark cones on the horizon under a starry sky. The twisted lava catches faint moonlight on its ridges while the volcanic cones stand in layered silhouette. Timanfaya is Lanzarote's raw volcanic heart; by night, in this artistic view, it feels like the surface of another planet.",
   "file_16x9": "es-01-287-r2-16x9.png",
   "file_4x5": "es-01-287-r2-4x5.png",
+  "file_9x16": "es-01-287-r2-9x16.png",
   "file_16x9_postcard": "es-01-287-postcard-16x9.png",
   "file_4x5_postcard": "es-01-287-postcard-4x5.png",
   "file_9x16_postcard": "es-01-287-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "e7dbe0296d01e348a167db3f8f980f000f609c10e384add7c0616fdf9172cf0c"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "5a250cc69c6c84741d266a5459055712f44630d29ad76c0713def1b99757d66c"
     }
   },
   "masters": {

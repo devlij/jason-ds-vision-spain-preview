@@ -31,6 +31,7 @@
   "description": "On the Balcón de Europa in Nerja at night, the clifftop promenade ends at the rail above the dark sea. Moonlight glints on the water far below while the coves curl dark into the cliffs on either side. The town's lights glow behind you; ahead is only the black Mediterranean and the starry sky.",
   "file_16x9": "es-01-233-r1-16x9.png",
   "file_4x5": "es-01-233-r1-4x5.png",
+  "file_9x16": "es-01-233-r1-9x16.png",
   "file_16x9_postcard": "es-01-233-postcard-16x9.png",
   "file_4x5_postcard": "es-01-233-postcard-4x5.png",
   "file_9x16_postcard": "es-01-233-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "6dd211ca9cff3600f1ce359f372259c549e702550987d07a09d4c9c593d3965a"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "e205ddb98317d80efc5d5f011a5ba1f196b4c8db3f8853e55b7e2440a70a11d0"
     }
   },
   "masters": {

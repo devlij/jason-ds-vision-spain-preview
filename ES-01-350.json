@@ -31,6 +31,7 @@
   "description": "From the gardens of El Escorial at night, the monastery's vast illuminated façade stretches across the darkness. Floodlights wash the granite front, its grid of windows glowing against the black sky. The great rectangle of the monastery stands immense and ordered, the gardens before it dark and still.",
   "file_16x9": "es-01-350-r1-16x9.png",
   "file_4x5": "es-01-350-r1-4x5.png",
+  "file_9x16": "es-01-350-r1-9x16.png",
   "file_16x9_postcard": "es-01-350-postcard-16x9.png",
   "file_4x5_postcard": "es-01-350-postcard-4x5.png",
   "file_9x16_postcard": "es-01-350-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "46aded293b5721a743f261e96f36e6f600f3257656f635ec89b7ab435c9dc40b"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "6c84243173a8564a1127d9512e4ad27b0b67ced8c50ddfc9e5d1ea28aa9a24c3"
     }
   },
   "masters": {

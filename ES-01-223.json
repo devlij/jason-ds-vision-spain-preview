@@ -25,6 +25,7 @@
   "description": "From the upper park at night, look down on Cartagena's Roman Theatre. The semicircular cavea curves across the frame below you, its stones floodlit warm, with the old cathedral's shell rising behind it and the city lights spreading beyond. Two thousand years of Cartagena, lit up in one sweep.",
   "file_16x9": "es-01-223-r1-16x9.png",
   "file_4x5": "es-01-223-r1-4x5.png",
+  "file_9x16": "es-01-223-r1-9x16.png",
   "file_16x9_postcard": "es-01-223-postcard-16x9.png",
   "file_4x5_postcard": "es-01-223-postcard-4x5.png",
   "file_9x16_postcard": "es-01-223-postcard-9x16.png",
@@ -38,6 +39,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "50b3e144bdff5524efefe4cdd276e7544a149203cc9470c59f8d03aab5d1d11b"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "f6e6a23d7ddb3a935c0fb975c1a840ba3c7134ee67425d09ac3cc4eedb3ba2e7"
     }
   },
   "masters": {

@@ -31,6 +31,7 @@
   "description": "From the square below, Santander's Gothic cathedral stands floodlit against the night, its stonework warm under the lights. The square around it is empty and quiet, lamplight pooling on the paving. The cathedral's towers and pointed arches rise into the dark sky, the heart of the old town at rest.",
   "file_16x9": "es-01-324-r1-16x9.png",
   "file_4x5": "es-01-324-r1-4x5.png",
+  "file_9x16": "es-01-324-r1-9x16.png",
   "file_16x9_postcard": "es-01-324-postcard-16x9.png",
   "file_4x5_postcard": "es-01-324-postcard-4x5.png",
   "file_9x16_postcard": "es-01-324-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "5296e32646277e523c74e228e50c23f3df3d4047c6c3681cc4090b8502a315d8"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "1de88630017a4b77398421e7a9e8253f53392c86ff0e3e1269993884cfaa71a1"
     }
   },
   "masters": {

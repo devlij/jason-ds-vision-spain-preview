@@ -31,6 +31,7 @@
   "description": "Zarautz's long beach curves below its old town, the promenade lights tracing the shoreline. The town rises behind the front with the dark hills at its back, and the sea lies flat and black beyond the sand. The Basque coast's grandest beach, empty at night.",
   "file_16x9": "es-01-075-r1-16x9.png",
   "file_4x5": "es-01-075-r1-4x5.png",
+  "file_9x16": "es-01-075-r1-9x16.png",
   "file_16x9_postcard": "es-01-075-postcard-16x9.png",
   "file_4x5_postcard": "es-01-075-postcard-4x5.png",
   "file_9x16_postcard": "es-01-075-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "367d77a418fb34a3784abe66c9a53db3e40358d579e52d3065c1c4561835fa68"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "b103e81e28b7c7ce92ba7a06cd5bddbe1a2ff7e695eb0d65e5cbff2fbc4b77e2"
     }
   },
   "masters": {

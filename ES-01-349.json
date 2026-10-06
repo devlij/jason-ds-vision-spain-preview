@@ -31,6 +31,7 @@
   "description": "From the far side of the Retiro lake at night, the Crystal Palace glows — its glass dome and iron ribs lit from within. The whole luminous structure mirrors perfectly in the still black water. The park is dark and silent around it, the palace floating like a lantern on the lake.",
   "file_16x9": "es-01-349-r1-16x9.png",
   "file_4x5": "es-01-349-r1-4x5.png",
+  "file_9x16": "es-01-349-r1-9x16.png",
   "file_16x9_postcard": "es-01-349-postcard-16x9.png",
   "file_4x5_postcard": "es-01-349-postcard-4x5.png",
   "file_9x16_postcard": "es-01-349-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "bec67512d71762b5a39b56cbe58278c45cd320ed4c52c2068e8baf3ebaca33ad"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "59bee4c053ddbdb0cad57e54aa22536eab977f6712fba47469380de65dc17d7c"
     }
   },
   "masters": {

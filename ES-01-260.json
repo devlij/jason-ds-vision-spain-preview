@@ -31,6 +31,7 @@
   "description": "From across the reflecting pools at night, face Palma Cathedral. The great Gothic bulk rises at center frame, floodlit gold, with its reflection doubling in the dark water below and the Almudaina palace spreading to one side. La Seu looks its best after dark, floating above its own mirror.",
   "file_16x9": "es-01-260-r1-16x9.png",
   "file_4x5": "es-01-260-r1-4x5.png",
+  "file_9x16": "es-01-260-r1-9x16.png",
   "file_16x9_postcard": "es-01-260-postcard-16x9.png",
   "file_4x5_postcard": "es-01-260-postcard-4x5.png",
   "file_9x16_postcard": "es-01-260-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "1110599403ac042b8736ae9e5febcbb465c66b29692ba97076d3ed3e4789b8fd"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "917bd444dcf7eb4f06428e6c6028a6bd72d1574d19ee36a573baebcc3b381192"
     }
   },
   "masters": {

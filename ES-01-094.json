@@ -31,6 +31,7 @@
   "description": "The Tower of Hercules stands on its headland above the sea, the Roman lighthouse floodlit against the night. Waves break white on the rocks below while the city lights of A Coruña glow along the coast. The oldest working lighthouse in the world, still doing its job.",
   "file_16x9": "es-01-094-r1-16x9.png",
   "file_4x5": "es-01-094-r1-4x5.png",
+  "file_9x16": "es-01-094-r1-9x16.png",
   "file_16x9_postcard": "es-01-094-postcard-16x9.png",
   "file_4x5_postcard": "es-01-094-postcard-4x5.png",
   "file_9x16_postcard": "es-01-094-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "fc874ed6a2cf493b1666e222938dba8ea7a1d6ba0345087780a9667275cfea50"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "20a9a7e5cb34268bf5eaf489a0fa185c2ab197e03a3a56e6e5531a5daff9d145"
     }
   },
   "masters": {

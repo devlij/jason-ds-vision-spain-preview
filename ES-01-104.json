@@ -31,6 +31,7 @@
   "description": "Burgos cathedral's twin spires rise over the city, the great Gothic mass floodlit in the dark. The lacework of the spires catches the light while the old town climbs the hill behind. Spain's third great Gothic cathedral, holding court over the night.",
   "file_16x9": "es-01-104-r1-16x9.png",
   "file_4x5": "es-01-104-r1-4x5.png",
+  "file_9x16": "es-01-104-r1-9x16.png",
   "file_16x9_postcard": "es-01-104-postcard-16x9.png",
   "file_4x5_postcard": "es-01-104-postcard-4x5.png",
   "file_9x16_postcard": "es-01-104-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "b26a52e5be825e8e88f182ce340df9b7a6aeee0af890fed655710ec8df90c1b2"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "d066d5656c45d28035819e9f072fa5fe0a04ead2dcebb9869fba0687bb6fb331"
     }
   },
   "masters": {

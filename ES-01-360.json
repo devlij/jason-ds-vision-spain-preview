@@ -31,6 +31,7 @@
   "description": "From the old town square at night, Logroño's Concatedral de Santa María de la Redonda rises with its twin towers floodlit against the sky. Lit streets of the old quarter run off the square, their tapas bars glowing. The twin towers dominate the night, the Rioja capital's old town humming softly below.",
   "file_16x9": "es-01-360-r1-16x9.png",
   "file_4x5": "es-01-360-r1-4x5.png",
+  "file_9x16": "es-01-360-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "a07517ee2422ac8d3e624fa9f0fa4a7b9ad0a9164f9198fd0f0f943f181d06c4"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "186b475d0ff1cb702e6921dabb5b199988040d7b0cb538b555cb2d4038af17de"
     }
   },
   "masters": {

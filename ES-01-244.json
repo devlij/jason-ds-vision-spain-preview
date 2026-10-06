@@ -31,6 +31,7 @@
   "description": "From the red iron bridge at night, look along the Onyar's colorful facades. The famous painted houses rise left and right across the frame, their reflections doubling in the dark river below, with the cathedral tower peeking above the rooftops at center distance. The bridge's own red girders frame the view.",
   "file_16x9": "es-01-244-r1-16x9.png",
   "file_4x5": "es-01-244-r1-4x5.png",
+  "file_9x16": "es-01-244-r1-9x16.png",
   "file_16x9_postcard": "es-01-244-postcard-16x9.png",
   "file_4x5_postcard": "es-01-244-postcard-4x5.png",
   "file_9x16_postcard": "es-01-244-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "b74edb5d6980e2febbb8fe6540f347add9932fa79d40527850cf87ad1f1cf87b"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "ad20327c0c1363f4ead725a917f7cd17aaccf1f0ee0914e864602fa93457e5d4"
     }
   },
   "masters": {

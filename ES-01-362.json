@@ -31,6 +31,7 @@
   "description": "From the plaza at night, the University of Alcalá's plateresque façade glows under the floodlights, its carved front brilliant against the dark. The cloister beyond lies in softer light, the old college quiet after centuries of scholars. The illuminated façade is a monument to learning, radiant in the night.",
   "file_16x9": "es-01-362-r1-16x9.png",
   "file_4x5": "es-01-362-r1-4x5.png",
+  "file_9x16": "es-01-362-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "412c67fbe5c9afcdee1e0298f2ee5e9594e187a5df065bdd1911962dadf6f883"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "8956d633b7790a7a0ddacd3009a499a1836aed3ac891dd5e7b96cfb061f9b09e"
     }
   },
   "masters": {

@@ -31,6 +31,7 @@
   "description": "At night, old Cádiz sits on its peninsula surrounded by black water, the city's lights tracing its ancient outline. From the mainland you take in the whole peninsula city across the frame, its towers and cathedral dome lit against the dark Atlantic. The old sea city glows at the edge of the night.",
   "file_16x9": "es-01-175-r1-16x9.png",
   "file_4x5": "es-01-175-r1-4x5.png",
+  "file_9x16": "es-01-175-r1-9x16.png",
   "file_16x9_postcard": "es-01-175-postcard-16x9.png",
   "file_4x5_postcard": "es-01-175-postcard-4x5.png",
   "file_9x16_postcard": "es-01-175-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "76aca66271cefefb06787f25b3e4c905059ba19ef775d076c2b420ee3261f313"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "6b90279b7eaab73f943866cc5abb4684ba6bcd08e2fbc055d800b33653b51940"
     }
   },
   "masters": {

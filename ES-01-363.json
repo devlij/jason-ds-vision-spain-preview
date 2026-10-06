@@ -31,6 +31,7 @@
   "description": "From the valley viewpoint at night, Albarracín's old town climbs its ridge in moonlight, the medieval walls tracing the hilltop. The pink-hued houses lie dark and quiet, alleys hidden in shadow, while the walls catch the moon's silver. Below, the Guadalaviar valley sleeps; above, the walled town keeps its ancient silhouette.",
   "file_16x9": "es-01-363-r1-16x9.png",
   "file_4x5": "es-01-363-r1-4x5.png",
+  "file_9x16": "es-01-363-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "5bd7f732b8db3fa3ada0b3cbced69ed8ee680827b7a2db32b127019e65e11bb3"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "020b404b1057ce1a4c9a8f17af9a040dab86be057304f3bdc0d5e8f5c851977b"
     }
   },
   "masters": {

@@ -31,6 +31,7 @@
   "description": "In the Antequera valley at night, the great dolmens lie as dark mounds under the starlit sky. From the site you look across the frame's ancient stones, the megalithic valley stretching dark toward the Peña de los Enamorados. Five thousand years of stone keep their night.",
   "file_16x9": "es-01-179-r1-16x9.png",
   "file_4x5": "es-01-179-r1-4x5.png",
+  "file_9x16": "es-01-179-r1-9x16.png",
   "file_16x9_postcard": "es-01-179-postcard-16x9.png",
   "file_4x5_postcard": "es-01-179-postcard-4x5.png",
   "file_9x16_postcard": "es-01-179-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "512f050f5a613827d3429dedf3db73e95f59ebff48c878cd9a819af6b0c33db2"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "8bdaf8c663d9fa955de05844d58918179ebcd079da742a04d066212b61471273"
     }
   },
   "masters": {

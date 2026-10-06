@@ -25,6 +25,7 @@
   "description": "From the plaza at night, face Murcia Cathedral's facade. The baroque front rises at center frame, floodlit and richly carved, with the great bell tower climbing beside it. The plaza's lamps and the surrounding buildings frame the view — the cathedral is Murcia's exclamation point.",
   "file_16x9": "es-01-222-r1-16x9.png",
   "file_4x5": "es-01-222-r1-4x5.png",
+  "file_9x16": "es-01-222-r1-9x16.png",
   "file_16x9_postcard": "es-01-222-postcard-16x9.png",
   "file_4x5_postcard": "es-01-222-postcard-4x5.png",
   "file_9x16_postcard": "es-01-222-postcard-9x16.png",
@@ -38,6 +39,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "0c96af79d62ae80466c2059aa9bee5bbabf500fb01922ff6bb1c727fe93f2eb6"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "00f187040ac8e81b02fdb2b29173903c9b5ca9a6a44ee56e28c970f3787d9992"
     }
   },
   "masters": {

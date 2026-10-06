@@ -31,6 +31,7 @@
   "description": "Stand by the Estany de Sant Maurici at night. The still lake fills the foreground, the twin Encantats peaks rising sheer at center frame behind it, with dark pine slopes falling to the water left and right. Clouds cross the night sky above the peaks while the lake holds their reflection.",
   "file_16x9": "es-01-255-r1-16x9.png",
   "file_4x5": "es-01-255-r1-4x5.png",
+  "file_9x16": "es-01-255-r1-9x16.png",
   "file_16x9_postcard": "es-01-255-postcard-16x9.png",
   "file_4x5_postcard": "es-01-255-postcard-4x5.png",
   "file_9x16_postcard": "es-01-255-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "2a4c6b4cfc725f6a42ef1fccc0780b68e737e361a4d62fcc55a0a53db1f4571f"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "affda8b61b19f74482dcaeb5ab5006adac43db025fc94a5648abaf9ac716f620"
     }
   },
   "masters": {

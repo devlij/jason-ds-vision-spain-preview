@@ -25,6 +25,7 @@
   "description": "From the city below at night, look up at Almería's Alcazaba. The great fortress walls run along the hilltop across the frame, floodlit against the black sky, with the city's lit streets spreading at the foot of the hill. The second-largest Muslim fortress in Spain still dominates the skyline after a thousand years.",
   "file_16x9": "es-01-218-r1-16x9.png",
   "file_4x5": "es-01-218-r1-4x5.png",
+  "file_9x16": "es-01-218-r1-9x16.png",
   "file_16x9_postcard": "es-01-218-postcard-16x9.png",
   "file_4x5_postcard": "es-01-218-postcard-4x5.png",
   "file_9x16_postcard": "es-01-218-postcard-9x16.png",
@@ -38,6 +39,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "c9ce011e694516ba8471180abb573a354363dbfcb59a9fcd06bf90b7b76a82e7"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "66673a7842eb51c567da2d0cda8d8716d07f0871087bda9700ccad7b583a5e90"
     }
   },
   "masters": {

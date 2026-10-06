@@ -31,6 +31,7 @@
   "description": "In Betanzos at night, the Gothic old town lies quiet, its great churches dark against the sky and the old streets lamplit. The Mandeo and Mendo rivers meet black below the town while the historic quarter glows softly on its hill. The old Galician capital rests, its Gothic stones holding the night.",
   "file_16x9": "es-01-093-r1-16x9.png",
   "file_4x5": "es-01-093-r1-4x5.png",
+  "file_9x16": "es-01-093-r1-9x16.png",
   "file_16x9_postcard": "es-01-093-postcard-16x9.png",
   "file_4x5_postcard": "es-01-093-postcard-4x5.png",
   "file_9x16_postcard": "es-01-093-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "db4e45822779f52f241b7c327ca201b0b63d0a739232d0e0b061c5beeb43cacc"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "c3482c079fb845cc8c4c15dcbbe7923f1a3391b646cfc8dea9f66698edc4971e"
     }
   },
   "masters": {

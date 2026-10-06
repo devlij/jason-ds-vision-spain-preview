@@ -31,6 +31,7 @@
   "description": "From the Mirador de Orellán, the Roman mine landscape spreads out below in dark, jagged silhouettes — the famous red pinnacles and gullies of Las Médulas standing black against a sky full of stars. Two thousand years ago Roman engineers washed these hills away for gold, leaving this strange, beautiful ruin of a landscape. Under the stars, the silent towers of earth look almost lunar.",
   "file_16x9": "es-01-333-r2-16x9.png",
   "file_4x5": "es-01-333-r2-4x5.png",
+  "file_9x16": "es-01-333-r2-9x16.png",
   "file_16x9_postcard": "es-01-333-postcard-16x9.png",
   "file_4x5_postcard": "es-01-333-postcard-4x5.png",
   "file_9x16_postcard": "es-01-333-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "c9ea12302a7e95e23afccd50b4d451cfbfbd7230273c30b436bef5d7eee670a1"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "a255672468909cd97273d348eb9193e6e23099f6773a5c72c677eea4d0ddd033"
     }
   },
   "masters": {

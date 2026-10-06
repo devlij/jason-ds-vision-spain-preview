@@ -25,6 +25,7 @@
   "description": "Look up at Arcos de la Frontera at night, the hilltop white village clinging to its cliff. The lit houses and the castle silhouette trace the ridge across the frame, glowing against the black sky, with the dark Guadalete valley falling away below. From here it looks less built than balanced.",
   "file_16x9": "es-01-212-r1-16x9.png",
   "file_4x5": "es-01-212-r1-4x5.png",
+  "file_9x16": "es-01-212-r1-9x16.png",
   "file_16x9_postcard": "es-01-212-postcard-16x9.png",
   "file_4x5_postcard": "es-01-212-postcard-4x5.png",
   "file_9x16_postcard": "es-01-212-postcard-9x16.png",
@@ -38,6 +39,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "5bf971587bcfde4a517313b0b8b671737fdc05c761fc383f33c4dbdfb14158ef"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "9aa9c5050a5ba8835fdd15d834f7c1c6a44a22f2bfd11cbf90edbe3862f53919"
     }
   },
   "masters": {

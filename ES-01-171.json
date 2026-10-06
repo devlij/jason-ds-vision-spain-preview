@@ -31,6 +31,7 @@
   "description": "Standing on the far bank of the Guadalquivir at night, you face the Mezquita-Catedral glowing above the river, the Roman bridge's arches spanning the dark water in the foreground. The frame centers on the great mosque-cathedral's floodlit mass with the bridge leading the eye across. Córdoba's heart is at its grandest after midnight.",
   "file_16x9": "es-01-171-r1-16x9.png",
   "file_4x5": "es-01-171-r1-4x5.png",
+  "file_9x16": "es-01-171-r1-9x16.png",
   "file_16x9_postcard": "es-01-171-postcard-16x9.png",
   "file_4x5_postcard": "es-01-171-postcard-4x5.png",
   "file_9x16_postcard": "es-01-171-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "e436ae129e89cbf6d4516fa8bc2e820617de849630833aa3ef0af5c074c2aa70"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "8388e406d411fcec1698b6a980161b87cf8c68239f9d30eb2831a977be23038f"
     }
   },
   "masters": {

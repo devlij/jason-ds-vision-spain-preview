@@ -31,6 +31,7 @@
   "description": "At night, Cómpeta's white houses glow on their hill in the Axarquía, lit windows scattered across the frame against the dark mountains. You look up at the hill town from the valley, its church tower lit above the rooftops. The white town keeps its mountain through the quiet hours.",
   "file_16x9": "es-01-180-r1-16x9.png",
   "file_4x5": "es-01-180-r1-4x5.png",
+  "file_9x16": "es-01-180-r1-9x16.png",
   "file_16x9_postcard": "es-01-180-postcard-16x9.png",
   "file_4x5_postcard": "es-01-180-postcard-4x5.png",
   "file_9x16_postcard": "es-01-180-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "641f511a8068981a9fa34bdd6ee713582711c467c074742c3f893aa852ec1493"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "d9ee368c003a73cfc165fe2ded0e45dd93652d39edcc6cb0b483088222018a03"
     }
   },
   "masters": {

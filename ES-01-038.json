@@ -39,6 +39,7 @@
   "description": "Long narrow pale-sand strand with calm shallow turquoise-to-navy water; Low dunes with sparse grasses and a simple protected-access rope/boardwalk edge; Small offshore islets aligned near the northern horizon.",
   "file_16x9": "es-01-038-r2-16x9.png",
   "file_4x5": "es-01-038-r2-4x5.png",
+  "file_9x16": "es-01-038-r2-9x16.png",
   "file_16x9_postcard": "es-01-038-postcard-16x9.png",
   "file_4x5_postcard": "es-01-038-postcard-4x5.png",
   "file_9x16_postcard": "es-01-038-postcard-9x16.png",
@@ -52,6 +53,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "1325ee55ce7bf7b878e9bce6c06f623d5e86fd2857f6e806b854f585faad5914"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "b487e53af90a0d912fd228b49386fd9eb9e0690c517a8056091e099c1fbaaf40"
     }
   },
   "masters": {

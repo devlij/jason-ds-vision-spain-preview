@@ -31,6 +31,7 @@
   "description": "From the plaza at night, the Puerta de Alcalá stands floodlit — its great neoclassical arches glowing against the black sky. The monument's stonework is warm under the lights, traffic circling the roundabout around it. Madrid's grandest gate keeps its lonely, luminous vigil at the edge of the Retiro.",
   "file_16x9": "es-01-361-r1-16x9.png",
   "file_4x5": "es-01-361-r1-4x5.png",
+  "file_9x16": "es-01-361-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "683cc39c07555c465386ed0e63d5aeb6df43184d7d2a15960153e9a3ac0a12a3"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "d84c28381625cc52bc9319fb45b6921d4d0f2ab4124c495f7d89b0c2ed2902da"
     }
   },
   "masters": {

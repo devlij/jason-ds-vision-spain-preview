@@ -31,6 +31,7 @@
   "description": "From the grand staircase at night, look up at Tarragona Cathedral's rose-window facade. The great circular window glows at center frame above the lamplit steps, the Gothic front rising on either side, with the old town's roofs falling away below. The climb up is half the experience — the view back down is the reward.",
   "file_16x9": "es-01-246-r1-16x9.png",
   "file_4x5": "es-01-246-r1-4x5.png",
+  "file_9x16": "es-01-246-r1-9x16.png",
   "file_16x9_postcard": "es-01-246-postcard-16x9.png",
   "file_4x5_postcard": "es-01-246-postcard-4x5.png",
   "file_9x16_postcard": "es-01-246-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "a8cefb0be7f66b37e0e3bb2227b0940fb2238bde9835742a1aabea747bf32d6b"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "fc7d4413c0cccb8592bc18315f1d9a7dc3c091e1f843baec812137a30356d98e"
     }
   },
   "masters": {

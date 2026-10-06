@@ -31,6 +31,7 @@
   "description": "From the far side of the gorge, the sandstone cliffs fill the frame in layered ochre walls, faint moonlight tracing their vertical faces above the dark valley floor. The cliffs' strata catch the light in bands while the depths below vanish into shadow. These are the famous cingles of Tavertet — a great natural balcony over the Ter valley, silent and monumental under the stars.",
   "file_16x9": "es-01-279-r1-16x9.png",
   "file_4x5": "es-01-279-r1-4x5.png",
+  "file_9x16": "es-01-279-r1-9x16.png",
   "file_16x9_postcard": "es-01-279-postcard-16x9.png",
   "file_4x5_postcard": "es-01-279-postcard-4x5.png",
   "file_9x16_postcard": "es-01-279-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "72e17f9c5ffb8324f4cb2db7a240ad7a9357f74b42a13a4d6419fa4e194724d0"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "ddd47587ddf85234490eddd465d3db35e3536da880bfc7dc62f1b7c467feabbd"
     }
   },
   "masters": {

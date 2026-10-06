@@ -31,6 +31,7 @@
   "description": "From the bay, Santander's city lights reflect in the moonlit water — the waterfront's glow spread along the shore with the dark hills behind and the moon's path glittering across the bay. The city's lamps trace the promenade while boats lie dark at their moorings. The great bay of Santander by night: elegant, calm, and silvered by the Cantabrian moon.",
   "file_16x9": "es-01-316-r1-16x9.png",
   "file_4x5": "es-01-316-r1-4x5.png",
+  "file_9x16": "es-01-316-r1-9x16.png",
   "file_16x9_postcard": "es-01-316-postcard-16x9.png",
   "file_4x5_postcard": "es-01-316-postcard-4x5.png",
   "file_9x16_postcard": "es-01-316-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "baf52e89b9cb99ab95239c8bd94aed81509d821c303ffa94d93b2dc45f2cb043"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "c800b2db103e7d1fc596472a8ab1289b19c73938ea03522dcfb28411382319f5"
     }
   },
   "masters": {

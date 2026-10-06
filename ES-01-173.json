@@ -31,6 +31,7 @@
   "description": "At night, Grazalema's white houses glow in patches against the dark folds of the Sierra de Grazalema. From the valley you look up at the village scattered across the frame, lit windows dotting the whitewashed cluster under the black mountain wall. The white village sleeps under its sierra.",
   "file_16x9": "es-01-173-r1-16x9.png",
   "file_4x5": "es-01-173-r1-4x5.png",
+  "file_9x16": "es-01-173-r1-9x16.png",
   "file_16x9_postcard": "es-01-173-postcard-16x9.png",
   "file_4x5_postcard": "es-01-173-postcard-4x5.png",
   "file_9x16_postcard": "es-01-173-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "ba74ced22ce3598f6e324945058d03308c3f0dd818f4b5c0dbfe87b42333dadf"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "b6d0a0c605752ac85eeeb42067a35ac33fa045f9f911a2d35c09b3b3fc6b8915"
     }
   },
   "masters": {

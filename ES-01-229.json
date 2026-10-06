@@ -31,6 +31,7 @@
   "description": "In Cazorla's oldest square at night, the ruined old church stands dark above the plaza, its Moorish tower rising beside it. Lamplight pools on the cobbles while the church's open arches frame the night sky. The town climbs the hill behind, quiet now, the ancient square steeped in centuries.",
   "file_16x9": "es-01-229-r1-16x9.png",
   "file_4x5": "es-01-229-r1-4x5.png",
+  "file_9x16": "es-01-229-r1-9x16.png",
   "file_16x9_postcard": "es-01-229-postcard-16x9.png",
   "file_4x5_postcard": "es-01-229-postcard-4x5.png",
   "file_9x16_postcard": "es-01-229-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "64fc8274a8323b57247837810e577d6ad6a726f36a3755891133fd96be7fc590"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "52c512d5c92b7f82b2d9a39821d9e01cee1496a9ec5386616a4b7f8a119a8035"
     }
   },
   "masters": {
