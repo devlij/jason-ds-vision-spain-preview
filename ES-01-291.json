@@ -31,6 +31,7 @@
   "description": "From a laurel-forest trail, moss-draped trunks rise into drifting mist — the ancient laurisilva of Garajonay closing in on every side, ferns and lichen glowing faintly in the damp night air. Mist moves between the twisted trees, and the forest floor vanishes into darkness below the trail. This is one of Europe's last primeval forests, a Tertiary relic; by night it feels as old as the earth itself.",
   "file_16x9": "es-01-291-r1-16x9.png",
   "file_4x5": "es-01-291-r1-4x5.png",
+  "file_9x16": "es-01-291-r1-9x16.png",
   "file_16x9_postcard": "es-01-291-postcard-16x9.png",
   "file_4x5_postcard": "es-01-291-postcard-4x5.png",
   "file_9x16_postcard": "es-01-291-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "0749e70539781e149a3aafb50e20aac5b09bc4b937b0c20022378343f5ceb7fc"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "048bcbecdf8010e40e68f656ee33f4f75291a52c7169874919562b0897775450"
     }
   },
   "masters": {

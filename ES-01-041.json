@@ -31,6 +31,7 @@
   "description": "San Cristóbal de La Laguna — the first unfortified colonial city, model for the Americas — keeps its grid of great houses and churches, a UNESCO World Heritage. A partly cloudy night over the town, warm and nearly calm air. The cathedral of Los Remedios anchors the old town.",
   "file_16x9": "es-01-041-r2-16x9.png",
   "file_4x5": "es-01-041-r2-4x5.png",
+  "file_9x16": "es-01-041-r2-9x16.png",
   "file_16x9_postcard": "es-01-041-postcard-16x9.png",
   "file_4x5_postcard": "es-01-041-postcard-4x5.png",
   "file_9x16_postcard": "es-01-041-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "6d679bc4c586dc8ff91844105df4806c631c04694254b143e9f813b802066f56"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "a7f4415465bbcf496dddefef710cfbbf46b489d519203a46166cd42ba0600239"
     }
   },
   "masters": {

@@ -31,6 +31,7 @@
   "description": "From the lakeshore, the Lagos de Covadonga lie moonlit under the Picos — the still water reflecting the stars with the great limestone peaks rising dark around it. The moon silvers the lake's surface while the mountains stand black against the sky. These are the sacred lakes of Asturias, where the Reconquista began; by night they're a mirror for the heavens.",
   "file_16x9": "es-01-314-r1-16x9.png",
   "file_4x5": "es-01-314-r1-4x5.png",
+  "file_9x16": "es-01-314-r1-9x16.png",
   "file_16x9_postcard": "es-01-314-postcard-16x9.png",
   "file_4x5_postcard": "es-01-314-postcard-4x5.png",
   "file_9x16_postcard": "es-01-314-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "52e554f5c82d8360cadb7a53c1f08105e00ab72398718ed7b18e02a8d5bc7480"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "3edf807ed7a8c8e1258f3a9003c2a9bfa5354e4cdc6698976c713a0af2af66d4"
     }
   },
   "masters": {

@@ -31,6 +31,7 @@
   "description": "Tazones nestles in its cove, the little harbour village lit along the water's edge. Cliffs close the cove on either side while the sea lies dark beyond the harbour mouth. The port where Charles V first landed in Spain, dreaming in the dark.",
   "file_16x9": "es-01-081-r1-16x9.png",
   "file_4x5": "es-01-081-r1-4x5.png",
+  "file_9x16": "es-01-081-r1-9x16.png",
   "file_16x9_postcard": "es-01-081-postcard-16x9.png",
   "file_4x5_postcard": "es-01-081-postcard-4x5.png",
   "file_9x16_postcard": "es-01-081-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "43fd8d9dabff3762295da3862b6a2262ce48fcc1cbbb449139aa9cb3b7004b98"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "05a34885340bbc6036078fd36b30194fe186195f9bccd931333e88be63549394"
     }
   },
   "masters": {

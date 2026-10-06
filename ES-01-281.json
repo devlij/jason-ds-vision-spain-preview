@@ -31,6 +31,7 @@
   "description": "From the approach road, the fortified abbey fills the frame — its crenellated walls and great church glowing under the dark mass of the Prades mountains behind. Lamplight warms the stone facades and the royal pantheon's silhouette, while the mountains rise black and silent beyond the rooftops. This is the great Cistercian monastery of Poblet, a royal burial place and a living abbey, holding its ground in the night.",
   "file_16x9": "es-01-281-r1-16x9.png",
   "file_4x5": "es-01-281-r1-4x5.png",
+  "file_9x16": "es-01-281-r1-9x16.png",
   "file_16x9_postcard": "es-01-281-postcard-16x9.png",
   "file_4x5_postcard": "es-01-281-postcard-4x5.png",
   "file_9x16_postcard": "es-01-281-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "d58b6d858af0beb70bd4453e35ec0e5b8e327dfde7c71c208ef97fd1a2c81535"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "b7aaf66afd8629bcaa7fb7f11c77aed253c5b58002d9895f0299a70a849c8bd5"
     }
   },
   "masters": {

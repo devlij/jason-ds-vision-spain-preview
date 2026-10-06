@@ -31,6 +31,7 @@
   "description": "From the valley floor at night, Castellfollit de la Roca's houses line the edge of its great basalt cliff, their windows glowing warm against the black volcanic rock. The frame runs along the cliff-top village left to right, with the dark ravine dropping away beneath. Lit from within, the village looks like it's balanced on the very edge of the night.",
   "file_16x9": "es-01-135-r3-16x9.png",
   "file_4x5": "es-01-135-r3-4x5.png",
+  "file_9x16": "es-01-135-r3-9x16.png",
   "file_16x9_postcard": "es-01-135-postcard-16x9.png",
   "file_4x5_postcard": "es-01-135-postcard-4x5.png",
   "file_9x16_postcard": "es-01-135-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "75089e1083cb3d01e3602cf612627d40799d1d12048ed152fdca5016a8ebf716"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "8c4ab9a96f6d6743ea516d8f4a44c9b3604bdbfd3180ee191e3efc6f1234a4c5"
     }
   },
   "masters": {

@@ -31,6 +31,7 @@
   "description": "From the beach promenade, the high-rise cluster fills the frame behind the dark sweep of the beach, every tower lit up like a stack of glowing boxes against the night sky. The sand lies dark and empty in the foreground, waves barely visible along the shoreline. Reflected light shimmers offshore, and the skyline's unmistakable forest of towers declares Benidorm — the Mediterranean's vertical city.",
   "file_16x9": "es-01-275-r1-16x9.png",
   "file_4x5": "es-01-275-r1-4x5.png",
+  "file_9x16": "es-01-275-r1-9x16.png",
   "file_16x9_postcard": "es-01-275-postcard-16x9.png",
   "file_4x5_postcard": "es-01-275-postcard-4x5.png",
   "file_9x16_postcard": "es-01-275-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "a7e6d08a1d0e4abdf9f8e7a0d32c57ba5ba5e74d898560edb9c0de050e03911e"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "8afb0c932327d902ecdfa2d7e727d763add68346699d1ff3db7d0dd62871a28d"
     }
   },
   "masters": {

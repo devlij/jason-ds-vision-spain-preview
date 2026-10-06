@@ -31,6 +31,7 @@
   "description": "Ribadavia's old wine town lies along the river, its medieval streets and old quarter lit in warm patches. The castle ruins stand dark above the rooftops while the Miño valley sleeps beyond. Once the capital of the Ribeiro wine trade, still keeping its old stones.",
   "file_16x9": "es-01-096-r1-16x9.png",
   "file_4x5": "es-01-096-r1-4x5.png",
+  "file_9x16": "es-01-096-r1-9x16.png",
   "file_16x9_postcard": "es-01-096-postcard-16x9.png",
   "file_4x5_postcard": "es-01-096-postcard-4x5.png",
   "file_9x16_postcard": "es-01-096-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "e97a908a90eddec93741bb3244d41e4c6a4b540b58721f12139ec6b506285a61"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "fbaf4c1c1ba740d293d28800ba78238e075c4e77f4b45d9b44895a51014aea3e"
     }
   },
   "masters": {

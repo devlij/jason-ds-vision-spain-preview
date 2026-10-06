@@ -31,6 +31,7 @@
   "description": "Seen from below, the castle-palace crowns its hill above Sigüenza — massive stone walls and towers floodlit against the night while the dark town clusters at its foot. The fortress glows golden where the lights catch it, a great medieval bulk over the rooftops. Part castle, part palace, part parador — Sigüenza's fortress has guarded this pass for a thousand years.",
   "file_16x9": "es-01-337-r1-16x9.png",
   "file_4x5": "es-01-337-r1-4x5.png",
+  "file_9x16": "es-01-337-r1-9x16.png",
   "file_16x9_postcard": "es-01-337-postcard-16x9.png",
   "file_4x5_postcard": "es-01-337-postcard-4x5.png",
   "file_9x16_postcard": "es-01-337-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "0862c94f5c2f55d6ce372439674de9a63458a7768cbdaf0c86e959c15b36caee"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "511f3fa97af4fe2a7b772d9022068e8243cf3fa30a0d6d0f88aa287d599f8411"
     }
   },
   "masters": {

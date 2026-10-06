@@ -31,6 +31,7 @@
   "description": "From the canyon viewpoint at night, the Sil gorge falls away into darkness, its cliffs black against the starry sky. The river runs unseen far below, its course traced by the canyon's great shadow. The Ribeira Sacra night is profound — terraced vineyards invisible, only the vast dark of the gorge.",
   "file_16x9": "es-01-092-r1-16x9.png",
   "file_4x5": "es-01-092-r1-4x5.png",
+  "file_9x16": "es-01-092-r1-9x16.png",
   "file_16x9_postcard": "es-01-092-postcard-16x9.png",
   "file_4x5_postcard": "es-01-092-postcard-4x5.png",
   "file_9x16_postcard": "es-01-092-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "89c695131ef315896f1198aebc79e7cde6ceb1cc4918122147119c93c2e8ddf2"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "c0e76f588aed3e28fda0636a79677db74343fbf4991b189f462f15246eb1c2f9"
     }
   },
   "masters": {

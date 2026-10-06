@@ -31,6 +31,7 @@
   "description": "Standing on the Onyar riverfront at night, you take in Girona's famous painted houses glowing along the riverbank, with the cathedral's great mass rising behind them to the right. The lit façades reflect in the dark water, and the frame centers on the old town's postcard view at its most theatrical hour. After midnight the riverside is hushed, the city asleep behind its lights.",
   "file_16x9": "es-01-133-r2-16x9.png",
   "file_4x5": "es-01-133-r2-4x5.png",
+  "file_9x16": "es-01-133-r2-9x16.png",
   "file_16x9_postcard": "es-01-133-postcard-16x9.png",
   "file_4x5_postcard": "es-01-133-postcard-4x5.png",
   "file_9x16_postcard": "es-01-133-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "ba8d3a0b0593f1bfde8a64902f0033b55fddc39b5c67b9e79ef9345bd94438e4"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "16228862dc7d6a5e77c455deb9e3e876b7b7878bfd340c4117b07d7f4865c889"
     }
   },
   "masters": {

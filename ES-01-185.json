@@ -31,6 +31,7 @@
   "description": "At night, Olvera's twin rocks rise over the sleeping town, church and castle floodlit on their separate crags. You face the two lit summits across the frame, the white town's lights spread below in the dark valley. The famous double silhouette keeps its night watch.",
   "file_16x9": "es-01-185-r1-16x9.png",
   "file_4x5": "es-01-185-r1-4x5.png",
+  "file_9x16": "es-01-185-r1-9x16.png",
   "file_16x9_postcard": "es-01-185-postcard-16x9.png",
   "file_4x5_postcard": "es-01-185-postcard-4x5.png",
   "file_9x16_postcard": "es-01-185-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "49db376d9162c921666d52dbea6ab30f9389e4fb896bb733242c3c91ea1b7777"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "d83099226d55d171304b8bf8bba71bcd1dcc37b366efffbbab740e59788fef0d"
     }
   },
   "masters": {

@@ -39,10 +39,20 @@
       "source_width": 1672,
       "source_height": 941,
       "resampled": true
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "054ae42ef2bd8a4711797cb7b2fd31d95d13154d6c29b8e7e74ff13204b218ad",
+      "bytes": 2677846,
+      "source_width": 529,
+      "source_height": 940,
+      "resampled": true
     }
   },
   "file_16x9": "es-01-022-r1-16x9.png",
   "file_4x5": "es-01-022-r1-4x5.png",
+  "file_9x16": "es-01-022-r1-9x16.png",
   "file_16x9_postcard": "es-01-022-postcard-16x9.png",
   "file_4x5_postcard": "es-01-022-postcard-4x5.png",
   "file_9x16_postcard": "es-01-022-postcard-9x16.png",

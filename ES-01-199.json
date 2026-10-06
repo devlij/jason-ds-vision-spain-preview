@@ -31,6 +31,7 @@
   "description": "At night on Melilla's modernist avenues, the Ensanche's ornate façades glow under streetlamps. You look down the lit avenue across the frame, Art Nouveau balconies and domes picked out of the dark. The modernist city keeps its boulevards bright through the small hours.",
   "file_16x9": "es-01-199-r1-16x9.png",
   "file_4x5": "es-01-199-r1-4x5.png",
+  "file_9x16": "es-01-199-r1-9x16.png",
   "file_16x9_postcard": "es-01-199-postcard-16x9.png",
   "file_4x5_postcard": "es-01-199-postcard-4x5.png",
   "file_9x16_postcard": "es-01-199-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "84e0b06cac873ba4788da89ea667e1c2ee9262fdc962bc2501b8724a7583cd16"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "0cec5369133f58af6127f495fb5809f3aa8ad66def9167469d92a4d0db49b3ba"
     }
   },
   "masters": {

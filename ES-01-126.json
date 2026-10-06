@@ -31,6 +31,7 @@
   "description": "From the approach road at night, Sos del Rey Católico rises walled on its ridge, the birthplace town of Ferdinand dark against the stars. The medieval walls and the castle keep silhouette along the hilltop while a few lights burn in the old quarter. The town keeps its historic silence, the night deep over the Aragonese hills.",
   "file_16x9": "es-01-126-r3-16x9.png",
   "file_4x5": "es-01-126-r3-4x5.png",
+  "file_9x16": "es-01-126-r3-9x16.png",
   "file_16x9_postcard": "es-01-126-postcard-16x9.png",
   "file_4x5_postcard": "es-01-126-postcard-4x5.png",
   "file_9x16_postcard": "es-01-126-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "4f117dfd8b0f768549021697128f66c8522f4000289dffa7f9b97993b21115d5"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "2bf0a82da6d8ea50c712bae55e1259e5793a29d0c49649f9d35ae77c17f6693d"
     }
   },
   "masters": {

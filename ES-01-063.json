@@ -31,6 +31,7 @@
   "description": "The medieval pilgrim bridge of Puente la Reina crosses its river in a single elegant arc of stone. The arches stand out against the dark water, with the town's lights beyond and the banks lost in shadow. For centuries every pilgrim to Santiago has crossed here.",
   "file_16x9": "es-01-063-r1-16x9.png",
   "file_4x5": "es-01-063-r1-4x5.png",
+  "file_9x16": "es-01-063-r1-9x16.png",
   "file_16x9_postcard": "es-01-063-postcard-16x9.png",
   "file_4x5_postcard": "es-01-063-postcard-4x5.png",
   "file_9x16_postcard": "es-01-063-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "90084b0c6f16976cb46399dcff5627a610b09e4e56f5b16dc865972a9f0879a5"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "a9bd27514cf02c4e95e44b6c1c0b7ceb560c88fddd512ad288cc15311d99a9f9"
     }
   },
   "masters": {

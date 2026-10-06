@@ -31,6 +31,7 @@
   "description": "From a forest track the great beech forest of Irati closes in on every side, trunks fading into darkness. The path runs between the trees with the canopy a black ceiling overhead. Europe's second-largest beech forest, ancient and utterly quiet.",
   "file_16x9": "es-01-071-r1-16x9.png",
   "file_4x5": "es-01-071-r1-4x5.png",
+  "file_9x16": "es-01-071-r1-9x16.png",
   "file_16x9_postcard": "es-01-071-postcard-16x9.png",
   "file_4x5_postcard": "es-01-071-postcard-4x5.png",
   "file_9x16_postcard": "es-01-071-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "851592f75823b588195fa8d953d866bbe37c4fa94fa1c96f0e2659aba6e64011"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "7b7507ab22b9fd859f22d2efd15796cae5a592d3769f309e8618ede1a5114630"
     }
   },
   "masters": {

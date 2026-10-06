@@ -31,6 +31,7 @@
   "description": "From the square, Oviedo Cathedral's Gothic tower rises against the night — the great single spire floodlit, with the cathedral's facade glowing below it and the plaza quiet at its feet. The tower's delicate stonework catches the light as it climbs, a masterpiece of Asturian Gothic. Oviedo's cathedral keeps the city's main square in watchful, lamplit calm.",
   "file_16x9": "es-01-312-r1-16x9.png",
   "file_4x5": "es-01-312-r1-4x5.png",
+  "file_9x16": "es-01-312-r1-9x16.png",
   "file_16x9_postcard": "es-01-312-postcard-16x9.png",
   "file_4x5_postcard": "es-01-312-postcard-4x5.png",
   "file_9x16_postcard": "es-01-312-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "07e65d7dce074b24b5f6dfab9f66cb31ae4fc3c12dd048f0cf1de7e009668409"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "a9ac39cf382d65267a8be5f30d9f820a9c060ccc1d03167ef29360696d56aefe"
     }
   },
   "masters": {

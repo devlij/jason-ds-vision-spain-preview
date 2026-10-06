@@ -31,6 +31,7 @@
   "description": "From the old capital's lanes, Betancuria's whitewashed houses glow under the moonlight — low white facades and the church tower standing out against the dark volcanic hills that ring the valley. The village sleeps in silver light, its streets empty and still. Founded as the island's first capital in 1404, Betancuria is Fuerteventura's historic jewel, luminous and quiet in the night.",
   "file_16x9": "es-01-303-r1-16x9.png",
   "file_4x5": "es-01-303-r1-4x5.png",
+  "file_9x16": "es-01-303-r1-9x16.png",
   "file_16x9_postcard": "es-01-303-postcard-16x9.png",
   "file_4x5_postcard": "es-01-303-postcard-4x5.png",
   "file_9x16_postcard": "es-01-303-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "342103add5766ec895563ed58d4f06da56106a8ebe3edc0edae9e74083e898b7"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "fed8c44f9a9aea667470687656b9cc93e91b016f9758b4c21a00de1fe83856d5"
     }
   },
   "masters": {

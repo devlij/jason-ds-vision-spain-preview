@@ -39,6 +39,7 @@
   "description": "Dense ochre-grey stone village houses with irregular terracotta roofs stepping uphill; Cartoixa church complex rising above the roofs with a single green-glazed Baroque bell tower; Dark wooded Serra de Tramuntana slopes enclosing the village.",
   "file_16x9": "es-01-031-r1-16x9.png",
   "file_4x5": "es-01-031-r1-4x5.png",
+  "file_9x16": "es-01-031-r1-9x16.png",
   "file_16x9_postcard": "es-01-031-postcard-16x9.png",
   "file_4x5_postcard": "es-01-031-postcard-4x5.png",
   "file_9x16_postcard": "es-01-031-postcard-9x16.png",
@@ -52,6 +53,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "3d4de2ba2b5f1ab60b30af23135b29f4912ed06513f409e705c8448d012a9468"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "b0baaa9ec3dd1ee03b71b1a69f5d5ac10fe8cfa60e29a4e1614b95a21d6ec316"
     }
   },
   "masters": {

@@ -31,6 +31,7 @@
   "description": "From the Castildetierra viewpoint at night, the famous rock chimney of the Bardenas stands stark under a starry Milky Way. The eroded pillar rises from the desert floor, its layered silhouette etched against the crowded stars. No lights break the darkness — only the Milky Way arching over the badlands.",
   "file_16x9": "es-01-347-r1-16x9.png",
   "file_4x5": "es-01-347-r1-4x5.png",
+  "file_9x16": "es-01-347-r1-9x16.png",
   "file_16x9_postcard": "es-01-347-postcard-16x9.png",
   "file_4x5_postcard": "es-01-347-postcard-4x5.png",
   "file_9x16_postcard": "es-01-347-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "7c7fc6a95268d4601bc7899b751a4ece3b30177aeb7c77f75ebd486a9c243006"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "a65f67b6bdc02bfaf933554f7fa8b30e698a17001210548cf55a4f90ffe6f034"
     }
   },
   "masters": {

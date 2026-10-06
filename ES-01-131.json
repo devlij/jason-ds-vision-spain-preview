@@ -31,6 +31,7 @@
   "description": "In the park at Monasterio de Piedra the waterfalls run white against the black rock, caught by the park's lighting. Paths and spray fill the frame around the cascade, with ferns and cliff faces visible at the edges. The roar of falling water is the only company at this hour.",
   "file_16x9": "es-01-131-r2-16x9.png",
   "file_4x5": "es-01-131-r2-4x5.png",
+  "file_9x16": "es-01-131-r2-9x16.png",
   "file_16x9_postcard": "es-01-131-postcard-16x9.png",
   "file_4x5_postcard": "es-01-131-postcard-4x5.png",
   "file_9x16_postcard": "es-01-131-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "875632c4525fc33ea0cbc39125e1e14eb0371a25fd446a71cbb4cf04e80e1119"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "a2ac798f536d0880e627007f934f8d1bb6486134ac9556dc7ab6818b8aad2683"
     }
   },
   "masters": {

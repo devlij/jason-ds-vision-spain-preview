@@ -31,6 +31,7 @@
   "description": "At night, Siurana clings to its cliff-top in the dark, a scatter of warm window lights tracing the village silhouette. From your viewpoint below the crags, the frame centers on the lit houses edged by the black rock walls of the Montsant. The old frontier village holds the dark with its small stubborn lights.",
   "file_16x9": "es-01-140-r2-16x9.png",
   "file_4x5": "es-01-140-r2-4x5.png",
+  "file_9x16": "es-01-140-r2-9x16.png",
   "file_16x9_postcard": "es-01-140-postcard-16x9.png",
   "file_4x5_postcard": "es-01-140-postcard-4x5.png",
   "file_9x16_postcard": "es-01-140-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "703525968bbece35fd11e792439570844b04fefe137d4425ce0a58563d13ec28"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "fc6f4ae31ee4e9f1aa84ae4c8a4b7f357398a836111317819da2c2c631fd510e"
     }
   },
   "masters": {

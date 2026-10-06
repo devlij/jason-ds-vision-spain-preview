@@ -31,6 +31,7 @@
   "description": "The historic port town of San Sebastián lies quiet at night, its old streets and harbour front lit in warm pools. The tower of the church rises above the rooftops while the harbour water sits still and black. This is where Columbus last set foot in Europe before the Atlantic crossing.",
   "file_16x9": "es-01-166-r1-16x9.png",
   "file_4x5": "es-01-166-r1-4x5.png",
+  "file_9x16": "es-01-166-r1-9x16.png",
   "file_16x9_postcard": "es-01-166-postcard-16x9.png",
   "file_4x5_postcard": "es-01-166-postcard-4x5.png",
   "file_9x16_postcard": "es-01-166-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "92ff5ecef70b0b3bd47032351dcdb87f09b914f190fc7874eb127a7ad5fcdf68"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "e9cdac25449023deffc4c59bb34f928d73476a6ec4c765e24169b997354dc8c5"
     }
   },
   "masters": {

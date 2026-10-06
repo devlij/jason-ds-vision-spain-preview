@@ -31,6 +31,7 @@
   "description": "From the Albaicín's dark lanes at night, you look across toward the Alhambra glowing floodlit on its hill. The frame holds the palace fortress lit against the night sky beyond the old quarter's shadowed rooftops. Granada's two great hills face each other in the dark, the Alhambra shining like a held breath.",
   "file_16x9": "es-01-174-r1-16x9.png",
   "file_4x5": "es-01-174-r1-4x5.png",
+  "file_9x16": "es-01-174-r1-9x16.png",
   "file_16x9_postcard": "es-01-174-postcard-16x9.png",
   "file_4x5_postcard": "es-01-174-postcard-4x5.png",
   "file_9x16_postcard": "es-01-174-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "4f98acd807d112d66997cee6d0018aa38886a07b0a45c764c983d1592f472c1b"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "4bbf965dea400800b79dc28dc893c1cdf58d0ad04984e14d73cabd6f8adda826"
     }
   },
   "masters": {

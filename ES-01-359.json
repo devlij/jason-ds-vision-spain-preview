@@ -31,6 +31,7 @@
   "description": "From the port at night, Melilla la Vieja's fortress rises above the harbor, its bastions floodlit and the lighthouse beam sweeping overhead. The illuminated ramparts glow against the dark Mediterranean while the modern port twinkles below. The old fortress commands the headland, light and stone holding the African shore.",
   "file_16x9": "es-01-359-r1-16x9.png",
   "file_4x5": "es-01-359-r1-4x5.png",
+  "file_9x16": "es-01-359-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "26510e985096eb6e4b8a817eb8f15140a234b088510f25949824fcafa378393f"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "c57e9a189e134e5d6f5f15699315ec840431d921dce49f86dbbb5ffb31c09cad"
     }
   },
   "masters": {

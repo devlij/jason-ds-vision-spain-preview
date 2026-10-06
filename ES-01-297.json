@@ -31,6 +31,7 @@
   "description": "From the monolith itself, Roque Nublo stands silhouetted against the sky — the great basalt finger of Gran Canaria black against the stars, with the distant cone of Teide floating across the sea on the horizon. The rock's unmistakable profile dominates the frame while the ocean spreads dark below. It's the island's sacred symbol, and on a clear night the view from its base runs from stone to star to the far volcano.",
   "file_16x9": "es-01-297-r1-16x9.png",
   "file_4x5": "es-01-297-r1-4x5.png",
+  "file_9x16": "es-01-297-r1-9x16.png",
   "file_16x9_postcard": "es-01-297-postcard-16x9.png",
   "file_4x5_postcard": "es-01-297-postcard-4x5.png",
   "file_9x16_postcard": "es-01-297-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "a9faf14da125a4570eb66a5903998098bb137cf0f41c0ddd7481b407a7b7f2d1"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "e0770fb439f4ffbfdd86ab612d196244d5dcb81616ae105d113212ffd9749b93"
     }
   },
   "masters": {

@@ -31,6 +31,7 @@
   "description": "At night, Segura de la Sierra's fortress village glows on its mountain spur in the dark Sierra de Segura. From the valley you face the lit cluster of houses and castle walls across the frame, rising out of the black forested slopes. The sierra village keeps its height through the night.",
   "file_16x9": "es-01-182-r1-16x9.png",
   "file_4x5": "es-01-182-r1-4x5.png",
+  "file_9x16": "es-01-182-r1-9x16.png",
   "file_16x9_postcard": "es-01-182-postcard-16x9.png",
   "file_4x5_postcard": "es-01-182-postcard-4x5.png",
   "file_9x16_postcard": "es-01-182-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "d90051977103dd24d8f55a37ad6276c9afb29683befda22a8a6a6b3c58623a3c"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "467e96137ed4b74fee796d2938c93a4fd51fe5249f36096808c5f71d79863451"
     }
   },
   "masters": {

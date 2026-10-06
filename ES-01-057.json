@@ -31,6 +31,7 @@
   "description": "Haro's old quarter sits above its famous vineyards, the town's lights spread below the dark hills. Church towers rise through the rooftops while the surrounding wine country is a black, rolling expanse. The wine capital of La Rioja, quiet before the next vintage.",
   "file_16x9": "es-01-057-r1-16x9.png",
   "file_4x5": "es-01-057-r1-4x5.png",
+  "file_9x16": "es-01-057-r1-9x16.png",
   "file_16x9_postcard": "es-01-057-postcard-16x9.png",
   "file_4x5_postcard": "es-01-057-postcard-4x5.png",
   "file_9x16_postcard": "es-01-057-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "c9dbf96aec093bbee99f67c50ae7822a444db141a660669c5bce577af3fc6daf"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "539869f1964001bfc2043e88fc1c237bf8ffc9a7de4add14b08934ce2d9becfa"
     }
   },
   "masters": {

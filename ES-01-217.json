@@ -25,6 +25,7 @@
   "description": "Stand at the garden end of Úbeda's Plaza Vázquez de Molina at night. The Renaissance plaza opens across the frame — the palaces' carved facades glowing left and right, the church tower rising at the far end — with the gardens' dark shapes in the foreground. Lamplight turns the golden stone to amber.",
   "file_16x9": "es-01-217-r1-16x9.png",
   "file_4x5": "es-01-217-r1-4x5.png",
+  "file_9x16": "es-01-217-r1-9x16.png",
   "file_16x9_postcard": "es-01-217-postcard-16x9.png",
   "file_4x5_postcard": "es-01-217-postcard-4x5.png",
   "file_9x16_postcard": "es-01-217-postcard-9x16.png",
@@ -38,6 +39,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "fb8697027213d00236bb5d03830bef239c453fcf9f9f89e840f0adb23cb8007d"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "acd577bad7c74b71c8c750f7f62b79c9452275668d208facac5714f18ceb03bf"
     }
   },
   "masters": {

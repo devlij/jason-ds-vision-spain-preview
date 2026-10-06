@@ -31,6 +31,7 @@
   "description": "You look up at Atienza's castle perched on its sheer rock outcrop in the night, floodlights tracing the fortress outline against the dark sky. The rock mass fills the frame's center, with the castle walls riding its summit and the town's dark rooftops clustering below. Few Spanish castles sit as dramatically as this one after dark.",
   "file_16x9": "es-01-122-r1-16x9.png",
   "file_4x5": "es-01-122-r1-4x5.png",
+  "file_9x16": "es-01-122-r1-9x16.png",
   "file_16x9_postcard": "es-01-122-postcard-16x9.png",
   "file_4x5_postcard": "es-01-122-postcard-4x5.png",
   "file_9x16_postcard": "es-01-122-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "6b075d44a58723a97ccced36365fde5b58307519cee9fe2f12d1c0c87e6c92ec"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "1f2b50bb4e1129a09d097729c618d90338852ab8896cf08463e7de7f816f4164"
     }
   },
   "masters": {

@@ -31,6 +31,7 @@
   "description": "From the shore below, the fortress rises on its rocky headland at the center of the frame, dark battlements cutting into the night sky above the black Mediterranean. Moonlight traces the castle's walls and towers, with warm lights glowing from its windows against the stone. The sea lies still and dark around the headland's base, making this one of the coast's most dramatic silhouettes.",
   "file_16x9": "es-01-270-r1-16x9.png",
   "file_4x5": "es-01-270-r1-4x5.png",
+  "file_9x16": "es-01-270-r1-9x16.png",
   "file_16x9_postcard": "es-01-270-postcard-16x9.png",
   "file_4x5_postcard": "es-01-270-postcard-4x5.png",
   "file_9x16_postcard": "es-01-270-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "fd3268030a8ba4b57208ccc032a5bb8f9071f00eddbd5bd5f7b7a4bfb2ecb833"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "aec50808e915630470940f06721fb7423f162a53b97c40029dc6eb59b44e6536"
     }
   },
   "masters": {

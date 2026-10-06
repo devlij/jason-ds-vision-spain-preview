@@ -31,6 +31,7 @@
   "description": "From the hillside viewpoint at night, the Jerte valley falls away in moonlight, its gorge cutting dark between the slopes. The cherry orchards lie black and silent on the hillsides, a few scattered village lights below. Moonlight lays a pale wash over the valley, the night deep and still.",
   "file_16x9": "es-01-364-r1-16x9.png",
   "file_4x5": "es-01-364-r1-4x5.png",
+  "file_9x16": "es-01-364-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -41,6 +42,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "2fcd9e2cb81c56769655ebc3865d500f59e39d67e77fa078f39c641df7814a1c"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "ab9fe380a2683c0f08f06c4a3f983accb43ba91b818d2280bdc6eb8c73f2b689"
     }
   },
   "masters": {

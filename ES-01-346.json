@@ -31,6 +31,7 @@
   "description": "From the town streets at night, the Royal Palace of Olite rises in dark silhouette under moonlight and stars. Its fairy-tale towers and pinnacles cut intricate black shapes against the sky. The medieval palace keeps its secrets in the dark, moonlight edging the rooftops while the town below sleeps.",
   "file_16x9": "es-01-346-r1-16x9.png",
   "file_4x5": "es-01-346-r1-4x5.png",
+  "file_9x16": "es-01-346-r1-9x16.png",
   "file_16x9_postcard": "es-01-346-postcard-16x9.png",
   "file_4x5_postcard": "es-01-346-postcard-4x5.png",
   "file_9x16_postcard": "es-01-346-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "9f4f4699e3e325cc444e01aa63f912eb2442fad997abb737d31a20c94fdfa60a"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "b31cad49c8f53412ac89430076760ad578e86c77f6ae6634e174bac7e2fc29ee"
     }
   },
   "masters": {

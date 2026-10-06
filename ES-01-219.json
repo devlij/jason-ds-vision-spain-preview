@@ -25,6 +25,7 @@
   "description": "From the castle viewpoint at night, look out over the Tabernas badlands. The desert's eroded ridges and dry gullies stretch across the frame, silvered by moonlight with deep black shadows in the gullies, the Sierra de los Filabres a dark wall at the horizon. Europe's only true desert, under a desert sky.",
   "file_16x9": "es-01-219-r1-16x9.png",
   "file_4x5": "es-01-219-r1-4x5.png",
+  "file_9x16": "es-01-219-r1-9x16.png",
   "file_16x9_postcard": "es-01-219-postcard-16x9.png",
   "file_4x5_postcard": "es-01-219-postcard-4x5.png",
   "file_9x16_postcard": "es-01-219-postcard-9x16.png",
@@ -38,6 +39,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "95107e6871f4c12fea175cef4553442f3af88b104f646c248e8c1f8cca16837c"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "50d9002b82cec597540833f78c9131f8891a0740ddd2ac0e183b6c430c367bb0"
     }
   },
   "masters": {

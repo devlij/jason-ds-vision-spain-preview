@@ -31,6 +31,7 @@
   "description": "In the volcanic country of La Garrotxa at night, Santa Pau's stone village glows warm among dark fields and volcanic hills. You stand at the village edge looking across its old walls and church tower, lit windows punctuating the frame. The night wraps the volcanic landscape in silence while the old streets keep their few lights.",
   "file_16x9": "es-01-137-r1-16x9.png",
   "file_4x5": "es-01-137-r1-4x5.png",
+  "file_9x16": "es-01-137-r1-9x16.png",
   "file_16x9_postcard": "es-01-137-postcard-16x9.png",
   "file_4x5_postcard": "es-01-137-postcard-4x5.png",
   "file_9x16_postcard": "es-01-137-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "2bf54d912694928d76f41c6d90b3daf0f74352fbf7f952f336f2c60cbabff57e"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "eb7a0237fe502ed9b2d37f5ee1277e953674b98086b71e62efe6c4432466399c"
     }
   },
   "masters": {

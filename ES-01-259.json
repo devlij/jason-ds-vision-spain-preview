@@ -31,6 +31,7 @@
   "description": "Face Montblanc's medieval walls at night. The crenellated ramparts run across the frame, gate towers rising at intervals, floodlit warm against the dark, with the old town's roofs and the church tower behind. These walls once held off armies — at night they just hold the lamplight.",
   "file_16x9": "es-01-259-r1-16x9.png",
   "file_4x5": "es-01-259-r1-4x5.png",
+  "file_9x16": "es-01-259-r1-9x16.png",
   "file_16x9_postcard": "es-01-259-postcard-16x9.png",
   "file_4x5_postcard": "es-01-259-postcard-4x5.png",
   "file_9x16_postcard": "es-01-259-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "37e52b649286582cd2596f2770d2d112fd94e73a836784e67b98f8b749707058"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "a0713a3ada41c5489b327060a28f315aa21b1f320fc7810ff44d4193119fc1c7"
     }
   },
   "masters": {

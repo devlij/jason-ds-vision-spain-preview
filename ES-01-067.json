@@ -31,6 +31,7 @@
   "description": "The gorge walls of the Foz de Lumbier rise sheer on both sides, rock faces barely visible in the dark. The river runs unseen far below while the cleft of sky overhead shows the stars. By day this is vulture country; at night it is all shadow and echo.",
   "file_16x9": "es-01-067-r1-16x9.png",
   "file_4x5": "es-01-067-r1-4x5.png",
+  "file_9x16": "es-01-067-r1-9x16.png",
   "file_16x9_postcard": "es-01-067-postcard-16x9.png",
   "file_4x5_postcard": "es-01-067-postcard-4x5.png",
   "file_9x16_postcard": "es-01-067-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "88a2b2121ce885052d56b859e3b75bf4e29d8214fc47467a826e5ccc44d2bd14"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "f81d0cf4c11abb2316d8d40b591479b29ee2ad0c5789f67b233b436613fea44a"
     }
   },
   "masters": {

@@ -31,6 +31,7 @@
   "description": "From the Mirador de la Peña terrace, the great El Golfo valley opens below — a vast amphitheater of cliffs and fields falling to the Atlantic, the ocean's dark expanse stretching to the horizon under the stars. The viewpoint's stone terrace sits at the frame's edge while the valley's patchwork fades into night below. César Manrique carved this lookout from the rock itself; the view it frames is El Hierro at its grandest.",
   "file_16x9": "es-01-292-r1-16x9.png",
   "file_4x5": "es-01-292-r1-4x5.png",
+  "file_9x16": "es-01-292-r1-9x16.png",
   "file_16x9_postcard": "es-01-292-postcard-16x9.png",
   "file_4x5_postcard": "es-01-292-postcard-4x5.png",
   "file_9x16_postcard": "es-01-292-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "a73bca97d90312704cb043e780e32aad73a5f3a90293d02f875fceb11ca6d5e4"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "7df688d69a309dc95162e82888df4673b7df82576213c8d9327f6ff521a6d26d"
     }
   },
   "masters": {

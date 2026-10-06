@@ -31,6 +31,7 @@
   "description": "From the cape, the Fisterra lighthouse stands above the Atlantic — its beacon sweeping the night, the tower floodlit white against the dark while the ocean stretches black to the horizon. The rocks fall away below the light, and the beam turns slowly over the water. The end of the world, the Romans called it — and the lighthouse still marks the edge of the known.",
   "file_16x9": "es-01-307-r1-16x9.png",
   "file_4x5": "es-01-307-r1-4x5.png",
+  "file_9x16": "es-01-307-r1-9x16.png",
   "file_16x9_postcard": "es-01-307-postcard-16x9.png",
   "file_4x5_postcard": "es-01-307-postcard-4x5.png",
   "file_9x16_postcard": "es-01-307-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "098b56993510ece319dfc7e166679f91b6cbb726b8b01badd8dbcb35005d9f56"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "530ed6f997b4792874e2744b5ac80a29c5cc8a2faa9d07e3784444cd8334923f"
     }
   },
   "masters": {

@@ -31,6 +31,7 @@
   "description": "From the Plaza de Santa María, the cathedral's west front fills the frame — twin openwork spires rising into the dark sky, floodlit limestone glowing against the night. The great west portal sits at the center with its pointed arches and carved detail, flanked by the intricate spires that are Burgos' signature. This is one of the masterpieces of Spanish Gothic, and the floodlights do it full justice.",
   "file_16x9": "es-01-326-r1-16x9.png",
   "file_4x5": "es-01-326-r1-4x5.png",
+  "file_9x16": "es-01-326-r1-9x16.png",
   "file_16x9_postcard": "es-01-326-postcard-16x9.png",
   "file_4x5_postcard": "es-01-326-postcard-4x5.png",
   "file_9x16_postcard": "es-01-326-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "2cfe5a11adfc2e2cc83af84a7917d5ed6a87a0d81c6875f2a250074dbbd0da5a"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "729c41f5f55e5a84cb02a94f647ef03f5173bd4449afcd08299b8d5d24509268"
     }
   },
   "masters": {

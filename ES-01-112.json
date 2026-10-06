@@ -31,6 +31,7 @@
   "description": "From a second vantage the walls of Buitrago trace their river loop, the medieval circuit standing dark above the water. The town's lights cluster within the walls while the river bends black around the peninsula. A different angle on the walled town the Lozoya defends.",
   "file_16x9": "es-01-112-r1-16x9.png",
   "file_4x5": "es-01-112-r1-4x5.png",
+  "file_9x16": "es-01-112-r1-9x16.png",
   "file_16x9_postcard": "es-01-112-postcard-16x9.png",
   "file_4x5_postcard": "es-01-112-postcard-4x5.png",
   "file_9x16_postcard": "es-01-112-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "a9e8b369265f7898a239936eb3ca27614fc41b972a41da3409858fff28cfd791"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "0c4647b9aa0bfbcfc4cfd978f1793988ac45a64db580f9c9555b525598a90313"
     }
   },
   "masters": {

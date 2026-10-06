@@ -31,6 +31,7 @@
   "description": "From the water's edge, the lagoon stretches out still and dark, its surface mirroring the night sky with a broken trail of moonlight down the center. The wooden jetty reaches out into the frame from the foreground, posts and planks picked out by soft light. Under a partly cloudy sky, reed beds fade into darkness along the shore, and the whole scene holds the hush of the Albufera after the day's boats have gone.",
   "file_16x9": "es-01-272-r1-16x9.png",
   "file_4x5": "es-01-272-r1-4x5.png",
+  "file_9x16": "es-01-272-r1-9x16.png",
   "file_16x9_postcard": "es-01-272-postcard-16x9.png",
   "file_4x5_postcard": "es-01-272-postcard-4x5.png",
   "file_9x16_postcard": "es-01-272-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "3018379ca8a6880d674838d1f921151830bf79c023cdb28afae86e333c84eb89"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "dfc185e5ee642dc2551cd379b56c47f84a4f2688a4f7cc7d8a44dcfa73e854a2"
     }
   },
   "masters": {

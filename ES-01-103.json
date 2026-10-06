@@ -31,6 +31,7 @@
   "description": "León's Gothic cathedral stands with its two towers against the night sky, the great west front floodlit. The pinnacles and flying buttresses are etched in light while the square lies empty before it. The house of light keeps its stained glass sleeping until dawn.",
   "file_16x9": "es-01-103-r1-16x9.png",
   "file_4x5": "es-01-103-r1-4x5.png",
+  "file_9x16": "es-01-103-r1-9x16.png",
   "file_16x9_postcard": "es-01-103-postcard-16x9.png",
   "file_4x5_postcard": "es-01-103-postcard-4x5.png",
   "file_9x16_postcard": "es-01-103-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "590abfef280409e994e591c22cea520494aaa970de7c91efb6b144f15edf8015"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "f5ea3cf2c922863882dcedf028be3e8d522e82ee5a1b56c5b3f8465bd1308b9a"
     }
   },
   "masters": {

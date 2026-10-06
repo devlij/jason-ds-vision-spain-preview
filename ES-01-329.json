@@ -31,6 +31,7 @@
   "description": "From the Pradera de San Marcos below the confluence, the Alcázar rises like a ship's prow at the center of the frame, its slate spires and stone walls floodlit against the night sky. The castle's dramatic position on the rocky crag is unmistakable — walls plunging down to the river gorge on either side. Segovia's fairy-tale fortress glows above the dark rivers, every bit the castle of storybooks.",
   "file_16x9": "es-01-329-r1-16x9.png",
   "file_4x5": "es-01-329-r1-4x5.png",
+  "file_9x16": "es-01-329-r1-9x16.png",
   "file_16x9_postcard": "es-01-329-postcard-16x9.png",
   "file_4x5_postcard": "es-01-329-postcard-4x5.png",
   "file_9x16_postcard": "es-01-329-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "cf90eca915bc38f6182e50c33b51bb50a9fe6e06007b2205cb263d2842fe87eb"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "a7cc29773780986ed843badc2abe4e6a329014c3244bbfcdc37eb28e05528977"
     }
   },
   "masters": {

@@ -31,6 +31,7 @@
   "description": "Inside the Alcázar of Jerez at night, the Almohad fortress courtyard lies quiet under the stars, its octagonal tower rising dark against the sky. Lamp-lit walls enclose the old parade ground while the tower's silhouette dominates. The ancient stones of the fortress hold the night stillness, centuries deep.",
   "file_16x9": "es-01-238-r1-16x9.png",
   "file_4x5": "es-01-238-r1-4x5.png",
+  "file_9x16": "es-01-238-r1-9x16.png",
   "file_16x9_postcard": "es-01-238-postcard-16x9.png",
   "file_4x5_postcard": "es-01-238-postcard-4x5.png",
   "file_9x16_postcard": "es-01-238-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "4c5003da2722f180626489c868872bbba7acc47b18cad53029a1787186ecc197"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "610486a6657be501501116e8df481d9ef552ec906536085946eaa77887bd8832"
     }
   },
   "masters": {
