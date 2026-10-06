@@ -31,6 +31,9 @@
   "description": "From the village below, the hilltop castle ruins stand dark against the night sky while Aracena's white houses glow beneath them, windows lit along the climbing streets. The ruined walls and towers crown the hill at the center of the frame, with the white village spilling down the slopes on either side. This is the heart of the Sierra de Aracena — a white village under its ancient castle, luminous in the dark.",
   "file_16x9": "es-01-226-r1-16x9.png",
   "file_4x5": "es-01-226-r1-4x5.png",
+  "file_16x9_postcard": "es-01-226-postcard-16x9.png",
+  "file_4x5_postcard": "es-01-226-postcard-4x5.png",
+  "file_9x16_postcard": "es-01-226-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
