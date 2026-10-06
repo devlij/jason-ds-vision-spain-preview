@@ -972,6 +972,16 @@
 
 <script>
 (function(){
+  /* D086: shared reset so every close path restores the 360 button's accessible label and title. */
+  var MOTION_PLAY_LABEL = 'Play the 360\u00b0 motion clip';
+  var MOTION_CLOSE_LABEL = 'Close the 360\u00b0 motion clip';
+  function resetMotionBtn(b){
+    if(!b) return;
+    b.classList.remove('is-active');
+    b.innerHTML = '\u25b6 360\u00b0';
+    b.setAttribute('aria-label', MOTION_PLAY_LABEL);
+    b.setAttribute('title', MOTION_PLAY_LABEL);
+  }
   document.querySelectorAll('.motion-btn').forEach(function(btn){
     btn.addEventListener('click', function(e){
       e.preventDefault();
@@ -985,15 +995,14 @@
       if(existing){
         existing.remove();
         if(img) img.style.display = '';
-        btn.classList.remove('is-active');
-        btn.innerHTML = '\u25b6 360\u00b0';
+        resetMotionBtn(btn);
         return;
       }
       // Stop any other playing videos
       document.querySelectorAll('video.motion-clip').forEach(function(v){
         var c = v.closest('article.card');
         var b = c && c.querySelector('.motion-btn.is-active');
-        if(b){ b.classList.remove('is-active'); b.innerHTML = '\u25b6 360\u00b0'; }
+        resetMotionBtn(c && c.querySelector('.motion-btn.is-active'));
         var im = c && c.querySelector('a.master-link.thumb img');
         if(im) im.style.display = '';
         v.remove();
