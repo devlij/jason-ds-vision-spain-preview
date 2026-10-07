@@ -43,6 +43,15 @@
       "source_width": 1672,
       "source_height": 941,
       "resampled": true
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "eea74c0c0561b215748133043f4a053c06ff7756092bfcbbb4fa6f148ff24d3e",
+      "bytes": 2825472,
+      "source_width": 529,
+      "source_height": 940,
+      "resampled": true
     }
   },
   "gates": {
@@ -54,6 +63,7 @@
   },
   "file_16x9": "es-01-014-r1-16x9.png",
   "file_4x5": "es-01-014-r1-4x5.png",
+  "file_9x16": "es-01-014-r1-9x16.png",
   "references": [
     {
       "title": "Mirador Puente Nuevo visitor reference",

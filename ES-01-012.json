@@ -43,6 +43,15 @@
       "source_width": 1672,
       "source_height": 941,
       "resampled": true
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "05d56680c2b20ed90957a2623deabd5ad6aa358fbb9308abe471a59322092600",
+      "bytes": 2625367,
+      "source_width": 529,
+      "source_height": 940,
+      "resampled": true
     }
   },
   "gates": {
@@ -54,6 +63,7 @@
   },
   "file_16x9": "es-01-012-r1-16x9.png",
   "file_4x5": "es-01-012-r1-4x5.png",
+  "file_9x16": "es-01-012-r1-9x16.png",
   "references": [
     {
       "title": "Spain.info: Segovia in one day",

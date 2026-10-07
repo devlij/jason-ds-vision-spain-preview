@@ -51,10 +51,20 @@
       "source_width": 1672,
       "source_height": 941,
       "resampled": true
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "9f656c16ed8ef1c29b9d303fb71ee9906ee368fdfa3608d14671f7b52a25343e",
+      "bytes": 2154465,
+      "source_width": 529,
+      "source_height": 940,
+      "resampled": true
     }
   },
   "file_16x9": "es-01-019-r2-16x9.png",
   "file_4x5": "es-01-019-r2-4x5.png",
+  "file_9x16": "es-01-019-r2-9x16.png",
   "references": [
     {
       "url": "https://alcazarsevilla.org/",

@@ -43,6 +43,15 @@
       "source_width": 1672,
       "source_height": 941,
       "resampled": true
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "7df5f3876f71292d6620cdc6a2b5d0f00fdeacbd1a92609dccbdd165f5af3519",
+      "bytes": 2556721,
+      "source_width": 529,
+      "source_height": 940,
+      "resampled": true
     }
   },
   "gates": {
@@ -54,6 +63,7 @@
   },
   "file_16x9": "es-01-013-r1-16x9.png",
   "file_4x5": "es-01-013-r1-4x5.png",
+  "file_9x16": "es-01-013-r1-9x16.png",
   "references": [
     {
       "title": "UNESCO: Historic City of Toledo",
