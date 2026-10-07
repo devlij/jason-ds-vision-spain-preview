@@ -29,12 +29,12 @@
   "composition": "Night · From the Santillana del Mar medieval street under street lamps near 43.3920,-4.1070. Approximate point only. · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Santillana del Mar at night.",
   "description": "From the medieval street, Santillana del Mar glows under its street lamps — the old stone houses and their wooden balconies lit warm along the cobbled lane, with the collegiate church's towers rising at the street's end. The lamps catch the honey-colored stone and the carved coats of arms, and the whole village feels suspended in time. They call it the town of three lies; tonight it's simply beautiful.",
-  "file_16x9": "es-01-317-r1-16x9.png",
-  "file_4x5": "es-01-317-r1-4x5.png",
-  "file_9x16": "es-01-317-r1-9x16.png",
-  "file_16x9_postcard": "es-01-317-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-317-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-317-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-317-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-317-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-317-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-317-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-317-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-317-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-317-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-317-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-317-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-317-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -164,23 +164,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-317-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-317-r1-16x9.png",
         "sha256": "6a28e3cc0c5acc3068052e475c2e7be99ead1328ccde79ba30eddf97894c8e57"
       },
       "4x5": {
-        "path": "es-01-317-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-317-r1-4x5.png",
         "sha256": "193a012b02ade7b19d504ae4a8f0737b353d3c8d2ecfeb56162ab9c7f1e20c12"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-317-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-317-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "6c02ee2785763b39a146e43c166ade1584b0230a555777d3e43019cadcb4b3e0"
       },
       "4x5": {
-        "path": "es-01-317-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-317-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "4c761d9a83ca70cb2f773984f605bedfdfe1dc80651625cba8f49f377df6b742"

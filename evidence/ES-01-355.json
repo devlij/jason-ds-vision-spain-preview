@@ -83,7 +83,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-355-cand-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-355-cand-r1-16x9.png",
       "width": 1920,
       "height": 1270,
       "sha256": "6e967755d20d55d485836d8f6e0fc6330a15639b316799760c8fdccd271c62f6",
@@ -93,7 +93,7 @@
       "source_height": 720
     },
     "4x5": {
-      "file": "es-01-355-cand-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-355-cand-r1-4x5.png",
       "width": 864,
       "height": 1270,
       "sha256": "b2d3ec41545f1039d37b2d42ec24515dcfa6fb83ceb898bd3a99798d2e62ba7e",
@@ -103,7 +103,7 @@
       "source_height": 1152
     },
     "9x16": {
-      "file": "es-01-355-cand-r1-9x16.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-355-cand-r1-9x16.png",
       "width": 1080,
       "height": 2110,
       "sha256": "d4c41036b3178aba429e1359c418eb527f75c70665be95f9e17673a369482180",

@@ -29,12 +29,12 @@
   "composition": "Night · Gorge mouth and cliffs under a starry sky · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Sa Calobra cove, Escorca at night.",
   "description": "Stand at the mouth of the Sa Calobra gorge at night. The great cliffs rise left and right across the frame, the narrow gorge cutting between them, with the starry sky arched above the black water. By day the tour boats crowd in — at night the torrent's old mouth belongs to the dark.",
-  "file_16x9": "es-01-261-r1-16x9.png",
-  "file_4x5": "es-01-261-r1-4x5.png",
-  "file_9x16": "es-01-261-r1-9x16.png",
-  "file_16x9_postcard": "es-01-261-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-261-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-261-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-261-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-261-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-261-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-261-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-261-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-261-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-261-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-261-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-261-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-261-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -169,23 +169,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-261-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-261-r1-16x9.png",
         "sha256": "b0e2f4e8e20507a365232da159c8273173001fc5a2d4037e19e62908587e74d2"
       },
       "4x5": {
-        "path": "es-01-261-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-261-r1-4x5.png",
         "sha256": "3b482642d76dc1bb8306cb179c8d81ab11ab1c43b7b3596db0c032433d8c2a34"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-261-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-261-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "881072599da114ca540f4a80154643379ac63f1b823fb377fb76b65adb0cf8ec"
       },
       "4x5": {
-        "path": "es-01-261-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-261-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "7531269d4a6dce2972af89cd2298e4eb70da39e2cd944840f1a113064fc94984"

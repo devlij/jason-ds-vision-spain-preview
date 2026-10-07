@@ -29,12 +29,12 @@
   "composition": "Night · The egg-crowned tower and geodesic dome over the lamplit square · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Dalí Theatre-Museum, Figueres at night.",
   "description": "Face the Dalí Theatre-Museum across the lamplit square at night. The egg-crowned tower rises at center frame, the geodesic dome swelling to one side, with the museum's studded rose-colored walls and surreal sculptures filling the frame. Even floodlit at night, it is unmistakably Dalí.",
-  "file_16x9": "es-01-247-r1-16x9.png",
-  "file_4x5": "es-01-247-r1-4x5.png",
-  "file_9x16": "es-01-247-r1-9x16.png",
-  "file_16x9_postcard": "es-01-247-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-247-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-247-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-247-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-247-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-247-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-247-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-247-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-247-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-247-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-247-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-247-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-247-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -169,23 +169,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-247-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-247-r1-16x9.png",
         "sha256": "6cee6b32bd92b3dffb71312a747d104859d28bdb8d97f2cca2c129ce37e568f2"
       },
       "4x5": {
-        "path": "es-01-247-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-247-r1-4x5.png",
         "sha256": "8b70f395e80e17355c55ac5354c0cb54bcca0ae7f73299a2ba41bef3ac90ade0"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-247-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-247-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "364a70a9e3ef5eb21b962bc16c42e37f8188c73457621da417b83440a6bbffa3"
       },
       "4x5": {
-        "path": "es-01-247-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-247-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "012f71591bb6e70b3ad2ee25fdc154ed35fbd42d4d582a0ebaf884297ae98f78"

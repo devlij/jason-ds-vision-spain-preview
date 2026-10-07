@@ -29,12 +29,12 @@
   "composition": "Night · the crag village over the canyon · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Alquézar, Alquézar at night.",
   "description": "The village of Alquézar clings to its crag above the Vero canyon, its few lights scattered across the dark rock. From below you see the lit windows of the stone houses and the collegiate church on its summit, the canyon a black void beneath. Night turns this eagle's-nest village into something out of a legend.",
-  "file_16x9": "es-01-130-r3-16x9.png",
-  "file_4x5": "es-01-130-r3-4x5.png",
-  "file_9x16": "es-01-130-r3-9x16.png",
-  "file_16x9_postcard": "es-01-130-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-130-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-130-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-130-r3-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-130-r3-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-130-r3-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-130-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-130-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-130-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-130-r3-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-130-r3-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-130-r3-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-130-r3-4x5.png",
       "dimensions": [
         864,
         1270
@@ -167,23 +167,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-130-r3-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-130-r3-16x9.png",
         "sha256": "f38c10357a4edeb568d1a553cef3eb45b495ca2ccae960243f57614e4673d653"
       },
       "4x5": {
-        "path": "es-01-130-r3-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-130-r3-4x5.png",
         "sha256": "66ae4c823e836d9a3519ec7d5ad2c952c463b2081df9092a0e74ffaa92186bb5"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-130-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-130-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "b15035bbe3554e636dc330db23b8bf8084148c008d3bfbea82052577f4905fd6"
       },
       "4x5": {
-        "path": "es-01-130-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-130-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "55ad3e537501421f8a571527aee661b3f40dd5ecbffcea6ff92cb1b313252ea0"

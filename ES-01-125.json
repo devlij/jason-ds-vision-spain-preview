@@ -25,11 +25,11 @@
   "composition": "Night · the Mudejar towers over the old town · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Mudejar Towers at night.",
   "description": "From the old town streets at night, Teruel's Mudejar towers rise floodlit above the dark rooftops, their patterned brickwork glowing against the sky. The towers of San Martín and El Salvador stand lit in pairs over the sleeping town. Their glazed tiles catch the light, the Mudejar crown of Teruel radiant in the night.",
-  "file_16x9": "es-01-125-r1-16x9.png",
-  "file_4x5": "es-01-125-r1-4x5.png",
-  "file_16x9_postcard": "es-01-125-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-125-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-125-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-125-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-125-r1-4x5.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-125-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-125-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-125-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -44,7 +44,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-125-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-125-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -71,7 +71,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-125-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-125-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -153,23 +153,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-125-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-125-r1-16x9.png",
         "sha256": "d7064180c01abae6e7b125bc282d784b86749a7e2d900102a547f52cfcf303cd"
       },
       "4x5": {
-        "path": "es-01-125-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-125-r1-4x5.png",
         "sha256": "61c5e01f2bf48c6808ab52b91581809c3d8b1603d656b903939b4e4cd1e518cb"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-125-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-125-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "bcba3366eeb94db2bbd837261d74b8700e3da5ea75b7e5f1a0bde12edd0ed8a0"
       },
       "4x5": {
-        "path": "es-01-125-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-125-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "2f772f2868d7d76cc0c87cb5000540e11ccb27af98c3c45c90a95c9565475f07"

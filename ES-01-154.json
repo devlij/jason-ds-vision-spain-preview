@@ -29,12 +29,12 @@
   "composition": "Night · the cove beaches · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Calblanque, Cartagena at night.",
   "description": "At night the Calblanque coves lie dark and undisturbed, black sand and clear water under a starlit sky. From the shore path you look across the frame's curve of cove beaches, the sea faintly silvered and the protected dunes just shapes in the dark. The wild coast sleeps with nobody on it.",
-  "file_16x9": "es-01-154-r2-16x9.png",
-  "file_4x5": "es-01-154-r2-4x5.png",
-  "file_9x16": "es-01-154-r2-9x16.png",
-  "file_16x9_postcard": "es-01-154-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-154-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-154-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-154-r2-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-154-r2-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-154-r2-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-154-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-154-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-154-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-154-r2-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-154-r2-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-154-r2-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-154-r2-4x5.png",
       "dimensions": [
         864,
         1270
@@ -167,23 +167,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-154-r2-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-154-r2-16x9.png",
         "sha256": "6e87aab5da222d0c1231116cb40b4662ef5c1f6600602ebd71b15264de101b7d"
       },
       "4x5": {
-        "path": "es-01-154-r2-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-154-r2-4x5.png",
         "sha256": "78cff4d2f5580242bedfd74d4009d1b0d4b0a9876d8937876ab7030d68ee4738"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-154-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-154-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "be71e95e2cb2d9a9ff68d2e93f475bcb2a1615123ed90d21d89f4a9664093248"
       },
       "4x5": {
-        "path": "es-01-154-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-154-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "c72522101c4ed9b74486c200284dcff92f39cae0a3b8775a3520d4498a581c94"

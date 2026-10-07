@@ -29,12 +29,12 @@
   "composition": "Night · From the subterranean lake inside the Jameos del Agua lava tube, looking across the still turquoise water toward the collapsed roof opening near 29.1578,-13.4312. Approximate point only. · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of the Jameos del Agua, Lanzarote at night.",
   "description": "From the subterranean lake inside the lava tube, the still turquoise water stretches toward the collapsed roof opening — the famous jameo — where a shaft of night sky shows through the volcanic rock. Soft lighting glows along the water's edge and the palms planted by César Manrique stand dark against the opening. Jameos del Agua is Manrique's masterpiece of art and nature, and the underground lake holds its turquoise calm in the dark.",
-  "file_16x9": "es-01-288-r1-16x9.png",
-  "file_4x5": "es-01-288-r1-4x5.png",
-  "file_9x16": "es-01-288-r1-9x16.png",
-  "file_16x9_postcard": "es-01-288-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-288-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-288-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-288-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-288-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-288-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-288-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-288-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-288-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-288-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-288-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-288-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-288-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -164,23 +164,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-288-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-288-r1-16x9.png",
         "sha256": "9f1669671d4588ad0fb05716cfeddbc5234d6e4e84bf4d1df68c9dd4222392c0"
       },
       "4x5": {
-        "path": "es-01-288-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-288-r1-4x5.png",
         "sha256": "782b053813a8fe595e6392706b185afabc2c91e0e25318405eee176589730326"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-288-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-288-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "0e178005d3853f8755be22eeebc425a0964c32f5fd1034531db01bba3acb2e33"
       },
       "4x5": {
-        "path": "es-01-288-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-288-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "0f67855034e2acad06e37ac7f368c8418e54ed36e456eef206353c9b949e2c93"

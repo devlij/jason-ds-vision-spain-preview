@@ -37,12 +37,12 @@
   "composition": "Night · Public Pradera de Ordesa trailhead/gravel parking-edge near42.6493,-0.0606, eye-level looking approximately north toward the limestone escarpment. No assertion of nighttime transport or access availability. · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Valle de Ordesa, Torla-Ordesa at night.",
   "description": "From the Pradera de Ordesa trailhead, look north at the limestone escarpment under the night sky. The great pale cliff wall fills the center of the frame, rising sheer above the dark valley floor, with forested slopes falling away left and right. Moonlight edges the rim while the meadow below lies in deep shadow.",
-  "file_16x9": "es-01-025-r1-16x9.png",
-  "file_4x5": "es-01-025-r1-4x5.png",
-  "file_9x16": "es-01-025-r1-9x16.png",
-  "file_16x9_postcard": "es-01-025-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-025-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-025-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-025-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-025-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-025-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-025-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-025-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-025-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -62,7 +62,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-025-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-025-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -89,7 +89,7 @@
       "resampling_disclosure": "Required masters exceed the built-in 1672×941 source in at least one dimension; Lanczos resampling does not create native detail."
     },
     "4x5": {
-      "file": "es-01-025-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-025-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -235,23 +235,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-025-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-025-r1-16x9.png",
         "sha256": "621c67bbc9af5d7a099dc045afdd5e120694575b7ddbc582001ba5bb36e068e0"
       },
       "4x5": {
-        "path": "es-01-025-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-025-r1-4x5.png",
         "sha256": "2d257a5dfc7a7561bc16430ee5d16eb10cde50758e5b5d6eb14caf6cb82f6507"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-025-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-025-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "212c7b7b8bc1b8b8eb99d0f6070a66a12925da1df7256ee505764b2a4e58f286"
       },
       "4x5": {
-        "path": "es-01-025-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-025-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "e7d14ef55d6183e74caa38d9c5f2624ce2645b7fabee47d2427d1ef29e53772f"

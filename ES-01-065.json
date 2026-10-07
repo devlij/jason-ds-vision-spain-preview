@@ -29,12 +29,12 @@
   "composition": "Night · the fortress-palace · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Javier Castle, Javier at night.",
   "description": "Javier Castle, the fortress-palace of Saint Francis Xavier, stands solid against the night sky. Its towers and crenellations are picked out by lighting while the surrounding Navarrese hills lie dark. The birthplace of the great missionary, still commanding its valley.",
-  "file_16x9": "es-01-065-r1-16x9.png",
-  "file_4x5": "es-01-065-r1-4x5.png",
-  "file_9x16": "es-01-065-r1-9x16.png",
-  "file_16x9_postcard": "es-01-065-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-065-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-065-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-065-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-065-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-065-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-065-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-065-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-065-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,14 +54,14 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-065-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-065-r1-16x9.png",
       "dimensions": [
         1920,
         1270
       ],
       "byte_length": 2308679,
       "sha256": "320689699a125fa7096cef93eeffa5ff4438d2e6c05115405c6eb84c1af3ee4e",
-      "source_file": "es-01-065-r1.png",
+      "source_file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-065-r1.png",
       "source_dimensions": [
         1408,
         1760
@@ -81,14 +81,14 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-065-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-065-r1-4x5.png",
       "dimensions": [
         864,
         1270
       ],
       "byte_length": 1177589,
       "sha256": "2ee81e37ffabe50e12ca5dfee05e32952ab59880fda11fafc2fe94197a851e30",
-      "source_file": "es-01-065-r1.png",
+      "source_file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-065-r1.png",
       "source_dimensions": [
         1408,
         1760
@@ -120,7 +120,7 @@
   },
   "source_files": [
     {
-      "file": "es-01-065-r1.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-065-r1.png",
       "sha256": "a0d1c3cd220a4db65f765402ed2b4c60fc8769d34fac320fa0f6e60364896568",
       "dimensions": [
         1408,
@@ -162,29 +162,29 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-065-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-065-r1-16x9.png",
         "sha256": "320689699a125fa7096cef93eeffa5ff4438d2e6c05115405c6eb84c1af3ee4e"
       },
       "4x5": {
-        "path": "es-01-065-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-065-r1-4x5.png",
         "sha256": "2ee81e37ffabe50e12ca5dfee05e32952ab59880fda11fafc2fe94197a851e30"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-065-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-065-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "61cfea8d8097759abc1a78b942cfa8da31aba88ef7f9946e0e837e1f77a37830"
       },
       "4x5": {
-        "path": "es-01-065-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-065-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "0ddb4fc19e282662aa6e2e0a407c288c7112e384585ad5438d49450c26fb3273"
       },
       "9x16": {
-        "path": "es-01-065-daylight-9x16.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-065-daylight-9x16.png",
         "width": 1080,
         "height": 2110,
         "sha256": "6f1182f740447acdc8eb4c3fbe974ab90642e18340211cc2047bc3161735ff82"

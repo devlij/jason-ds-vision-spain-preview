@@ -20,11 +20,11 @@
   },
   "weather": "Model data from Open-Meteo, retrieved 1 October 2026 02:30:15 Europe/Madrid, valid 02:30 Europe/Madrid — not a verified on-site observation. 20.5°C, WMO 3 overcast, cloud 100%, precipitation 0.0 mm, wind 2.5 km/h. Sunrise 07:55, sunset 19:41. Approximate solar elevation -51.08°, azimuth 16.55°. Night; no direct sunlight.",
   "limitations": "Approved by Cosmo QC 5/5 on 1 October 2026 (re-audit of the cand-r1 architectural rebuild). 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top 864×1080 of an 864×1152 generated source and drop 72 pixels of foreground. Dimensions do not imply native detail. Open-Meteo figures are model data, not an on-site observation. Exact camera correspondence is not surveyed.",
-  "file_16x9": "es-01-146-cand-r1-16x9.png",
-  "file_4x5": "es-01-146-cand-r1-4x5.png",
-  "file_16x9_postcard": "es-01-146-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-146-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-146-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-146-cand-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-146-cand-r1-4x5.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-146-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-146-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-146-postcard-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "editions": [],
@@ -36,8 +36,8 @@
       "previous_status": "Approved · Cosmo QC 5/5 · Night",
       "previous_approval_state": "approved",
       "previous_files": {
-        "16x9": "es-01-146-r2-16x9.png",
-        "4x5": "es-01-146-r2-4x5.png",
+        "16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-146-r2-16x9.png",
+        "4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-146-r2-4x5.png",
         "9x16": null
       },
       "resolution": "Architectural rebuild cand-r1 landed as Candidate. The prior approval covered the previous bytes only. It does not cover cand-r1. No Cosmo re-audit is claimed."
@@ -74,7 +74,7 @@
     }
   },
   "revision": "cand-r1",
-  "file_9x16": "es-01-146-cand-r1-9x16.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-146-cand-r1-9x16.png",
   "evidence_card": "evidence/ES-01-146.json",
   "land_as": "Candidate",
   "conditions_record": {

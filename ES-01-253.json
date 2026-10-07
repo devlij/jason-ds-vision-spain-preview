@@ -29,12 +29,12 @@
   "composition": "Night · Arcaded square and keep tower under a foggy night sky · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Medieval old town, Peratallada at night.",
   "description": "Stand in Peratallada's arcaded square on a foggy night. The medieval arches ring the frame, the keep tower looming above the rooftops, with lamplight diffusing soft through the mist. The fog muffles everything — footsteps, voices — until the whole village feels like a memory of itself.",
-  "file_16x9": "es-01-253-r1-16x9.png",
-  "file_4x5": "es-01-253-r1-4x5.png",
-  "file_9x16": "es-01-253-r1-9x16.png",
-  "file_16x9_postcard": "es-01-253-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-253-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-253-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-253-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-253-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-253-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-253-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-253-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-253-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-253-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-253-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-253-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-253-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -169,23 +169,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-253-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-253-r1-16x9.png",
         "sha256": "4451d43dab00abb1dfeb5594438886515244a4e4c719380f1dbf4986e349c983"
       },
       "4x5": {
-        "path": "es-01-253-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-253-r1-4x5.png",
         "sha256": "b3a8af36217cef10f338d55bb801ae85a584f21e710fb77e2d983960929647d2"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-253-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-253-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "adb9b85d58dab40c761483b68a8aa3b62d0b7ff8aacae67d4b04a26de5339ef4"
       },
       "4x5": {
-        "path": "es-01-253-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-253-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "c1887c49391eb65572eac1d9b76ace78d81ab5bf26170bc6f322e8015a2170c3"

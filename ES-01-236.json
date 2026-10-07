@@ -29,12 +29,12 @@
   "composition": "Night · Renaissance plaza and plateresque chapel at night · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Plaza Vázquez de Molina at night.",
   "description": "In Úbeda's Plaza Vázquez de Molina at night, the Renaissance palaces and the plateresque chapel glow under the lamps. The Sacra Capilla's carved façade is floodlit, its stonework brilliant against the dark sky. The plaza lies empty and noble, one of Andalusia's finest squares holding court in the night.",
-  "file_16x9": "es-01-236-r1-16x9.png",
-  "file_4x5": "es-01-236-r1-4x5.png",
-  "file_9x16": "es-01-236-r1-9x16.png",
-  "file_16x9_postcard": "es-01-236-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-236-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-236-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-236-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-236-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-236-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-236-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-236-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-236-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-236-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-236-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-236-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-236-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -168,23 +168,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-236-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-236-r1-16x9.png",
         "sha256": "c6108d109041e4e85a2e485aa7fd68f589d0b81dde9619c1dd8f1a189a83be7a"
       },
       "4x5": {
-        "path": "es-01-236-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-236-r1-4x5.png",
         "sha256": "501398347379634f61ced95d6c8539da0f53362e732d315b51f18f36894bb08b"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-236-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-236-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "98e8d7e438cabd2a83ae0d11747bc51584d7fd0d2aa066ac38508b68d2aa1a8a"
       },
       "4x5": {
-        "path": "es-01-236-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-236-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "d1be6aa7fce1969d87f837404d7780cb0df94700054f18fbb538432173f7f30e"

@@ -29,12 +29,12 @@
   "composition": "Night · From Las Teresitas beach, looking along the moonlit shore toward the Anaga mountains near 28.5083,-16.1867. Approximate point only. · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Las Teresitas, Tenerife at night.",
   "description": "From the beach, the moonlit shore of Las Teresitas curves away toward the dark mass of the Anaga mountains — golden sand glowing pale under the moon, with the calm water lapping at the frame's edge. Palm silhouettes stand along the promenade behind, and the mountains rise black against the starry sky. Tenerife's great man-made golden beach is a local institution; by night it's a quiet crescent of silver.",
-  "file_16x9": "es-01-294-r1-16x9.png",
-  "file_4x5": "es-01-294-r1-4x5.png",
-  "file_9x16": "es-01-294-r1-9x16.png",
-  "file_16x9_postcard": "es-01-294-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-294-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-294-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-294-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-294-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-294-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-294-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-294-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-294-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-294-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-294-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-294-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-294-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -164,23 +164,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-294-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-294-r1-16x9.png",
         "sha256": "e63afe618f5b460139c680feddcd8791b2b1da506d631147d1da1ea7ac53bf42"
       },
       "4x5": {
-        "path": "es-01-294-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-294-r1-4x5.png",
         "sha256": "0dbe7a17cfde26342d04752dc29c7324f63b0649c1104972bb64bd62eb6c4085"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-294-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-294-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "1395cd37c79d6e1333d4ff0bb1267d48eb889f8867494818e5cb5ad5c01357d4"
       },
       "4x5": {
-        "path": "es-01-294-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-294-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "eb88ab110be39e3283a4530159f1f0428235ae94104167a2c335e89bd82a5485"

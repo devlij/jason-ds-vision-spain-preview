@@ -29,12 +29,12 @@
   "composition": "Night · ceramic fountain plaza of a white hilltop town at night · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Plaza de España at night.",
   "description": "In Vejer's Plaza de España at night, the ceramic-tiled fountain glows at the center of the lamplit square. The white hilltop town rises around it, walls and rooftops dark against the starry sky. The fountain's painted tiles catch the light, the plaza quiet and cool after the warm day.",
-  "file_16x9": "es-01-240-r1-16x9.png",
-  "file_4x5": "es-01-240-r1-4x5.png",
-  "file_9x16": "es-01-240-r1-9x16.png",
-  "file_16x9_postcard": "es-01-240-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-240-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-240-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-240-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-240-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-240-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-240-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-240-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-240-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-240-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-240-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-240-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-240-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -168,23 +168,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-240-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-240-r1-16x9.png",
         "sha256": "3ef3fcef1d12637bf0b3a2a39e3cb0d403fdace14c1670715fe2fd9460d3cddc"
       },
       "4x5": {
-        "path": "es-01-240-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-240-r1-4x5.png",
         "sha256": "4b833b1007e745b4dc802fc23431f9ed9c93193839119e89daa528d385e12c41"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-240-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-240-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "a4145014e31343f7470f2be85d890e7584d4681e2ef3eb3082624e27f6d85650"
       },
       "4x5": {
-        "path": "es-01-240-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-240-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "fddb82c74a3579421004d2393f0d8675ec44f375fd9a21ca93d5710eef2ddec8"

@@ -29,12 +29,12 @@
   "composition": "Night · Church from the pilgrim approach, dark silhouette under moonlight and stars · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of the Collegiate Church of Roncesvalles at night.",
   "description": "On the pilgrim approach to Roncesvalles at night, the collegiate church stands in dark silhouette under moonlight and stars. Its Gothic mass blocks the sky where the Camino passes, quiet after the day's pilgrims. The mountain night closes around it, the church waiting for the first walkers of dawn.",
-  "file_16x9": "es-01-348-r1-16x9.png",
-  "file_4x5": "es-01-348-r1-4x5.png",
-  "file_9x16": "es-01-348-r1-9x16.png",
-  "file_16x9_postcard": "es-01-348-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-348-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-348-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-348-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-348-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-348-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-348-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-348-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-348-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-348-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-348-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-348-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-348-r1-4x5.png",
       "dimensions": [
         864,
         1270

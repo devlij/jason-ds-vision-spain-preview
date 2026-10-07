@@ -29,12 +29,12 @@
   "composition": "Night · the walled island · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Tabarca, Alicante at night.",
   "description": "From the water at night, the walled island of Tabarca is a low ring of lights against the dark sea. You take in the whole island across the frame, its old walls and houses glowing softly with the lighthouse's pulse somewhere along the shore. The Mediterranean lies black all around, and the tiny island keeps its own quiet light.",
-  "file_16x9": "es-01-142-r2-16x9.png",
-  "file_4x5": "es-01-142-r2-4x5.png",
-  "file_9x16": "es-01-142-r2-9x16.png",
-  "file_16x9_postcard": "es-01-142-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-142-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-142-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-142-r2-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-142-r2-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-142-r2-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-142-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-142-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-142-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-142-r2-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-142-r2-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-142-r2-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-142-r2-4x5.png",
       "dimensions": [
         864,
         1270
@@ -167,23 +167,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-142-r2-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-142-r2-16x9.png",
         "sha256": "7e4ac894b6300342b66032f208bc1586d388ee994400c7cc6fe6f3f5a321fe58"
       },
       "4x5": {
-        "path": "es-01-142-r2-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-142-r2-4x5.png",
         "sha256": "6b4936e47b17936cd8324fd60d8e49e025c0c9b4bd6004ace5ee1e8f0d205c34"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-142-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-142-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "e093bf15ab9d506970b188324604a2f1201672e7fe803de0a849c518a417f5ee"
       },
       "4x5": {
-        "path": "es-01-142-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-142-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "0b84a15806fa7beab6c0e320b54c93ddc8fc23a6992b7b96ad0de024ecddcc99"

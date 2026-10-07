@@ -29,12 +29,12 @@
   "composition": "Night · Whitewashed old town under the blue-domed church · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Old town, Altea at night.",
   "description": "From the winding streets below, the whitewashed old town climbs the hill toward the church with its famous blue dome, the dome glowing deep blue under the night lights at the top of the frame. Cobbled lanes and white facades wind upward on either side, lamplit and quiet. The old town's maze of alleys funnels the eye up to the church — Altea's signature silhouette over the Costa Blanca.",
-  "file_16x9": "es-01-276-r1-16x9.png",
-  "file_4x5": "es-01-276-r1-4x5.png",
-  "file_9x16": "es-01-276-r1-9x16.png",
-  "file_16x9_postcard": "es-01-276-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-276-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-276-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-276-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-276-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-276-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-276-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-276-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-276-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-276-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-276-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-276-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-276-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -169,23 +169,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-276-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-276-r1-16x9.png",
         "sha256": "01626c6f01988dd5a5293ca813e59cd024c607ad68db26759e44d3e2906bd2eb"
       },
       "4x5": {
-        "path": "es-01-276-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-276-r1-4x5.png",
         "sha256": "d9b5df2d9072cb9c603f97c5d6ea19d3f8daddb5d53a1701b9e904c23bd83aa5"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-276-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-276-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "037a5d9efe185c0790558664a9572733357da639430d05c76a28eb3f594cecc6"
       },
       "4x5": {
-        "path": "es-01-276-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-276-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "c7c94073910be31f1b7bea29fd76dd649439b1360396afffe5df9a180dc4206c"

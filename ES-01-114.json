@@ -29,12 +29,12 @@
   "composition": "Night · the garden square · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Plaza de Oriente, Madrid at night.",
   "description": "The garden square of the Plaza de Oriente lies between palace and theatre, its clipped hedges and statues lit along the paths. The Royal Palace looms at one end while the opera house faces it from the other. Madrid's most stately square, at its quietest hour.",
-  "file_16x9": "es-01-114-r1-16x9.png",
-  "file_4x5": "es-01-114-r1-4x5.png",
-  "file_9x16": "es-01-114-r1-9x16.png",
-  "file_16x9_postcard": "es-01-114-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-114-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-114-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-114-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-114-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-114-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-114-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-114-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-114-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-114-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-114-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-114-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-114-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -167,23 +167,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-114-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-114-r1-16x9.png",
         "sha256": "aa0062eb88d33219cd0e264fc54f06adc3b1fff585a0a82e13c3859aa58e250d"
       },
       "4x5": {
-        "path": "es-01-114-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-114-r1-4x5.png",
         "sha256": "0d32f0b92846ec06777342c87bc48d60a76a287d12db3b53a8abb929fcc81d68"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-114-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-114-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "072c5675c24bffa7df3a55cfb22e7ddea9cce00d032cd6e43dfd5cce31cda3d6"
       },
       "4x5": {
-        "path": "es-01-114-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-114-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "f3cd6b84c33936071ee7d49661c86ff65311a01cb5541177c50b569bebddef25"

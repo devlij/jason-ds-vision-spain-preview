@@ -23,12 +23,12 @@
   "composition": "Night · fortress from the city at night · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Alcazaba at night.",
   "description": "From the city below at night, look up at Almería's Alcazaba. The great fortress walls run along the hilltop across the frame, floodlit against the black sky, with the city's lit streets spreading at the foot of the hill. The second-largest Muslim fortress in Spain still dominates the skyline after a thousand years.",
-  "file_16x9": "es-01-218-r1-16x9.png",
-  "file_4x5": "es-01-218-r1-4x5.png",
-  "file_9x16": "es-01-218-r1-9x16.png",
-  "file_16x9_postcard": "es-01-218-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-218-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-218-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-218-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-218-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-218-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-218-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-218-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-218-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -48,7 +48,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-218-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-218-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -75,7 +75,7 @@
       "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-218-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-218-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -162,23 +162,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-218-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-218-r1-16x9.png",
         "sha256": "a0542923eeae1df1c380754d2ac51a1a39a483f040677fcc91f65baf43b3bb80"
       },
       "4x5": {
-        "path": "es-01-218-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-218-r1-4x5.png",
         "sha256": "c9ce011e694516ba8471180abb573a354363dbfcb59a9fcd06bf90b7b76a82e7"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-218-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-218-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "6019a5fb7db7d2682c457777858033ef32da6f54194ffd7f0713081387a7bea5"
       },
       "4x5": {
-        "path": "es-01-218-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-218-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "3470f45117eeae24166f6c3fe19a16d1f75f863ce51d43f2a1ac1b7ca2df019f"

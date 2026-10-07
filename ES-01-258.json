@@ -29,12 +29,12 @@
   "composition": "Night · Still lake and fishing huts under a starry sky · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Lake Banyoles, Banyoles at night.",
   "description": "Walk the shore of Lake Banyoles at night. The still lake spreads across the frame, the old fishing huts — the pesqueres — standing dark at the water's edge, with stars reflected in the black water. The town sleeps behind you; out here there is only the lake and the night.",
-  "file_16x9": "es-01-258-r1-16x9.png",
-  "file_4x5": "es-01-258-r1-4x5.png",
-  "file_9x16": "es-01-258-r1-9x16.png",
-  "file_16x9_postcard": "es-01-258-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-258-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-258-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-258-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-258-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-258-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-258-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-258-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-258-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-258-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-258-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-258-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-258-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -169,23 +169,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-258-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-258-r1-16x9.png",
         "sha256": "10646f9f1829ab457de245f07d9fc3df09fc2fbffa134add44d4bca0ad5eb28e"
       },
       "4x5": {
-        "path": "es-01-258-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-258-r1-4x5.png",
         "sha256": "74ded2cfc335b50d0b8b0a9c8e87aedfae8813b2bfaa7a94c4b05922bb9a9cd2"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-258-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-258-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "3a8147ed4c0d625cf6404c87bf98fa8b30fcfa803af9223161328e447f24ebae"
       },
       "4x5": {
-        "path": "es-01-258-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-258-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "f25f1c463c386de2aa8acb0b3becf1df9f142b81e97ede52048f64683cb4b2b5"

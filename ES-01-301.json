@@ -29,12 +29,12 @@
   "composition": "Night · From the Plaza de Santa Ana, the cathedral with its bronze dog statues in the foreground near 28.1010,-15.4140. Approximate point only. · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Vegueta, Las Palmas de Gran Canaria at night.",
   "description": "From the Plaza de Santa Ana, the cathedral of Las Palmas fills the frame — its neoclassical facade and towers rising behind the famous bronze dogs that guard the square in the foreground. The dogs stand dark and watchful on their plinths while the cathedral glows above them. This is the historic heart of the Canarian capital — cathedral, square, and the eight bronze hounds that everyone photographs.",
-  "file_16x9": "es-01-301-r1-16x9.png",
-  "file_4x5": "es-01-301-r1-4x5.png",
-  "file_9x16": "es-01-301-r1-9x16.png",
-  "file_16x9_postcard": "es-01-301-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-301-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-301-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-301-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-301-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-301-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-301-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-301-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-301-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-301-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-301-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-301-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-301-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -164,23 +164,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-301-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-301-r1-16x9.png",
         "sha256": "0ea9ce3d190e1a364d9b1b2e66c69c2be2bebb650579dcf1f3eca0735ca208cf"
       },
       "4x5": {
-        "path": "es-01-301-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-301-r1-4x5.png",
         "sha256": "d67e4f0a593b5fab5046a304c47a08e9c92c16be906f52d96e888cdecf7712d3"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-301-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-301-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "f3d299585cf7c0728ea44762b8c6cf8768c7d7665a4adf7b82500806155b8ad9"
       },
       "4x5": {
-        "path": "es-01-301-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-301-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "d72179ae0a4bfaa7c6db27dc3f3d9620f0826016e0da40675f505f23901c2262"

@@ -29,12 +29,12 @@
   "composition": "Night · the church over the waterfront · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Old town at night.",
   "description": "You stand on the Sitges waterfront at night, the church of Sant Bartomeu rising floodlit over the dark Mediterranean. The frame centers on the church against the sea, with the lit promenade curving away to either side. The night sea is black and calm, and the old town's lights make the shore glow.",
-  "file_16x9": "es-01-141-r1-16x9.png",
-  "file_4x5": "es-01-141-r1-4x5.png",
-  "file_9x16": "es-01-141-r1-9x16.png",
-  "file_16x9_postcard": "es-01-141-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-141-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-141-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-141-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-141-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-141-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-141-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-141-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-141-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-141-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-141-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-141-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-141-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -163,23 +163,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-141-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-141-r1-16x9.png",
         "sha256": "35291f16a2959c8b7c358ab8c865508686aa5d1d5047a94e00ed564ee017b7ac"
       },
       "4x5": {
-        "path": "es-01-141-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-141-r1-4x5.png",
         "sha256": "2ae38f240b819dacd9bb52930dbd4ba77800907518d807c0e3710f802e34063f"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-141-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-141-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "68aa48bcd8261a22e2016a6e131856f12b2c3b4ddce2af5fa6023df0fddc0488"
       },
       "4x5": {
-        "path": "es-01-141-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-141-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "d213da814c2863d69622bb2415b53794095c086d912fe9fa6da481dce6810e45"

@@ -29,12 +29,12 @@
   "composition": "Night · the beech forest from a track · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Irati Forest, Ochagavía at night.",
   "description": "From a forest track the great beech forest of Irati closes in on every side, trunks fading into darkness. The path runs between the trees with the canopy a black ceiling overhead. Europe's second-largest beech forest, ancient and utterly quiet.",
-  "file_16x9": "es-01-071-r1-16x9.png",
-  "file_4x5": "es-01-071-r1-4x5.png",
-  "file_9x16": "es-01-071-r1-9x16.png",
-  "file_16x9_postcard": "es-01-071-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-071-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-071-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-071-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-071-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-071-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-071-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-071-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-071-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,14 +54,14 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-071-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-071-r1-16x9.png",
       "dimensions": [
         1920,
         1270
       ],
       "byte_length": 3541316,
       "sha256": "df1e68c28dddcb98ff6f788b3289d4e456491ea2f7f31301f255ce04fce2df91",
-      "source_file": "es-01-071-r1.png",
+      "source_file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-071-r1.png",
       "source_dimensions": [
         1408,
         1760
@@ -81,14 +81,14 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-071-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-071-r1-4x5.png",
       "dimensions": [
         864,
         1270
       ],
       "byte_length": 1968774,
       "sha256": "851592f75823b588195fa8d953d866bbe37c4fa94fa1c96f0e2659aba6e64011",
-      "source_file": "es-01-071-r1.png",
+      "source_file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-071-r1.png",
       "source_dimensions": [
         1408,
         1760
@@ -120,7 +120,7 @@
   },
   "source_files": [
     {
-      "file": "es-01-071-r1.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-071-r1.png",
       "sha256": "5741b667181e804f05cc75f19fc55949d0fb36ed35c96c1ee2471fe893bc66db",
       "dimensions": [
         1408,
@@ -162,23 +162,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-071-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-071-r1-16x9.png",
         "sha256": "df1e68c28dddcb98ff6f788b3289d4e456491ea2f7f31301f255ce04fce2df91"
       },
       "4x5": {
-        "path": "es-01-071-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-071-r1-4x5.png",
         "sha256": "851592f75823b588195fa8d953d866bbe37c4fa94fa1c96f0e2659aba6e64011"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-071-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-071-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "a49bc7dd1e95467df0b6ab3af0639808860cbc760f502f4082efc29dee1448a5"
       },
       "4x5": {
-        "path": "es-01-071-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-071-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "6174e0a77d31755156d74b493adabd14451a6d4da2766a0e48366d56dd2b8c84"

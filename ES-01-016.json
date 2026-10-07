@@ -62,8 +62,8 @@
       "resampled": true
     }
   },
-  "file_16x9": "es-01-016-cand-r1-16x9.png",
-  "file_4x5": "es-01-016-cand-r1-4x5.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-016-cand-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-016-cand-r1-4x5.png",
   "references": [
     {
       "url": "https://cultural.valencia.es/en/espais/the-hemisferic/",
@@ -158,7 +158,7 @@
         "source_width": 1672,
         "source_height": 941,
         "resampled": true,
-        "file": "es-01-016-r2-16x9.png"
+        "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-016-r2-16x9.png"
       },
       "4x5": {
         "width": 864,
@@ -168,7 +168,7 @@
         "source_width": 1672,
         "source_height": 941,
         "resampled": true,
-        "file": "es-01-016-r2-4x5.png"
+        "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-016-r2-4x5.png"
       }
     },
     "prompts": {
@@ -282,10 +282,10 @@
     "card_handoff": {
       "owner": "Independent Cosmo sweep",
       "pipeline": "Candidate, separate from approved gallery",
-      "thumbnail": "es-01-016-r2-16x9.png",
-      "href": "es-01-016-r2-16x9.png",
+      "thumbnail": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-016-r2-16x9.png",
+      "href": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-016-r2-16x9.png",
       "target": "_blank",
-      "portrait_retained": "es-01-016-r2-4x5.png",
+      "portrait_retained": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-016-r2-4x5.png",
       "controls": "One wide thumbnail opening the full-size wide PNG; no extra viewer/download controls",
       "preserve": "Caption, scenario, composition, status, license/badge, footer, search, navigation and country switcher"
     },
@@ -297,23 +297,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-016-r2-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-016-r2-16x9.png",
         "sha256": "52e5c7a33957f3889092628c72f2895a2c1d27fa0be3392b547dec186fbcd766"
       },
       "4x5": {
-        "path": "es-01-016-r2-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-016-r2-4x5.png",
         "sha256": "6819e36be604d28bd1cebcf114bfa1425dac80c79aff1606d8006e89b3f82b1c"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-016-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-016-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "533039bd187f5c6263cb9022f96fd97e866f7aa6ccd2ff9caa8b3310d7bb900c"
       },
       "4x5": {
-        "path": "es-01-016-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-016-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "8636e67e3aebafefcf615737805f276580630a52ab72a6994991720c315bf80c"
@@ -335,15 +335,15 @@
     "country": "Spain",
     "candidate_note": "Historical daylight derivative. Not part of cand-r1. The candidate masters are the night 16:9, 4:5, and 9:16 files named in file_16x9, file_4x5, and file_9x16."
   },
-  "file_9x16": "es-01-016-cand-r1-9x16.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-016-cand-r1-9x16.png",
   "review_history": [
     {
       "date": "2026-09-30",
       "previous_status": "Approved · Cosmo QC 5/5 · Night",
       "previous_approval_state": "approved",
       "previous_files": {
-        "16x9": "es-01-016-r2-16x9.png",
-        "4x5": "es-01-016-r2-4x5.png",
+        "16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-016-r2-16x9.png",
+        "4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-016-r2-4x5.png",
         "9x16": null
       },
       "resolution": "Architectural rebuild cand-r1 landed as Candidate on 30 September 2026. The prior approval covered the previous bytes only. It does not cover cand-r1. No Cosmo re-audit is claimed."

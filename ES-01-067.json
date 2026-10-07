@@ -29,12 +29,12 @@
   "composition": "Night · the gorge walls · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Foz de Lumbier, Lumbier at night.",
   "description": "The gorge walls of the Foz de Lumbier rise sheer on both sides, rock faces barely visible in the dark. The river runs unseen far below while the cleft of sky overhead shows the stars. By day this is vulture country; at night it is all shadow and echo.",
-  "file_16x9": "es-01-067-r1-16x9.png",
-  "file_4x5": "es-01-067-r1-4x5.png",
-  "file_9x16": "es-01-067-r1-9x16.png",
-  "file_16x9_postcard": "es-01-067-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-067-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-067-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-067-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-067-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-067-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-067-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-067-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-067-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,14 +54,14 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-067-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-067-r1-16x9.png",
       "dimensions": [
         1920,
         1270
       ],
       "byte_length": 3145925,
       "sha256": "067ad283090b311678a4d800b187479e28331d067bc4e4a6c8277a4ee3f002a2",
-      "source_file": "es-01-067-r1.png",
+      "source_file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-067-r1.png",
       "source_dimensions": [
         1408,
         1760
@@ -81,14 +81,14 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-067-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-067-r1-4x5.png",
       "dimensions": [
         864,
         1270
       ],
       "byte_length": 1592538,
       "sha256": "88a2b2121ce885052d56b859e3b75bf4e29d8214fc47467a826e5ccc44d2bd14",
-      "source_file": "es-01-067-r1.png",
+      "source_file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-067-r1.png",
       "source_dimensions": [
         1408,
         1760
@@ -120,7 +120,7 @@
   },
   "source_files": [
     {
-      "file": "es-01-067-r1.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-067-r1.png",
       "sha256": "fb7bc9980dfb367cefa1d03334ed21ea9bfddb94579b47a937196e29b664b589",
       "dimensions": [
         1408,
@@ -162,23 +162,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-067-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-067-r1-16x9.png",
         "sha256": "067ad283090b311678a4d800b187479e28331d067bc4e4a6c8277a4ee3f002a2"
       },
       "4x5": {
-        "path": "es-01-067-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-067-r1-4x5.png",
         "sha256": "88a2b2121ce885052d56b859e3b75bf4e29d8214fc47467a826e5ccc44d2bd14"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-067-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-067-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "79864fc0d8289f73137975eaedc34b6d770585184673a636fb382d9e9975bea0"
       },
       "4x5": {
-        "path": "es-01-067-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-067-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "203d03825a3b0c345bd67a776491d11596aa61cbe9bb92ef44746bf8acfd78fb"

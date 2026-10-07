@@ -29,12 +29,12 @@
   "composition": "Night · White-sand spit between two dark seas under stars · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Ses Illetes, Formentera at night.",
   "description": "Stand on the Ses Illetes spit at night. The white-sand bar runs across the frame between two dark seas, the sand glowing faintly under the stars, with the open Mediterranean on both sides and Formentera's low hills behind. By day it is the Caribbean of the Med — at night it is all yours.",
-  "file_16x9": "es-01-266-r1-16x9.png",
-  "file_4x5": "es-01-266-r1-4x5.png",
-  "file_9x16": "es-01-266-r1-9x16.png",
-  "file_16x9_postcard": "es-01-266-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-266-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-266-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-266-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-266-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-266-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-266-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-266-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-266-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-266-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-266-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-266-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-266-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -169,29 +169,29 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-266-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-266-r1-16x9.png",
         "sha256": "d86ad5558b750e4297f13a07b3ba450fc3e4d1e308fa6e3fa35d78f7faea6f1a"
       },
       "4x5": {
-        "path": "es-01-266-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-266-r1-4x5.png",
         "sha256": "b86238de9f9f1c8a8397da665f4961cfb2cc4292181f5e0ca36d83e277a722d9"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-266-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-266-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "db99b7744c5879ce619ad3a12784207613cadecdc436c0c806854dcb166eb97e"
       },
       "4x5": {
-        "path": "es-01-266-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-266-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "84c460a082d8cb218d165fc98f6c2c617f18f9697cf69efbca6bff82fd9d46a0"
       },
       "9x16": {
-        "path": "es-01-266-daylight-9x16.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-266-daylight-9x16.png",
         "width": 1080,
         "height": 2110,
         "sha256": "20c8f84bd14e245fc26ec7c4b7657cac46bb927d341cc695e39cef96196449e1"

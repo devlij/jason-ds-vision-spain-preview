@@ -29,12 +29,12 @@
   "composition": "Night · Fortified abbey under the dark Prades mountains · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Poblet Monastery, Vimbodí at night.",
   "description": "From the approach road, the fortified abbey fills the frame — its crenellated walls and great church glowing under the dark mass of the Prades mountains behind. Lamplight warms the stone facades and the royal pantheon's silhouette, while the mountains rise black and silent beyond the rooftops. This is the great Cistercian monastery of Poblet, a royal burial place and a living abbey, holding its ground in the night.",
-  "file_16x9": "es-01-281-r1-16x9.png",
-  "file_4x5": "es-01-281-r1-4x5.png",
-  "file_9x16": "es-01-281-r1-9x16.png",
-  "file_16x9_postcard": "es-01-281-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-281-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-281-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-281-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-281-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-281-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-281-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-281-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-281-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-281-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-281-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-281-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-281-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -169,23 +169,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-281-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-281-r1-16x9.png",
         "sha256": "d1af7770b6366696dbcae2e255d6713045bf48b91c0e8138d5c6f6bfe2658543"
       },
       "4x5": {
-        "path": "es-01-281-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-281-r1-4x5.png",
         "sha256": "d58b6d858af0beb70bd4453e35ec0e5b8e327dfde7c71c208ef97fd1a2c81535"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-281-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-281-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "7e23d28bc4192041bf3f20f7e2ae872e366975ec7ddb3b4e5e543b68645aeb95"
       },
       "4x5": {
-        "path": "es-01-281-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-281-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "6cbb0d853ee5896665cebc361540aae971d7029563a50089414781d70556159c"

@@ -37,12 +37,12 @@
   "composition": "Night · Public roadside overlook on the Ma-10 southeast of Deià, approximately 39.7458, 2.6505, looking northwest across the terraced hillside village toward Sant Joan Baptista church and the Tramuntana slope. Exact generated camera correspondence is approximate. · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Village, Deià at night.",
   "description": "Ochre limestone houses stepping up a steep terraced hillside; Sant Joan Baptista church and bell tower crowning the village; Dark Serra de Tramuntana rock and olive terraces enclosing the settlement.",
-  "file_16x9": "es-01-033-r1-16x9.png",
-  "file_4x5": "es-01-033-r1-4x5.png",
-  "file_9x16": "es-01-033-r1-9x16.png",
-  "file_16x9_postcard": "es-01-033-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-033-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-033-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-033-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-033-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-033-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-033-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-033-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-033-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -62,7 +62,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-033-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-033-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -89,7 +89,7 @@
       "resampling_disclosure": "Required masters exceed the built-in 1672×941 source in at least one dimension; Lanczos resampling does not create native detail."
     },
     "4x5": {
-      "file": "es-01-033-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-033-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -236,29 +236,29 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-033-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-033-r1-16x9.png",
         "sha256": "b11edf4158f60535e1a690cdfc296819802a6ce5ccc524ffefab3a8a3b0d8ab6"
       },
       "4x5": {
-        "path": "es-01-033-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-033-r1-4x5.png",
         "sha256": "515c4cf81e66a4f1a791356cdab3319b1556db7d42b1ae66429f638929e7ca7c"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-033-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-033-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "b6df41c9f317feca7f5b54baae0f6069753d9cc3c89683784dbbdb90119cdc6f"
       },
       "4x5": {
-        "path": "es-01-033-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-033-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "cc10b3e664073077e845fa201b66887df4942e8fae109b00c0c4af40163065f5"
       },
       "9x16": {
-        "path": "es-01-033-daylight-9x16.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-033-daylight-9x16.png",
         "width": 1080,
         "height": 2110,
         "sha256": "510ef768f7618fc279f4cfe407c96a120f419ef7beb266d7cebde7f4c3851a1c"

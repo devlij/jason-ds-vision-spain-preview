@@ -29,12 +29,12 @@
   "composition": "Night · From a colonial street in La Laguna's historic center, looking along the cobbled street toward the cathedral tower near 28.4876,-16.3139. Approximate point only. · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of San Cristóbal de La Laguna, Tenerife at night.",
   "description": "From a colonial street in the historic center, the cobbled street runs between whitewashed facades toward the cathedral tower rising at the end of the view. Street lamps warm the stone and the wooden balconies overhead, while the tower's silhouette stands against the night sky. La Laguna is a UNESCO-listed colonial town, and its grid of lantern-lit streets is one of the Canaries' most atmospheric night walks.",
-  "file_16x9": "es-01-289-r1-16x9.png",
-  "file_4x5": "es-01-289-r1-4x5.png",
-  "file_9x16": "es-01-289-r1-9x16.png",
-  "file_16x9_postcard": "es-01-289-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-289-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-289-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-289-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-289-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-289-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-289-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-289-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-289-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-289-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-289-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-289-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-289-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -164,23 +164,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-289-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-289-r1-16x9.png",
         "sha256": "9cae31bc1d9aeb566760d6906d7e89aee9fe3d6064eb5ca8e0c458367bcd552a"
       },
       "4x5": {
-        "path": "es-01-289-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-289-r1-4x5.png",
         "sha256": "4f9adb57c689f21e1ba1c73179034f627659b24b9d6f1a4e16986684cf254166"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-289-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-289-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "9dc600d789d63d8ac90f1ff185bfe575d65c64ee25cb5122496eaa2949c14f69"
       },
       "4x5": {
-        "path": "es-01-289-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-289-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "997ce1fc3691f142f965e882314a36d19edbab5f92dc59688093023e9f5564bc"

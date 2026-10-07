@@ -29,12 +29,12 @@
   "composition": "Night · lighthouse island at Europe's edge over the strait at night · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Isla de Tarifa at night.",
   "description": "From the causeway at night, the lighthouse island of Tarifa stands at Europe's edge, its beam sweeping over the Strait of Gibraltar. The dark water of the strait runs on either side, Africa a black absence beyond. The lighthouse flashes steadily, the southernmost light of the continent keeping its night watch.",
-  "file_16x9": "es-01-239-r1-16x9.png",
-  "file_4x5": "es-01-239-r1-4x5.png",
-  "file_9x16": "es-01-239-r1-9x16.png",
-  "file_16x9_postcard": "es-01-239-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-239-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-239-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-239-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-239-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-239-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-239-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-239-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-239-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-239-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-239-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-239-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-239-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -163,28 +163,28 @@
   "rights_limitation": "Creator permission does not clear third-party rights. Internal review is not legal certification.",
   "reference_evidence": [],
   "approval_basis": "G1: Isla de Tarifa reads recognizably from the causeway — white lighthouse with a visible rotating beam, the walled Castillo de Santa Catalina, curved causeway and beach in the foreground, Tangier's lights glimmering across the strait, crescent moon in a starry sky; the kitesurfers' kites aloft at 02:31 are an interpretive liberty (kitesurfing does not happen at night) but the framing is clean with no artifacts. G2: mechanical sweep PASS on exact 1920×1080 + 864×1080 with packet-matching SHA-256; exact caption 'Isla de Tarifa, Tarifa', scenario '24 September 2026 · 02:31 Europe/Madrid' and AI disclosure on a legible bottom-left scrim; exact 'Jason D's Vision' signature bottom-right; Open-Meteo weather retrieved 02:29:06, valid 02:31:18 — fresh, not reused. G3: packet provenance is text-only generation with image_inputs empty; source photographs inspected for facts only, no input pixels. G4: no identifiable people, no logos or readable branding, only distant town lights and fortress walls. G5: no open blockers.",
-  "qc_notes": "Reverted to candidate 2026-09-24 ~02:35 EDT: the ~01:25 UTC QC run approved 25 scenes (ES-01-236..241, ES-01-347..365) with byte-identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals; copy-pasted approval text is invalid and must be reverted).\nCosmo QC 2026-09-24 ~06:30 EDT — Gate 1 FAIL: the 16:9 master shows roughly forty kitesurfing kites airborne over the beach at the 02:31 night scenario. Tarifa is a kitesurfing spot, but flying ~40 colorful kites at 2:31 AM in the dark is a glaring scenario misconfiguration (kitesurfers do not fly at night). The lighthouse beam, moonlit causeway and wave action are fine. Gate 2/3/4 unaffected: exact 1920×1080 / 864×1080 masters with SHA-256 matched, exact caption 'Isla de Tarifa, Tarifa', scenario string and AI disclosure on-image, 'Jason D’s Vision' signature bottom-right, fresh weather retrieval; text-only generation documented; no identifiable people or logos. Stays candidate — needs a rebuild without the kites (or a daytime scenario) before re-audit.\nReverted to candidate 2026-09-24 ~09:30 EDT: the 09:14 EDT QC run approved this scene even though it is the SAME r1 image rejected at ~06:30 EDT for Gate 1 (~40 kitesurfing kites airborne at the 02:31 night scenario — kitesurfers do not fly at night). The approval_basis itself describes 'colorful kite-surf kites over Playa de Los Lances' at 02:31 and passes Gate 1 anyway. No rebuild occurred (file still es-01-239-r1-16x9.png). Standing rule: this scene must remain Candidate until rebuilt without kites or under a plausible daytime scenario. Queued for genuine re-audit after rebuild.",
+  "qc_notes": "Reverted to candidate 2026-09-24 ~02:35 EDT: the ~01:25 UTC QC run approved 25 scenes (ES-01-236..241, ES-01-347..365) with byte-identical canned boilerplate approval_basis and no recorded per-scene audit observations. Not a genuine five-gate audit. Queued for genuine individual Cosmo QC (standing rule: no bulk/blitz approvals; copy-pasted approval text is invalid and must be reverted).\nCosmo QC 2026-09-24 ~06:30 EDT — Gate 1 FAIL: the 16:9 master shows roughly forty kitesurfing kites airborne over the beach at the 02:31 night scenario. Tarifa is a kitesurfing spot, but flying ~40 colorful kites at 2:31 AM in the dark is a glaring scenario misconfiguration (kitesurfers do not fly at night). The lighthouse beam, moonlit causeway and wave action are fine. Gate 2/3/4 unaffected: exact 1920×1080 / 864×1080 masters with SHA-256 matched, exact caption 'Isla de Tarifa, Tarifa', scenario string and AI disclosure on-image, 'Jason D’s Vision' signature bottom-right, fresh weather retrieval; text-only generation documented; no identifiable people or logos. Stays candidate — needs a rebuild without the kites (or a daytime scenario) before re-audit.\nReverted to candidate 2026-09-24 ~09:30 EDT: the 09:14 EDT QC run approved this scene even though it is the SAME r1 image rejected at ~06:30 EDT for Gate 1 (~40 kitesurfing kites airborne at the 02:31 night scenario — kitesurfers do not fly at night). The approval_basis itself describes 'colorful kite-surf kites over Playa de Los Lances' at 02:31 and passes Gate 1 anyway. No rebuild occurred (file still https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-239-r1-16x9.png). Standing rule: this scene must remain Candidate until rebuilt without kites or under a plausible daytime scenario. Queued for genuine re-audit after rebuild.",
   "daylight_variant": {
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-239-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-239-r1-16x9.png",
         "sha256": "58b4641bed067ee350167a49b074573677af0b3cc9674a403046a77b71042de5"
       },
       "4x5": {
-        "path": "es-01-239-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-239-r1-4x5.png",
         "sha256": "0df860c66f75117f66c5480dd30564e006d25f0563f5af64c1777d5c9c13e5f3"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-239-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-239-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "9c22fae47e99c19864a5a30c2ae4f4ba7ecc6f56cc53a4b7268046d2dfd66080"
       },
       "4x5": {
-        "path": "es-01-239-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-239-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "437cc220b96a06d0908be346552a0ffd52b292fca84a0527f0310ffc55cf8c88"

@@ -29,12 +29,12 @@
   "composition": "Night · the castle hill · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Cardona Castle, Cardona at night.",
   "description": "From the town below at night, Cardona Castle crowns its hill in floodlit outline against the dark sky. The fortress walls and keep fill the center of the frame, raised above the dark salt-country rooftops. One of Catalonia's great castles, it keeps its proud profile through the night.",
-  "file_16x9": "es-01-139-r2-16x9.png",
-  "file_4x5": "es-01-139-r2-4x5.png",
-  "file_9x16": "es-01-139-r2-9x16.png",
-  "file_16x9_postcard": "es-01-139-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-139-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-139-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-139-r2-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-139-r2-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-139-r2-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-139-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-139-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-139-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-139-r2-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-139-r2-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-139-r2-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-139-r2-4x5.png",
       "dimensions": [
         864,
         1270
@@ -167,23 +167,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-139-r2-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-139-r2-16x9.png",
         "sha256": "3392203bf28d36d359b570f9a0480899bae3894733ff040eca9326c1ef443ebf"
       },
       "4x5": {
-        "path": "es-01-139-r2-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-139-r2-4x5.png",
         "sha256": "16b5ed3f91c5eb908d255bca817f4e7b2325a3e34399cbefe9e0f6a0ae6af06b"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-139-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-139-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "5f30004fbaf5c05729764df881b5bc556fcee6d611f76fada8b18eb047cf28c7"
       },
       "4x5": {
-        "path": "es-01-139-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-139-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "c3a50f2a65e61a1ecafce57ff09080ad74273d19128775ca97882270577cab59"

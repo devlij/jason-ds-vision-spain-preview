@@ -29,12 +29,12 @@
   "composition": "Night · the lighthouse point · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Cabo de Palos at night.",
   "description": "Standing on the rocks of Cabo de Palos at night, you face the lighthouse sweeping its beam over the dark Mediterranean. The frame centers on the lit tower with black water all around and the faint far lights of La Manga to one side. The cape's light keeps its slow rhythm through the small hours.",
-  "file_16x9": "es-01-153-r1-16x9.png",
-  "file_4x5": "es-01-153-r1-4x5.png",
-  "file_9x16": "es-01-153-r1-9x16.png",
-  "file_16x9_postcard": "es-01-153-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-153-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-153-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-153-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-153-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-153-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-153-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-153-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-153-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-153-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-153-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-153-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-153-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -163,23 +163,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-153-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-153-r1-16x9.png",
         "sha256": "9f4eb77357407f69d95ef7363e533030326e49a6bf7f0ab470a132b5af4fe2f0"
       },
       "4x5": {
-        "path": "es-01-153-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-153-r1-4x5.png",
         "sha256": "59c57d11994298b7ad5ae193b943d1c7356252ecba255cc63d2be3a7c697fd71"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-153-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-153-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "60efd317a105734c293936c36821be9ef7f503868320d0bb552904710684ba64"
       },
       "4x5": {
-        "path": "es-01-153-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-153-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "c0da87418e403f0c8bd8419a06e8f63e200628f4ff31ce960873f44e5cc521bd"

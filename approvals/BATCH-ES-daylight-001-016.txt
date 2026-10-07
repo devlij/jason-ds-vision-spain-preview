@@ -6,8 +6,8 @@ Scope: night Candidate/approved scenes in ES-01-001–016 that have night master
 Germany excluded. Weather fields not edited. Night masters not regenerated.
 
 Path layout: Spain keeps masters at the repository root beside the scene JSON, not under library/world/<Country>/<City>/. Daylight masters use that same layout:
-  es-01-016-daylight-16x9.png (1920×1080)
-  es-01-016-daylight-4x5.png (864×1080)
+  https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-016-daylight-16x9.png (1920×1080)
+  https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-016-daylight-4x5.png (864×1080)
 
 Gallery: Spain cards switch 16:9 / 4:5 only. No night/day control already expects *-daylight-* paths. Gallery wiring deferred. Assets, manifest daylight_variant block, and this note are landed.
 
@@ -25,16 +25,16 @@ Metadata: EU AI Act Art. 50 five PNG chunks on both variant masters (Title iTXt,
 
 ========================================================================
 ES-01-001
-SKIP — daylight-only already. Approved master is morning daylight (es-01-001-daylight-r4-16x9.png / es-01-001-daylight-r4-4x5.png). Night r2 editions exist but are labeled not approved and are not the scene master, so no daylight variant was derived from them. Those night files were not rewritten.
+SKIP — daylight-only already. Approved master is morning daylight (https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-001-daylight-r4-16x9.png / https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-001-daylight-r4-4x5.png). Night r2 editions exist but are labeled not approved and are not the scene master, so no daylight variant was derived from them. Those night files were not rewritten.
 time_of_day: Morning daylight
 approval_state: approved
 caption: Sagrada Família, Barcelona
 Unapproved night editions (not used as variant source); pre/post hashes:
-  es-01-001-night-r2-16x9.png
+  https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-001-night-r2-16x9.png
     pre  SHA-256: 64590fbb37236a6084efff2033fa34b7109fe73d1a77e4fc25f967d8ff1dce6d
     post SHA-256: 64590fbb37236a6084efff2033fa34b7109fe73d1a77e4fc25f967d8ff1dce6d
     unchanged: True
-  es-01-001-night-r2-4x5.png
+  https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-001-night-r2-4x5.png
     pre  SHA-256: c7d1e4d5546fd702b206a866e8b9b26c34626dc5fef7e8375eb007360ca34b9b
     post SHA-256: c7d1e4d5546fd702b206a866e8b9b26c34626dc5fef7e8375eb007360ca34b9b
     unchanged: True
@@ -191,14 +191,14 @@ night 16x9 unchanged: True
 night 4x5 pre  SHA-256: 36c38cca81d2155812e8bc4c1d8605e00d899ab3ea12013e7fbca3a8956de9a2
 night 4x5 post SHA-256: 36c38cca81d2155812e8bc4c1d8605e00d899ab3ea12013e7fbca3a8956de9a2
 night 4x5 unchanged: True
-variant 16x9 path: es-01-016-daylight-16x9.png
+variant 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-016-daylight-16x9.png
 variant 16x9 SHA-256: d4ae9e9515084cdefae827c32d6108dcd260d0ed1cfc9fde306fa84e227dd5be
-variant 4x5 path: es-01-016-daylight-4x5.png
+variant 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-016-daylight-4x5.png
 variant 4x5 SHA-256: 91667d17552fec75f5839584390980eb80d28f614a0ce1f8b4d015c8890f1db9
 
 NIGHT-UNCHANGED CONFIRMATION
 Every PNG that existed for ES-01-001–016 before this batch still has the same SHA-256.
 ES-01-016 source night masters specifically:
-  es-01-016-r2-16x9.png 9c58193640b259dfc87ee95f65d3b648a1bd5ebb565400907fc7e78854686f8f identical
-  es-01-016-r2-4x5.png 36c38cca81d2155812e8bc4c1d8605e00d899ab3ea12013e7fbca3a8956de9a2 identical
+  https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-016-r2-16x9.png 9c58193640b259dfc87ee95f65d3b648a1bd5ebb565400907fc7e78854686f8f identical
+  https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-016-r2-4x5.png 36c38cca81d2155812e8bc4c1d8605e00d899ab3ea12013e7fbca3a8956de9a2 identical
 No night hash drifted. Batch not aborted.

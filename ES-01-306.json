@@ -29,12 +29,12 @@
   "composition": "Night · From the Playa de las Catedrales, moonlit arches through drifting cloud near 43.7884,-7.1596. Approximate point only. · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of the Playa de las Catedrales, Ribadeo at night.",
   "description": "From the sand, the great stone arches of Playa de las Catedrales rise in the moonlight — the natural buttresses and vaults of the cliffs standing like a Gothic nave while clouds drift across the moon. The arches catch silver light on their edges, with the sea washing dark at their feet. At low tide this beach is a cathedral of rock; by night, under a veiled moon, it's pure drama.",
-  "file_16x9": "es-01-306-r1-16x9.png",
-  "file_4x5": "es-01-306-r1-4x5.png",
-  "file_9x16": "es-01-306-r1-9x16.png",
-  "file_16x9_postcard": "es-01-306-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-306-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-306-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-306-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-306-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-306-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-306-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-306-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-306-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-306-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-306-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-306-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-306-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -164,23 +164,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-306-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-306-r1-16x9.png",
         "sha256": "6767d6e3aebf824ee060ff4f2438ec4827cc89f46f4e8f2c71ba0adccdb06e00"
       },
       "4x5": {
-        "path": "es-01-306-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-306-r1-4x5.png",
         "sha256": "98d9c70fe375f76a604a2a6090c7d9798a6474acc6a7975172abc603b4df27bf"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-306-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-306-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "9ebc7d78ae9654bfe3ac5fc8400b3adf949483a64c7f3a8a5db4ed2105fe0402"
       },
       "4x5": {
-        "path": "es-01-306-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-306-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "50b9aac14b67900f4d6d181b3eabfa3b3d69f5542328f650c0f003c2ccd66227"

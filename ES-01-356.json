@@ -29,9 +29,9 @@
   "composition": "Night · Islet from the mainland path, moonlit hermitage and footbridge · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of San Juan de Gaztelugatxe at night.",
   "description": "From the mainland path at night, the islet of Gaztelugatxe rises from the dark sea, its little hermitage moonlit atop the rock. The stone footbridge arches across the water to it, pale in the moonlight. Waves move black below the bridge; the hermitage sits tiny and luminous on its pinnacle under the stars.",
-  "file_16x9": "es-01-356-r1-16x9.png",
-  "file_4x5": "es-01-356-r1-4x5.png",
-  "file_9x16": "es-01-356-r1-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-356-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-356-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-356-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -51,7 +51,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-356-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-356-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -78,7 +78,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-356-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-356-r1-4x5.png",
       "dimensions": [
         864,
         1270

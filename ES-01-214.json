@@ -23,12 +23,12 @@
   "composition": "Night · old town walls and castle from the beach at night · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Tarifa at night.",
   "description": "From Tarifa's beach at night, face the old town walls and castle. The Guzmán el Bueno castle rises at center frame, floodlit stone against the dark, with the town walls running left and right along the shore. Africa lies somewhere across the black strait — on a clear night you can almost sense its lights.",
-  "file_16x9": "es-01-214-r1-16x9.png",
-  "file_4x5": "es-01-214-r1-4x5.png",
-  "file_9x16": "es-01-214-r1-9x16.png",
-  "file_16x9_postcard": "es-01-214-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-214-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-214-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-214-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-214-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-214-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-214-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-214-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-214-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -48,7 +48,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-214-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-214-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -75,7 +75,7 @@
       "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-214-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-214-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -162,23 +162,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-214-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-214-r1-16x9.png",
         "sha256": "b4a4346be5628ff3a63fc738bff355e6c2905e683ada4a4112669515d84917c2"
       },
       "4x5": {
-        "path": "es-01-214-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-214-r1-4x5.png",
         "sha256": "3a19eba7fff96b8ffcc5b106b274ac95facb6eca72c4e12a1176938ca1072a27"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-214-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-214-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "fa55eb2575ff78655925893ee1bd42771ca59ebbeb397eb4bba8fee42a98fe2d"
       },
       "4x5": {
-        "path": "es-01-214-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-214-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "11eb971d76b810c0424c45e1629d3efb509d5db8e44610b3af84dd996fcebcb6"

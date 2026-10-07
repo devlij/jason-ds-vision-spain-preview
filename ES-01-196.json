@@ -29,12 +29,12 @@
   "composition": "Night · the Baroque towers and castle · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Jerez de los Caballeros at night.",
   "description": "From the town at night, Jerez de los Caballeros glows with its Baroque church towers and castle lit above the rooftops. The frame holds the old town's handsome profile, towers rising into the dark with warm light on the stonework. The Templar town keeps its height.",
-  "file_16x9": "es-01-196-r1-16x9.png",
-  "file_4x5": "es-01-196-r1-4x5.png",
-  "file_9x16": "es-01-196-r1-9x16.png",
-  "file_16x9_postcard": "es-01-196-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-196-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-196-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-196-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-196-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-196-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-196-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-196-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-196-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-196-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-196-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-196-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-196-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -168,23 +168,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-196-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-196-r1-16x9.png",
         "sha256": "a824d8e512359eda42ec43d47e28588bcd3b068e076a1c6ba9c205db244e899d"
       },
       "4x5": {
-        "path": "es-01-196-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-196-r1-4x5.png",
         "sha256": "33fc25b88811d2e2ff19bff7251c98568fd62ae5dc9d6f2207a784be2270ad62"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-196-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-196-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "5c5eb2de776b986655b515b7960b69031169f4ec2685dc2565c08a7f9ce562ff"
       },
       "4x5": {
-        "path": "es-01-196-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-196-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "58370cf9a6116cf0c6d0a5cecc4d833fc6fc3073b447ad0e3c37d84abd3614cc"

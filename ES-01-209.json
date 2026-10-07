@@ -23,12 +23,12 @@
   "composition": "Night · beach, old bathhouse and Santa Catalina castle at night · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of La Caleta at night.",
   "description": "Look across La Caleta at night, with the old bathhouse on its rocky point at center frame and the castle of Santa Catalina guarding one side. The small beach curves between them, dark water lapping at the sand, while the lit facades of the old town close the view behind. It is the Cádiz of postcards, gone quiet.",
-  "file_16x9": "es-01-209-r1-16x9.png",
-  "file_4x5": "es-01-209-r1-4x5.png",
-  "file_9x16": "es-01-209-r1-9x16.png",
-  "file_16x9_postcard": "es-01-209-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-209-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-209-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-209-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-209-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-209-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-209-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-209-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-209-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -48,7 +48,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-209-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-209-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -75,7 +75,7 @@
       "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-209-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-209-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -162,23 +162,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-209-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-209-r1-16x9.png",
         "sha256": "e057ec209a27a4220fefbe32bd270c2999b85a6ecb83430fe2fa1976a4c319d4"
       },
       "4x5": {
-        "path": "es-01-209-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-209-r1-4x5.png",
         "sha256": "9518c6884f9731b3bd0355e8573ba8ed19cfbf31202775e7827317bc1e45a70d"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-209-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-209-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "3cff9f6703474523ce8e46b330d121745302868dbfb28736d579cf9bcd8dbfd1"
       },
       "4x5": {
-        "path": "es-01-209-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-209-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "90d26e5c7b1ad74e4e64ac70a639cc2d70b6f5725f0a04c1610b852dbe14e298"

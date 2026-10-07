@@ -29,12 +29,12 @@
   "composition": "Night · Lone rock island rising from the dark sea at night · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Es Vedrà, Sant Josep de sa Talaia at night.",
   "description": "Face Es Vedrà at night, the lone rock island rising from the dark sea. The great limestone monolith fills the center of the frame, black against the starry sky, with the empty sea stretching left and right. Ibiza's magnetic mystery island — sailors have told stories about it for centuries.",
-  "file_16x9": "es-01-265-r1-16x9.png",
-  "file_4x5": "es-01-265-r1-4x5.png",
-  "file_9x16": "es-01-265-r1-9x16.png",
-  "file_16x9_postcard": "es-01-265-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-265-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-265-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-265-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-265-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-265-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-265-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-265-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-265-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-265-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-265-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-265-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-265-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -169,23 +169,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-265-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-265-r1-16x9.png",
         "sha256": "4f9d794ad69e365a2fb7c20c251b3b7c13d9cd8e9f7d8caa10b6dfe59063cfe9"
       },
       "4x5": {
-        "path": "es-01-265-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-265-r1-4x5.png",
         "sha256": "4ac8b8cfbb5e50ccf65a4449eea1f075c6434f7aaa437e7ad1e845bcf7dcd61e"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-265-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-265-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "73625675f4963544c96d00747b1851b31ef33f7e8f622e8c970c44af197aa66c"
       },
       "4x5": {
-        "path": "es-01-265-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-265-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "1f4e977a834768993f50d41bc14544f87be9d97f6246fdc4b781b3358eb86025"

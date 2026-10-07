@@ -27,6 +27,9 @@ ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data.json"
 INDEX = ROOT / "index.html"
 GENUINE = "genuine-daylight"
+CDN_BASE = "https://devlij.github.io/jason-ds-vision-spain-assets"
+CDN_ASSETS = CDN_BASE + "/assets/"
+CDN_AUDIO = CDN_BASE + "/audio/"
 
 CARD_SPLIT = '<article class="card"'
 ID_RE = re.compile(r'id="(ES-[^"]+)"')
@@ -34,7 +37,15 @@ SRC_RE = re.compile(r'<img\b[^>]*\ssrc="([^"]+)"')
 
 
 def master_exists(rel: object) -> bool:
-    if not isinstance(rel, str) or not rel or rel.startswith(("/", "\\")):
+    if not isinstance(rel, str) or not rel or rel.startswith(("/", "\\")) or ".." in rel:
+        return False
+    if rel.startswith(("http://", "https://")):
+        if rel.startswith(CDN_ASSETS):
+            name = rel.split("?", 1)[0].rstrip("/").split("/")[-1]
+            return (ROOT / name).is_file() or (ROOT / "assets" / name).is_file()
+        if rel.startswith(CDN_AUDIO):
+            name = rel.split("?", 1)[0].rstrip("/").split("/")[-1]
+            return (ROOT / "audio" / name).is_file()
         return False
     path = (ROOT / rel).resolve()
     root = ROOT.resolve()
@@ -91,7 +102,7 @@ def parse_cards(html: str) -> list[dict]:
 
 
 def _self_test() -> None:
-    sample = "es-01-001-daylight-r4-16x9.png"
+    sample = "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-001-daylight-r4-16x9.png"
     if not master_exists(sample):
         raise SystemExit("self-test sample master is missing")
     if is_genuine_daylight({"daylight_interim": True, "daylight_16x9": sample}):

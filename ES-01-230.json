@@ -29,12 +29,12 @@
   "composition": "Night · medieval walled town ramparts and gate at night · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Walls of Niebla at night.",
   "description": "At the foot of Niebla's walls at night, the medieval ramparts and gate rise dark and imposing above the road. The red-brick fortifications stretch along the hill, their crenellations black against the starlit sky. The gate stands closed and silent, the little walled town asleep behind its ancient defenses.",
-  "file_16x9": "es-01-230-r1-16x9.png",
-  "file_4x5": "es-01-230-r1-4x5.png",
-  "file_9x16": "es-01-230-r1-9x16.png",
-  "file_16x9_postcard": "es-01-230-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-230-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-230-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-230-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-230-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-230-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-230-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-230-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-230-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-230-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-230-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-230-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-230-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -167,23 +167,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-230-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-230-r1-16x9.png",
         "sha256": "8d2149e66daef165db46b26a6a10ea439b8841b0db6427e9b3a960803e9b78f9"
       },
       "4x5": {
-        "path": "es-01-230-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-230-r1-4x5.png",
         "sha256": "67b360ada68df5d464e98c5a2cc26098001d0019e6225d53e8d1fbb600d0a334"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-230-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-230-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "d2594d63e456109579a7adca6c7a9358b42976c9005c0f47853db1ae2cc991cf"
       },
       "4x5": {
-        "path": "es-01-230-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-230-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "09b600350a50a4aac724c09c82e48172f8afcc10288aa63d5fbdf2ae06115a9c"

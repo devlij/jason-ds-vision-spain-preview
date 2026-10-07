@@ -29,9 +29,9 @@
   "composition": "Night · Puerta de Alcalá from the plaza, illuminated arch · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of the Puerta de Alcalá at night.",
   "description": "From the plaza at night, the Puerta de Alcalá stands floodlit — its great neoclassical arches glowing against the black sky. The monument's stonework is warm under the lights, traffic circling the roundabout around it. Madrid's grandest gate keeps its lonely, luminous vigil at the edge of the Retiro.",
-  "file_16x9": "es-01-361-r1-16x9.png",
-  "file_4x5": "es-01-361-r1-4x5.png",
-  "file_9x16": "es-01-361-r1-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-361-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-361-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-361-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -51,7 +51,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-361-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-361-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -78,7 +78,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-361-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-361-r1-4x5.png",
       "dimensions": [
         864,
         1270

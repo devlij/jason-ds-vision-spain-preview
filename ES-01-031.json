@@ -37,12 +37,12 @@
   "composition": "Night · Public south-side village overlook near Carrer de na Mas/MA-1110 approach, approximately 39.7108,2.6229, eye-level looking north across stone houses toward the Cartoixa church tower. Exact camera coordinate is approximate and not surveyed. · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Cartoixa, Valldemossa at night.",
   "description": "Dense ochre-grey stone village houses with irregular terracotta roofs stepping uphill; Cartoixa church complex rising above the roofs with a single green-glazed Baroque bell tower; Dark wooded Serra de Tramuntana slopes enclosing the village.",
-  "file_16x9": "es-01-031-r1-16x9.png",
-  "file_4x5": "es-01-031-r1-4x5.png",
-  "file_9x16": "es-01-031-r1-9x16.png",
-  "file_16x9_postcard": "es-01-031-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-031-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-031-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-031-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-031-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-031-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-031-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-031-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-031-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -62,7 +62,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-031-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-031-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -89,7 +89,7 @@
       "resampling_disclosure": "Required masters exceed the built-in 1672×941 source in at least one dimension; Lanczos resampling does not create native detail."
     },
     "4x5": {
-      "file": "es-01-031-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-031-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -245,23 +245,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-031-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-031-r1-16x9.png",
         "sha256": "5cd88484ac3413e9383df88c7fc5a0fd6430613102ed40464e1305d436f36999"
       },
       "4x5": {
-        "path": "es-01-031-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-031-r1-4x5.png",
         "sha256": "3d4de2ba2b5f1ab60b30af23135b29f4912ed06513f409e705c8448d012a9468"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-031-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-031-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "d791a2ff0d854dc99ed52302bcec0716e72eda4a8f628246d2df6e8ff0319d77"
       },
       "4x5": {
-        "path": "es-01-031-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-031-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "eeca4969c77a685ec9149236f72b6d8b6056e8cac6d95a8dc4e1e70cffbeab47"

@@ -29,12 +29,12 @@
   "composition": "Night · the rock castle · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Atienza, Atienza at night.",
   "description": "You look up at Atienza's castle perched on its sheer rock outcrop in the night, floodlights tracing the fortress outline against the dark sky. The rock mass fills the frame's center, with the castle walls riding its summit and the town's dark rooftops clustering below. Few Spanish castles sit as dramatically as this one after dark.",
-  "file_16x9": "es-01-122-r1-16x9.png",
-  "file_4x5": "es-01-122-r1-4x5.png",
-  "file_9x16": "es-01-122-r1-9x16.png",
-  "file_16x9_postcard": "es-01-122-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-122-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-122-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-122-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-122-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-122-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-122-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-122-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-122-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-122-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-122-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-122-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-122-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -167,23 +167,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-122-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-122-r1-16x9.png",
         "sha256": "f81d8d3c8f34fb608b19b50cdfb647fc04f418048eaaa9d27d2e451be4bd4e62"
       },
       "4x5": {
-        "path": "es-01-122-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-122-r1-4x5.png",
         "sha256": "6b075d44a58723a97ccced36365fde5b58307519cee9fe2f12d1c0c87e6c92ec"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-122-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-122-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "d1e172a790c548476da46d51697a46e64cb3a0769505e46baf7e7a46dde4b19f"
       },
       "4x5": {
-        "path": "es-01-122-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-122-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "7c960c3f61d66f0969eb3fc5c0a9f26b3c3cd837b20f89cd7257e84f9ddb99fe"

@@ -29,12 +29,12 @@
   "composition": "Night · From the Puerto de la Cruz waterfront, promenade lamps and town lights above the dark sea near 28.4167,-16.5480. Approximate point only. · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Puerto de la Cruz, Tenerife at night.",
   "description": "From the waterfront, the promenade lamps of Puerto de la Cruz trace the old town's edge above the dark sea — warm light pooling along the walk with the town's houses climbing behind it. Waves break faintly against the rocks below the promenade, and the lights reflect in the black water. This is the Canaries' classic old resort town, and its seafront keeps a gentle, lamplit rhythm through the night.",
-  "file_16x9": "es-01-295-r1-16x9.png",
-  "file_4x5": "es-01-295-r1-4x5.png",
-  "file_9x16": "es-01-295-r1-9x16.png",
-  "file_16x9_postcard": "es-01-295-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-295-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-295-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-295-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-295-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-295-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-295-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-295-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-295-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-295-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-295-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-295-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-295-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -164,23 +164,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-295-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-295-r1-16x9.png",
         "sha256": "3f7adc490d12dc0fcd8fef489afe4d129c2ce4dc1b41e5c1975cfc94839bf14e"
       },
       "4x5": {
-        "path": "es-01-295-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-295-r1-4x5.png",
         "sha256": "a6b9e8968162deefd2d712bdc53d9179e4afa3fba4d78bed8f2d3606820c68d2"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-295-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-295-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "762898208178b0dc12590f9dff32bb2dd5d2139c355db825c1156f0607ba3932"
       },
       "4x5": {
-        "path": "es-01-295-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-295-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "a0aedfb1e7dc311fa31353c41c150d4210ca4718bd9baa093e37fadb5035fa70"

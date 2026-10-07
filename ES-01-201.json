@@ -29,12 +29,12 @@
   "composition": "Night · Moorish ramparts above the lit city and bay · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Gibralfaro Castle at night.",
   "description": "From Gibralfaro's Moorish ramparts, look out over Málaga and its bay at night. The lit city spreads across the frame below — a glittering grid running to the dark water on one side — with the castle's own walls and towers framing the other. The Mediterranean holds the last of the light while the port glows.",
-  "file_16x9": "es-01-201-r1-16x9.png",
-  "file_4x5": "es-01-201-r1-4x5.png",
-  "file_9x16": "es-01-201-r1-9x16.png",
-  "file_16x9_postcard": "es-01-201-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-201-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-201-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-201-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-201-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-201-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-201-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-201-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-201-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-201-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-201-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-201-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-201-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -168,23 +168,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-201-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-201-r1-16x9.png",
         "sha256": "c61ebfd1a9c9e16ebbad2e468f9a5bef40d3983fd82f7011d24e90e291e155e1"
       },
       "4x5": {
-        "path": "es-01-201-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-201-r1-4x5.png",
         "sha256": "b01037203992754ae817edd723ea4efabfb1cc03ca936fbd009226aa2fd00bdb"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-201-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-201-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "3a07ea759e29b9b3759eebed6ecde730c568f81c9e0cd204d56abf627dd378bd"
       },
       "4x5": {
-        "path": "es-01-201-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-201-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "bd5b8ede6a0c211be3e77faeca2c24fefdd15e653cb86bdf08c89c69b46fa135"

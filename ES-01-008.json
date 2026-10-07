@@ -58,8 +58,8 @@
     "commercial_ip": "pass — Cosmo re-audit 2026-10-01",
     "publication": "pass — Cosmo re-audit 2026-10-01"
   },
-  "file_16x9": "es-01-008-cand-r1-16x9.png",
-  "file_4x5": "es-01-008-cand-r1-4x5.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-008-cand-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-008-cand-r1-4x5.png",
   "review_history": [
     {
       "date": "2026-09-23",
@@ -71,15 +71,15 @@
       "previous_status": "Approved · Cosmo QC 5/5 · Daylight",
       "previous_approval_state": "approved",
       "previous_files": {
-        "16x9": "es-01-008-r2-16x9.png",
-        "4x5": "es-01-008-r2-4x5.png",
+        "16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-008-r2-16x9.png",
+        "4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-008-r2-4x5.png",
         "9x16": null
       },
       "resolution": "Architectural rebuild cand-r1 landed as Candidate on 30 September 2026. The prior approval covered the previous bytes only. It does not cover cand-r1. No Cosmo re-audit is claimed."
     }
   ],
   "revision": "cand-r1",
-  "file_9x16": "es-01-008-cand-r1-9x16.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-008-cand-r1-9x16.png",
   "evidence_card": "evidence/ES-01-008.json",
   "land_as": "Candidate",
   "conditions_record": {

@@ -29,12 +29,12 @@
   "composition": "Night · the Golden Age square · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Villanueva de los Infantes, Villanueva de los Infantes at night.",
   "description": "You stand on the Golden Age square of Villanueva de los Infantes in the deep night, floodlights washing the old stone façades in a warm glow. The Plaza Mayor fills the frame, its arcades and lanterns standing out against the dark La Mancha sky. Windows flicker with a few late lights while the empty square holds the hush of 4 a.m., a Golden Age stage after the audience has gone home.",
-  "file_16x9": "es-01-115-r1-16x9.png",
-  "file_4x5": "es-01-115-r1-4x5.png",
-  "file_9x16": "es-01-115-r1-9x16.png",
-  "file_16x9_postcard": "es-01-115-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-115-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-115-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-115-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-115-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-115-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-115-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-115-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-115-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-115-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-115-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-115-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-115-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -167,23 +167,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-115-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-115-r1-16x9.png",
         "sha256": "5dd6a471735c545782b33d5b64045d550a77db0bd5c824670c7f5fc94dabd134"
       },
       "4x5": {
-        "path": "es-01-115-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-115-r1-4x5.png",
         "sha256": "0205d24008a1dae95bad93bfc2579d6163bbd06ebc9096dadfc20840f37d9728"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-115-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-115-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "b85530d359e2e7daf35446e358fcc3abf2e375b730981d0c8a404fd8ba1fc58f"
       },
       "4x5": {
-        "path": "es-01-115-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-115-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "28f764e874a1487c96d1b0e41cace5f568d3a446def68e0446c0e0395c67f678"

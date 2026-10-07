@@ -62,9 +62,9 @@
       "resampled": true
     }
   },
-  "file_16x9": "es-01-019-r2-16x9.png",
-  "file_4x5": "es-01-019-r2-4x5.png",
-  "file_9x16": "es-01-019-r2-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-019-r2-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-019-r2-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-019-r2-9x16.png",
   "references": [
     {
       "url": "https://alcazarsevilla.org/",
@@ -172,7 +172,7 @@
         "source_width": 1672,
         "source_height": 941,
         "resampled": true,
-        "file": "es-01-019-r2-16x9.png"
+        "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-019-r2-16x9.png"
       },
       "4x5": {
         "width": 864,
@@ -182,7 +182,7 @@
         "source_width": 1672,
         "source_height": 941,
         "resampled": true,
-        "file": "es-01-019-r2-4x5.png"
+        "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-019-r2-4x5.png"
       }
     },
     "prompts": {
@@ -296,10 +296,10 @@
     "card_handoff": {
       "owner": "Independent Cosmo sweep",
       "pipeline": "Candidate, separate from approved gallery",
-      "thumbnail": "es-01-019-r2-16x9.png",
-      "href": "es-01-019-r2-16x9.png",
+      "thumbnail": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-019-r2-16x9.png",
+      "href": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-019-r2-16x9.png",
       "target": "_blank",
-      "portrait_retained": "es-01-019-r2-4x5.png",
+      "portrait_retained": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-019-r2-4x5.png",
       "controls": "One wide thumbnail opening the full-size wide PNG; no extra viewer/download controls",
       "preserve": "Caption, scenario, composition, status, license/badge, footer, search, navigation and country switcher"
     },
@@ -311,23 +311,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-019-r2-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-019-r2-16x9.png",
         "sha256": "00a17dd2e1ebd3667818a4a7430246ae4d53e58bdf281a4a5ea2d4a375ca036d"
       },
       "4x5": {
-        "path": "es-01-019-r2-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-019-r2-4x5.png",
         "sha256": "e2fb8daaa7d74cdadb02328e97a15231c9b07f770b611f130afff4be96079e19"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-019-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-019-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "98fe584df2397dfbe859f10196374a65cc0917d0fc1c73b7efcb095e99a32f7a"
       },
       "4x5": {
-        "path": "es-01-019-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-019-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "ac352c3e368e701e8d43af33117b20886f19510632ad9d6c1aa4b0c4c6495e61"

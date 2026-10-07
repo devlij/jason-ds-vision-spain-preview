@@ -29,12 +29,12 @@
   "composition": "Night · From Laredo, the curving beach under moonlight near 43.4090,-3.4150. Approximate point only. · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Laredo, Cantabria at night.",
   "description": "Stand on the long curve of Laredo's beach after midnight, with the sea stretching wide and dark to either side. Moonlight lays a silver path across the water while the town's lights glow faintly along the shore behind you. The crescent of sand sweeps out of frame, calm and nearly empty in the night stillness.",
-  "file_16x9": "es-01-319-r1-16x9.png",
-  "file_4x5": "es-01-319-r1-4x5.png",
-  "file_9x16": "es-01-319-r1-9x16.png",
-  "file_16x9_postcard": "es-01-319-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-319-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-319-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-319-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-319-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-319-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-319-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-319-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-319-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-319-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-319-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-319-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-319-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -164,23 +164,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-319-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-319-r1-16x9.png",
         "sha256": "2b124d637758c9726570aabb1589fa1b7aa53bd533279bbe417c09d2f857517c"
       },
       "4x5": {
-        "path": "es-01-319-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-319-r1-4x5.png",
         "sha256": "a9dbe07351ef682f6fcbf62e49355d896061bfba8405d61b91e781346b072802"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-319-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-319-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "f94925c0d683b35170b9d50ec4170bde36ae35b333fadebc0a7ac106f2171f0f"
       },
       "4x5": {
-        "path": "es-01-319-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-319-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "042965cbf75f7650f1873462c3243f543ed7a8bd28a0a3bffad3ce56bb74804c"

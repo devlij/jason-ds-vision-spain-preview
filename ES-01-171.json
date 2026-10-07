@@ -29,12 +29,12 @@
   "composition": "Night · the mosque-cathedral and bridge · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Mezquita at night.",
   "description": "Standing on the far bank of the Guadalquivir at night, you face the Mezquita-Catedral glowing above the river, the Roman bridge's arches spanning the dark water in the foreground. The frame centers on the great mosque-cathedral's floodlit mass with the bridge leading the eye across. Córdoba's heart is at its grandest after midnight.",
-  "file_16x9": "es-01-171-r1-16x9.png",
-  "file_4x5": "es-01-171-r1-4x5.png",
-  "file_9x16": "es-01-171-r1-9x16.png",
-  "file_16x9_postcard": "es-01-171-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-171-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-171-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-171-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-171-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-171-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-171-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-171-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-171-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-171-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-171-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-171-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-171-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -168,23 +168,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-171-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-171-r1-16x9.png",
         "sha256": "4971ad39a1be8c92eb3d58b9a42bae9069087367fda69fd97e31d3dfe68fae95"
       },
       "4x5": {
-        "path": "es-01-171-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-171-r1-4x5.png",
         "sha256": "e436ae129e89cbf6d4516fa8bc2e820617de849630833aa3ef0af5c074c2aa70"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-171-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-171-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "e1019f643ea4c770c0bd8281db713ddf11d8b804eeac76e54232dbafa93264be"
       },
       "4x5": {
-        "path": "es-01-171-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-171-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "ebc10119674b609cfd170ef272d6c4c856ad1b4ca91e7b592b00c3e9310e3585"

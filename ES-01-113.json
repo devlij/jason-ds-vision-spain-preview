@@ -29,12 +29,12 @@
   "composition": "Night · the cathedral and palace · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Almudena Cathedral, Madrid at night.",
   "description": "Almudena Cathedral faces the Royal Palace across the square, both great masses floodlit in the night. The cathedral's dome and towers rise on one side while the palace's long facade runs on the other. Madrid's two giants, keeping watch over the sleeping city.",
-  "file_16x9": "es-01-113-r1-16x9.png",
-  "file_4x5": "es-01-113-r1-4x5.png",
-  "file_9x16": "es-01-113-r1-9x16.png",
-  "file_16x9_postcard": "es-01-113-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-113-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-113-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-113-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-113-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-113-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-113-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-113-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-113-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-113-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-113-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-113-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-113-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -167,23 +167,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-113-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-113-r1-16x9.png",
         "sha256": "10b70434f1582a74e93f6f779cdc8190b99a0a7a70d4d28ab1e4fb760924f326"
       },
       "4x5": {
-        "path": "es-01-113-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-113-r1-4x5.png",
         "sha256": "d6a25dd011b543214faf5934f83ca13cc9a998cf9d67fe89408e56591cf94b22"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-113-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-113-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "5d264a3992585c47f9c08eb642c34e9ae31306b384a49b5e82024fb6660dee8c"
       },
       "4x5": {
-        "path": "es-01-113-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-113-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "e66ced9912b59330b89683c719a30ca7e51cca7672953d5d36a489b05f1735a7"

@@ -37,12 +37,12 @@
   "composition": "Night · Public Plaça des Born near the central obelisk, approximately 40.0011, 3.8380, eye-level looking east-northeast toward the former fortress town hall, stately façades and the old-town approach. · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Old town, Ciutadella at night.",
   "description": "Long paved Plaça des Born with its slender nineteenth-century obelisk; Sandstone town hall/former royal fortress closing the western square edge; Warm ochre stately façades and narrow old-town streets beyond.",
-  "file_16x9": "es-01-034-r1-16x9.png",
-  "file_4x5": "es-01-034-r1-4x5.png",
-  "file_9x16": "es-01-034-r1-9x16.png",
-  "file_16x9_postcard": "es-01-034-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-034-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-034-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-034-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-034-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-034-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-034-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-034-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-034-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -62,7 +62,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-034-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-034-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -89,7 +89,7 @@
       "resampling_disclosure": "Required masters exceed the built-in 1672×941 source in at least one dimension; Lanczos resampling does not create native detail."
     },
     "4x5": {
-      "file": "es-01-034-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-034-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -236,29 +236,29 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-034-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-034-r1-16x9.png",
         "sha256": "cdba40401244db5e1e53fbd440e1e7bc256d71aba7945b135d67c329c5ec28cb"
       },
       "4x5": {
-        "path": "es-01-034-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-034-r1-4x5.png",
         "sha256": "a392d3454654105d3b7c2a997fd3ef83fa1752703b559a3a5531705bb391abe3"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-034-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-034-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "2fed5308dc53a4b55543404f2f81add4a6dc7a40234dff9b3afda545e4ad6ae2"
       },
       "4x5": {
-        "path": "es-01-034-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-034-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "a180119e4478514381b01240502dbcf1c501d978650d2782bd633bbac538ad59"
       },
       "9x16": {
-        "path": "es-01-034-daylight-9x16.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-034-daylight-9x16.png",
         "width": 1080,
         "height": 2110,
         "sha256": "10600e573c5eb7403dfc1fe5689f9a8d825e09d3c4c69534fff93ed69dc799d3"

@@ -29,12 +29,12 @@
   "composition": "Night · the white village and sierra · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Grazalema at night.",
   "description": "At night, Grazalema's white houses glow in patches against the dark folds of the Sierra de Grazalema. From the valley you look up at the village scattered across the frame, lit windows dotting the whitewashed cluster under the black mountain wall. The white village sleeps under its sierra.",
-  "file_16x9": "es-01-173-r1-16x9.png",
-  "file_4x5": "es-01-173-r1-4x5.png",
-  "file_9x16": "es-01-173-r1-9x16.png",
-  "file_16x9_postcard": "es-01-173-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-173-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-173-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-173-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-173-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-173-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-173-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-173-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-173-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-173-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-173-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-173-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-173-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -168,23 +168,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-173-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-173-r1-16x9.png",
         "sha256": "6a7547448dca7e81e89516c90e46a0be8a211915ea482ecd93030bb9baad334f"
       },
       "4x5": {
-        "path": "es-01-173-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-173-r1-4x5.png",
         "sha256": "ba74ced22ce3598f6e324945058d03308c3f0dd818f4b5c0dbfe87b42333dadf"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-173-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-173-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "355270b36f11618fe329289d4b8f7616c621eca010ade09f9187c4742c637d4e"
       },
       "4x5": {
-        "path": "es-01-173-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-173-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "14b8b3c8143b67a846cc42dc88f0bb5b4bcc9f63d3c587931a4110d3a6598ebd"

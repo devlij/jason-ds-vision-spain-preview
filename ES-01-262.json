@@ -29,12 +29,12 @@
   "composition": "Night · Stone village glowing under the Tramuntana at night · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Valldemossa, Valldemossa at night.",
   "description": "Look up at Valldemossa at night, the stone village glowing under the Tramuntana. The lit houses and the charterhouse climb the hillside across the frame, the dark mountain wall rising behind them, with olive terraces falling away below. Chopin wintered here — the village still keeps his kind of quiet.",
-  "file_16x9": "es-01-262-r1-16x9.png",
-  "file_4x5": "es-01-262-r1-4x5.png",
-  "file_9x16": "es-01-262-r1-9x16.png",
-  "file_16x9_postcard": "es-01-262-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-262-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-262-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-262-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-262-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-262-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-262-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-262-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-262-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-262-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-262-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-262-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-262-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -169,23 +169,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-262-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-262-r1-16x9.png",
         "sha256": "2ddb77e46d3bd00a21f2f0169cc84bd8913849cd5621a0499d6799f74ac4866a"
       },
       "4x5": {
-        "path": "es-01-262-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-262-r1-4x5.png",
         "sha256": "ca3b657ccb14cab5a651cd278b0c7996a195b361e332ea0b813877e1ec7f0181"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-262-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-262-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "61bc89cc948da2038c639189d2169a5057bc18a17e004385435efc69b926ffd1"
       },
       "4x5": {
-        "path": "es-01-262-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-262-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "262a4b96a4b245ab67a49b325d455ee648fd4f50c92768adc414a43cb255ef57"

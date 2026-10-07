@@ -29,12 +29,12 @@
   "composition": "Night · the volcanic village · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Santa Pau at night.",
   "description": "In the volcanic country of La Garrotxa at night, Santa Pau's stone village glows warm among dark fields and volcanic hills. You stand at the village edge looking across its old walls and church tower, lit windows punctuating the frame. The night wraps the volcanic landscape in silence while the old streets keep their few lights.",
-  "file_16x9": "es-01-137-r1-16x9.png",
-  "file_4x5": "es-01-137-r1-4x5.png",
-  "file_9x16": "es-01-137-r1-9x16.png",
-  "file_16x9_postcard": "es-01-137-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-137-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-137-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-137-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-137-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-137-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-137-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-137-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-137-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-137-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-137-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-137-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-137-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -163,23 +163,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-137-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-137-r1-16x9.png",
         "sha256": "414be7411346ea9e96b808b52e08928a3489501b95b2f72f9ece1c5f87ffe4ed"
       },
       "4x5": {
-        "path": "es-01-137-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-137-r1-4x5.png",
         "sha256": "2bf54d912694928d76f41c6d90b3daf0f74352fbf7f952f336f2c60cbabff57e"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-137-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-137-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "9fdb30592fe9c46d40711481f417cdc7902a618ba20a155edc4f64e60aef4f2a"
       },
       "4x5": {
-        "path": "es-01-137-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-137-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "d90dab94bdf0146f87adc5d68f1b3d94295b0e761b8ca65f74303bc7b314c0ad"

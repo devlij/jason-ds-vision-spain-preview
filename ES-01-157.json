@@ -29,12 +29,12 @@
   "composition": "Night · the strip between two seas · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of La Manga at night.",
   "description": "From the air's vantage at night, La Manga is a thin strip of light strung between two black seas — the Mediterranean on one side, the Mar Menor on the other. The frame runs with the glowing ribbon of the strip, its hotels and streets lit against the dark water on both flanks. A narrow world of light between two night seas.",
-  "file_16x9": "es-01-157-r1-16x9.png",
-  "file_4x5": "es-01-157-r1-4x5.png",
-  "file_9x16": "es-01-157-r1-9x16.png",
-  "file_16x9_postcard": "es-01-157-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-157-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-157-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-157-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-157-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-157-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-157-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-157-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-157-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-157-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-157-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-157-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-157-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -163,23 +163,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-157-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-157-r1-16x9.png",
         "sha256": "cddfaebdcb181257076f83d738697ad822182b43c2396ec4f3208b35fb68c7e7"
       },
       "4x5": {
-        "path": "es-01-157-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-157-r1-4x5.png",
         "sha256": "c33992a221f5e1265f724cbb4eaaad4dcc61eb5c018594cc61a97cd8e9ad760c"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-157-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-157-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "174cc28fcfee1524370b916de6376e6a1a6b61aaa11bc9aa2fdf9c9f1b02da23"
       },
       "4x5": {
-        "path": "es-01-157-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-157-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "0ce582b6808845fcad27ce92f8e49227806ce38ed9589ba2bb3c1c05cfeaec7c"
