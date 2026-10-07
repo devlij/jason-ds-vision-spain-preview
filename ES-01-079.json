@@ -29,12 +29,12 @@
   "composition": "Night · the harbor town · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Luarca, Luarca at night.",
   "description": "The harbour town of Luarca folds around its cove, the white houses climbing the hillsides on both arms of the bay. Harbour lights shimmer on the water while the cemetery-topped headland stands dark. Asturias' prettiest port, a crescent of light in the dark.",
-  "file_16x9": "es-01-079-r1-16x9.png",
-  "file_4x5": "es-01-079-r1-4x5.png",
-  "file_9x16": "es-01-079-r1-9x16.png",
-  "file_16x9_postcard": "es-01-079-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-079-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-079-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-079-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-079-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-079-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-079-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-079-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-079-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,14 +54,14 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-079-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-079-r1-16x9.png",
       "dimensions": [
         1920,
         1270
       ],
       "byte_length": 2698394,
       "sha256": "1a787b54db0830a39bda42b34960e82e9e35f2e18c3b9a813102812db5f64f7b",
-      "source_file": "es-01-079-r1.png",
+      "source_file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-079-r1.png",
       "source_dimensions": [
         1408,
         1760
@@ -81,14 +81,14 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-079-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-079-r1-4x5.png",
       "dimensions": [
         864,
         1270
       ],
       "byte_length": 1332433,
       "sha256": "9fdd6df9594b068ae8d54bbfb25d866a8e81c1e336b1080b6c7c6fe7aaafdd3f",
-      "source_file": "es-01-079-r1.png",
+      "source_file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-079-r1.png",
       "source_dimensions": [
         1408,
         1760
@@ -120,7 +120,7 @@
   },
   "source_files": [
     {
-      "file": "es-01-079-r1.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-079-r1.png",
       "sha256": "4bcad92f83e697a0b1deaa09dbf4c2bbe981f758d110750215826c7493ec611c",
       "dimensions": [
         1408,
@@ -162,23 +162,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-079-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-079-r1-16x9.png",
         "sha256": "1a787b54db0830a39bda42b34960e82e9e35f2e18c3b9a813102812db5f64f7b"
       },
       "4x5": {
-        "path": "es-01-079-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-079-r1-4x5.png",
         "sha256": "9fdd6df9594b068ae8d54bbfb25d866a8e81c1e336b1080b6c7c6fe7aaafdd3f"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-079-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-079-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "7add75d90c408b0d11136ef9422085e89ac80f5135bcc07e8b85b5c9a2b7a441"
       },
       "4x5": {
-        "path": "es-01-079-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-079-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "26e639b0ced0b36939ac249860f969259fb74dccbc82c9726a059292b137bf83"

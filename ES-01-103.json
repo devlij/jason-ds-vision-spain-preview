@@ -29,12 +29,12 @@
   "composition": "Night · the cathedral's two towers · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Gothic cathedral, León at night.",
   "description": "León's Gothic cathedral stands with its two towers against the night sky, the great west front floodlit. The pinnacles and flying buttresses are etched in light while the square lies empty before it. The house of light keeps its stained glass sleeping until dawn.",
-  "file_16x9": "es-01-103-r1-16x9.png",
-  "file_4x5": "es-01-103-r1-4x5.png",
-  "file_9x16": "es-01-103-r1-9x16.png",
-  "file_16x9_postcard": "es-01-103-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-103-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-103-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-103-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-103-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-103-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-103-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-103-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-103-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-103-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-103-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-103-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-103-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -167,23 +167,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-103-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-103-r1-16x9.png",
         "sha256": "6b45324220797590ee712f8340eed49bb5291cd0ee404be15c71beb69dcbc4fd"
       },
       "4x5": {
-        "path": "es-01-103-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-103-r1-4x5.png",
         "sha256": "590abfef280409e994e591c22cea520494aaa970de7c91efb6b144f15edf8015"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-103-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-103-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "85d9173eab9d78ebfee3c280efc2271b572a48384c281f453676f0012fda36a6"
       },
       "4x5": {
-        "path": "es-01-103-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-103-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "51a93aff6e68b66cbabc1582c5a210cc771098c30ce1d0a41df19046855d8f0a"

@@ -37,12 +37,12 @@
   "composition": "Night · Public boardwalk-to-beach approach on the western side of Punta des Trucadors, approximately 38.7590, 1.4300, low eye-level looking north along Ses Illetes shoreline. Nighttime access conditions are not asserted. · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Ses Illetes, Formentera at night.",
   "description": "Long narrow pale-sand strand with calm shallow turquoise-to-navy water; Low dunes with sparse grasses and a simple protected-access rope/boardwalk edge; Small offshore islets aligned near the northern horizon.",
-  "file_16x9": "es-01-038-r2-16x9.png",
-  "file_4x5": "es-01-038-r2-4x5.png",
-  "file_9x16": "es-01-038-r2-9x16.png",
-  "file_16x9_postcard": "es-01-038-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-038-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-038-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-038-r2-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-038-r2-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-038-r2-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-038-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-038-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-038-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -62,7 +62,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-038-r2-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-038-r2-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -89,7 +89,7 @@
       "resampling_disclosure": "Required masters exceed the built-in 1672×941 source in at least one dimension; Lanczos resampling does not create native detail."
     },
     "4x5": {
-      "file": "es-01-038-r2-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-038-r2-4x5.png",
       "dimensions": [
         864,
         1270
@@ -252,23 +252,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-038-r2-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-038-r2-16x9.png",
         "sha256": "c5a9db71142a12cb80684264fe53092df0c7a370c9687173964ef1f9721e41ee"
       },
       "4x5": {
-        "path": "es-01-038-r2-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-038-r2-4x5.png",
         "sha256": "1325ee55ce7bf7b878e9bce6c06f623d5e86fd2857f6e806b854f585faad5914"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-038-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-038-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "8a8d9c973be237f6c697f0c1e641c8e8c18623c19455ceb8bc604cf53403d45a"
       },
       "4x5": {
-        "path": "es-01-038-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-038-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "94702a6ad9737cad07b7d94bd701f5c716fd2f9a8acd810418f08639da07df8d"

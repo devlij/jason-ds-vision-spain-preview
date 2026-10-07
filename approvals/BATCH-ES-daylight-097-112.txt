@@ -37,13 +37,13 @@ BUILT — Approved night. Daylight re-interpretation of the same viewpoint.
 time_of_day: Night
 approval_state: approved
 caption: Historic center, Cambados
-night 16x9 path: es-01-097-r1-16x9.png
+night 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-097-r1-16x9.png
 night 16x9 SHA-256: 45f46002268103a52d8d58ab3d4ba49369e9694c30fb907e9ce668d4d2d59725
-night 4x5 path: es-01-097-r1-4x5.png
+night 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-097-r1-4x5.png
 night 4x5 SHA-256: 66d7d7e3690d7d55b2cc141a0fb160a843f1c944407d09738099d287ae12c5f6
-variant 16x9 path: es-01-097-daylight-16x9.png
+variant 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-097-daylight-16x9.png
 variant 16x9 SHA-256: 7d4e4a99341c249c9af5905fc90ef55ab1a5c3d0f2173ecef22e35d896294119
-variant 4x5 path: es-01-097-daylight-4x5.png
+variant 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-097-daylight-4x5.png
 variant 4x5 SHA-256: 6ed834843a6c4cc3c44f6e5ace6a444af5d0f41d794d0511122b450c21a8f97c
 
 ========================================================================
@@ -52,13 +52,13 @@ BUILT — Approved night. Daylight re-interpretation of the same viewpoint.
 time_of_day: Night
 approval_state: approved
 caption: Combarro, Poio
-night 16x9 path: es-01-098-r1-16x9.png
+night 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-098-r1-16x9.png
 night 16x9 SHA-256: 20663225dcfe363256b15daf62b3f29bd419cf07d55b3187d489ec0142249a51
-night 4x5 path: es-01-098-r1-4x5.png
+night 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-098-r1-4x5.png
 night 4x5 SHA-256: 832d7cbaa06b6bb86326c4e6dc5d8676bb064f632081f0dd395b73fb12fc8628
-variant 16x9 path: es-01-098-daylight-16x9.png
+variant 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-098-daylight-16x9.png
 variant 16x9 SHA-256: 36b26598caa827620a72b0f1d4066adccd7202f8a779763a0080129dd569f43d
-variant 4x5 path: es-01-098-daylight-4x5.png
+variant 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-098-daylight-4x5.png
 variant 4x5 SHA-256: df07bd9798b18822b4d19c8d0390bca8c08cd6b9adb435fb39f6673075f12125
 
 ========================================================================
@@ -67,13 +67,13 @@ BUILT — Approved night. Daylight re-interpretation of the same viewpoint.
 time_of_day: Night
 approval_state: approved
 caption: Cape Fisterra, Costa da Morte
-night 16x9 path: es-01-099-r1-16x9.png
+night 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-099-r1-16x9.png
 night 16x9 SHA-256: 86777a12ca5633cd0fd98398bf4621467532bb3858e1c6579837b41838bd06e4
-night 4x5 path: es-01-099-r1-4x5.png
+night 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-099-r1-4x5.png
 night 4x5 SHA-256: 0d664d19d924c60f792b54b59b1810b0dd43edfe8d73985364add67e0d230404
-variant 16x9 path: es-01-099-daylight-16x9.png
+variant 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-099-daylight-16x9.png
 variant 16x9 SHA-256: ce85af9444217d6ba918299fbf1a8194879c7239ee36de965fa6b0ce5c4e4f86
-variant 4x5 path: es-01-099-daylight-4x5.png
+variant 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-099-daylight-4x5.png
 variant 4x5 SHA-256: 788f949d9da26261399c57692b0e845eb561d65cdbda1dcb16f2e2044f72d0ae
 
 ========================================================================
@@ -82,13 +82,13 @@ BUILT — Approved night. Daylight re-interpretation of the same viewpoint.
 time_of_day: Night
 approval_state: approved
 caption: Las Médulas, Ponferrada
-night 16x9 path: es-01-100-r1-16x9.png
+night 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-100-r1-16x9.png
 night 16x9 SHA-256: 28fe7589dd973b9b53742e1a13cde6a9369f5d97ee68c910c2cb2f785f2d373e
-night 4x5 path: es-01-100-r1-4x5.png
+night 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-100-r1-4x5.png
 night 4x5 SHA-256: 8ee5b7a64e502fc4c027f2ad3242e10fe73fc15f7e9eb293f7359ca42f4bd675
-variant 16x9 path: es-01-100-daylight-16x9.png
+variant 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-100-daylight-16x9.png
 variant 16x9 SHA-256: 5cbd9116ef2c016e06b0d29809b6154cff16d135d89890b56197b2ad0d52df42
-variant 4x5 path: es-01-100-daylight-4x5.png
+variant 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-100-daylight-4x5.png
 variant 4x5 SHA-256: affca3bc5723007ee383008af40f4a2d4452be6a1a6a65c71ff847587e9f4950
 
 ========================================================================
@@ -97,13 +97,13 @@ BUILT — Approved night. Daylight re-interpretation of the same viewpoint.
 time_of_day: Night
 approval_state: approved
 caption: Peñalba de Santiago, Montes Aquilanos
-night 16x9 path: es-01-101-r1-16x9.png
+night 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-101-r1-16x9.png
 night 16x9 SHA-256: 92dfe03b0298e726607287be2a230b2e389cbabe1953454dfdec184d5b06de21
-night 4x5 path: es-01-101-r1-4x5.png
+night 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-101-r1-4x5.png
 night 4x5 SHA-256: 5d6e62bfc801f602a6af9b72383eaf011d0e743052b3e3e0270e8d9fd02cf213
-variant 16x9 path: es-01-101-daylight-16x9.png
+variant 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-101-daylight-16x9.png
 variant 16x9 SHA-256: 1123af802ccd13055155d12d417b956cb4f0ae46bf8237057451eca8295438eb
-variant 4x5 path: es-01-101-daylight-4x5.png
+variant 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-101-daylight-4x5.png
 variant 4x5 SHA-256: 976007d7c1b43243a5368bcb31c98c101ff82c08e7a657b2f1fbdb59d7123441
 
 ========================================================================
@@ -112,13 +112,13 @@ BUILT — Approved night. Daylight re-interpretation of the same viewpoint.
 time_of_day: Night
 approval_state: approved
 caption: Old town, Astorga
-night 16x9 path: es-01-102-r1-16x9.png
+night 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-102-r1-16x9.png
 night 16x9 SHA-256: 330e5798e787d0e618ec6072b7c693eba61772215048ab50f5e5d3ff8a89b2f6
-night 4x5 path: es-01-102-r1-4x5.png
+night 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-102-r1-4x5.png
 night 4x5 SHA-256: b8d889ee27b4f1cb78153da80c34d3c31d89f5fd0ea6cf0e3f65de68563b33e7
-variant 16x9 path: es-01-102-daylight-16x9.png
+variant 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-102-daylight-16x9.png
 variant 16x9 SHA-256: b0aaf22220b1eab15b8b6e704f25f0b9ff5ba8288f52ed7c1411805fb43a1d73
-variant 4x5 path: es-01-102-daylight-4x5.png
+variant 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-102-daylight-4x5.png
 variant 4x5 SHA-256: 738e6539ce7beb1d6c4bddbde0f02564403d3abfae84c3c77dddaf30c7bf868e
 
 ========================================================================
@@ -127,13 +127,13 @@ BUILT — Approved night. Daylight re-interpretation of the same viewpoint.
 time_of_day: Night
 approval_state: approved
 caption: Gothic cathedral, León
-night 16x9 path: es-01-103-r1-16x9.png
+night 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-103-r1-16x9.png
 night 16x9 SHA-256: ef3507aa13c4e9f823e3c44c18e0c7de75b7b507871f8c812261c2a810823c0b
-night 4x5 path: es-01-103-r1-4x5.png
+night 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-103-r1-4x5.png
 night 4x5 SHA-256: e05123eb4e31fa436dd3a3981b12f35590e3e02da99b90f80dce6ea97d046b4f
-variant 16x9 path: es-01-103-daylight-16x9.png
+variant 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-103-daylight-16x9.png
 variant 16x9 SHA-256: efe0dc69858d0c9a8508407d7306f3d87b23218f155d3a7445e50f39ec65b27a
-variant 4x5 path: es-01-103-daylight-4x5.png
+variant 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-103-daylight-4x5.png
 variant 4x5 SHA-256: 9c54e3afbd2eef4474a2b7f606c0f4016916cb9ba3fab7d209c196586afaa207
 
 ========================================================================
@@ -142,13 +142,13 @@ BUILT — Approved night. Daylight re-interpretation of the same viewpoint.
 time_of_day: Night
 approval_state: approved
 caption: Cathedral, Burgos
-night 16x9 path: es-01-104-r1-16x9.png
+night 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-104-r1-16x9.png
 night 16x9 SHA-256: 1008a941f5e6bcb9a8d12724cd56ba1d724e6f12c0cca1f94d4af88c777356b2
-night 4x5 path: es-01-104-r1-4x5.png
+night 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-104-r1-4x5.png
 night 4x5 SHA-256: ab59c56b286e4acc5553c9fe661c49edbfb0badc5b9de941e9d53dd56c7bb393
-variant 16x9 path: es-01-104-daylight-16x9.png
+variant 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-104-daylight-16x9.png
 variant 16x9 SHA-256: 00d20fb34c0c2df9ae4fefa03d61cf3ec849ffa208c3c06f2a9b2fc6dd57b3a0
-variant 4x5 path: es-01-104-daylight-4x5.png
+variant 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-104-daylight-4x5.png
 variant 4x5 SHA-256: 3ba8108079b03805b94c8f3e116a44236dfad95425f51537af54159102951cd6
 
 ========================================================================
@@ -157,13 +157,13 @@ BUILT — Approved night. Daylight re-interpretation of the same viewpoint.
 time_of_day: Night
 approval_state: approved
 caption: Plaza Mayor, Salamanca
-night 16x9 path: es-01-105-r1-16x9.png
+night 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-105-r1-16x9.png
 night 16x9 SHA-256: 77014c7044e71d53b81677f0b1c9e4a099546ca9c82925e1752a88a54da110ca
-night 4x5 path: es-01-105-r1-4x5.png
+night 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-105-r1-4x5.png
 night 4x5 SHA-256: 2879fe252fad453550fc5fac6a2960219856c9f8e027465173645399a4d37178
-variant 16x9 path: es-01-105-daylight-16x9.png
+variant 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-105-daylight-16x9.png
 variant 16x9 SHA-256: 1d4542bb03755bd63b6e57b2f743c05228668aaa255a96d8fa765d0d91ba7948
-variant 4x5 path: es-01-105-daylight-4x5.png
+variant 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-105-daylight-4x5.png
 variant 4x5 SHA-256: 802ba7bdb1b398b1346a4b2dad08bb1a43f1182243140df123d3da941f368a75
 
 ========================================================================
@@ -172,13 +172,13 @@ BUILT — Approved night. Daylight re-interpretation of the same viewpoint.
 time_of_day: Night
 approval_state: approved
 caption: Cathedral, Zamora
-night 16x9 path: es-01-106-r1-16x9.png
+night 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-106-r1-16x9.png
 night 16x9 SHA-256: c8caee814a394a3ac92db1b18270f0609af38953b759cb5a00351b6a369ccac8
-night 4x5 path: es-01-106-r1-4x5.png
+night 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-106-r1-4x5.png
 night 4x5 SHA-256: 5a00f20b5d366bbd39c100ec7f767c8bc84818c2f769e7c4defbab67251bf590
-variant 16x9 path: es-01-106-daylight-16x9.png
+variant 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-106-daylight-16x9.png
 variant 16x9 SHA-256: 18b8c0158e2262e9ab1efd06022b31e0a75c9a546bb9dae6476a0b79a0b3e13b
-variant 4x5 path: es-01-106-daylight-4x5.png
+variant 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-106-daylight-4x5.png
 variant 4x5 SHA-256: e30927c8afc8b1cc0620fd3fe7c01a3c8c25ca4c586e32672c740955b0159bae
 
 ========================================================================
@@ -187,13 +187,13 @@ BUILT — Approved night. Daylight re-interpretation of the same viewpoint.
 time_of_day: Night
 approval_state: approved
 caption: New Castle, Manzanares el Real
-night 16x9 path: es-01-107-r1-16x9.png
+night 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-107-r1-16x9.png
 night 16x9 SHA-256: 8f03f8ac42953b094953b82ae32597e6c6e50645d5be0602e236c8b183df6f88
-night 4x5 path: es-01-107-r1-4x5.png
+night 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-107-r1-4x5.png
 night 4x5 SHA-256: e0f0822475c8830c126e39306e46a7e2aae0da89e8ee0e209fee9e7f2c2c54e5
-variant 16x9 path: es-01-107-daylight-16x9.png
+variant 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-107-daylight-16x9.png
 variant 16x9 SHA-256: 3cabd90284671c02225530a8eb80d1ab48d73eefea3b44b1580b6644fa167e3c
-variant 4x5 path: es-01-107-daylight-4x5.png
+variant 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-107-daylight-4x5.png
 variant 4x5 SHA-256: 2409caf057242615a652170bf9d528a274eee7e79444a6ec5119d472966627d4
 
 ========================================================================
@@ -202,13 +202,13 @@ BUILT — Approved night. Daylight re-interpretation of the same viewpoint.
 time_of_day: Night
 approval_state: approved
 caption: Monastery, San Lorenzo de El Escorial
-night 16x9 path: es-01-108-r1-16x9.png
+night 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-108-r1-16x9.png
 night 16x9 SHA-256: 906786252fc1874b80ef89efc1ea8601c0308d3508f3212f0435b1c0ed01430c
-night 4x5 path: es-01-108-r1-4x5.png
+night 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-108-r1-4x5.png
 night 4x5 SHA-256: f59f19d0d2676299ce7d021f0f33a8f957caf0c235439f69ba44b80136526976
-variant 16x9 path: es-01-108-daylight-16x9.png
+variant 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-108-daylight-16x9.png
 variant 16x9 SHA-256: 1f55ad651b5959166617e298c7731cf5283286c374ad5aaa08eb3949b2490a2c
-variant 4x5 path: es-01-108-daylight-4x5.png
+variant 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-108-daylight-4x5.png
 variant 4x5 SHA-256: 59ac6ef8e30262d4822bf47d75527925bf7033d8fb71677edced3338ce87fbd3
 
 ========================================================================
@@ -217,13 +217,13 @@ BUILT — Approved night. Daylight re-interpretation of the same viewpoint.
 time_of_day: Night
 approval_state: approved
 caption: Walled town, Buitrago del Lozoya
-night 16x9 path: es-01-109-r1-16x9.png
+night 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-109-r1-16x9.png
 night 16x9 SHA-256: eb80a07fc0816ecb9c9c9f58118bafb8a7c7407ae1df9da10a0640bfe1c8d7be
-night 4x5 path: es-01-109-r1-4x5.png
+night 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-109-r1-4x5.png
 night 4x5 SHA-256: 9620b0dec894f9ba447486721390e9c28d4e76cd21e0345934659f3729c7ed7f
-variant 16x9 path: es-01-109-daylight-16x9.png
+variant 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-109-daylight-16x9.png
 variant 16x9 SHA-256: 1808785b7ead2c852e83600be0dbcb26bfab3e8bbe900fcfd387faa8a71f9d3d
-variant 4x5 path: es-01-109-daylight-4x5.png
+variant 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-109-daylight-4x5.png
 variant 4x5 SHA-256: d908f6b55136cef6b049ffad39e67f8c5b5da35d67c01f54b512fed8c27a0266
 
 ========================================================================
@@ -232,13 +232,13 @@ BUILT — Approved night. Daylight re-interpretation of the same viewpoint.
 time_of_day: Night
 approval_state: approved
 caption: Roman aqueduct, Segovia
-night 16x9 path: es-01-110-r1-16x9.png
+night 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-110-r1-16x9.png
 night 16x9 SHA-256: ef73f05a0fc3098549194b5412f9f5c5a91ee2fb2ef8cff1545f8aa398d7a56f
-night 4x5 path: es-01-110-r1-4x5.png
+night 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-110-r1-4x5.png
 night 4x5 SHA-256: afa8e0b27e41c19806ba39e0af58ef4a534aa6311a89ea7f8c3db7641c52eb55
-variant 16x9 path: es-01-110-daylight-16x9.png
+variant 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-110-daylight-16x9.png
 variant 16x9 SHA-256: 7bbc866a12d56786ced8ea7a073343ffd0e15d5eb6fcf7d70c7a888f5ada4430
-variant 4x5 path: es-01-110-daylight-4x5.png
+variant 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-110-daylight-4x5.png
 variant 4x5 SHA-256: 56c1eb2c9e541445eb9ef34d5ca5635b5074bfe8dfa7ef9405e27540685a15e7
 
 ========================================================================
@@ -247,13 +247,13 @@ BUILT — Approved night. Daylight re-interpretation of the same viewpoint.
 time_of_day: Night
 approval_state: approved
 caption: El Paular Monastery, Rascafría
-night 16x9 path: es-01-111-r1-16x9.png
+night 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-111-r1-16x9.png
 night 16x9 SHA-256: f1476f4bb349b46a80276f0943b3c49e2c86c0cbc9cbaa2a711277fa84869b9f
-night 4x5 path: es-01-111-r1-4x5.png
+night 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-111-r1-4x5.png
 night 4x5 SHA-256: cb0eb95f9a0acf1b0bec7c01515ee2fb58aacdaa6886ac54da83810b27c10635
-variant 16x9 path: es-01-111-daylight-16x9.png
+variant 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-111-daylight-16x9.png
 variant 16x9 SHA-256: b5e21cc5172c658af4945211863faf51cd0b2637eaa4e0ef495aee5fc84788c1
-variant 4x5 path: es-01-111-daylight-4x5.png
+variant 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-111-daylight-4x5.png
 variant 4x5 SHA-256: 82a7b3c9793a87c5ac1a4e7ecd57548a89fe5146cd1382512ca1d9120f60864c
 
 ========================================================================
@@ -262,13 +262,13 @@ BUILT — Approved night. Daylight re-interpretation of the same viewpoint.
 time_of_day: Night
 approval_state: approved
 caption: Walled town, Buitrago del Lozoya
-night 16x9 path: es-01-112-r1-16x9.png
+night 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-112-r1-16x9.png
 night 16x9 SHA-256: 05edae97bfa3565a6e7526426fa4c487f8562967d12c28aab8b23222dcd5d9cf
-night 4x5 path: es-01-112-r1-4x5.png
+night 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-112-r1-4x5.png
 night 4x5 SHA-256: 9955302a7c9c1470d82bd8be8be33fb17c066436606ac084e8d615037d284c7d
-variant 16x9 path: es-01-112-daylight-16x9.png
+variant 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-112-daylight-16x9.png
 variant 16x9 SHA-256: 73846cbeb8fae05834b366c15c75d13a0f36c57a443fbf79aa7a7b14dcff8d6a
-variant 4x5 path: es-01-112-daylight-4x5.png
+variant 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-112-daylight-4x5.png
 variant 4x5 SHA-256: 58836950a8d3131004aa65ffcfa6f5322794228dcde43bb92a9f79ae301ca0c9
 
 SKIPS IN RANGE

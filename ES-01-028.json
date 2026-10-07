@@ -33,12 +33,12 @@
   "composition": "Night · Eye-level rocky public north-shore footpath of Lago Enol, looking south across the lake. Approximate model request 43.2746,-4.9911; not a surveyed exact camera or assertion of nighttime access. · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Lago Enol, Covadonga at night.",
   "description": "Low rocky and grassy lake shore in foreground; Compact lake basin flanked by rounded limestone and grass slopes; Saddle between lower ridges, without jagged high alpine peaks.",
-  "file_16x9": "es-01-028-r1-16x9.png",
-  "file_4x5": "es-01-028-r1-4x5.png",
-  "file_9x16": "es-01-028-r1-9x16.png",
-  "file_16x9_postcard": "es-01-028-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-028-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-028-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-028-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-028-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-028-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-028-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-028-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-028-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -58,7 +58,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-028-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-028-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -85,7 +85,7 @@
       "resampling_disclosure": "Required masters exceed the built-in 1672×941 source in at least one dimension; Lanczos resampling does not create native detail."
     },
     "4x5": {
-      "file": "es-01-028-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-028-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -241,23 +241,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-028-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-028-r1-16x9.png",
         "sha256": "9502f7a72e37b710305bb3f5e61e75364ff0aa948f636fb5b4a4e30fddf32d57"
       },
       "4x5": {
-        "path": "es-01-028-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-028-r1-4x5.png",
         "sha256": "bffcc2518cffd1a27512b0873afb22d031d73ab93f5b637071b4f528f12985ad"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-028-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-028-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "247ed6db8dc02a02f0c7937b06da9739f93fb877bada19d54590dc17aad6e807"
       },
       "4x5": {
-        "path": "es-01-028-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-028-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "f426f2a281784c62cf1883dc1ea7e850752830b9367388b588a43217a7799bd7"

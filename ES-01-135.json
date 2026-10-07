@@ -29,12 +29,12 @@
   "composition": "Night · the basalt cliff village · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Castellfollit de la Roca, Castellfollit de la Roca at night.",
   "description": "From the valley floor at night, Castellfollit de la Roca's houses line the edge of its great basalt cliff, their windows glowing warm against the black volcanic rock. The frame runs along the cliff-top village left to right, with the dark ravine dropping away beneath. Lit from within, the village looks like it's balanced on the very edge of the night.",
-  "file_16x9": "es-01-135-r3-16x9.png",
-  "file_4x5": "es-01-135-r3-4x5.png",
-  "file_9x16": "es-01-135-r3-9x16.png",
-  "file_16x9_postcard": "es-01-135-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-135-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-135-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-135-r3-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-135-r3-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-135-r3-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-135-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-135-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-135-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-135-r3-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-135-r3-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-135-r3-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-135-r3-4x5.png",
       "dimensions": [
         864,
         1270
@@ -167,23 +167,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-135-r3-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-135-r3-16x9.png",
         "sha256": "2336e82338be3944c2a3b35e91ccf46f1df6767655c95e91f06118ee1a70f92a"
       },
       "4x5": {
-        "path": "es-01-135-r3-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-135-r3-4x5.png",
         "sha256": "75089e1083cb3d01e3602cf612627d40799d1d12048ed152fdca5016a8ebf716"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-135-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-135-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "c531cdb5a2bb47560df427dcafeb84895561c109f0ab44ab7072932917e2e62d"
       },
       "4x5": {
-        "path": "es-01-135-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-135-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "7c735df98838ed98434f1a14c477eae6668b73d994b9330d3291f13789bfdbf0"

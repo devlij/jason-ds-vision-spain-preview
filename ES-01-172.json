@@ -29,12 +29,12 @@
   "composition": "Night · the river tower · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Torre del Oro at night.",
   "description": "From the riverbank at night, the Torre del Oro rises floodlit over the dark Guadalquivir, its golden tower catching the light at the frame's center. The old river tower stands alone against the black sky with the Triana lights glimmering downstream. Seville's river sentinel keeps its watch through the small hours.",
-  "file_16x9": "es-01-172-r1-16x9.png",
-  "file_4x5": "es-01-172-r1-4x5.png",
-  "file_9x16": "es-01-172-r1-9x16.png",
-  "file_16x9_postcard": "es-01-172-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-172-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-172-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-172-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-172-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-172-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-172-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-172-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-172-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-172-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-172-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-172-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-172-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -168,23 +168,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-172-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-172-r1-16x9.png",
         "sha256": "3aa9238232887f3c568ecbb0097fa9e683a78436ee6f71be6bccbc033811fe2b"
       },
       "4x5": {
-        "path": "es-01-172-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-172-r1-4x5.png",
         "sha256": "246f3259a334bf56a10b73b49a9bd681a3d6f00f01e97cf1af0fbc0fb38f928e"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-172-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-172-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "36d72b0bc37250f168551a44f7ee34f1cbc8400360761f4ecf26ea88cfab70f3"
       },
       "4x5": {
-        "path": "es-01-172-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-172-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "d6bb3ccf8d6bf2da16b5b92e624e0aa99ecad59e41dae4cee05e8c74bd130b05"

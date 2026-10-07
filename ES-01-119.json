@@ -29,12 +29,12 @@
   "composition": "Night · the lagoon chain · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Lagunas de Ruidera, Ruidera at night.",
   "description": "At night the Lagunas de Ruidera lie dark and glassy, the lagoon chain stretching away under a star-flecked sky. Your viewpoint on the shore frames the water's still surface catching faint moonlight, with reeds and bank edges fading into darkness at either side. The night turns the famous waterfalls' chain into something quiet and mirror-like.",
-  "file_16x9": "es-01-119-r1-16x9.png",
-  "file_4x5": "es-01-119-r1-4x5.png",
-  "file_9x16": "es-01-119-r1-9x16.png",
-  "file_16x9_postcard": "es-01-119-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-119-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-119-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-119-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-119-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-119-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-119-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-119-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-119-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-119-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-119-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-119-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-119-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -167,23 +167,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-119-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-119-r1-16x9.png",
         "sha256": "3653e1c8d2419746d142d6338fb7e11a17a90ccdc360cd47283279be3ada643a"
       },
       "4x5": {
-        "path": "es-01-119-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-119-r1-4x5.png",
         "sha256": "c61e1344b22dce7d125f3b18ee00aa7487ce4436238071c8f8eba6eb75e0cafb"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-119-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-119-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "b35817c6089a135d57fbed5ad0ee7c794627c269022d4c7045656abcd4ed4abf"
       },
       "4x5": {
-        "path": "es-01-119-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-119-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "e2f5af94d536c1694908b8ee536ef8d085be0a81b64af52fd026dd29d61fd51a"

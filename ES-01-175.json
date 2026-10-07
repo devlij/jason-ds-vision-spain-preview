@@ -29,12 +29,12 @@
   "composition": "Night · the peninsula city · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Old town at night.",
   "description": "At night, old Cádiz sits on its peninsula surrounded by black water, the city's lights tracing its ancient outline. From the mainland you take in the whole peninsula city across the frame, its towers and cathedral dome lit against the dark Atlantic. The old sea city glows at the edge of the night.",
-  "file_16x9": "es-01-175-r1-16x9.png",
-  "file_4x5": "es-01-175-r1-4x5.png",
-  "file_9x16": "es-01-175-r1-9x16.png",
-  "file_16x9_postcard": "es-01-175-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-175-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-175-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-175-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-175-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-175-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-175-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-175-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-175-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-175-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-175-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-175-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-175-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -168,23 +168,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-175-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-175-r1-16x9.png",
         "sha256": "093d5fcee848f47941b5a88b39a1d501aa7d3ebc3502c69acc898dfe3e38085d"
       },
       "4x5": {
-        "path": "es-01-175-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-175-r1-4x5.png",
         "sha256": "76aca66271cefefb06787f25b3e4c905059ba19ef775d076c2b420ee3261f313"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-175-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-175-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "04c6f4a67110b7e1915ee5d1f42bda7ba8fcc342061322dc1d600528b3bb7277"
       },
       "4x5": {
-        "path": "es-01-175-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-175-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "e6eca698a0443b8aeb7df1cdd65a0f5565d1de1890e922ade634cf8cf8fa996c"

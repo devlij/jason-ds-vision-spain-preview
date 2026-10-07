@@ -29,12 +29,12 @@
   "composition": "Night · the cave quarter facing the Alhambra · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Sacromonte at night.",
   "description": "From Sacromonte the cave-quarter streets look across the ravine toward the Alhambra, its palaces floodlit gold on the hill opposite. Whitewashed cave houses glow softly at your feet while the fortress fills the center of the view. Night, flamenco silence, and the most famous view in Spain.",
-  "file_16x9": "es-01-170-r1-16x9.png",
-  "file_4x5": "es-01-170-r1-4x5.png",
-  "file_9x16": "es-01-170-r1-9x16.png",
-  "file_16x9_postcard": "es-01-170-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-170-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-170-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-170-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-170-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-170-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-170-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-170-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-170-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-170-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-170-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-170-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-170-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -168,23 +168,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-170-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-170-r1-16x9.png",
         "sha256": "a08a4d185f1b9b45196f26a56c70b8ee0328bfcecf6b6f41614094a1222789e6"
       },
       "4x5": {
-        "path": "es-01-170-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-170-r1-4x5.png",
         "sha256": "a10042924158c4a8398bf6138b5e599ed7a49ada51bcb2aba4a0fa1ebc9cf657"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-170-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-170-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "ebc350866d5e940099cc96483360120daa9d26edb6b668e9e4d47ec633dee2a2"
       },
       "4x5": {
-        "path": "es-01-170-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-170-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "f84e0329705a50fd1e1f6d31e8046ac7ea9e14edb051a2dd91f667527c1ef102"

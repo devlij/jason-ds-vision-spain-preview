@@ -29,12 +29,12 @@
   "composition": "Night · the walled town and bay · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Old town at night.",
   "description": "The walled old town of Alcúdia lies against the dark bay, its medieval ramparts faintly lit above the town. Windows glow within the walls while the water beyond shows only the faintest horizon line. A calm night portrait of Mallorca's Roman and medieval stronghold.",
-  "file_16x9": "es-01-163-r1-16x9.png",
-  "file_4x5": "es-01-163-r1-4x5.png",
-  "file_9x16": "es-01-163-r1-9x16.png",
-  "file_16x9_postcard": "es-01-163-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-163-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-163-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-163-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-163-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-163-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-163-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-163-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-163-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-163-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-163-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-163-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-163-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -168,23 +168,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-163-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-163-r1-16x9.png",
         "sha256": "91af9212ae9eab0cda8c3758b0119130071b9af945ca6ba0b9be3613d113b0b5"
       },
       "4x5": {
-        "path": "es-01-163-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-163-r1-4x5.png",
         "sha256": "b243aec8c36e60b234e64dd432b1be7de3a8f3256f1b6bb5562ebcde772d92a7"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-163-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-163-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "f488fef690404bd6b95a789be4d138db870faa862ed137f754076b33d4b6fb66"
       },
       "4x5": {
-        "path": "es-01-163-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-163-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "d74d58017abe98ff455b64b24a6d8e5cb76ff618dc24b323a5a9011ec2c5f75c"

@@ -20,19 +20,19 @@
   },
   "weather": "Model data from Open-Meteo, retrieved 23 September 2026 12:33:24 Europe/Madrid, valid 12:30 Europe/Madrid — not a verified on-site observation. 27.9°C, mainly clear, cloud 21%, precipitation 0 mm, wind 10.5 km/h. Sunrise 08:02, sunset 20:09; daylight outside the twilight window.",
   "limitations": "Editorially approved as an AI-generated artistic interpretation. Fine masonry, vegetation and transient details are generated rather than on-site observations. Originality and third-party commercial/IP clearance are not legally certified.",
-  "file_16x9": "es-01-004-r2-16x9.png",
-  "file_4x5": "es-01-004-r2-4x5.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-004-r2-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-004-r2-4x5.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "editions": [
     {
       "label": "Earlier candidate · 11:34 · architecture rejected · 16:9",
-      "file": "es-01-004-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-004-16x9.png",
       "status": "rejected candidate"
     },
     {
       "label": "Earlier candidate · 11:34 · architecture rejected · 4:5",
-      "file": "es-01-004-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-004-4x5.png",
       "status": "rejected candidate"
     }
   ],
@@ -44,8 +44,8 @@
       "previous_status": "Candidate · palace and tower proportions require correction · not approved",
       "previous_scenario": "23 September 2026 · 11:34 Europe/Madrid",
       "previous_files": [
-        "es-01-004-16x9.png",
-        "es-01-004-4x5.png"
+        "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-004-16x9.png",
+        "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-004-4x5.png"
       ],
       "previous_gates": {
         "visual": "not passed — central palace mass and tower proportions differ from reference; façade illumination also requires review",

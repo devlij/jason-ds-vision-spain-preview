@@ -29,12 +29,12 @@
   "composition": "Night · Castle above the illuminated harbor city · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Castillo de Santa Bárbara, Alicante at night.",
   "description": "Seen from the harbor side, the castle dominates the frame from its high crag, floodlit walls and bastions glowing against the night while the illuminated harbor city spreads out below. Alicante's streetlights trace the grid of the city down to the dark water of the port, with boat masts faintly outlined along the quay. Above the bustle, Santa Bárbara holds the skyline — one of Spain's great coastal fortresses.",
-  "file_16x9": "es-01-277-r1-16x9.png",
-  "file_4x5": "es-01-277-r1-4x5.png",
-  "file_9x16": "es-01-277-r1-9x16.png",
-  "file_16x9_postcard": "es-01-277-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-277-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-277-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-277-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-277-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-277-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-277-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-277-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-277-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-277-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-277-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-277-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-277-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -169,23 +169,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-277-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-277-r1-16x9.png",
         "sha256": "7cb5f3a7eb3e46709297db50a01badcfe9d09da53427f3b8da14bddf0bc7db5f"
       },
       "4x5": {
-        "path": "es-01-277-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-277-r1-4x5.png",
         "sha256": "39e05dc7438a5ff5078737facf3094bf5139ccd655433add0d50538073049bee"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-277-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-277-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "0772a50a0e5b29b3dd6859b2ffa5c0897f89c7e60f8ed46f2d579936760541e0"
       },
       "4x5": {
-        "path": "es-01-277-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-277-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "f5844219ebf8bce756d2528127ed0b77b005b5d9bb1c0fc918de31ac97857b3c"

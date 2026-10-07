@@ -23,12 +23,12 @@
   "composition": "Night · Cádiz rooftops and watchtowers from the Tavira terrace at night · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Torre Tavira at night.",
   "description": "From the Torre Tavira terrace at night, look out over Cádiz's rooftops. Watchtowers and miradores punctuate the roofscape across the frame, the cathedral dome rising at center distance, with the dark sea ringing the city on three sides. The old Camera Obscura tower puts you above it all.",
-  "file_16x9": "es-01-210-r1-16x9.png",
-  "file_4x5": "es-01-210-r1-4x5.png",
-  "file_9x16": "es-01-210-r1-9x16.png",
-  "file_16x9_postcard": "es-01-210-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-210-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-210-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-210-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-210-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-210-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-210-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-210-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-210-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -48,7 +48,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-210-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-210-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -75,7 +75,7 @@
       "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-210-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-210-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -162,23 +162,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-210-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-210-r1-16x9.png",
         "sha256": "58fb9d3f6d7cddaccea0fa14a66aa217bf79bb5a96b9c9626765f8043fe17433"
       },
       "4x5": {
-        "path": "es-01-210-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-210-r1-4x5.png",
         "sha256": "27c4701e7f959fff33c35beb5667a6a30e56138b2d4b07c71ce8cdaed772584b"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-210-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-210-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "36b91e765155c50b8037a010f053f504fb60278204230d54b3782bb0b3ac03c3"
       },
       "4x5": {
-        "path": "es-01-210-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-210-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "0a5d794fc0ab65f0ae55cbdb1b820b8f32dcbf8de6c80b76631c9e199f5a2347"

@@ -29,12 +29,12 @@
   "composition": "Night · Gothic silk exchange facade lamplit at night · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Llotja de la Seda, Valencia at night.",
   "description": "Stand before Valencia's Llotja de la Seda at night. The Gothic silk exchange facade rises at center frame, its carved stonework and gargoyles floodlit warm, with the old town's streets and the market hall spreading left and right. The merchants who traded silk here built one of Europe's great Gothic monuments.",
-  "file_16x9": "es-01-269-r1-16x9.png",
-  "file_4x5": "es-01-269-r1-4x5.png",
-  "file_9x16": "es-01-269-r1-9x16.png",
-  "file_16x9_postcard": "es-01-269-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-269-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-269-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-269-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-269-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-269-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-269-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-269-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-269-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-269-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-269-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-269-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-269-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -169,29 +169,29 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-269-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-269-r1-16x9.png",
         "sha256": "d5498544446f4b698acf78289cfe33b5a0283ae2c098614bc6f10d2ee2fccbd8"
       },
       "4x5": {
-        "path": "es-01-269-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-269-r1-4x5.png",
         "sha256": "bc8079f0d70b93a12e5d3490caf7ac1c08759ea185a87e6edcb7759139d96c68"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-269-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-269-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "2f1a9664be0a3c3437a953708ce418339074c4f373aca72ae9ce844e2d40de1b"
       },
       "4x5": {
-        "path": "es-01-269-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-269-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "015569e121258e9724ea504d64565e4302896c30429d675b95da0c11b5ea8aeb"
       },
       "9x16": {
-        "path": "es-01-269-daylight-9x16.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-269-daylight-9x16.png",
         "width": 1080,
         "height": 2110,
         "sha256": "9942b066798df0c90b6e4d6d2fd7699563fc4024407701acdf99d534075cb201"

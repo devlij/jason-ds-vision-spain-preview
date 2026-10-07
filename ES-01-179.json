@@ -29,12 +29,12 @@
   "composition": "Night · the megalithic valley · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Dolmens at night.",
   "description": "In the Antequera valley at night, the great dolmens lie as dark mounds under the starlit sky. From the site you look across the frame's ancient stones, the megalithic valley stretching dark toward the Peña de los Enamorados. Five thousand years of stone keep their night.",
-  "file_16x9": "es-01-179-r1-16x9.png",
-  "file_4x5": "es-01-179-r1-4x5.png",
-  "file_9x16": "es-01-179-r1-9x16.png",
-  "file_16x9_postcard": "es-01-179-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-179-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-179-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-179-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-179-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-179-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-179-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-179-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-179-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-179-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-179-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-179-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-179-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -168,23 +168,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-179-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-179-r1-16x9.png",
         "sha256": "17e926740d5b2a67692a64eb0a934ecd7c03085bdea916641473dc49c5a6451e"
       },
       "4x5": {
-        "path": "es-01-179-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-179-r1-4x5.png",
         "sha256": "512f050f5a613827d3429dedf3db73e95f59ebff48c878cd9a819af6b0c33db2"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-179-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-179-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "b8a052a692d2335e42ed4a8c8b440d13d2cbfdf51ada2bf7abe988029824d3d4"
       },
       "4x5": {
-        "path": "es-01-179-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-179-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "73d01a33e98292238accfa21b5f642ef099f2b786adb38a05f5f946b4f462026"

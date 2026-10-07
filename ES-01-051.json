@@ -29,12 +29,12 @@
   "composition": "Night · the valley town and peaks · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Potes, Potes at night.",
   "description": "From the valley floor at night, Potes lies quiet beneath the great peaks of the Picos de Europa, its lights scattered along the valley. The mountains rise black on every side, their summits lost in the starry dark. The little town glows softly at the confluence of the rivers, sheltered by the towering night.",
-  "file_16x9": "es-01-051-r1-16x9.png",
-  "file_4x5": "es-01-051-r1-4x5.png",
-  "file_9x16": "es-01-051-r1-9x16.png",
-  "file_16x9_postcard": "es-01-051-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-051-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-051-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-051-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-051-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-051-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-051-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-051-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-051-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,14 +54,14 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-051-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-051-r1-16x9.png",
       "dimensions": [
         1920,
         1270
       ],
       "byte_length": 2379114,
       "sha256": "0b760de04d9e5b161f0c1d64ed5471b2a1985522b0d60863e277ad8faf094b36",
-      "source_file": "es-01-051-r1.png",
+      "source_file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-051-r1.png",
       "source_dimensions": [
         1408,
         1760
@@ -81,14 +81,14 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-051-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-051-r1-4x5.png",
       "dimensions": [
         864,
         1270
       ],
       "byte_length": 1387404,
       "sha256": "2fc56af70b8f17c1c48bb7b5b757b5e124be27a051418d5b3f178446e3bea493",
-      "source_file": "es-01-051-r1.png",
+      "source_file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-051-r1.png",
       "source_dimensions": [
         1408,
         1760
@@ -120,7 +120,7 @@
   },
   "source_files": [
     {
-      "file": "es-01-051-r1.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-051-r1.png",
       "sha256": "9fdbc623c914ec0c797712fcc7f8da0367a281b5a44b27bea474345017b9e26a",
       "dimensions": [
         1408,
@@ -162,23 +162,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-051-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-051-r1-16x9.png",
         "sha256": "0b760de04d9e5b161f0c1d64ed5471b2a1985522b0d60863e277ad8faf094b36"
       },
       "4x5": {
-        "path": "es-01-051-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-051-r1-4x5.png",
         "sha256": "2fc56af70b8f17c1c48bb7b5b757b5e124be27a051418d5b3f178446e3bea493"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-051-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-051-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "10f543ed89c113c7c70f6e05939a8d61f95ed36e4fed718969981d6a43f123ed"
       },
       "4x5": {
-        "path": "es-01-051-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-051-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "c3644fad2dfa0430d6aee5d1cf60e29c69e6fedb22e412c17be261af256fd8bf"

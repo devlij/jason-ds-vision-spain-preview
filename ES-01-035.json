@@ -37,12 +37,12 @@
   "composition": "Night · Public visitor path immediately southeast of Naveta des Tudons, approximately 40.0037, 3.8915, low eye-level looking northwest at the entrance end and boat-shaped mass. Nighttime visitor access is not asserted. · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Naveta des Tudons, Ciutadella at night.",
   "description": "Single compact inverted-boat funerary monument of massive dry-laid limestone blocks; Small low rectangular entrance in the flat end wall; Open dry Menorcan field with low scrub and a simple visitor path.",
-  "file_16x9": "es-01-035-r1-16x9.png",
-  "file_4x5": "es-01-035-r1-4x5.png",
-  "file_9x16": "es-01-035-r1-9x16.png",
-  "file_16x9_postcard": "es-01-035-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-035-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-035-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-035-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-035-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-035-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-035-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-035-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-035-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -62,7 +62,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-035-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-035-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -89,7 +89,7 @@
       "resampling_disclosure": "Required masters exceed the built-in 1672×941 source in at least one dimension; Lanczos resampling does not create native detail."
     },
     "4x5": {
-      "file": "es-01-035-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-035-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -236,23 +236,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-035-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-035-r1-16x9.png",
         "sha256": "84ec5a8c0e6efee608dd702598d8842c52bb21db6b6c4b8836aa022ae243ba3a"
       },
       "4x5": {
-        "path": "es-01-035-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-035-r1-4x5.png",
         "sha256": "aa43f70b3d140eae895f70e65b3a80fe6deeabacc9bd3b3535becc1d2fed2df4"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-035-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-035-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "897db29265cd7f8fefe57ec28543ebb9c147ba0c298ad3dd0c6b243bc26df3b5"
       },
       "4x5": {
-        "path": "es-01-035-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-035-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "b8d911a75707b71156df26a65149e1126d814ba79ff2133d8e772fbe7b5859b7"

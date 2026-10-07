@@ -29,12 +29,12 @@
   "composition": "Night · the old town beneath the Tramuntana · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Sóller, Sóller at night.",
   "description": "From the valley at night, Sóller glows in its bowl beneath the dark wall of the Tramuntana. The frame holds the old town's warm lights with the black mountain silhouette rising behind. The famous valley sleeps under its tramuntana dark.",
-  "file_16x9": "es-01-160-r2-16x9.png",
-  "file_4x5": "es-01-160-r2-4x5.png",
-  "file_9x16": "es-01-160-r2-9x16.png",
-  "file_16x9_postcard": "es-01-160-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-160-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-160-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-160-r2-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-160-r2-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-160-r2-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-160-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-160-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-160-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-160-r2-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-160-r2-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-160-r2-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-160-r2-4x5.png",
       "dimensions": [
         864,
         1270
@@ -167,23 +167,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-160-r2-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-160-r2-16x9.png",
         "sha256": "54ab81c7c0fc10e2617e25aea085117080d4b9f5c1f12c8b21938ecc7d660ee4"
       },
       "4x5": {
-        "path": "es-01-160-r2-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-160-r2-4x5.png",
         "sha256": "7667cc5e2f8b2376848975e6bf929e752466bd70c21139145e6d14038207cc4a"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-160-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-160-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "c8e0359c130a24828bc1b1cb679e314d739316edff57c02d5d9f85050d6a314c"
       },
       "4x5": {
-        "path": "es-01-160-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-160-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "c49c19d2c6f95df9af2b848f45672ab6156dce35d90dcf3bd7a7b36c194f59d6"

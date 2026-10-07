@@ -29,12 +29,12 @@
   "composition": "Night · White-sand cove between pine-clad headlands at night · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Cala Macarella, Ciutadella de Menorca at night.",
   "description": "Stand above Cala Macarella at night. The white-sand cove curves below between pine-clad headlands, the dark sea breathing at its edge, with stars overhead and the cliffs falling away left and right. By day it is Menorca's famous beach — at night it is just moonlight and pines.",
-  "file_16x9": "es-01-263-r1-16x9.png",
-  "file_4x5": "es-01-263-r1-4x5.png",
-  "file_9x16": "es-01-263-r1-9x16.png",
-  "file_16x9_postcard": "es-01-263-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-263-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-263-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-263-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-263-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-263-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-263-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-263-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-263-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-263-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-263-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-263-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-263-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -169,23 +169,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-263-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-263-r1-16x9.png",
         "sha256": "9556d1722066abd8c9c5839938a0806985622de0c2c462ed2c64947416a8447e"
       },
       "4x5": {
-        "path": "es-01-263-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-263-r1-4x5.png",
         "sha256": "7a1faab160a9b3983073032ab97c7564b88eef53c95b04c25bf816c4eab8d8db"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-263-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-263-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "17f10cf7ad1e8ff8954ace6f5ceaac97358ef12bab04d75c83a801963e3aa382"
       },
       "4x5": {
-        "path": "es-01-263-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-263-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "e33d3cac1dbddcff187d082097aefcde27beea34a9bfd466c0f3a0d116027d44"

@@ -29,12 +29,12 @@
   "composition": "Night · the old wine town · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Old town, Ribadavia at night.",
   "description": "Ribadavia's old wine town lies along the river, its medieval streets and old quarter lit in warm patches. The castle ruins stand dark above the rooftops while the Miño valley sleeps beyond. Once the capital of the Ribeiro wine trade, still keeping its old stones.",
-  "file_16x9": "es-01-096-r1-16x9.png",
-  "file_4x5": "es-01-096-r1-4x5.png",
-  "file_9x16": "es-01-096-r1-9x16.png",
-  "file_16x9_postcard": "es-01-096-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-096-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-096-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-096-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-096-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-096-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-096-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-096-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-096-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-096-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-096-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-096-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-096-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -167,23 +167,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-096-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-096-r1-16x9.png",
         "sha256": "8db21eea87ea63234b533abad757038de166e70f7b8a866a420ba299b2394f66"
       },
       "4x5": {
-        "path": "es-01-096-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-096-r1-4x5.png",
         "sha256": "e97a908a90eddec93741bb3244d41e4c6a4b540b58721f12139ec6b506285a61"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-096-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-096-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "f6ef0c0043f5abbc601085ac5bbbe8413ff706438427ef02c7f23ae521c65fa7"
       },
       "4x5": {
-        "path": "es-01-096-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-096-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "20d17847855f41466c79e114f7b04255ddd242457ad7989410b2360c86ef5f61"

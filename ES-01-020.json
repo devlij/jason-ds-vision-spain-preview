@@ -50,9 +50,9 @@
       "resampled": true
     }
   },
-  "file_16x9": "es-01-020-r1-16x9.png",
-  "file_4x5": "es-01-020-r1-4x5.png",
-  "file_9x16": "es-01-020-r1-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-020-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-020-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-020-r1-9x16.png",
   "references": [
     {
       "url": "https://turismo.granada.org/es/monumento/calle-emblematica/carrera-del-darro",
@@ -165,7 +165,7 @@
         "source_width": 1672,
         "source_height": 941,
         "resampled": true,
-        "file": "es-01-020-r1-16x9.png"
+        "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-020-r1-16x9.png"
       },
       "4x5": {
         "width": 864,
@@ -175,7 +175,7 @@
         "source_width": 1672,
         "source_height": 941,
         "resampled": true,
-        "file": "es-01-020-r1-4x5.png"
+        "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-020-r1-4x5.png"
       }
     },
     "prompts": {
@@ -282,10 +282,10 @@
     "card_handoff": {
       "owner": "Independent Cosmo sweep",
       "pipeline": "Candidate, separate from approved gallery",
-      "thumbnail": "es-01-020-r1-16x9.png",
-      "href": "es-01-020-r1-16x9.png",
+      "thumbnail": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-020-r1-16x9.png",
+      "href": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-020-r1-16x9.png",
       "target": "_blank",
-      "portrait_retained": "es-01-020-r1-4x5.png",
+      "portrait_retained": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-020-r1-4x5.png",
       "controls": "One wide thumbnail opening the full-size wide PNG; no extra viewer/download controls",
       "preserve": "Caption, scenario, composition, status, license/badge, footer, search, navigation and country switcher"
     },
@@ -297,23 +297,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-020-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-020-r1-16x9.png",
         "sha256": "2a417701c55501f148610d552e03ad04e324e165e6b014191499fa4ddc37df4c"
       },
       "4x5": {
-        "path": "es-01-020-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-020-r1-4x5.png",
         "sha256": "a2d3cfb88f31d32bf8262d5fd883f39287dd8b50bfa49d4ae2ab37c335458429"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-020-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-020-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "56deae4be63b2afe66cfbbea1d46863b82b5a2155938d40af855b0062517b1fa"
       },
       "4x5": {
-        "path": "es-01-020-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-020-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "45a53eac26fbf39c782f8fec0e9f651ff33bc58098799d10d02f6f3902060767"

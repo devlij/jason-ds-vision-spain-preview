@@ -29,12 +29,12 @@
   "composition": "Night · the castle in the river loop · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Alarcón, Alarcón at night.",
   "description": "From above at night, Alarcón's castle stands within the Júcar's dark river loop, its keep silhouetted against the starry sky. The river curls black around the promontory while the castle's towers rise from the cliffs. The little walled town sleeps within its watery moat, the castle guarding the loop.",
-  "file_16x9": "es-01-124-r2-16x9.png",
-  "file_4x5": "es-01-124-r2-4x5.png",
-  "file_9x16": "es-01-124-r2-9x16.png",
-  "file_16x9_postcard": "es-01-124-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-124-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-124-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-124-r2-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-124-r2-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-124-r2-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-124-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-124-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-124-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-124-r2-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-124-r2-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-124-r2-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-124-r2-4x5.png",
       "dimensions": [
         864,
         1270
@@ -167,23 +167,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-124-r2-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-124-r2-16x9.png",
         "sha256": "c02c8dd5f81f3c0e2c4833c6cbe6c4e55e183b1a102a756c7f93bec92c544bde"
       },
       "4x5": {
-        "path": "es-01-124-r2-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-124-r2-4x5.png",
         "sha256": "029517ebb761c7b35a020c275f7f2e670cbbfe042b46bcf753af6c2005560cf9"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-124-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-124-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "4090525c1f769e67f47b72cba05491dbbdd70d9072256f9aa5ff81a30eb50af2"
       },
       "4x5": {
-        "path": "es-01-124-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-124-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "c39a00bb6d103f064ff9b294bd40c7af3551aad8dd15d969ef195bd89b10e0c6"

@@ -37,12 +37,12 @@
   "composition": "Night · Public waterfront promenade on the Marina side, approximately 38.9087, 1.4420, eye-level looking southwest across the harbour toward the fortified Dalt Vila hill and cathedral skyline. · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Dalt Vila, Eivissa at night.",
   "description": "Massive angular Renaissance bastions climbing the hill above the harbour; Dense whitewashed lower old-town buildings beneath the walls; Cathedral and bell-tower silhouette crowning the ridge.",
-  "file_16x9": "es-01-036-r1-16x9.png",
-  "file_4x5": "es-01-036-r1-4x5.png",
-  "file_9x16": "es-01-036-r1-9x16.png",
-  "file_16x9_postcard": "es-01-036-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-036-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-036-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-036-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-036-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-036-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-036-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-036-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-036-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -62,7 +62,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-036-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-036-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -89,7 +89,7 @@
       "resampling_disclosure": "Required masters exceed the built-in 1672×941 source in at least one dimension; Lanczos resampling does not create native detail."
     },
     "4x5": {
-      "file": "es-01-036-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-036-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -236,29 +236,29 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-036-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-036-r1-16x9.png",
         "sha256": "ff4bccf6a9b4fb33cf9d727186ee44b98ce00d2a14866b981dd1190690024fab"
       },
       "4x5": {
-        "path": "es-01-036-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-036-r1-4x5.png",
         "sha256": "4c10f82d4fc64472b09c637219e53a11c95eb0bf4847a2d250c3656e91a42f18"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-036-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-036-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "ab34f2f5680e62135818f83ebe8f1fe33d73c252bcf5b8f676fc0c48c74dc4f6"
       },
       "4x5": {
-        "path": "es-01-036-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-036-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "1a878632615717171008078329923996fb6aba2d3985e46467a5cb1136d0c739"
       },
       "9x16": {
-        "path": "es-01-036-daylight-9x16.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-036-daylight-9x16.png",
         "width": 1080,
         "height": 2110,
         "sha256": "114acaa090564adfff8e8eb0c71cff5ddb2f855370a072513984c739b3e7a5cd"

@@ -20,34 +20,34 @@
   },
   "weather": "Model data from Open-Meteo, retrieved 23 September 2026 08:31:12 Europe/Madrid, valid 08:30 Europe/Madrid — not a verified on-site observation. 18.5°C; weather code clear; separate cloud field 20%. Sunrise 07:39, sunset 19:47; morning daylight.",
   "limitations": "Cosmo QC 5/5 approval relayed by Jason on 23 September 2026. The earlier Jason review attribution was incorrect and remains withdrawn. Originality and third-party commercial/IP clearance are not legally certified.",
-  "file_16x9": "es-01-001-daylight-r4-16x9.png",
-  "file_4x5": "es-01-001-daylight-r4-4x5.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-001-daylight-r4-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-001-daylight-r4-4x5.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "editions": [
     {
       "label": "Original rejected lighting draft · 16:9",
-      "file": "es-01-001-16x9.png"
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-001-16x9.png"
     },
     {
       "label": "Original rejected lighting draft · 4:5",
-      "file": "es-01-001-4x5.png"
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-001-4x5.png"
     },
     {
       "label": "Night r2 · 04:32 · not approved · 16x9",
-      "file": "es-01-001-night-r2-16x9.png"
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-001-night-r2-16x9.png"
     },
     {
       "label": "Night r2 · 04:32 · not approved · 4x5",
-      "file": "es-01-001-night-r2-4x5.png"
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-001-night-r2-4x5.png"
     },
     {
       "label": "Daylight r3 · 07:46 · rejected framing/geometry · 16x9",
-      "file": "es-01-001-daylight-r3-16x9.png"
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-001-daylight-r3-16x9.png"
     },
     {
       "label": "Daylight r3 · 07:46 · rejected framing/geometry · 4x5",
-      "file": "es-01-001-daylight-r3-4x5.png"
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-001-daylight-r3-4x5.png"
     }
   ],
   "time_of_day": "Morning daylight",

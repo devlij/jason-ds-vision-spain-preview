@@ -23,12 +23,12 @@
   "composition": "Night · theatre from the upper park at night · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Roman Theatre at night.",
   "description": "From the upper park at night, look down on Cartagena's Roman Theatre. The semicircular cavea curves across the frame below you, its stones floodlit warm, with the old cathedral's shell rising behind it and the city lights spreading beyond. Two thousand years of Cartagena, lit up in one sweep.",
-  "file_16x9": "es-01-223-r1-16x9.png",
-  "file_4x5": "es-01-223-r1-4x5.png",
-  "file_9x16": "es-01-223-r1-9x16.png",
-  "file_16x9_postcard": "es-01-223-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-223-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-223-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-223-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-223-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-223-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-223-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-223-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-223-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -48,7 +48,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-223-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-223-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -75,7 +75,7 @@
       "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-223-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-223-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -162,23 +162,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-223-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-223-r1-16x9.png",
         "sha256": "c5e697521c0c2396d87faf9cc7fc0953a94f5287a5f3b4a9830ea3d4b80bf691"
       },
       "4x5": {
-        "path": "es-01-223-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-223-r1-4x5.png",
         "sha256": "50b3e144bdff5524efefe4cdd276e7544a149203cc9470c59f8d03aab5d1d11b"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-223-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-223-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "591d1cab43c67ac95bfb3863282bb43755218ed64564de3828bcd1d6b6d7bb32"
       },
       "4x5": {
-        "path": "es-01-223-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-223-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "6e295bf226497b01fa55f7469cb5fa96245c9e58c02379aaa0298870da4e988a"

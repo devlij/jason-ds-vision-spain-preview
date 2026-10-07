@@ -29,12 +29,12 @@
   "composition": "Night · From a laurel-forest trail in Garajonay National Park, moss-draped trunks and drifting mist near 28.1265,-17.2330. Approximate point only. · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Garajonay, La Gomera at night.",
   "description": "From a laurel-forest trail, moss-draped trunks rise into drifting mist — the ancient laurisilva of Garajonay closing in on every side, ferns and lichen glowing faintly in the damp night air. Mist moves between the twisted trees, and the forest floor vanishes into darkness below the trail. This is one of Europe's last primeval forests, a Tertiary relic; by night it feels as old as the earth itself.",
-  "file_16x9": "es-01-291-r1-16x9.png",
-  "file_4x5": "es-01-291-r1-4x5.png",
-  "file_9x16": "es-01-291-r1-9x16.png",
-  "file_16x9_postcard": "es-01-291-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-291-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-291-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-291-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-291-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-291-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-291-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-291-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-291-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-291-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-291-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1280, 1920]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-291-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-291-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -164,23 +164,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-291-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-291-r1-16x9.png",
         "sha256": "529a7865b3bcd975bd6f17a01c0250d63911e4e2f5094c78bd1137a3694bb4e2"
       },
       "4x5": {
-        "path": "es-01-291-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-291-r1-4x5.png",
         "sha256": "0749e70539781e149a3aafb50e20aac5b09bc4b937b0c20022378343f5ceb7fc"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-291-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-291-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "edd65e4617e807d41586ad8d4b68b6c42511f8ec60c8e662726a6271ca61126e"
       },
       "4x5": {
-        "path": "es-01-291-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-291-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "21b70112b84d06e2450ba37601a85e5083cc28420446b86950a2a176a26da689"

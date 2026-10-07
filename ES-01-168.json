@@ -29,12 +29,12 @@
   "composition": "Night · the historic center with the Teide · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Old town at night.",
   "description": "La Orotava's historic center climbs its hillside with the peak of Teide filling the sky behind it. Lit facades and the church towers stand out while the volcano is a great dark cone against the stars. The island's grandest old town, watched over by its giant.",
-  "file_16x9": "es-01-168-r1-16x9.png",
-  "file_4x5": "es-01-168-r1-4x5.png",
-  "file_9x16": "es-01-168-r1-9x16.png",
-  "file_16x9_postcard": "es-01-168-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-168-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-168-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-168-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-168-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-168-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-168-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-168-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-168-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-168-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-168-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-168-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-168-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -168,23 +168,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-168-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-168-r1-16x9.png",
         "sha256": "46774e831d18110f60b4f07c15e8065bafb20b75901582eac760cd1d325ff705"
       },
       "4x5": {
-        "path": "es-01-168-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-168-r1-4x5.png",
         "sha256": "5440cfc5a3bdb02f7d934a806ff5c0dca4201f698fb5e1841ce28638133ada6c"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-168-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-168-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "7434846117da55feb3748853921f2532a5f19e60eb3f0bd4ecc8e69665496a19"
       },
       "4x5": {
-        "path": "es-01-168-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-168-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "2839b76b767014e25973da172cc2d683cfa7ab5391cbe125d63e952ab725d1de"

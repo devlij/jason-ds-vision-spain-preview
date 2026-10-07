@@ -29,9 +29,9 @@
   "composition": "Night · Concatedral from the old town square, twin towers and lit streets · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Logroño's old town at night.",
   "description": "From the old town square at night, Logroño's Concatedral de Santa María de la Redonda rises with its twin towers floodlit against the sky. Lit streets of the old quarter run off the square, their tapas bars glowing. The twin towers dominate the night, the Rioja capital's old town humming softly below.",
-  "file_16x9": "es-01-360-r1-16x9.png",
-  "file_4x5": "es-01-360-r1-4x5.png",
-  "file_9x16": "es-01-360-r1-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-360-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-360-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-360-r1-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -51,7 +51,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-360-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-360-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -78,7 +78,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-360-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-360-r1-4x5.png",
       "dimensions": [
         864,
         1270

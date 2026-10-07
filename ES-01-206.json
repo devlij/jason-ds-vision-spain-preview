@@ -29,12 +29,12 @@
   "composition": "Night · Fairytale Columbus monument by night · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Colomares Castle at night.",
   "description": "Stand before the Colomares Castle monument at night. The fairytale jumble of towers, arches, and pinnacles rises at center frame, floodlit against the dark pines, with carved prows and mosaic details catching the light at the edges. Built to tell the story of Columbus's voyage, it reads like a storybook come to life.",
-  "file_16x9": "es-01-206-r1-16x9.png",
-  "file_4x5": "es-01-206-r1-4x5.png",
-  "file_9x16": "es-01-206-r1-9x16.png",
-  "file_16x9_postcard": "es-01-206-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-206-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-206-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-206-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-206-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-206-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-206-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-206-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-206-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-206-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-206-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-206-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-206-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -168,23 +168,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-206-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-206-r1-16x9.png",
         "sha256": "cfea59b44fe59a4be92dae838b187bd602104cf482b59ab548e404f3acc3ca37"
       },
       "4x5": {
-        "path": "es-01-206-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-206-r1-4x5.png",
         "sha256": "5d668cd33f2d4216b8506f3e235cf42de1eb2a4c3f30dcfcbc20470837bba935"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-206-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-206-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "5453edcbf2fc82eb4678117f921f3472e42e9d0c6912e7c134845747f8ad1fad"
       },
       "4x5": {
-        "path": "es-01-206-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-206-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "e6be6907ee8ef80f78ada85b2a141fc29acf265e9929fc1eb263fac485aef0fc"

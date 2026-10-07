@@ -41,13 +41,13 @@ time_of_day: Night
 approval_state: approved
 caption: Corta Atalaya, Minas de Riotinto
 approved night revision: r1
-night 16x9 path: es-01-225-r1-16x9.png
+night 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-225-r1-16x9.png
 night 16x9 SHA-256: 197e3719380840f8a5d52a5b533421c1a9b2e6cf14bccf29695a0f4814e8a3b9
-night 4x5 path: es-01-225-r1-4x5.png
+night 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-225-r1-4x5.png
 night 4x5 SHA-256: 8c10e9d44afc3be74e0c6bef5e880aeec33b2ef77ce4f9ebfacfde4cb0842cdd
-variant 16x9 path: es-01-225-daylight-16x9.png
+variant 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-225-daylight-16x9.png
 variant 16x9 SHA-256: 55672e2c25c11a86e3997ce3cad11dafa8b72deedd8d82db49594a3fba6b4f2a
-variant 4x5 path: es-01-225-daylight-4x5.png
+variant 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-225-daylight-4x5.png
 variant 4x5 SHA-256: bdef06381aa88aabd70e9bc3454ff351bdbce7bab7c34d530621a5ce8b99e221
 ========================================================================
 ES-01-226
@@ -56,13 +56,13 @@ time_of_day: Night
 approval_state: approved
 caption: Aracena, Huelva
 approved night revision: r1
-night 16x9 path: es-01-226-r1-16x9.png
+night 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-226-r1-16x9.png
 night 16x9 SHA-256: 40db00f51ffe63b4b15015b754e5dde47af5469753c3e195d5f6ff9c2d3483ad
-night 4x5 path: es-01-226-r1-4x5.png
+night 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-226-r1-4x5.png
 night 4x5 SHA-256: e9bd59e166ecf0c753a761af7c5af0e2178043ac6c701161b79fdadc964541df
-variant 16x9 path: es-01-226-daylight-16x9.png
+variant 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-226-daylight-16x9.png
 variant 16x9 SHA-256: d5e25ee1a852078f7151c42f96e646e93b5d91ecdd7f36205d2c6bfa2ce1f680
-variant 4x5 path: es-01-226-daylight-4x5.png
+variant 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-226-daylight-4x5.png
 variant 4x5 SHA-256: e3b3c33371b96fa5b104cc7558316a4bc21200bc0ae9b0e9b2b6ee3b1a28ccca
 ========================================================================
 ES-01-227
@@ -71,13 +71,13 @@ time_of_day: Night
 approval_state: approved
 caption: Jaén Cathedral, Jaén
 approved night revision: r1
-night 16x9 path: es-01-227-r1-16x9.png
+night 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-227-r1-16x9.png
 night 16x9 SHA-256: 62d96dd50f9d617d48bb1a4c3c00c69c7e55ca494e9dac08b2740722827a67e0
-night 4x5 path: es-01-227-r1-4x5.png
+night 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-227-r1-4x5.png
 night 4x5 SHA-256: 83fb8b954a225a5b5aaa7cef4978514b02cbb7ba696d1d01f82448839fe08056
-variant 16x9 path: es-01-227-daylight-16x9.png
+variant 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-227-daylight-16x9.png
 variant 16x9 SHA-256: a03f360c12c227ba4ddd271c8e11c048fa96f62958a46a0e697ad0c33e5932b9
-variant 4x5 path: es-01-227-daylight-4x5.png
+variant 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-227-daylight-4x5.png
 variant 4x5 SHA-256: 297b556f67116692caa51eff70b3577c66e0fc9e0e39d15e74051c34696f384e
 ========================================================================
 ES-01-228
@@ -86,13 +86,13 @@ time_of_day: Night
 approval_state: approved
 caption: Burgalimar Castle, Baños de la Encina
 approved night revision: r1
-night 16x9 path: es-01-228-r1-16x9.png
+night 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-228-r1-16x9.png
 night 16x9 SHA-256: ed9e49de9dfcf7d6f0b045d91680692cd4a30e4fa4907ae2af4388697db52614
-night 4x5 path: es-01-228-r1-4x5.png
+night 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-228-r1-4x5.png
 night 4x5 SHA-256: 533c6069c3131a46900e34f2ce441a79107591236b321016ee6a603711924af6
-variant 16x9 path: es-01-228-daylight-16x9.png
+variant 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-228-daylight-16x9.png
 variant 16x9 SHA-256: d2c73e95db991d1a88bc14cc2799a17e103c584828b09229f420875c8fbc3485
-variant 4x5 path: es-01-228-daylight-4x5.png
+variant 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-228-daylight-4x5.png
 variant 4x5 SHA-256: e66cc922c0518edf1208d5174bcb081ad14f3cfdfd5c9516250b3c6120dfa826
 ========================================================================
 ES-01-229
@@ -101,13 +101,13 @@ time_of_day: Night
 approval_state: approved
 caption: Plaza Santa María, Cazorla
 approved night revision: r1
-night 16x9 path: es-01-229-r1-16x9.png
+night 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-229-r1-16x9.png
 night 16x9 SHA-256: 1af3078ac4f44f2847008e779494f2cc4622420f45c58d3c018c7bc80076e83c
-night 4x5 path: es-01-229-r1-4x5.png
+night 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-229-r1-4x5.png
 night 4x5 SHA-256: 3639ea5ee2c4d82a1ad3385a3b2a47dd65ea01314ae84b06eed442281cb3b0cb
-variant 16x9 path: es-01-229-daylight-16x9.png
+variant 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-229-daylight-16x9.png
 variant 16x9 SHA-256: ae0e5dd5bb8e5ba3187295a4d2b44ccccc16e644b0356e6eb0fc5a53026a6409
-variant 4x5 path: es-01-229-daylight-4x5.png
+variant 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-229-daylight-4x5.png
 variant 4x5 SHA-256: 641df4e405a105888598b9a243c0536ef835e1b69dd74786705b1be2ab5a685b
 ========================================================================
 ES-01-230
@@ -116,13 +116,13 @@ time_of_day: Night
 approval_state: approved
 caption: Walls of Niebla, Niebla
 approved night revision: r1
-night 16x9 path: es-01-230-r1-16x9.png
+night 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-230-r1-16x9.png
 night 16x9 SHA-256: 5dab3e62ac694248546691366f5a9f9b63d65e7c8fb6b0d74754a3bb86b784b7
-night 4x5 path: es-01-230-r1-4x5.png
+night 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-230-r1-4x5.png
 night 4x5 SHA-256: 09d927940e91fa28b459fb2010c420fb3158a82605e48c6de832fb9c3ce563d3
-variant 16x9 path: es-01-230-daylight-16x9.png
+variant 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-230-daylight-16x9.png
 variant 16x9 SHA-256: 7ac91cf508482aa4537c90205a6303983b8f5201e8e3351ab366895f6edd1bb1
-variant 4x5 path: es-01-230-daylight-4x5.png
+variant 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-230-daylight-4x5.png
 variant 4x5 SHA-256: 27fe7b8ef10fbd275d8d3568fddc216590a8f93dbf4a822f0d3143b021fee714
 ========================================================================
 ES-01-231
@@ -131,13 +131,13 @@ time_of_day: Night
 approval_state: approved
 caption: Monumento a Colón, Huelva
 approved night revision: r1
-night 16x9 path: es-01-231-r1-16x9.png
+night 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-231-r1-16x9.png
 night 16x9 SHA-256: 35fecde01518437654e980f84b63c57f3200f0d715b18901d7b084bff7700673
-night 4x5 path: es-01-231-r1-4x5.png
+night 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-231-r1-4x5.png
 night 4x5 SHA-256: 7869338f553855c3f2078bdb686fd0a0c94aee73da58447fa81cd0497b56f54a
-variant 16x9 path: es-01-231-daylight-16x9.png
+variant 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-231-daylight-16x9.png
 variant 16x9 SHA-256: a175db29056195d2c24ce5ae055575daf3a250072901ef661020bd818b99c22e
-variant 4x5 path: es-01-231-daylight-4x5.png
+variant 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-231-daylight-4x5.png
 variant 4x5 SHA-256: 8a5004ee7dbc5b62e48efab3917ef50748e3b2a4d725c42e9b12a67e04d157f7
 ========================================================================
 ES-01-232
@@ -146,13 +146,13 @@ time_of_day: Night
 approval_state: approved
 caption: Puente Nuevo, Ronda
 approved night revision: r1
-night 16x9 path: es-01-232-r1-16x9.png
+night 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-232-r1-16x9.png
 night 16x9 SHA-256: c272ff37f916472149a714f7cb443594783ac5b5a2119d2143f5801148dd8468
-night 4x5 path: es-01-232-r1-4x5.png
+night 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-232-r1-4x5.png
 night 4x5 SHA-256: b4e616a33a984b078c403b1a7def38ce3d0adb02b4e8ca85779bc2c3f204f2ea
-variant 16x9 path: es-01-232-daylight-16x9.png
+variant 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-232-daylight-16x9.png
 variant 16x9 SHA-256: 835195ab1281c6da1e8b2e3ee1d5b18c5c43b3c92704defd2f892d7de0bf11bc
-variant 4x5 path: es-01-232-daylight-4x5.png
+variant 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-232-daylight-4x5.png
 variant 4x5 SHA-256: 8dd5d6ec0636f8913ef1be01e14deb8c8440a4a00baac171b8cf2aa6ce5b487d
 ========================================================================
 ES-01-233
@@ -161,13 +161,13 @@ time_of_day: Night
 approval_state: approved
 caption: Balcón de Europa, Nerja
 approved night revision: r1
-night 16x9 path: es-01-233-r1-16x9.png
+night 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-233-r1-16x9.png
 night 16x9 SHA-256: 9d2d3e0e4f2404280697c948be2ca9f33bcd4792dc6e4146b61ce150511a3013
-night 4x5 path: es-01-233-r1-4x5.png
+night 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-233-r1-4x5.png
 night 4x5 SHA-256: 3f696ee5cb59812187e489c59d4717c36d03168659de6b64f31bd697620d1201
-variant 16x9 path: es-01-233-daylight-16x9.png
+variant 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-233-daylight-16x9.png
 variant 16x9 SHA-256: ca2d5b516ec6a1e0e85c2d4a88a5614253d99f7e5538c6ee051ece13d97255d4
-variant 4x5 path: es-01-233-daylight-4x5.png
+variant 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-233-daylight-4x5.png
 variant 4x5 SHA-256: 59ddacbbdf882514d0a59a457f098c4304ab47aaf68c8515dbd448af164fc91f
 ========================================================================
 ES-01-234
@@ -176,13 +176,13 @@ time_of_day: Night
 approval_state: approved
 caption: Old Town, Frigiliana
 approved night revision: r1
-night 16x9 path: es-01-234-r1-16x9.png
+night 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-234-r1-16x9.png
 night 16x9 SHA-256: e3ea6c1bb652b526ceba55c151817687f55c4285c163e1d14065ef329b338ccc
-night 4x5 path: es-01-234-r1-4x5.png
+night 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-234-r1-4x5.png
 night 4x5 SHA-256: d404490571d97dd66b20baaae1cffeb7088e11bb8e4862babc04fff0875c3235
-variant 16x9 path: es-01-234-daylight-16x9.png
+variant 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-234-daylight-16x9.png
 variant 16x9 SHA-256: 807c7bf26bbcdc49216091e4fc193fd4f5089bea19569b9a94b01029538df9ed
-variant 4x5 path: es-01-234-daylight-4x5.png
+variant 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-234-daylight-4x5.png
 variant 4x5 SHA-256: 9f3606987a8a8f570691654daaad4b5b8fa863a78673c10c879402f280d1288d
 ========================================================================
 ES-01-235
@@ -191,13 +191,13 @@ time_of_day: Night
 approval_state: approved
 caption: Cádiz Cathedral, Cádiz
 approved night revision: r1
-night 16x9 path: es-01-235-r1-16x9.png
+night 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-235-r1-16x9.png
 night 16x9 SHA-256: 6d9693ad4e1b04f3c526ba227ef5ab902af8506181907b3ee1f2731e2cd43510
-night 4x5 path: es-01-235-r1-4x5.png
+night 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-235-r1-4x5.png
 night 4x5 SHA-256: 54082d7901208aa33f3fc6ff035ae0f7788b932a1eeeda6175060f3d6f837928
-variant 16x9 path: es-01-235-daylight-16x9.png
+variant 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-235-daylight-16x9.png
 variant 16x9 SHA-256: b256372c422a65c22ef78225cc26485b0ba66175d4c0d93c371cc8d2bdcd493e
-variant 4x5 path: es-01-235-daylight-4x5.png
+variant 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-235-daylight-4x5.png
 variant 4x5 SHA-256: 88d9302f74876cc6c4abf144e0397e69f38a03d685282cd158031cb42d7c0bc8
 ========================================================================
 ES-01-236
@@ -206,13 +206,13 @@ time_of_day: Night
 approval_state: approved
 caption: Plaza Vázquez de Molina, Úbeda
 approved night revision: r1
-night 16x9 path: es-01-236-r1-16x9.png
+night 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-236-r1-16x9.png
 night 16x9 SHA-256: b8b9562589603adcc369fc44c70cd8ee36f8ea1c5015056980b27152d7d10371
-night 4x5 path: es-01-236-r1-4x5.png
+night 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-236-r1-4x5.png
 night 4x5 SHA-256: 4594834ef7b75d9c996d73f8bc8bc9930cc62b4c8f96ce31ff2d012107a8cd5a
-variant 16x9 path: es-01-236-daylight-16x9.png
+variant 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-236-daylight-16x9.png
 variant 16x9 SHA-256: 3994a7550db1f1f3bd1bddaf507b7fd401352b45c37448afb08484210074375c
-variant 4x5 path: es-01-236-daylight-4x5.png
+variant 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-236-daylight-4x5.png
 variant 4x5 SHA-256: f9aa082ae4e5e6c89330e4fe9af6c0ac5efddf2ce603237562d32e060e9f5a74
 ========================================================================
 ES-01-237
@@ -221,13 +221,13 @@ time_of_day: Night
 approval_state: approved
 caption: Paseo de Antonio Machado, Baeza
 approved night revision: r1
-night 16x9 path: es-01-237-r1-16x9.png
+night 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-237-r1-16x9.png
 night 16x9 SHA-256: 04ed68a3db003f5770f344c4f245422e887f98618513d05e54c9becb89f50d3a
-night 4x5 path: es-01-237-r1-4x5.png
+night 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-237-r1-4x5.png
 night 4x5 SHA-256: df7361ea329f14141e56be9275d80e9a889558abe9a6fc02f630a429fd950669
-variant 16x9 path: es-01-237-daylight-16x9.png
+variant 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-237-daylight-16x9.png
 variant 16x9 SHA-256: d78ae49295159a3c9098059ead014b7bbb3cd49612a1606c8b2d154c38e426e7
-variant 4x5 path: es-01-237-daylight-4x5.png
+variant 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-237-daylight-4x5.png
 variant 4x5 SHA-256: ab9d936897110ec2f745abedec8614c6893a75d9a110b40565b82ece2d80abe3
 ========================================================================
 ES-01-238
@@ -236,13 +236,13 @@ time_of_day: Night
 approval_state: approved
 caption: Alcázar of Jerez, Jerez de la Frontera
 approved night revision: r1
-night 16x9 path: es-01-238-r1-16x9.png
+night 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-238-r1-16x9.png
 night 16x9 SHA-256: 25068408165273f342f06ea0bdd9a9503a0f58f159f7fb054c9d19ebecfd191b
-night 4x5 path: es-01-238-r1-4x5.png
+night 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-238-r1-4x5.png
 night 4x5 SHA-256: 4224e16c14fa4d3d24e0db55ce9a0b9581a2e5abdec0a8b01c1f6006756dfb1f
-variant 16x9 path: es-01-238-daylight-16x9.png
+variant 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-238-daylight-16x9.png
 variant 16x9 SHA-256: 9a863e83a87d118e66396d25073b0c8e99cd3f673f431e6a0a09c4ebe4d55da7
-variant 4x5 path: es-01-238-daylight-4x5.png
+variant 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-238-daylight-4x5.png
 variant 4x5 SHA-256: 21e1231967a5ad6c25ac5d576d74fb8e34b417207d8e1ccc338bb81928a1f720
 ========================================================================
 ES-01-239
@@ -251,13 +251,13 @@ time_of_day: Night
 approval_state: approved
 caption: Isla de Tarifa, Tarifa
 approved night revision: r1
-night 16x9 path: es-01-239-r1-16x9.png
+night 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-239-r1-16x9.png
 night 16x9 SHA-256: e17d55272195b2f6b8890e5bfff60e82fada2cf073feb36d5ff8171fd2d6ef25
-night 4x5 path: es-01-239-r1-4x5.png
+night 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-239-r1-4x5.png
 night 4x5 SHA-256: 6b133943ea69fb9bfcf37b97ff6574e2c960845588e871d6df7f79f34b802397
-variant 16x9 path: es-01-239-daylight-16x9.png
+variant 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-239-daylight-16x9.png
 variant 16x9 SHA-256: 13cf95fe273d3199e9850cee2defc588e7791058139ae9ec4c74ae7620aafff9
-variant 4x5 path: es-01-239-daylight-4x5.png
+variant 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-239-daylight-4x5.png
 variant 4x5 SHA-256: e43e2e0426e437656f7475d8d79dbaa963c7f684a2a03c502452d9154adf57cc
 ========================================================================
 ES-01-240
@@ -266,13 +266,13 @@ time_of_day: Night
 approval_state: approved
 caption: Plaza de España, Vejer de la Frontera
 approved night revision: r1
-night 16x9 path: es-01-240-r1-16x9.png
+night 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-240-r1-16x9.png
 night 16x9 SHA-256: 07f043788118be87d348bffb8bb3d7a8f018d749cc2c5fdc5d8223990c9042bb
-night 4x5 path: es-01-240-r1-4x5.png
+night 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-240-r1-4x5.png
 night 4x5 SHA-256: 11953cd11c8449589b848be6cb7530206a117df347fa42784e4d49b9aef64171
-variant 16x9 path: es-01-240-daylight-16x9.png
+variant 16x9 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-240-daylight-16x9.png
 variant 16x9 SHA-256: 40e0e6bfda80bd0b2d67f7df5d60065a4f139af9644df1ec66ed82edd4fb2d3c
-variant 4x5 path: es-01-240-daylight-4x5.png
+variant 4x5 path: https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-240-daylight-4x5.png
 variant 4x5 SHA-256: dfb7bd5ee21764e03848d4a26557854c7717a26cdded2a2558dbc1ad37f756a2
 ========================================================================
 
@@ -289,38 +289,38 @@ Highest approved revision used as the daylight source: r1 for all sixteen scenes
 NIGHT SHA-256 PROOF
 Pre-work SHA-256 was recorded before any variant was written. Post-work SHA-256 matches for every night PNG below.
 Night PNG count: 32
-  es-01-225-r1-16x9.png SHA-256: 197e3719380840f8a5d52a5b533421c1a9b2e6cf14bccf29695a0f4814e8a3b9
-  es-01-225-r1-4x5.png SHA-256: 8c10e9d44afc3be74e0c6bef5e880aeec33b2ef77ce4f9ebfacfde4cb0842cdd
-  es-01-226-r1-16x9.png SHA-256: 40db00f51ffe63b4b15015b754e5dde47af5469753c3e195d5f6ff9c2d3483ad
-  es-01-226-r1-4x5.png SHA-256: e9bd59e166ecf0c753a761af7c5af0e2178043ac6c701161b79fdadc964541df
-  es-01-227-r1-16x9.png SHA-256: 62d96dd50f9d617d48bb1a4c3c00c69c7e55ca494e9dac08b2740722827a67e0
-  es-01-227-r1-4x5.png SHA-256: 83fb8b954a225a5b5aaa7cef4978514b02cbb7ba696d1d01f82448839fe08056
-  es-01-228-r1-16x9.png SHA-256: ed9e49de9dfcf7d6f0b045d91680692cd4a30e4fa4907ae2af4388697db52614
-  es-01-228-r1-4x5.png SHA-256: 533c6069c3131a46900e34f2ce441a79107591236b321016ee6a603711924af6
-  es-01-229-r1-16x9.png SHA-256: 1af3078ac4f44f2847008e779494f2cc4622420f45c58d3c018c7bc80076e83c
-  es-01-229-r1-4x5.png SHA-256: 3639ea5ee2c4d82a1ad3385a3b2a47dd65ea01314ae84b06eed442281cb3b0cb
-  es-01-230-r1-16x9.png SHA-256: 5dab3e62ac694248546691366f5a9f9b63d65e7c8fb6b0d74754a3bb86b784b7
-  es-01-230-r1-4x5.png SHA-256: 09d927940e91fa28b459fb2010c420fb3158a82605e48c6de832fb9c3ce563d3
-  es-01-231-r1-16x9.png SHA-256: 35fecde01518437654e980f84b63c57f3200f0d715b18901d7b084bff7700673
-  es-01-231-r1-4x5.png SHA-256: 7869338f553855c3f2078bdb686fd0a0c94aee73da58447fa81cd0497b56f54a
-  es-01-232-r1-16x9.png SHA-256: c272ff37f916472149a714f7cb443594783ac5b5a2119d2143f5801148dd8468
-  es-01-232-r1-4x5.png SHA-256: b4e616a33a984b078c403b1a7def38ce3d0adb02b4e8ca85779bc2c3f204f2ea
-  es-01-233-r1-16x9.png SHA-256: 9d2d3e0e4f2404280697c948be2ca9f33bcd4792dc6e4146b61ce150511a3013
-  es-01-233-r1-4x5.png SHA-256: 3f696ee5cb59812187e489c59d4717c36d03168659de6b64f31bd697620d1201
-  es-01-234-r1-16x9.png SHA-256: e3ea6c1bb652b526ceba55c151817687f55c4285c163e1d14065ef329b338ccc
-  es-01-234-r1-4x5.png SHA-256: d404490571d97dd66b20baaae1cffeb7088e11bb8e4862babc04fff0875c3235
-  es-01-235-r1-16x9.png SHA-256: 6d9693ad4e1b04f3c526ba227ef5ab902af8506181907b3ee1f2731e2cd43510
-  es-01-235-r1-4x5.png SHA-256: 54082d7901208aa33f3fc6ff035ae0f7788b932a1eeeda6175060f3d6f837928
-  es-01-236-r1-16x9.png SHA-256: b8b9562589603adcc369fc44c70cd8ee36f8ea1c5015056980b27152d7d10371
-  es-01-236-r1-4x5.png SHA-256: 4594834ef7b75d9c996d73f8bc8bc9930cc62b4c8f96ce31ff2d012107a8cd5a
-  es-01-237-r1-16x9.png SHA-256: 04ed68a3db003f5770f344c4f245422e887f98618513d05e54c9becb89f50d3a
-  es-01-237-r1-4x5.png SHA-256: df7361ea329f14141e56be9275d80e9a889558abe9a6fc02f630a429fd950669
-  es-01-238-r1-16x9.png SHA-256: 25068408165273f342f06ea0bdd9a9503a0f58f159f7fb054c9d19ebecfd191b
-  es-01-238-r1-4x5.png SHA-256: 4224e16c14fa4d3d24e0db55ce9a0b9581a2e5abdec0a8b01c1f6006756dfb1f
-  es-01-239-r1-16x9.png SHA-256: e17d55272195b2f6b8890e5bfff60e82fada2cf073feb36d5ff8171fd2d6ef25
-  es-01-239-r1-4x5.png SHA-256: 6b133943ea69fb9bfcf37b97ff6574e2c960845588e871d6df7f79f34b802397
-  es-01-240-r1-16x9.png SHA-256: 07f043788118be87d348bffb8bb3d7a8f018d749cc2c5fdc5d8223990c9042bb
-  es-01-240-r1-4x5.png SHA-256: 11953cd11c8449589b848be6cb7530206a117df347fa42784e4d49b9aef64171
+  https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-225-r1-16x9.png SHA-256: 197e3719380840f8a5d52a5b533421c1a9b2e6cf14bccf29695a0f4814e8a3b9
+  https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-225-r1-4x5.png SHA-256: 8c10e9d44afc3be74e0c6bef5e880aeec33b2ef77ce4f9ebfacfde4cb0842cdd
+  https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-226-r1-16x9.png SHA-256: 40db00f51ffe63b4b15015b754e5dde47af5469753c3e195d5f6ff9c2d3483ad
+  https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-226-r1-4x5.png SHA-256: e9bd59e166ecf0c753a761af7c5af0e2178043ac6c701161b79fdadc964541df
+  https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-227-r1-16x9.png SHA-256: 62d96dd50f9d617d48bb1a4c3c00c69c7e55ca494e9dac08b2740722827a67e0
+  https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-227-r1-4x5.png SHA-256: 83fb8b954a225a5b5aaa7cef4978514b02cbb7ba696d1d01f82448839fe08056
+  https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-228-r1-16x9.png SHA-256: ed9e49de9dfcf7d6f0b045d91680692cd4a30e4fa4907ae2af4388697db52614
+  https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-228-r1-4x5.png SHA-256: 533c6069c3131a46900e34f2ce441a79107591236b321016ee6a603711924af6
+  https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-229-r1-16x9.png SHA-256: 1af3078ac4f44f2847008e779494f2cc4622420f45c58d3c018c7bc80076e83c
+  https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-229-r1-4x5.png SHA-256: 3639ea5ee2c4d82a1ad3385a3b2a47dd65ea01314ae84b06eed442281cb3b0cb
+  https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-230-r1-16x9.png SHA-256: 5dab3e62ac694248546691366f5a9f9b63d65e7c8fb6b0d74754a3bb86b784b7
+  https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-230-r1-4x5.png SHA-256: 09d927940e91fa28b459fb2010c420fb3158a82605e48c6de832fb9c3ce563d3
+  https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-231-r1-16x9.png SHA-256: 35fecde01518437654e980f84b63c57f3200f0d715b18901d7b084bff7700673
+  https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-231-r1-4x5.png SHA-256: 7869338f553855c3f2078bdb686fd0a0c94aee73da58447fa81cd0497b56f54a
+  https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-232-r1-16x9.png SHA-256: c272ff37f916472149a714f7cb443594783ac5b5a2119d2143f5801148dd8468
+  https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-232-r1-4x5.png SHA-256: b4e616a33a984b078c403b1a7def38ce3d0adb02b4e8ca85779bc2c3f204f2ea
+  https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-233-r1-16x9.png SHA-256: 9d2d3e0e4f2404280697c948be2ca9f33bcd4792dc6e4146b61ce150511a3013
+  https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-233-r1-4x5.png SHA-256: 3f696ee5cb59812187e489c59d4717c36d03168659de6b64f31bd697620d1201
+  https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-234-r1-16x9.png SHA-256: e3ea6c1bb652b526ceba55c151817687f55c4285c163e1d14065ef329b338ccc
+  https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-234-r1-4x5.png SHA-256: d404490571d97dd66b20baaae1cffeb7088e11bb8e4862babc04fff0875c3235
+  https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-235-r1-16x9.png SHA-256: 6d9693ad4e1b04f3c526ba227ef5ab902af8506181907b3ee1f2731e2cd43510
+  https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-235-r1-4x5.png SHA-256: 54082d7901208aa33f3fc6ff035ae0f7788b932a1eeeda6175060f3d6f837928
+  https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-236-r1-16x9.png SHA-256: b8b9562589603adcc369fc44c70cd8ee36f8ea1c5015056980b27152d7d10371
+  https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-236-r1-4x5.png SHA-256: 4594834ef7b75d9c996d73f8bc8bc9930cc62b4c8f96ce31ff2d012107a8cd5a
+  https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-237-r1-16x9.png SHA-256: 04ed68a3db003f5770f344c4f245422e887f98618513d05e54c9becb89f50d3a
+  https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-237-r1-4x5.png SHA-256: df7361ea329f14141e56be9275d80e9a889558abe9a6fc02f630a429fd950669
+  https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-238-r1-16x9.png SHA-256: 25068408165273f342f06ea0bdd9a9503a0f58f159f7fb054c9d19ebecfd191b
+  https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-238-r1-4x5.png SHA-256: 4224e16c14fa4d3d24e0db55ce9a0b9581a2e5abdec0a8b01c1f6006756dfb1f
+  https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-239-r1-16x9.png SHA-256: e17d55272195b2f6b8890e5bfff60e82fada2cf073feb36d5ff8171fd2d6ef25
+  https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-239-r1-4x5.png SHA-256: 6b133943ea69fb9bfcf37b97ff6574e2c960845588e871d6df7f79f34b802397
+  https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-240-r1-16x9.png SHA-256: 07f043788118be87d348bffb8bb3d7a8f018d749cc2c5fdc5d8223990c9042bb
+  https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-240-r1-4x5.png SHA-256: 11953cd11c8449589b848be6cb7530206a117df347fa42784e4d49b9aef64171
 
 NIGHT-UNCHANGED CONFIRMATION
 Every night master listed above still has the SHA-256 recorded before this batch wrote any variant.

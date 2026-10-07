@@ -29,12 +29,12 @@
   "composition": "Night · the granite arches · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Roman aqueduct, Segovia at night.",
   "description": "The Roman aqueduct of Segovia marches across the night in its double tier of granite arches. The great arcade is floodlit pier by pier while the old town rises behind it. Two thousand years old, holding up the sky without a drop of mortar.",
-  "file_16x9": "es-01-110-r1-16x9.png",
-  "file_4x5": "es-01-110-r1-4x5.png",
-  "file_9x16": "es-01-110-r1-9x16.png",
-  "file_16x9_postcard": "es-01-110-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-110-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-110-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-110-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-110-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-110-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-110-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-110-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-110-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-110-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-110-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-110-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-110-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -167,23 +167,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-110-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-110-r1-16x9.png",
         "sha256": "7a3b810b635b795fd430fc02409c1f8cbc16eaaebdf70e368695d2ba4fdaedf4"
       },
       "4x5": {
-        "path": "es-01-110-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-110-r1-4x5.png",
         "sha256": "63586a56e08491c805a0af112023245c284d347ddd1a36806e16fa3ba77a693d"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-110-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-110-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "218eea64009463bd9b92f12f6e8c8380eb2a85e2c767bc137aafd61d2fc10dcd"
       },
       "4x5": {
-        "path": "es-01-110-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-110-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "6011db23b4558744c3ec454ad7d523bf7dc95d5e3782a6e8ac65fe64715800c6"

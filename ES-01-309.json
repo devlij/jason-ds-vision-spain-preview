@@ -29,12 +29,12 @@
   "composition": "Night · From the Ourense old town, stone façades under street lamps near 42.3360,-7.8640. Approximate point only. · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of the Ourense old town at night.",
   "description": "From the old town's lanes, Ourense's stone facades glow under the street lamps — granite houses and church towers lit warm against the night, with the narrow streets running between them. The lamplight catches the wet stone and the carved doorways, and the old quarter hums quietly. Ourense is Galicia's city of hot springs and old stone; by night its granite heart glows.",
-  "file_16x9": "es-01-309-r1-16x9.png",
-  "file_4x5": "es-01-309-r1-4x5.png",
-  "file_9x16": "es-01-309-r1-9x16.png",
-  "file_16x9_postcard": "es-01-309-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-309-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-309-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-309-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-309-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-309-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-309-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-309-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-309-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-309-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-309-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [2304, 1104]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-309-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-309-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -164,23 +164,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-309-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-309-r1-16x9.png",
         "sha256": "a558abe1419a4712d2198cfa8d156fc39bdf2ea1ab1707c4ac40bd67b531cffd"
       },
       "4x5": {
-        "path": "es-01-309-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-309-r1-4x5.png",
         "sha256": "e9e5bcd219052c9b2feead2edc00f257993e88a2d89fb90e81d12b2f318a0988"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-309-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-309-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "368455a47f82b54a0fb8bbdf1ff7a09fccc7d6b6c4d0112928d43714de7f0bd1"
       },
       "4x5": {
-        "path": "es-01-309-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-309-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "f616ef8a26e4dd762246165aba603ef89bea96a9b18b040458732937f883e5a8"

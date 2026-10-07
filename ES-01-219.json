@@ -23,12 +23,12 @@
   "composition": "Night · desert badlands from the castle viewpoint at night · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Tabernas Desert at night.",
   "description": "From the castle viewpoint at night, look out over the Tabernas badlands. The desert's eroded ridges and dry gullies stretch across the frame, silvered by moonlight with deep black shadows in the gullies, the Sierra de los Filabres a dark wall at the horizon. Europe's only true desert, under a desert sky.",
-  "file_16x9": "es-01-219-r1-16x9.png",
-  "file_4x5": "es-01-219-r1-4x5.png",
-  "file_9x16": "es-01-219-r1-9x16.png",
-  "file_16x9_postcard": "es-01-219-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-219-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-219-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-219-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-219-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-219-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-219-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-219-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-219-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -48,7 +48,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-219-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-219-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -75,7 +75,7 @@
       "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-219-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-219-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -162,23 +162,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-219-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-219-r1-16x9.png",
         "sha256": "83421d4268a6b47ffe6c425256d688d34bd6378a55f6ebeb514fe11c5d32a43d"
       },
       "4x5": {
-        "path": "es-01-219-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-219-r1-4x5.png",
         "sha256": "95107e6871f4c12fea175cef4553442f3af88b104f646c248e8c1f8cca16837c"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-219-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-219-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "073f66a27b8713948204e51fbfd102d10360dd078a767cc4f02de36b7b2c6c54"
       },
       "4x5": {
-        "path": "es-01-219-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-219-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "bf93a021688ca75ee16509e487d89d34d938f42fd57e970c536c1a69d1af20c8"

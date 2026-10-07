@@ -29,12 +29,12 @@
   "composition": "Night · the cape lighthouse · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Formentor, Pollença at night.",
   "description": "At night on Cap de Formentor, the lighthouse stands alone at the cape's end, its beam sweeping the black sea. From the headland you face the lit tower at the frame's center, dark cliffs falling away on either side into the night. Mallorca's wild cape keeps its light through the small hours.",
-  "file_16x9": "es-01-159-r2-16x9.png",
-  "file_4x5": "es-01-159-r2-4x5.png",
-  "file_9x16": "es-01-159-r2-9x16.png",
-  "file_16x9_postcard": "es-01-159-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-159-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-159-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-159-r2-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-159-r2-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-159-r2-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-159-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-159-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-159-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-159-r2-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-159-r2-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-159-r2-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-159-r2-4x5.png",
       "dimensions": [
         864,
         1270
@@ -167,23 +167,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-159-r2-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-159-r2-16x9.png",
         "sha256": "a96c8f46ca1d3c2ed3343cb6ae80d9bf097ecd5b767d2ab347da9e96127d911b"
       },
       "4x5": {
-        "path": "es-01-159-r2-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-159-r2-4x5.png",
         "sha256": "88416fa37de39d36bb374fc14093f72477650e42a22c444039d304d6f7d5db38"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-159-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-159-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "b7899ed0af350d4e9a2fc155e6f0276e056c251a42e7894c7bc309ea22fa1c8c"
       },
       "4x5": {
-        "path": "es-01-159-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-159-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "2da0b50abe67b5f1279f4203e48b93a0b3288893dc8dee6e104ec84df8759d24"

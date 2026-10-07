@@ -29,12 +29,12 @@
   "composition": "Night · the basilica dome and twin towers · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Monastery, San Lorenzo de El Escorial at night.",
   "description": "The monastery of El Escorial rises in its vast grid, the basilica dome and twin towers floodlit against the sierra. The long granite facades run into the dark on either side while the courtyard lies silent. Philip II's great monument, severe and magnificent at night.",
-  "file_16x9": "es-01-108-r1-16x9.png",
-  "file_4x5": "es-01-108-r1-4x5.png",
-  "file_9x16": "es-01-108-r1-9x16.png",
-  "file_16x9_postcard": "es-01-108-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-108-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-108-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-108-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-108-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-108-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-108-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-108-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-108-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-108-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-108-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-108-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-108-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -167,23 +167,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-108-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-108-r1-16x9.png",
         "sha256": "4ccca299c42d66c824909135268ea30f24bc8499e38ddfdbcd06a2c811406168"
       },
       "4x5": {
-        "path": "es-01-108-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-108-r1-4x5.png",
         "sha256": "68f60e6771502a1b3107ccf9d98734ea7e9bb4e081254e352494a98dd510969c"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-108-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-108-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "58397132b8ff9a7fdf635043626184a2ebfec1f9f2e1f47711e093ae17475002"
       },
       "4x5": {
-        "path": "es-01-108-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-108-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "e9f30bf1b7fac7768b8f195a64f0ad8249c4d1c85b1b65c6abaafd97c18b216f"

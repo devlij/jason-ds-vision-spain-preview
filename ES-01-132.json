@@ -25,12 +25,12 @@
   "composition": "Night · the Mudejar town beneath its castles · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Old town at night.",
   "description": "Calatayud's old town spreads beneath its twin castle-crowned hills, with the Mudéjar towers of the churches standing out in the night. Lit streets trace the town grid below while the castle ruins sit dark against the sky. A handsome panorama of Aragón's city of the four towers.",
-  "file_16x9": "es-01-132-r1-16x9.png",
-  "file_4x5": "es-01-132-r1-4x5.png",
-  "file_9x16": "es-01-132-r1-9x16.png",
-  "file_16x9_postcard": "es-01-132-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-132-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-132-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-132-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-132-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-132-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-132-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-132-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-132-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -50,7 +50,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-132-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-132-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -77,7 +77,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-132-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-132-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -159,23 +159,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-132-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-132-r1-16x9.png",
         "sha256": "b29dc8cf85ab819c33787a9f830e8c5c077b0294552e3c4add3c5b868bd35b8d"
       },
       "4x5": {
-        "path": "es-01-132-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-132-r1-4x5.png",
         "sha256": "87095bf6614c16122a7ef75518b018eb8bcd6f37dd21aa0d40c839c074435049"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-132-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-132-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "7cde79bc7e49eec2c74a70323d10ab16ac5553643e1714015871d12fa8eb0f33"
       },
       "4x5": {
-        "path": "es-01-132-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-132-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "f6d568c1f29f3bd50deec0d608f5b782cee7fa44e6f1655d07e80e0c6b32cf47"

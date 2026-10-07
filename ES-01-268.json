@@ -29,12 +29,12 @@
   "composition": "Night · White futuristic forms mirrored in still water at night · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of City of Arts and Sciences, Valencia at night.",
   "description": "Walk the City of Arts and Sciences at night. The white futuristic forms rise across the frame — the Hemisfèric's great eye, the museum's skeletal spine — mirrored in the still water below, with the Turia gardens' dark shapes at the edges. Floodlit against the black sky, Calatrava's city looks like a fleet at anchor.",
-  "file_16x9": "es-01-268-r1-16x9.png",
-  "file_4x5": "es-01-268-r1-4x5.png",
-  "file_9x16": "es-01-268-r1-9x16.png",
-  "file_16x9_postcard": "es-01-268-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-268-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-268-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-268-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-268-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-268-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-268-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-268-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-268-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-268-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-268-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-268-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-268-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -169,29 +169,29 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-268-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-268-r1-16x9.png",
         "sha256": "f3969bfdc158ea789edd1dcd03c87a2f9c4d11b1cc7212fa8dd7c03f2bba5a92"
       },
       "4x5": {
-        "path": "es-01-268-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-268-r1-4x5.png",
         "sha256": "1f9254af33d07dd46a398545f33daf126a5fb88ca5d9b57c1ecb13447bf65e92"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-268-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-268-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "3e8b47447ef6f98cbc1ea037edf3f27d40e7c2816ba1844d60e724652637c86e"
       },
       "4x5": {
-        "path": "es-01-268-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-268-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "4cc6dc3ca2639c33d694d2990ea31d4ee79e0fbe180b0dd04feab9706fbefd69"
       },
       "9x16": {
-        "path": "es-01-268-daylight-9x16.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-268-daylight-9x16.png",
         "width": 1080,
         "height": 2110,
         "sha256": "4f22b170f8572d0a4dd3516f88c052bd6ef345e7369aa90162d1ccce1b3cefce"

@@ -29,12 +29,12 @@
   "composition": "Night · Walls from the Cuatro Postes viewpoint, floodlit against the dark sky · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of the walls of Ávila at night.",
   "description": "From the Cuatro Postes viewpoint across the valley, the city walls sweep across the frame — eighty-eight towers and crenellated ramparts floodlit golden against the black sky. The walls run the length of the ridge with the old town's lights glowing behind them, and the dark plain falls away below. Ávila's walls are the most complete medieval circuit in Spain, and by night they look every inch the fortress.",
-  "file_16x9": "es-01-328-r1-16x9.png",
-  "file_4x5": "es-01-328-r1-4x5.png",
-  "file_9x16": "es-01-328-r1-9x16.png",
-  "file_16x9_postcard": "es-01-328-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-328-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-328-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-328-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-328-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-328-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-328-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-328-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-328-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-328-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-328-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-328-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-328-r1-4x5.png",
       "dimensions": [
         864,
         1270

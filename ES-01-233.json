@@ -29,12 +29,12 @@
   "composition": "Night · clifftop promenade balcony over coves and sea at night · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Balcón de Europa at night.",
   "description": "On the Balcón de Europa in Nerja at night, the clifftop promenade ends at the rail above the dark sea. Moonlight glints on the water far below while the coves curl dark into the cliffs on either side. The town's lights glow behind you; ahead is only the black Mediterranean and the starry sky.",
-  "file_16x9": "es-01-233-r1-16x9.png",
-  "file_4x5": "es-01-233-r1-4x5.png",
-  "file_9x16": "es-01-233-r1-9x16.png",
-  "file_16x9_postcard": "es-01-233-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-233-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-233-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-233-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-233-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-233-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-233-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-233-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-233-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-233-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-233-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-233-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-233-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -168,23 +168,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-233-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-233-r1-16x9.png",
         "sha256": "060b9dcb718d7758929359366c3d969153c1befc2ec9074cba413b3fe37bdadb"
       },
       "4x5": {
-        "path": "es-01-233-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-233-r1-4x5.png",
         "sha256": "6dd211ca9cff3600f1ce359f372259c549e702550987d07a09d4c9c593d3965a"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-233-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-233-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "e39c75725614acb3294ef06c1081fc48f492c973fd2edc1104ebfe33191af6e8"
       },
       "4x5": {
-        "path": "es-01-233-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-233-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "e1396f3437fad35181e0d8e915b0554eee266e648911211fd459516dfdaef7c1"

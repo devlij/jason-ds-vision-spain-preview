@@ -29,12 +29,12 @@
   "composition": "Night · the white hill town · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Old town at night.",
   "description": "At night, Níjar's white houses glow softly on their hill in the dark Cabo de Gata country. You look up at the old town scattered across the frame, its church tower lit above the whitewashed lanes. The artisan town sleeps under the Andalusian dark.",
-  "file_16x9": "es-01-183-r1-16x9.png",
-  "file_4x5": "es-01-183-r1-4x5.png",
-  "file_9x16": "es-01-183-r1-9x16.png",
-  "file_16x9_postcard": "es-01-183-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-183-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-183-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-183-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-183-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-183-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-183-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-183-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-183-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-183-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-183-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-183-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-183-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -168,23 +168,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-183-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-183-r1-16x9.png",
         "sha256": "033145d04a9aabea3cf34e6837d0611227e9a7c795f9bc4dc20d9e238a89428f"
       },
       "4x5": {
-        "path": "es-01-183-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-183-r1-4x5.png",
         "sha256": "b3048428204e0d2879d81d49074445214566cfb62708692ddd822b61a4db2100"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-183-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-183-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "446c4ab775ae3c6901ff7a15f494d54bb1acdb108115ad9ee83a5bc9ae1f89b8"
       },
       "4x5": {
-        "path": "es-01-183-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-183-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "564910b33655cec76a02cbf2c38188e84fcdf0fbc91a92ef4b3d3464467955cd"

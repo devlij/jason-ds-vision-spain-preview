@@ -29,12 +29,12 @@
   "composition": "Night · Whitewashed old town and harbor under a starry sky · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Cadaqués waterfront, Cadaqués at night.",
   "description": "Stand on Cadaqués's waterfront at night under a starry sky. The whitewashed old town climbs the hillside across the frame, the church tower at its crest, with the harbor's dark water and bobbing boats in the foreground. The village that bewitched Dalí glows soft in the lamplight.",
-  "file_16x9": "es-01-248-r1-16x9.png",
-  "file_4x5": "es-01-248-r1-4x5.png",
-  "file_9x16": "es-01-248-r1-9x16.png",
-  "file_16x9_postcard": "es-01-248-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-248-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-248-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-248-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-248-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-248-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-248-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-248-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-248-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-248-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-248-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-248-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-248-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -169,23 +169,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-248-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-248-r1-16x9.png",
         "sha256": "de37348f8812955a7c1ee4464fb46f1c53d7b8e16a6b058641ffaff1956193b6"
       },
       "4x5": {
-        "path": "es-01-248-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-248-r1-4x5.png",
         "sha256": "137c743f3b95235130092c0868c1727b59a152428f3e437c3c6643b4e85eafeb"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-248-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-248-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "291382d2846eb04669f6a62dbaf6abd70941337b0b10a0d1d3c0366b84450c7c"
       },
       "4x5": {
-        "path": "es-01-248-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-248-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "8ca56d16229c1b8091cb69120d9fc02b3072b488bbcb12147da75d65d74a46d4"

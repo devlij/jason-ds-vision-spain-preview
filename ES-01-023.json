@@ -50,12 +50,12 @@
       "resampled": true
     }
   },
-  "file_16x9": "es-01-023-r1-16x9.png",
-  "file_4x5": "es-01-023-r1-4x5.png",
-  "file_9x16": "es-01-023-r1-9x16.png",
-  "file_16x9_postcard": "es-01-023-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-023-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-023-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-023-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-023-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-023-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-023-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-023-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-023-postcard-9x16.png",
   "references": [
     {
       "title": "Aragón Tourism — Pilar Basilica",
@@ -172,7 +172,7 @@
         "source_width": 1672,
         "source_height": 940,
         "resampled": true,
-        "file": "es-01-023-r1-16x9.png"
+        "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-023-r1-16x9.png"
       },
       "4x5": {
         "width": 864,
@@ -182,7 +182,7 @@
         "source_width": 1672,
         "source_height": 940,
         "resampled": true,
-        "file": "es-01-023-r1-4x5.png"
+        "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-023-r1-4x5.png"
       }
     },
     "prompts": {
@@ -293,10 +293,10 @@
     "card_handoff": {
       "owner": "Independent Cosmo sweep",
       "pipeline": "Candidate, separate from approved gallery",
-      "thumbnail": "es-01-023-r1-16x9.png",
-      "href": "es-01-023-r1-16x9.png",
+      "thumbnail": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-023-r1-16x9.png",
+      "href": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-023-r1-16x9.png",
       "target": "_blank",
-      "portrait_retained": "es-01-023-r1-4x5.png",
+      "portrait_retained": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-023-r1-4x5.png",
       "controls": "One wide thumbnail opening the full-size wide PNG; no extra viewer/download controls",
       "preserve": "Caption, scenario, composition, status, license/badge, footer, search, navigation and country switcher"
     },
@@ -308,23 +308,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-023-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-023-r1-16x9.png",
         "sha256": "f2a014faffa173caf463356f3915f9eeef6e247ae77da4c78c53d1a2deb68ddc"
       },
       "4x5": {
-        "path": "es-01-023-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-023-r1-4x5.png",
         "sha256": "205c54ecd3b1b4b4d87ea0530018627683b42a825477c0ed595cf4a1eb4a9787"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-023-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-023-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "7e54e3747aa0e9fa18edaa44d861a9bc5c238cb3ba6def9f1880758316bba4fd"
       },
       "4x5": {
-        "path": "es-01-023-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-023-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "dc60b0af922b7357561bed720e7a5e356a2976a42a6129b51dbcae2ca5dad276"

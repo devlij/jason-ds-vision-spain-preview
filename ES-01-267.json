@@ -29,11 +29,11 @@
   "composition": "Night · Bronze-age naveta silhouette under a starry sky · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Naveta des Tudons, Ciutadella de Menorca at night.",
   "description": "Stand before the Naveta des Tudons at night. The Bronze Age naveta's great stone prow rises at center frame, silhouetted against the starry sky, with the dark Menorcan plain stretching left and right. Three thousand years old — a collective tomb from when bronze was high technology.",
-  "file_16x9": "es-01-267-r1-16x9.png",
-  "file_4x5": "es-01-267-r1-4x5.png",
-  "file_16x9_postcard": "es-01-267-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-267-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-267-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-267-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-267-r1-4x5.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-267-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-267-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-267-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -48,7 +48,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-267-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-267-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -75,7 +75,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-267-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-267-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -163,29 +163,29 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-267-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-267-r1-16x9.png",
         "sha256": "fed2b97ab61fa26a23415e35e3eee67b8c092d73ea57a70c9f74707650cbfe3a"
       },
       "4x5": {
-        "path": "es-01-267-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-267-r1-4x5.png",
         "sha256": "d5c8cb18fd13fa596b35a1a92cbcf919d634418513ae80116a0dfee974733e98"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-267-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-267-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "f003a4f774d53acbf14570ea4ce5f34da69d73e66bbfa53b2a0de11031572b37"
       },
       "4x5": {
-        "path": "es-01-267-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-267-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "3064dedd5e68f4a1017e361a12a1b8c57b240b1ccde8bc9689c5248a6d2142a5"
       },
       "9x16": {
-        "path": "es-01-267-daylight-9x16.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-267-daylight-9x16.png",
         "width": 1080,
         "height": 2110,
         "sha256": "d3cc60567a5c3c9d0643ced6616378739aa3f08013ea96d5d4fbf5937271f8a9"

@@ -37,12 +37,12 @@
   "composition": "Night · Public Cala d'Hort beach shoreline, approximately 38.8915, 1.2235, low eye-level looking southwest over the sea toward Es Vedrà and smaller Es Vedranell. No cliff-edge or restricted cave viewpoint is used. · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Es Vedrà, Ibiza at night.",
   "description": "Steep asymmetric pyramidal limestone mass of Es Vedrà rising directly from the sea; Smaller lower Es Vedranell companion islet nearby; Dark pebbly-sandy Cala d'Hort foreground and calm sea channel.",
-  "file_16x9": "es-01-037-r1-16x9.png",
-  "file_4x5": "es-01-037-r1-4x5.png",
-  "file_9x16": "es-01-037-r1-9x16.png",
-  "file_16x9_postcard": "es-01-037-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-037-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-037-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-037-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-037-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-037-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-037-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-037-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-037-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -62,7 +62,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-037-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-037-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -89,7 +89,7 @@
       "resampling_disclosure": "Required masters exceed the built-in 1672×941 source in at least one dimension; Lanczos resampling does not create native detail."
     },
     "4x5": {
-      "file": "es-01-037-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-037-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -236,23 +236,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-037-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-037-r1-16x9.png",
         "sha256": "b53cef6ac6200c9996a36372cb9c5b81f1a99e09bb38a4c055ce3d05427bd989"
       },
       "4x5": {
-        "path": "es-01-037-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-037-r1-4x5.png",
         "sha256": "239d88686770eea881c7515aa5a0afa6c364ea32dc920f7a39989e5e0665794e"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-037-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-037-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "e82fe56fc8ed2475dca629af639e1e11435d18f2d3fa6670a720f7d30c570519"
       },
       "4x5": {
-        "path": "es-01-037-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-037-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "341b3a7380246608a027ecb69288ffd18869e96bd8230c25dd5a00b65db4e657"

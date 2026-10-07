@@ -29,12 +29,12 @@
   "composition": "Night · the terraced coast · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Banyalbufar at night.",
   "description": "Night over Banyalbufar's terraced coast, where the stone-walled terraces step down toward the sea in darkness. Scattered lights from the village sit among the terraces while the Mediterranean lies flat and black beyond. You feel the whole slope breathing quietly under the stars.",
-  "file_16x9": "es-01-162-r1-16x9.png",
-  "file_4x5": "es-01-162-r1-4x5.png",
-  "file_9x16": "es-01-162-r1-9x16.png",
-  "file_16x9_postcard": "es-01-162-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-162-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-162-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-162-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-162-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-162-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-162-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-162-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-162-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-162-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-162-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-162-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-162-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -168,23 +168,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-162-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-162-r1-16x9.png",
         "sha256": "d6cd2aee37529b12ddcc869480d69353bf995a05fa5ebe91165b5bc8f29d04b9"
       },
       "4x5": {
-        "path": "es-01-162-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-162-r1-4x5.png",
         "sha256": "37c46a7acc7aa9829c37d202a1908f3a6f45d02899df4cd915fcf3ca4dd2e4b4"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-162-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-162-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "73649bd906bbf2d156460ce593eb984e4a60e9e28154428093cf8c5c2443f329"
       },
       "4x5": {
-        "path": "es-01-162-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-162-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "6e81fa66be0770bf41e942509827b3836b545da64d3d5b7dc223b0ee67aca3c9"

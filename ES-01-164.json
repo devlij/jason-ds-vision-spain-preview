@@ -29,12 +29,12 @@
   "composition": "Night · the balcony-lined street · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Old town at night.",
   "description": "Along the famous balcony-lined street of Santa Cruz de La Palma, the carved wooden balconies of the old houses stand out under the streetlamps. Doors and shutters are shut for the night, with only a few warm windows lit along the row. A quietly elegant street, asleep in the Canarian dark.",
-  "file_16x9": "es-01-164-r1-16x9.png",
-  "file_4x5": "es-01-164-r1-4x5.png",
-  "file_9x16": "es-01-164-r1-9x16.png",
-  "file_16x9_postcard": "es-01-164-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-164-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-164-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-164-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-164-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-164-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-164-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-164-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-164-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-164-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-164-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-164-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-164-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -168,23 +168,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-164-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-164-r1-16x9.png",
         "sha256": "bb4793af17fabcc546467e60896e700b2e8c947448a6d24823493607b2bc90e8"
       },
       "4x5": {
-        "path": "es-01-164-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-164-r1-4x5.png",
         "sha256": "e4a5ddb07e9215b128b944857d593357b21a6533740f7387cb0cb3ba49ff2f69"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-164-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-164-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "7e71b7d9b448daa44e359af2e4f6d4f61f6dfce540057dc081b62e57a77eabec"
       },
       "4x5": {
-        "path": "es-01-164-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-164-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "112a4850af4950a9ccd8481c1a112e48ba858c750a6b62ed447a215604230bde"

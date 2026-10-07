@@ -29,12 +29,12 @@
   "composition": "Night · From the Lagos de Covadonga, moonlit lake under the Picos near 43.2720,-4.9970. Approximate point only. · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of the Lagos de Covadonga at night.",
   "description": "From the lakeshore, the Lagos de Covadonga lie moonlit under the Picos — the still water reflecting the stars with the great limestone peaks rising dark around it. The moon silvers the lake's surface while the mountains stand black against the sky. These are the sacred lakes of Asturias, where the Reconquista began; by night they're a mirror for the heavens.",
-  "file_16x9": "es-01-314-r1-16x9.png",
-  "file_4x5": "es-01-314-r1-4x5.png",
-  "file_9x16": "es-01-314-r1-9x16.png",
-  "file_16x9_postcard": "es-01-314-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-314-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-314-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-314-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-314-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-314-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-314-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-314-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-314-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-314-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-314-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-314-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-314-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -164,23 +164,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-314-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-314-r1-16x9.png",
         "sha256": "4d11c5bd513d45822733f48937e4c63fced7e9992a7c1a1fd160709fb4f580a2"
       },
       "4x5": {
-        "path": "es-01-314-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-314-r1-4x5.png",
         "sha256": "52e554f5c82d8360cadb7a53c1f08105e00ab72398718ed7b18e02a8d5bc7480"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-314-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-314-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "d0360744161775a9c80a19d6a85f3b82173623e7a26b91f7a8f4b8cb035d23cf"
       },
       "4x5": {
-        "path": "es-01-314-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-314-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "ad55b228caf4dbb68da158779fbfe63c8f942d05ecaf4a3f71a36eeb380da59d"

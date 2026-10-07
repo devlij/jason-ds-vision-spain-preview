@@ -12,18 +12,18 @@
   "status": "Approved · Cosmo QC 5/5 · Night",
   "limitations": "Approved by Cosmo QC 5/5 on 1 October 2026 (re-audit of the cand-r1 architectural rebuild). 16:9 masters are Lanczos upscales from a 1280×720 generated source and 9:16 masters from a 720×1280 generated source; 4:5 masters keep the top of a 864×1152 generated source and drop foreground. Dimensions do not imply native detail. Open-Meteo figures are model data, not an on-site observation. Exact camera correspondence is not surveyed. Generated glyphs on the tablet were not the documented wording. The four lines were typeset onto the generated stone tablet from the Wikipedia transcription of the monument. The warrior relief, shield, columns, and bridge are part of the generated rebuild.",
   "weather": "Model data from Open-Meteo, retrieved 30 September 2026 23:56:56 Europe/Madrid, valid 23:45 Europe/Madrid — not a verified on-site observation. 24.3°C, WMO 3 overcast, cloud 78%, precipitation 0.0 mm, wind 2.2 km/h. Sunrise 08:13, sunset 20:03. Approximate solar elevation -43.61°, azimuth 311.33°. Night; no direct sunlight.",
-  "file_16x9": "es-01-017-cand-r1-16x9.png",
-  "file_4x5": "es-01-017-cand-r1-4x5.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-017-cand-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-017-cand-r1-4x5.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "editions": [
     {
       "label": "Original 16:9 · 1536×864",
-      "file": "es-01-017-original-16x9.png"
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-017-original-16x9.png"
     },
     {
       "label": "Original 4:5 · 800×1000",
-      "file": "es-01-017-original-4x5.png"
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-017-original-4x5.png"
     }
   ],
   "time_of_day": "Night",
@@ -73,23 +73,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-017-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-017-16x9.png",
         "sha256": "bc9f0972a563a4e1f1fdf97291d5c701e26710f1ba08a2cc9fb6796d8e1cea67"
       },
       "4x5": {
-        "path": "es-01-017-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-017-4x5.png",
         "sha256": "4c97ccf9bc2ca331d4149da420567ff9d7a207159c480c665a57dd853fa7176a"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-017-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-017-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "210961d4b7e96152608b1ae9cc8880d304b1eb45973f383610e2b9f192c07ba6"
       },
       "4x5": {
-        "path": "es-01-017-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-017-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "33644eb6c428770f1e77f4f87d6da659c14dd412fadc2bd709304b597280b3ec"
@@ -113,15 +113,15 @@
   },
   "revision": "cand-r1",
   "revision_lineage": "Full rebuild for wo-spain-architectural-rework-2026-09-30 pack 1. Text-only generation for each format, then a label bar placed under the artwork. No photographic pixels were used as generation inputs. Previous masters remain in the repository as superseded bytes.",
-  "file_9x16": "es-01-017-cand-r1-9x16.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-017-cand-r1-9x16.png",
   "review_history": [
     {
       "date": "2026-09-30",
       "previous_status": "Approved · Cosmo QC 5/5 · Night",
       "previous_approval_state": "approved",
       "previous_files": {
-        "16x9": "es-01-017-16x9.png",
-        "4x5": "es-01-017-4x5.png",
+        "16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-017-16x9.png",
+        "4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-017-4x5.png",
         "9x16": null
       },
       "resolution": "Architectural rebuild cand-r1 landed as Candidate on 30 September 2026. The prior approval covered the previous bytes only. It does not cover cand-r1. No Cosmo re-audit is claimed."

@@ -12,19 +12,19 @@
   "status": "Approved · Cosmo QC 5/5 · Night",
   "limitations": "Cosmo approval relayed by Jason; no new independent audit claimed. Historical provenance and weather limitations retained. Internal approval does not certify third-party rights.",
   "weather": "Historical provider report: mostly clear, about 20°C. Not a verified on-site observation. Retrieval/valid-time detail does not meet the new Open-Meteo requirement.",
-  "file_16x9": "es-01-018-16x9.png",
-  "file_4x5": "es-01-018-4x5.png",
-  "file_9x16": "es-01-018-r1-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-018-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-018-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-018-r1-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "editions": [
     {
       "label": "Original 16:9 · 1536×864",
-      "file": "es-01-018-original-16x9.png"
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-018-original-16x9.png"
     },
     {
       "label": "Original 4:5 · 800×1000",
-      "file": "es-01-018-original-4x5.png"
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-018-original-4x5.png"
     }
   ],
   "time_of_day": "Night",
@@ -62,23 +62,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-018-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-018-16x9.png",
         "sha256": "411691ccbce5b442109a09811c594d59dc7c81a0a3c5827e43ff856abde3a8a5"
       },
       "4x5": {
-        "path": "es-01-018-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-018-4x5.png",
         "sha256": "c6215c00c8be6f90bff6677ea7c5b8080062b5b5a7784678691d6e981192c00a"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-018-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-018-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "65fab0f79286d7e6505af282e73a26e7b99ceac648013d44e43e41c8396410b9"
       },
       "4x5": {
-        "path": "es-01-018-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-018-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "ee6fcd892a7675823292dfb67d8a0e596daa59be590fd094193934c35a3f8502"

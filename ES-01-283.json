@@ -29,12 +29,12 @@
   "composition": "Night · Pink lagoon veiled in night mist · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Laguna Salada de Torrevieja, Torrevieja at night.",
   "description": "From the lagoon's shore, the pink water spreads out under a thin veil of night mist, the famous rose tint of Torrevieja's salt lagoon faintly glowing in the moonlight. Salt banks and dark vegetation edge the frame while mist drifts low across the surface. By day this water runs vivid pink with algae and brine shrimp; by night it lies mysterious and still beneath the stars.",
-  "file_16x9": "es-01-283-r1-16x9.png",
-  "file_4x5": "es-01-283-r1-4x5.png",
-  "file_9x16": "es-01-283-r1-9x16.png",
-  "file_16x9_postcard": "es-01-283-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-283-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-283-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-283-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-283-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-283-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-283-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-283-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-283-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-283-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-283-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-283-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-283-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -169,23 +169,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-283-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-283-r1-16x9.png",
         "sha256": "a1b70bd1c3936ebff5d8f785b8e76d6dfa09c7059d285eac73e5cc7d512cad6a"
       },
       "4x5": {
-        "path": "es-01-283-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-283-r1-4x5.png",
         "sha256": "6ac122700d108c59f04d51bc64106fbd8650a32122b4ebd42a57bf81d22a622c"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-283-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-283-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "b60e218291ddda298305048e07e301b91d2ad268329b9adf89a31afe53246880"
       },
       "4x5": {
-        "path": "es-01-283-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-283-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "808bacb3a117e22fb21736a2893fba1a8d7c67628433b49d7f9de7f8f0f86d17"

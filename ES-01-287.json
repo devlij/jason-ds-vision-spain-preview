@@ -29,12 +29,12 @@
   "composition": "Night · Viewpoint area near 29.0085,-13.7274, looking across the malpaís lava field toward the Fire Mountains. Approximate point only; the park closes at dusk — this is an artistic interpretation, not a claim of nighttime access. · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Timanfaya, Lanzarote at night.",
   "description": "From the viewpoint area, the malpaís lava field stretches out toward the Fire Mountains — black volcanic badlands rolling to the dark cones on the horizon under a starry sky. The twisted lava catches faint moonlight on its ridges while the volcanic cones stand in layered silhouette. Timanfaya is Lanzarote's raw volcanic heart; by night, in this artistic view, it feels like the surface of another planet.",
-  "file_16x9": "es-01-287-r2-16x9.png",
-  "file_4x5": "es-01-287-r2-4x5.png",
-  "file_9x16": "es-01-287-r2-9x16.png",
-  "file_16x9_postcard": "es-01-287-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-287-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-287-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-287-r2-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-287-r2-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-287-r2-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-287-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-287-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-287-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-287-r2-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-287-r2-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-287-r2-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-287-r2-4x5.png",
       "dimensions": [
         864,
         1270
@@ -164,23 +164,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-287-r2-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-287-r2-16x9.png",
         "sha256": "d754c3b834545a4a137f95eff24b0c8a6d8c9ad84d8b8f94a34c342994c5b2f5"
       },
       "4x5": {
-        "path": "es-01-287-r2-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-287-r2-4x5.png",
         "sha256": "e7dbe0296d01e348a167db3f8f980f000f609c10e384add7c0616fdf9172cf0c"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-287-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-287-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "f804c4772a38ae7b90c46cf8abd53260e0f824c63ac3cc3b2346b7198d49aac4"
       },
       "4x5": {
-        "path": "es-01-287-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-287-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "04eddd961f2612f39cbcee45cfc504a2e9b4f750c5e539c02ca24b8dd87c29d1"

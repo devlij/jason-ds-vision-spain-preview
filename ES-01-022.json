@@ -50,12 +50,12 @@
       "resampled": true
     }
   },
-  "file_16x9": "es-01-022-r1-16x9.png",
-  "file_4x5": "es-01-022-r1-4x5.png",
-  "file_9x16": "es-01-022-r1-9x16.png",
-  "file_16x9_postcard": "es-01-022-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-022-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-022-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-022-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-022-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-022-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-022-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-022-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-022-postcard-9x16.png",
   "references": [
     {
       "title": "Cádiz municipal tourism — Paseo Campo del Sur",
@@ -172,7 +172,7 @@
         "source_width": 1672,
         "source_height": 941,
         "resampled": true,
-        "file": "es-01-022-r1-16x9.png"
+        "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-022-r1-16x9.png"
       },
       "4x5": {
         "width": 864,
@@ -182,7 +182,7 @@
         "source_width": 1672,
         "source_height": 941,
         "resampled": true,
-        "file": "es-01-022-r1-4x5.png"
+        "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-022-r1-4x5.png"
       }
     },
     "prompts": {
@@ -293,10 +293,10 @@
     "card_handoff": {
       "owner": "Independent Cosmo sweep",
       "pipeline": "Candidate, separate from approved gallery",
-      "thumbnail": "es-01-022-r1-16x9.png",
-      "href": "es-01-022-r1-16x9.png",
+      "thumbnail": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-022-r1-16x9.png",
+      "href": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-022-r1-16x9.png",
       "target": "_blank",
-      "portrait_retained": "es-01-022-r1-4x5.png",
+      "portrait_retained": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-022-r1-4x5.png",
       "controls": "One wide thumbnail opening the full-size wide PNG; no extra viewer/download controls",
       "preserve": "Caption, scenario, composition, status, license/badge, footer, search, navigation and country switcher"
     },
@@ -308,23 +308,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-022-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-022-r1-16x9.png",
         "sha256": "a08340bea1a6365bd55b5328516bfedac60fc4f48b89096653e36d0cf9305303"
       },
       "4x5": {
-        "path": "es-01-022-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-022-r1-4x5.png",
         "sha256": "123112302c2a7d6e526062a274e9957eb3709b9e0ae23f0613f860c332bf2508"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-022-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-022-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "26d91efe3c5d340d4a28d10ed0ce6427991836944e41f8f04e63107da4d71174"
       },
       "4x5": {
-        "path": "es-01-022-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-022-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "02377a9138180011364172ba07f8878469455727114534c01ffde8b779852e0a"

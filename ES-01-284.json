@@ -29,12 +29,12 @@
   "composition": "Night · Roques de García viewpoint area near 28.2546,-16.6690, looking toward the summit cone across the dark caldera floor. Approximate point only; no claim of nighttime access or measured luminance. · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Mount Teide, Tenerife at night.",
   "description": "From the Roques de García area, the summit cone of Teide rises across the dark caldera floor — a great volcanic silhouette drawn against the starfield, with the lava formations of the Roques standing black in the foreground. The night sky over the national park is among the clearest in the world, and the stars crowd thick above the sleeping volcano. Spain's highest peak keeps its silent, starlit watch over Tenerife.",
-  "file_16x9": "es-01-284-r1-16x9.png",
-  "file_4x5": "es-01-284-r1-4x5.png",
-  "file_9x16": "es-01-284-r1-9x16.png",
-  "file_16x9_postcard": "es-01-284-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-284-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-284-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-284-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-284-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-284-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-284-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-284-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-284-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-284-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-284-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-284-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-284-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -164,23 +164,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-284-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-284-r1-16x9.png",
         "sha256": "8cf67f5a2d2c64929034ac81cbc390cc827ec8bf05e31b724244d171e67dd846"
       },
       "4x5": {
-        "path": "es-01-284-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-284-r1-4x5.png",
         "sha256": "c9468900b5da236c7d6ebc782975cf33979d017d8a8a88597d2702c091842a93"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-284-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-284-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "89cb738ace79411ac291c1b1da4e6c0ae64e6fbfd5025a8cdde8bdb3ea45faec"
       },
       "4x5": {
-        "path": "es-01-284-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-284-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "e706ec5d66bd55e5586ffa3f1ff0d536cd631645f1ac0576eaaf20cbf6619a40"

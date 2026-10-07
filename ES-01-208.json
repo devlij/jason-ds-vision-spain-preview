@@ -23,12 +23,12 @@
   "composition": "Night · cathedral façade and golden dome from the plaza · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Cádiz Cathedral at night.",
   "description": "From the plaza, face Cádiz Cathedral's facade at night. The baroque front rises at center frame, its twin towers flanking the doors, with the great golden dome swelling above and behind. Floodlights wash the stone warm gold against the black sky while the plaza's lamps glitter at the edges of the frame.",
-  "file_16x9": "es-01-208-r1-16x9.png",
-  "file_4x5": "es-01-208-r1-4x5.png",
-  "file_9x16": "es-01-208-r1-9x16.png",
-  "file_16x9_postcard": "es-01-208-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-208-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-208-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-208-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-208-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-208-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-208-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-208-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-208-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -48,7 +48,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-208-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-208-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -75,7 +75,7 @@
       "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-208-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-208-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -162,23 +162,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-208-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-208-r1-16x9.png",
         "sha256": "95afdaadd0318b01b1a2c18e44468653556061cd36aa7340c872b6c5b5376896"
       },
       "4x5": {
-        "path": "es-01-208-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-208-r1-4x5.png",
         "sha256": "70cd2cc79046057b0f878c9d8bb15713ee198af33ebe8fc99cd76b4b7634d174"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-208-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-208-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "75248b99d91af12443a2ae589dcb14533fe3c740fa64422c0b5fa21969b7aca0"
       },
       "4x5": {
-        "path": "es-01-208-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-208-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "719e1098f4e28394568b7418f147af2a75261f33b82bf746a56a2a9abbb155c5"

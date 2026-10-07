@@ -23,12 +23,12 @@
   "composition": "Night · castle ruins above the white village at night · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Zahara de la Sierra at night.",
   "description": "Below Zahara de la Sierra at night, look up at the castle ruins on their crag. The broken towers crown the center of the frame, the white village spilling down the slope beneath them, with the dark reservoir gleaming at the valley's edge to one side. The lights of the village thin as they climb toward the walls.",
-  "file_16x9": "es-01-213-r1-16x9.png",
-  "file_4x5": "es-01-213-r1-4x5.png",
-  "file_9x16": "es-01-213-r1-9x16.png",
-  "file_16x9_postcard": "es-01-213-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-213-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-213-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-213-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-213-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-213-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-213-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-213-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-213-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -48,7 +48,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-213-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-213-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -75,7 +75,7 @@
       "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-213-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-213-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -162,23 +162,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-213-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-213-r1-16x9.png",
         "sha256": "e1139545d859de4d623a94bfdaac75161fd8f0da5deda48a4c96614c08c039e1"
       },
       "4x5": {
-        "path": "es-01-213-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-213-r1-4x5.png",
         "sha256": "521ea58e2fa93b74700b05807acb4eb22c5eb85262d83fc0cce58d033dacef4f"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-213-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-213-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "31ef671ab5a82615d6b7a9791c8b66573e0800950cc73d540c43450f34c66258"
       },
       "4x5": {
-        "path": "es-01-213-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-213-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "39c2e14813bb01e97c5b4ea094f804496d849096d35491c3667f5ae42fd39fad"

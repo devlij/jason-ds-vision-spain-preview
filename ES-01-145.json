@@ -29,12 +29,12 @@
   "composition": "Night · the hilltop village · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Vilafamés, Vilafamés at night.",
   "description": "At night, Vilafamés glows on its hilltop, the village's stone houses and castle walls lit warm against the dark Maestrat. From the plain below you take in the whole hilltop settlement across the frame, rising from black fields into the night sky. The old artist's village keeps its hill like a lantern in the dark.",
-  "file_16x9": "es-01-145-r2-16x9.png",
-  "file_4x5": "es-01-145-r2-4x5.png",
-  "file_9x16": "es-01-145-r2-9x16.png",
-  "file_16x9_postcard": "es-01-145-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-145-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-145-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-145-r2-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-145-r2-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-145-r2-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-145-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-145-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-145-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-145-r2-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-145-r2-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-145-r2-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-145-r2-4x5.png",
       "dimensions": [
         864,
         1270
@@ -167,23 +167,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-145-r2-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-145-r2-16x9.png",
         "sha256": "d9dcdcb53285cc8915059d0efce47355f176fed454d1163cacc39eece42eedf3"
       },
       "4x5": {
-        "path": "es-01-145-r2-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-145-r2-4x5.png",
         "sha256": "8eb93d7128e41c184bb5d497a89a401dc35f6b4ca7e930a143ddd1d337cbd77f"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-145-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-145-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "3e979369546accc9e3ee22faee5eaacdfbe25c828165a84111ebe2210127e445"
       },
       "4x5": {
-        "path": "es-01-145-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-145-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "352627ddf1cff398725483c94b4d3379a4c2a59f37dc7022c8d6d03228f4d1ac"

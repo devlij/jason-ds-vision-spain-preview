@@ -29,12 +29,12 @@
   "composition": "Night · the castle hill and coves · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Old town, Begur at night.",
   "description": "At night in Begur, you look up toward the old castle hill rising over the town, its walls dimly lit above the scattered house lights. The frame holds the medieval hill at the center with the Costa Brava coves lying dark somewhere beyond. The town glows softly below, a whitewashed cluster in the Empordà dark.",
-  "file_16x9": "es-01-136-r2-16x9.png",
-  "file_4x5": "es-01-136-r2-4x5.png",
-  "file_9x16": "es-01-136-r2-9x16.png",
-  "file_16x9_postcard": "es-01-136-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-136-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-136-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-136-r2-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-136-r2-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-136-r2-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-136-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-136-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-136-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-136-r2-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-136-r2-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-136-r2-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-136-r2-4x5.png",
       "dimensions": [
         864,
         1270
@@ -167,23 +167,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-136-r2-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-136-r2-16x9.png",
         "sha256": "12ebe03f072bd8e024ec92fa1bc997fe5d2b0d85e3426efd4ec9a2fbac71a3dd"
       },
       "4x5": {
-        "path": "es-01-136-r2-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-136-r2-4x5.png",
         "sha256": "218cad0f80eae4d993360835916863268c6f05d5d4123e7228e3f01351e288b3"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-136-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-136-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "f0744c82e136f4ee363c7cb09b3f7a29825af48cf882ca84a698fa31fceb1288"
       },
       "4x5": {
-        "path": "es-01-136-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-136-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "56293ff706ed41823afd42688b13f337f0de60957e8365ea6aeef59e46a8f75e"

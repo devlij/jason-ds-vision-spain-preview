@@ -29,12 +29,12 @@
   "composition": "Night · Gothic cathedral over the dark reflecting pools at night · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Palma Cathedral, Palma de Mallorca at night.",
   "description": "From across the reflecting pools at night, face Palma Cathedral. The great Gothic bulk rises at center frame, floodlit gold, with its reflection doubling in the dark water below and the Almudaina palace spreading to one side. La Seu looks its best after dark, floating above its own mirror.",
-  "file_16x9": "es-01-260-r1-16x9.png",
-  "file_4x5": "es-01-260-r1-4x5.png",
-  "file_9x16": "es-01-260-r1-9x16.png",
-  "file_16x9_postcard": "es-01-260-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-260-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-260-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-260-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-260-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-260-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-260-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-260-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-260-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-260-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-260-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-260-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-260-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -169,23 +169,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-260-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-260-r1-16x9.png",
         "sha256": "15de0a1b0d45eeb7fe0302316b67283a3a6a7039a01803d4b6044958d16f0dac"
       },
       "4x5": {
-        "path": "es-01-260-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-260-r1-4x5.png",
         "sha256": "1110599403ac042b8736ae9e5febcbb465c66b29692ba97076d3ed3e4789b8fd"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-260-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-260-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "ee4d1718ad2c4936e2a99ee88b3426d6dede5d2a309d0b841d9f5db5ebdc4935"
       },
       "4x5": {
-        "path": "es-01-260-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-260-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "99b352ccdeb057d6e0d445b451a2c3a297213b149f891cefc94403f31c87770a"

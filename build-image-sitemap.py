@@ -20,8 +20,58 @@ from gallery_public import apply_public_page  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent
 ORIGIN = "https://spain.jdvision.org"
+CDN_BASE = "https://devlij.github.io/jason-ds-vision-spain-assets"
+CDN_ASSETS = CDN_BASE + "/assets/"
+CDN_AUDIO = CDN_BASE + "/audio/"
 SITEMAP_NS = "http://www.sitemaps.org/schemas/sitemap/0.9"
 IMAGE_NS = "http://www.google.com/schemas/sitemap-image/1.1"
+
+
+def media_name(path: str) -> str:
+    return path.split("?", 1)[0].rstrip("/").split("/")[-1]
+
+
+def is_audio_ref(path: str) -> bool:
+    return path.startswith("audio/") or "/audio/" in path
+
+
+def cdn_url(path: str) -> str:
+    """Public CDN URL for a scene media reference.
+
+    Root PNGs and files under assets/ both live at /assets/<filename>.
+    Narration lives at /audio/<filename>. Already-absolute CDN URLs pass through.
+    """
+    if path.startswith(CDN_BASE + "/"):
+        return path
+    name = media_name(path)
+    if is_audio_ref(path):
+        return CDN_AUDIO + name
+    return CDN_ASSETS + name
+
+
+def local_file(path: str | None) -> Path | None:
+    """Map a relative path or CDN URL back to the media file in this repo."""
+    if not path:
+        return None
+    if path.startswith(("http://", "https://")):
+        if not path.startswith(CDN_BASE + "/"):
+            return None
+        name = media_name(path)
+        if "/audio/" in path:
+            cand = ROOT / "audio" / name
+            return cand if cand.is_file() else None
+        for cand in (ROOT / name, ROOT / "assets" / name):
+            if cand.is_file():
+                return cand
+        return None
+    rel = Path(path)
+    if rel.is_absolute() or ".." in rel.parts:
+        return None
+    cand = (ROOT / rel).resolve()
+    root = ROOT.resolve()
+    if cand != root and root not in cand.parents:
+        return None
+    return cand if cand.is_file() else None
 
 
 def site_name(caption: str, city: str, region: str) -> str:
@@ -68,9 +118,7 @@ def master_path(full: dict, fmt: str) -> str | None:
 
 
 def existing(path: str | None) -> str | None:
-    if not path:
-        return None
-    if (ROOT / path).is_file():
+    if path and local_file(path):
         return path
     return None
 
@@ -191,7 +239,7 @@ def build_sitemap(scenes: dict[str, dict], order: list[str]) -> tuple[ET.Element
         for fmt, path in images:
             image = ET.SubElement(url, f"{{{IMAGE_NS}}}image")
             image_loc = ET.SubElement(image, f"{{{IMAGE_NS}}}loc")
-            image_loc.text = f"{ORIGIN}/{path}"
+            image_loc.text = cdn_url(path)
             title = ET.SubElement(image, f"{{{IMAGE_NS}}}title")
             title.text = alt
             stats["formats"][fmt] = stats["formats"].get(fmt, 0) + 1

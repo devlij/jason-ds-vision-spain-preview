@@ -29,12 +29,12 @@
   "composition": "Night · giant terraced mining pit under moonlight · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Corta Atalaya at night.",
   "description": "From the rim, the giant terraced pit of Corta Atalaya opens below — vast concentric terraces of the old open-cast mine caught in moonlight, their ochre and rust walls stepping down into shadow. The pit's sheer scale fills the frame, a man-made canyon over a kilometer across. Once among the world's largest open-pit mines, tonight it lies silent under the moon, a monument to the Riotinto mining age.",
-  "file_16x9": "es-01-225-r1-16x9.png",
-  "file_4x5": "es-01-225-r1-4x5.png",
-  "file_9x16": "es-01-225-r1-9x16.png",
-  "file_16x9_postcard": "es-01-225-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-225-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-225-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-225-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-225-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-225-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-225-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-225-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-225-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-225-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-225-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-225-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-225-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -168,23 +168,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-225-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-225-r1-16x9.png",
         "sha256": "cd13ee47b2f1e45a81c25836cebdbdd83e1863c0b18273eea336c61f1810369e"
       },
       "4x5": {
-        "path": "es-01-225-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-225-r1-4x5.png",
         "sha256": "2cac10f591789591b4f525afad1e31037cb10d263b0e919a0502e6de8b48a709"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-225-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-225-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "fde42d11db121303b2be3615b1db5bba62a48dc5130d08495e610ce81646b0fa"
       },
       "4x5": {
-        "path": "es-01-225-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-225-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "5274ecd6adef60b1d32656b0fb31377797b651edc0f5f6be5f6d5f99a355295f"

@@ -29,12 +29,12 @@
   "composition": "Night · Twin castle above the illuminated old town · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Castell de Xàtiva, Xàtiva at night.",
   "description": "Seen from the town below, the twin castle commands the frame from its long ridge, ramparts and towers floodlit against the night while the illuminated old town climbs the hillside beneath it. Warm streetlight glows in the winding streets below, tracing the dense old quarter up toward the fortress. The two castles' walls run along the ridge line, a commanding presence over Xàtiva that has watched this valley for centuries.",
-  "file_16x9": "es-01-274-r1-16x9.png",
-  "file_4x5": "es-01-274-r1-4x5.png",
-  "file_9x16": "es-01-274-r1-9x16.png",
-  "file_16x9_postcard": "es-01-274-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-274-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-274-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-274-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-274-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-274-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-274-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-274-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-274-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-274-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-274-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-274-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-274-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -169,23 +169,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-274-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-274-r1-16x9.png",
         "sha256": "9e6c7af00ed8d8548e2dafadf36e97c5793cfffbf72d58049e317d125d06b23e"
       },
       "4x5": {
-        "path": "es-01-274-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-274-r1-4x5.png",
         "sha256": "55e2ec8ea528aad97cde48ae22defb9cfaec10d5be21d6416d755143da849626"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-274-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-274-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "d3bc23d85b1f6aca36e4db3a6973635203dcfd5dfc8b50e04cdaf12fb3eb7eb5"
       },
       "4x5": {
-        "path": "es-01-274-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-274-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "0c5d1177039634e4acf4019f29f529bca90d8385e739714de8f9064318f46b79"

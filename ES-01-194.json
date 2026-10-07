@@ -29,12 +29,12 @@
   "composition": "Night · the arcaded main square · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Zafra at night.",
   "description": "Standing on Zafra's main square at night, you take in the arcaded plaza glowing under lamplight. The frame runs along the colonnades of the Plaza Grande, their arches warm against the dark façades above. The little Seville of Extremadura keeps its square lit through the small hours.",
-  "file_16x9": "es-01-194-r1-16x9.png",
-  "file_4x5": "es-01-194-r1-4x5.png",
-  "file_9x16": "es-01-194-r1-9x16.png",
-  "file_16x9_postcard": "es-01-194-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-194-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-194-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-194-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-194-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-194-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-194-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-194-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-194-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-194-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-194-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-194-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-194-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -168,23 +168,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-194-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-194-r1-16x9.png",
         "sha256": "6743b1c85b935c7622c1636ff48a7e47b9ba8c0a307de4681f121005ed1d4827"
       },
       "4x5": {
-        "path": "es-01-194-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-194-r1-4x5.png",
         "sha256": "7c93e0981af28c0dac36587b7f256875173675c0af5d9a94cb0c172c45b8dca1"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-194-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-194-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "0787d6682f803a35fb4fb301b31a5eed9d02012dcca929c8d9cb9eeefd618c35"
       },
       "4x5": {
-        "path": "es-01-194-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-194-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "f41d161898b08835eedbdc3d00bc43160ff3571e2b48f24b4eb25abd87e239ab"

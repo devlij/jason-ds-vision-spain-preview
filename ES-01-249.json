@@ -29,12 +29,12 @@
   "composition": "Night · Walled headland and lighthouse over the dark beach · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Vila Vella, Tossa de Mar at night.",
   "description": "From the beach at night, look up at Tossa de Mar's Vila Vella. The walled headland rises at center frame, its medieval towers and the old lighthouse silhouetted against the stars, with the dark curve of the beach spreading left and right below. The only fortified medieval town still standing on the Catalan coast.",
-  "file_16x9": "es-01-249-r1-16x9.png",
-  "file_4x5": "es-01-249-r1-4x5.png",
-  "file_9x16": "es-01-249-r1-9x16.png",
-  "file_16x9_postcard": "es-01-249-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-249-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-249-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-249-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-249-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-249-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-249-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-249-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-249-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-249-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-249-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-249-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-249-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -169,23 +169,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-249-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-249-r1-16x9.png",
         "sha256": "d6b0f8435530dd3e5f5efdbb71b092d6b321541cf742c3d6874e4605fdef6d7f"
       },
       "4x5": {
-        "path": "es-01-249-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-249-r1-4x5.png",
         "sha256": "8fff50c167afde6abbb705e797df615b765f06c47866c12f9ed87ea5d90db694"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-249-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-249-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "c9a9d754918d00ce877af06899176ad358e18a1282bca3139c7be06c176c904b"
       },
       "4x5": {
-        "path": "es-01-249-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-249-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "3321f3ce769bc8081bb0ad1b517c1f755b1ffe7c820da5ab49cb72f17e4db03d"

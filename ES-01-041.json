@@ -29,12 +29,12 @@
   "composition": "Night · the colonial old town · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Old town, San Cristóbal de La Laguna at night.",
   "description": "San Cristóbal de La Laguna — the first unfortified colonial city, model for the Americas — keeps its grid of great houses and churches, a UNESCO World Heritage. A partly cloudy night over the town, warm and nearly calm air. The cathedral of Los Remedios anchors the old town.",
-  "file_16x9": "es-01-041-r2-16x9.png",
-  "file_4x5": "es-01-041-r2-4x5.png",
-  "file_9x16": "es-01-041-r2-9x16.png",
-  "file_16x9_postcard": "es-01-041-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-041-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-041-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-041-r2-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-041-r2-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-041-r2-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-041-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-041-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-041-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-041-r2-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-041-r2-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-041-r2-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-041-r2-4x5.png",
       "dimensions": [
         864,
         1270
@@ -167,23 +167,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-041-r2-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-041-r2-16x9.png",
         "sha256": "66e889bc45634b3c00728fad5905cd15d24989930102c16346a29c056e26e2f8"
       },
       "4x5": {
-        "path": "es-01-041-r2-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-041-r2-4x5.png",
         "sha256": "6d679bc4c586dc8ff91844105df4806c631c04694254b143e9f813b802066f56"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-041-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-041-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "5b075e29b792c22e0d2ea25401f72f143a25cb81dcc2e467f8e46da79bbb7913"
       },
       "4x5": {
-        "path": "es-01-041-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-041-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "6a19b1f96c54e7d7df8048f57b6dc3c4a9feff86d745b66d87d1ebb4cfff4c14"

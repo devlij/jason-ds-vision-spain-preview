@@ -29,12 +29,12 @@
   "composition": "Night · the granite old town · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Old town, Pontevedra at night.",
   "description": "In Pontevedra's old town at night, the granite streets and squares lie quiet under the lamps, the old stone glowing warm. The historic quarter's churches and arcades stand dark against the sky while the Lérez river runs black nearby. The granite city rests, its old town polished by centuries of Galician rain.",
-  "file_16x9": "es-01-090-r1-16x9.png",
-  "file_4x5": "es-01-090-r1-4x5.png",
-  "file_9x16": "es-01-090-r1-9x16.png",
-  "file_16x9_postcard": "es-01-090-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-090-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-090-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-090-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-090-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-090-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-090-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-090-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-090-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-090-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-090-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-090-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-090-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -167,23 +167,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-090-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-090-r1-16x9.png",
         "sha256": "bc0d7f7dce29f76b746257cbd9dc0d8c76dadacf2c72db12eea205ec8b14d787"
       },
       "4x5": {
-        "path": "es-01-090-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-090-r1-4x5.png",
         "sha256": "ba65b64ecb49921cf079f3c453dad622d6745075dc5279b407b8d87ae43cd5ad"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-090-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-090-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "350ea5d2a09aa7d532f66a9abd298eb84cdd2000ef7c67a1ee8dd797166c894e"
       },
       "4x5": {
-        "path": "es-01-090-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-090-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "5bc254cacb4dfbaaae2ee772007fa2cff20bdee644f34dac355caf5967598444"

@@ -29,12 +29,12 @@
   "composition": "Night · the hórreos by the estuary · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Combarro, Poio at night.",
   "description": "The hórreos of Combarro stand in their long row by the estuary, the stone granaries silhouetted against the water. A few lights burn in the old fishermen's quarter while the ría stretches dark beyond. Galicia's most photographed granaries, at their most atmospheric.",
-  "file_16x9": "es-01-098-r1-16x9.png",
-  "file_4x5": "es-01-098-r1-4x5.png",
-  "file_9x16": "es-01-098-r1-9x16.png",
-  "file_16x9_postcard": "es-01-098-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-098-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-098-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-098-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-098-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-098-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-098-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-098-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-098-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-098-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-098-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-098-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-098-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -167,23 +167,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-098-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-098-r1-16x9.png",
         "sha256": "a5ec78ed02b426c7e3bdc57b66a1c935df8578ef0b7ec91dd33cae407b12766a"
       },
       "4x5": {
-        "path": "es-01-098-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-098-r1-4x5.png",
         "sha256": "67b785d3a36cf39c9b42181dd1561c1f83dcd6b775ee996a01fd5e7406f5d2fc"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-098-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-098-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "1a56adc40f5866b0cf931acff6c850515587e73d6710aa71037cdf7d9430535a"
       },
       "4x5": {
-        "path": "es-01-098-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-098-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "ae892f90f47af201aebb595c9f566b9e93278d39ec7b44f3eb1452f27497b94d"

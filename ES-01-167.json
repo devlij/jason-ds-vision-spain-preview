@@ -29,12 +29,12 @@
   "composition": "Night · the dune field and sea · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of Corralejo Dunes at night.",
   "description": "Under the stars the great dune field of Corralejo rolls toward the sea in pale moonlit waves. The sand crests catch what light there is while the Atlantic lies dark at the frame's edge. A desert by the ocean, vast and empty in the small hours.",
-  "file_16x9": "es-01-167-r1-16x9.png",
-  "file_4x5": "es-01-167-r1-4x5.png",
-  "file_9x16": "es-01-167-r1-9x16.png",
-  "file_16x9_postcard": "es-01-167-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-167-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-167-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-167-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-167-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-167-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-167-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-167-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-167-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-167-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-167-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1408, 1760]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-167-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-167-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -168,23 +168,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-167-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-167-r1-16x9.png",
         "sha256": "169f2cb626937387563bbb34da7e5127bf383fc1f0402cf13f151e00a7968fde"
       },
       "4x5": {
-        "path": "es-01-167-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-167-r1-4x5.png",
         "sha256": "e92e7c953b6eee577131a0532b78c27ab6f9faa84e158b3efeb2538a7c084143"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-167-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-167-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "fe88a062b77d23fa4fb0a00f7bf9d449a6685054873f9da2200dbd196562deb4"
       },
       "4x5": {
-        "path": "es-01-167-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-167-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "f2720c81ae1e54643bd7d9262c73192cc55ce1cc8de3cbbe426ae924018d2403"

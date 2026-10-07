@@ -29,12 +29,12 @@
   "composition": "Night · From the Cueva de los Verdes lava tube, looking along the illuminated underground passage near 29.1610,-13.4380. Approximate point only. · AI-generated artistic interpretation",
   "alt_text": "AI-generated artistic interpretation of the Cueva de los Verdes, Lanzarote at night.",
   "description": "From inside the lava tube, the illuminated passage runs ahead between smooth volcanic walls — colored lights washing the basalt in amber and gold as the tunnel curves out of sight. The rock's strange folds and ripples catch the light, and the path descends into the earth's dark heart. Cueva de los Verdes is Lanzarote's great underground gallery, a seven-kilometer tube; the lit section feels like walking through the planet's veins.",
-  "file_16x9": "es-01-293-r1-16x9.png",
-  "file_4x5": "es-01-293-r1-4x5.png",
-  "file_9x16": "es-01-293-r1-9x16.png",
-  "file_16x9_postcard": "es-01-293-postcard-16x9.png",
-  "file_4x5_postcard": "es-01-293-postcard-4x5.png",
-  "file_9x16_postcard": "es-01-293-postcard-9x16.png",
+  "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-293-r1-16x9.png",
+  "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-293-r1-4x5.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-293-r1-9x16.png",
+  "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-293-postcard-16x9.png",
+  "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-293-postcard-4x5.png",
+  "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-293-postcard-9x16.png",
   "dimensions": {
     "16x9": {
       "width": 1920,
@@ -54,7 +54,7 @@
   },
   "masters": {
     "16x9": {
-      "file": "es-01-293-r1-16x9.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-293-r1-16x9.png",
       "dimensions": [
         1920,
         1270
@@ -81,7 +81,7 @@
       "resampling_disclosure": "Source [1920, 1280]; uniform Lanczos crop/resample to exact 1920x1080. Not native target-resolution detail."
     },
     "4x5": {
-      "file": "es-01-293-r1-4x5.png",
+      "file": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-293-r1-4x5.png",
       "dimensions": [
         864,
         1270
@@ -164,23 +164,23 @@
     "derivative_disclosure": "Daylight variant derived from the night interpretation of this same viewpoint and composition. Not a new scene. No weather claim and no scenario timestamp are printed on the variant masters.",
     "source_night": {
       "16x9": {
-        "path": "es-01-293-r1-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-293-r1-16x9.png",
         "sha256": "3c52e5ec408875855052aa8c062d0fa302568a8002a2166ed06513ed183b1401"
       },
       "4x5": {
-        "path": "es-01-293-r1-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-293-r1-4x5.png",
         "sha256": "00275a1ee4b26da85637763eb013ab87455723f9b6aad4e402b3ca8fcaf24549"
       }
     },
     "masters": {
       "16x9": {
-        "path": "es-01-293-daylight-16x9.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-293-daylight-16x9.png",
         "width": 1920,
         "height": 1270,
         "sha256": "8c0c16533ca0a4910e52ad7bd8afdf4fcc231ff18c33c1e89e237aa83cac90e8"
       },
       "4x5": {
-        "path": "es-01-293-daylight-4x5.png",
+        "path": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-293-daylight-4x5.png",
         "width": 864,
         "height": 1270,
         "sha256": "d6cbb87750b7b14ffda68b7128cd561d14f54b89223a647cc3ad598270a2b63e"
