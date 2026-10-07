@@ -31,6 +31,7 @@
   "description": "In the dark of the gorge at night, the Caminito del Rey walkway hangs pinned to the cliff walls above the black Guadalhorce. From the gorge mouth you face the lit walkway threading the frame between the towering dark rock faces. The old king's path is a thin line of light through the sleeping canyon.",
   "file_16x9": "es-01-176-r1-16x9.png",
   "file_4x5": "es-01-176-r1-4x5.png",
+  "file_9x16": "es-01-176-r1-9x16.png",
   "file_16x9_postcard": "es-01-176-postcard-16x9.png",
   "file_4x5_postcard": "es-01-176-postcard-4x5.png",
   "file_9x16_postcard": "es-01-176-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "9886428b53d44c6c7a81e7f840666aa18d442fc957365a1e85a8532b49ca48b0"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "1357ef7983c59fbd938e050f7c9d2fdcbbfed38cb5c9c3af0c9eb3e9da52eeab"
     }
   },
   "masters": {

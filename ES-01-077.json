@@ -31,6 +31,7 @@
   "description": "Labastida's walled town sits among its vineyards, the old walls and church outlined above the dark vines. Town lights cluster within the walls while the Rioja Alavesa spreads black beneath. A wine town with its medieval bones still showing.",
   "file_16x9": "es-01-077-r1-16x9.png",
   "file_4x5": "es-01-077-r1-4x5.png",
+  "file_9x16": "es-01-077-r1-9x16.png",
   "file_16x9_postcard": "es-01-077-postcard-16x9.png",
   "file_4x5_postcard": "es-01-077-postcard-4x5.png",
   "file_9x16_postcard": "es-01-077-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "229b10cecf4d378cc58e7e9b9a47347dc0f1b7fad3928b1f6af83732821a6e3e"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "4717e4cd79a11f15c9c3792f79dddbfd520fbf9bbba871e83498ecacc0305c0f"
     }
   },
   "masters": {

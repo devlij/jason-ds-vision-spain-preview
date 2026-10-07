@@ -31,6 +31,7 @@
   "description": "El Golfo hides its green lagoon in a volcanic crater by the sea — the Charco de los Clicos, green against the black beach. A clear night over the town. The crater walls open to the Atlantic.",
   "file_16x9": "es-01-044-r1-16x9.png",
   "file_4x5": "es-01-044-r1-4x5.png",
+  "file_9x16": "es-01-044-r1-9x16.png",
   "file_16x9_postcard": "es-01-044-postcard-16x9.png",
   "file_4x5_postcard": "es-01-044-postcard-4x5.png",
   "file_9x16_postcard": "es-01-044-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "39ddd5afdad54d64c82577816687438f38b232fc3bef9d41099602d62e7dbae0"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "039c71413eb1c820c31bf86707bd17d720a0fe4ee9a07429f87f80cd18734a51"
     }
   },
   "masters": {

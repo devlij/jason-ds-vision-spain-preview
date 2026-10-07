@@ -31,6 +31,7 @@
   "description": "Garachico — the old port buried by the 1706 eruption — keeps its old town, the San Miguel castle, and the lava pools of El Caletón. A partly cloudy night over the town. The Roque de Garachico stands offshore.",
   "file_16x9": "es-01-040-r1-16x9.png",
   "file_4x5": "es-01-040-r1-4x5.png",
+  "file_9x16": "es-01-040-r1-9x16.png",
   "file_16x9_postcard": "es-01-040-postcard-16x9.png",
   "file_4x5_postcard": "es-01-040-postcard-4x5.png",
   "file_9x16_postcard": "es-01-040-postcard-9x16.png",
@@ -44,6 +45,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "6c90dfa205ddc5df8582145f12d0ed83795b0803af08d457c6f6a232f9acf08e"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "0df5a39579c4fcfda4a38ea010b0207ede02dc92e03bf543cefc133b7a648dd8"
     }
   },
   "masters": {

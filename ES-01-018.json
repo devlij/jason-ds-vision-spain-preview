@@ -14,6 +14,7 @@
   "weather": "Historical provider report: mostly clear, about 20°C. Not a verified on-site observation. Retrieval/valid-time detail does not meet the new Open-Meteo requirement.",
   "file_16x9": "es-01-018-16x9.png",
   "file_4x5": "es-01-018-4x5.png",
+  "file_9x16": "es-01-018-r1-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "editions": [
@@ -49,6 +50,11 @@
       "width": 864,
       "height": 1270,
       "sha256": "c6215c00c8be6f90bff6677ea7c5b8080062b5b5a7784678691d6e981192c00a"
+    },
+    "9x16": {
+      "width": 1080,
+      "height": 2110,
+      "sha256": "e1ed5b8076ac22a1368171e99373703db48f2dc26e8f57a77d3a1eefb7d5c290"
     }
   },
   "file_naming_note": "Canonical ES-01 filenames are byte-identical copies. ES-AN filenames are retained only as compatibility aliases for historical links.",
