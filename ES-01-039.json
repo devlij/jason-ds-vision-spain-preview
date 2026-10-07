@@ -31,7 +31,7 @@
   "description": "Hondarribia's walled old town keeps its great Basque houses with carved eaves, the castle of Charles V above, and the Txingudi bay below. A partly cloudy night over the town. France lies just across the Bidasoa.",
   "file_16x9": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-039-r1-16x9.png",
   "file_4x5": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-039-r1-4x5.png",
-  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-039-r1-9x16.png",
+  "file_9x16": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-039-r4-9x16.png",
   "file_16x9_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-039-postcard-16x9.png",
   "file_4x5_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-039-postcard-4x5.png",
   "file_9x16_postcard": "https://devlij.github.io/jason-ds-vision-spain-assets/assets/es-01-039-postcard-9x16.png",
@@ -49,7 +49,7 @@
     "9x16": {
       "width": 1080,
       "height": 2110,
-      "sha256": "6d6c3be1297aa20751e6028f66a960f568397229ffeb69b7203606a0467157a2"
+      "sha256": "c9a1838e80ad7f127200aca975b1e9ef0bf514e1fb6f80ff5b32d35e5181a24c"
     }
   },
   "masters": {
