@@ -1001,7 +1001,6 @@
       // Stop any other playing videos
       document.querySelectorAll('video.motion-clip').forEach(function(v){
         var c = v.closest('article.card');
-        var b = c && c.querySelector('.motion-btn.is-active');
         resetMotionBtn(c && c.querySelector('.motion-btn.is-active'));
         var im = c && c.querySelector('a.master-link.thumb img');
         if(im) im.style.display = '';
@@ -1017,7 +1016,8 @@
       preview.appendChild(vid);
       btn.classList.add('is-active');
       btn.innerHTML = '\u2715 Close';
-      btn.setAttribute('title', 'Close the 360\u00b0 motion clip');
+      btn.setAttribute('aria-label', MOTION_CLOSE_LABEL);
+      btn.setAttribute('title', MOTION_CLOSE_LABEL);
     });
   });
 })();
